@@ -1,0 +1,6 @@
+skill_a,skill_b,status,reason,n_with_a,n_with_both,shap_a_when_b_present,shap_a_when_b_absent,mean_interaction_when_both
+SQL,Microsoft Excel,not estimable,'Microsoft Excel' dropped: prevalence outside 2%-98% (no usable variation),,,,,
+SQL,Tableau,not estimable,'Tableau' dropped: prevalence outside 2%-98% (no usable variation),,,,,
+SQL,Database Management,estimated,,451,22,76.06,107.58,0.0
+SQL,Optimization Modeling,estimated,,451,30,115.97,105.34,0.0
+Database Management,Optimization Modeling,estimated,,1189,42,372.17,245.43,0.0

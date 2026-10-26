@@ -1,0 +1,447 @@
+onet_soc_code,technology,posting_pct,in_demand
+13-1071.00,Microsoft Office software,21.0,true
+13-1071.00,Microsoft Excel,17.0,true
+13-1071.00,Microsoft PowerPoint,11.0,true
+13-1071.00,Microsoft Outlook,8.0,true
+13-1071.00,Workday software,6.0,true
+13-1071.00,Microsoft Word,4.0,false
+13-1071.00,Kronos Workforce Timekeeper,1.0,false
+13-1071.00,Microsoft Access,1.0,false
+13-1071.00,Microsoft SharePoint,1.0,false
+13-1071.00,Oracle PeopleSoft,1.0,false
+13-1071.00,Salesforce software,1.0,false
+13-1071.00,Tableau,1.0,false
+13-1071.00,SAP software,1.0,false
+13-1071.00,Zoom,0.0,false
+13-1071.00,Microsoft Visio,0.0,false
+13-1071.00,Slack,0.0,false
+13-1071.00,Microsoft Windows,0.0,false
+13-1071.00,Intuit QuickBooks,0.0,false
+13-1071.00,GitHub,0.0,false
+13-1071.00,Cisco Webex,0.0,false
+13-1071.00,Hypertext markup language HTML,0.0,false
+13-1071.00,SAS,0.0,false
+13-1071.00,Microsoft Visual Basic for Applications VBA,0.0,false
+13-1071.00,Microsoft Project,0.0,false
+13-1071.00,Adobe Creative Cloud software,0.0,false
+13-1071.00,Adobe Photoshop,0.0,false
+13-1071.00,Google Docs,0.0,false
+13-1071.00,Extensible markup language XML,0.0,false
+13-1071.00,IBM SPSS Statistics,0.0,false
+13-1071.00,Adobe Acrobat,0.0,false
+13-1071.00,Adobe Illustrator,0.0,false
+13-1071.00,Facebook,0.0,false
+13-1071.00,Adobe InDesign,0.0,false
+13-1071.00,Microsoft SQL Server Reporting Services SSRS,0.0,false
+13-1071.00,Microsoft SQL Server,0.0,false
+13-1071.00,Google Analytics,0.0,false
+13-1071.00,ESRI ArcGIS software,0.0,false
+13-1071.00,Apple macOS,0.0,false
+13-1071.00,MEDITECH software,0.0,false
+13-1071.00,Microsoft Visual Basic,0.0,false
+13-1071.00,Marketo Marketing Automation,0.0,false
+13-1071.00,Oracle Database,0.0,false
+13-1071.00,Oracle Primavera Enterprise Project Portfolio Management,0.0,false
+13-1071.00,Teradata Database,0.0,false
+13-1081.00,Microsoft Excel,24.0,true
+13-1081.00,Microsoft Office software,20.0,true
+13-1081.00,SAP software,12.0,true
+13-1081.00,Microsoft Outlook,9.0,true
+13-1081.00,Microsoft PowerPoint,8.0,true
+13-1081.00,Microsoft Word,4.0,false
+13-1081.00,Microsoft Access,2.0,false
+13-1081.00,Structured query language SQL,1.0,false
+13-1081.00,Microsoft SharePoint,1.0,false
+13-1081.00,Microsoft Visio,0.0,false
+13-1081.00,Microsoft Project,0.0,false
+13-1081.00,Autodesk AutoCAD,0.0,false
+13-1081.00,Intuit QuickBooks,0.0,false
+13-1081.00,Oracle Primavera Enterprise Project Portfolio Management,0.0,false
+13-1081.00,Microsoft SQL Server,0.0,false
+13-1111.00,Microsoft Excel,21.0,true
+13-1111.00,Structured query language SQL,20.0,true
+13-1111.00,Microsoft PowerPoint,14.0,true
+13-1111.00,Microsoft Office software,14.0,true
+13-1111.00,Microsoft Power BI,11.0,true
+13-1111.00,Atlassian JIRA,10.0,true
+13-1111.00,Tableau,9.0,true
+13-1111.00,Microsoft Visio,8.0,true
+13-1111.00,Salesforce software,6.0,true
+13-1111.00,Python,5.0,true
+13-1111.00,Microsoft SharePoint,4.0,true
+13-1111.00,Microsoft Outlook,4.0,false
+13-1111.00,SAP software,4.0,false
+13-1111.00,Atlassian Confluence,4.0,false
+13-1111.00,Microsoft Word,4.0,false
+13-1111.00,Microsoft Access,3.0,false
+13-1111.00,R,2.0,false
+13-1111.00,Microsoft Azure software,2.0,false
+13-1111.00,Amazon Web Services AWS software,1.0,false
+13-1111.00,SAS,1.0,false
+13-1111.00,Microsoft Project,1.0,false
+13-1111.00,Microsoft Visual Basic for Applications VBA,1.0,false
+13-1111.00,Microsoft Teams,1.0,false
+13-1111.00,Alteryx software,1.0,false
+13-1111.00,Microsoft SQL Server,1.0,false
+13-1111.00,Oracle Java,1.0,false
+13-1111.00,Oracle PeopleSoft,0.0,false
+13-1111.00,Extensible markup language XML,0.0,false
+13-1111.00,JavaScript,0.0,false
+13-1111.00,Hypertext markup language HTML,0.0,false
+13-1111.00,Microsoft SQL Server Reporting Services SSRS,0.0,false
+13-1111.00,C#,0.0,false
+13-1111.00,JavaScript Object Notation JSON,0.0,false
+13-1111.00,Microsoft Team Foundation Server,0.0,false
+13-1111.00,Teradata Database,0.0,false
+13-1111.00,Google Analytics,0.0,false
+13-1111.00,Git,0.0,false
+13-1111.00,Cascading style sheets CSS,0.0,false
+13-1111.00,C,0.0,false
+13-1111.00,Oracle PL/SQL,0.0,false
+13-1111.00,Microsoft Visual Basic,0.0,false
+13-1111.00,C++,0.0,false
+13-1111.00,Microsoft SQL Server Integration Services SSIS,0.0,false
+13-1111.00,Linux,0.0,false
+13-1111.00,Microsoft PowerShell,0.0,false
+13-1111.00,MySQL,0.0,false
+13-1111.00,UNIX,0.0,false
+13-1111.00,Transact-SQL,0.0,false
+13-1111.00,Amazon Redshift,0.0,false
+13-1111.00,Splunk Enterprise,0.0,false
+13-1111.00,Apache Hadoop,0.0,false
+13-1111.00,Microsoft Visual Studio,0.0,false
+13-1111.00,PostgreSQL,0.0,false
+13-1111.00,GitHub,0.0,false
+13-1111.00,Microsoft Windows,0.0,false
+13-1111.00,ESRI ArcGIS software,0.0,false
+13-1111.00,Oracle Database,0.0,false
+13-1111.00,NoSQL,0.0,false
+13-1111.00,Bash,0.0,false
+13-1111.00,Google Angular,0.0,false
+13-1111.00,Apache Hive,0.0,false
+13-1111.00,Apache Kafka,0.0,false
+13-1111.00,Go,0.0,false
+13-1111.00,Epic Systems,0.0,false
+13-1111.00,MongoDB,0.0,false
+13-1111.00,Apache Spark,0.0,false
+13-1111.00,IBM SPSS Statistics,0.0,false
+13-1111.00,Oracle Primavera Enterprise Project Portfolio Management,0.0,false
+13-1111.00,Selenium,0.0,false
+13-1111.00,Microsoft .NET Framework,0.0,false
+13-1111.00,MEDITECH software,0.0,false
+13-1111.00,Cisco Webex,0.0,false
+13-1111.00,Adobe Acrobat,0.0,false
+13-1111.00,Perl,0.0,false
+13-1111.00,Microsoft ASP.NET,0.0,false
+13-1111.00,Swift,0.0,false
+13-1111.00,Shell script,0.0,false
+13-1111.00,PHP,0.0,false
+13-1111.00,Marketo Marketing Automation,0.0,false
+13-1111.00,The MathWorks MATLAB,0.0,false
+13-1111.00,jQuery,0.0,false
+13-1111.00,Ansible software,0.0,false
+13-1111.00,Apple macOS,0.0,false
+13-1111.00,Microsoft Active Server Pages ASP,0.0,false
+13-1111.00,Amazon Elastic Compute Cloud EC2,0.0,false
+13-1111.00,AJAX,0.0,false
+13-1111.00,Node.js,0.0,false
+13-1111.00,Scala,0.0,false
+13-1111.00,Spring Framework,0.0,false
+13-1111.00,Ruby,0.0,false
+13-1111.00,Apache Subversion SVN,0.0,false
+13-1111.00,Adobe InDesign,0.0,false
+13-1111.00,Apache Cassandra,0.0,false
+13-1111.00,Apache Maven,0.0,false
+13-1111.00,Apache Tomcat,0.0,false
+13-1111.00,Chef,0.0,false
+13-1111.00,Eclipse IDE,0.0,false
+13-1111.00,Elasticsearch,0.0,false
+13-1111.00,Google Docs,0.0,false
+13-1111.00,Hibernate ORM,0.0,false
+13-1111.00,JUnit,0.0,false
+13-1111.00,Puppet,0.0,false
+13-1111.00,Red Hat Enterprise Linux,0.0,false
+13-1111.00,Trimble SketchUp Pro,0.0,false
+13-1161.00,Microsoft Excel,16.0,true
+13-1161.00,Microsoft Office software,14.0,true
+13-1161.00,Microsoft PowerPoint,13.0,true
+13-1161.00,Salesforce software,10.0,true
+13-1161.00,Google Analytics,7.0,true
+13-1161.00,Canva,6.0,true
+13-1161.00,Adobe Creative Cloud software,5.0,true
+13-1161.00,TikTok,5.0,true
+13-1161.00,Microsoft Outlook,5.0,true
+13-1161.00,Structured query language SQL,4.0,false
+13-1161.00,Adobe Photoshop,4.0,false
+13-1161.00,Tableau,4.0,false
+13-1161.00,HubSpot software,4.0,false
+13-1161.00,Microsoft Word,3.0,false
+13-1161.00,Hypertext markup language HTML,3.0,false
+13-1161.00,WordPress,3.0,false
+13-1161.00,Adobe InDesign,3.0,false
+13-1161.00,Adobe Illustrator,3.0,false
+13-1161.00,Cascading style sheets CSS,1.0,false
+13-1161.00,Facebook,1.0,false
+13-1161.00,R,1.0,false
+13-1161.00,Marketo Marketing Automation,1.0,false
+13-1161.00,JavaScript,1.0,false
+13-1161.00,Microsoft SharePoint,1.0,false
+13-1161.00,Google Looker Analytics,1.0,false
+13-1161.00,Asana,1.0,false
+13-1161.00,Zoom,0.0,false
+13-1161.00,Microsoft Access,0.0,false
+13-1161.00,SAP software,0.0,false
+13-1161.00,SAS,0.0,false
+13-1161.00,Slack,0.0,false
+13-1161.00,Adobe After Effects,0.0,false
+13-1161.00,IBM SPSS Statistics,0.0,false
+13-1161.00,Google Docs,0.0,false
+13-1161.00,Adobe Acrobat,0.0,false
+13-1161.00,Microsoft Visio,0.0,false
+13-1161.00,Microsoft Project,0.0,false
+13-1161.00,Microsoft Visual Basic for Applications VBA,0.0,false
+13-1161.00,Teradata Database,0.0,false
+13-1161.00,Apple macOS,0.0,false
+13-1161.00,PHP,0.0,false
+13-1161.00,Amazon Redshift,0.0,false
+13-1161.00,Apache Hadoop,0.0,false
+13-1161.00,ESRI ArcGIS software,0.0,false
+13-1161.00,Microsoft SQL Server,0.0,false
+13-1161.00,MySQL,0.0,false
+13-1161.00,Apache Hive,0.0,false
+13-1161.00,The MathWorks MATLAB,0.0,false
+13-1161.00,Oracle PeopleSoft,0.0,false
+13-1161.00,Microsoft Visual Basic,0.0,false
+13-1161.00,Red Hat Enterprise Linux,0.0,false
+13-2011.00,Microsoft Excel,28.0,true
+13-2011.00,Microsoft Office software,17.0,true
+13-2011.00,Intuit QuickBooks,8.0,true
+13-2011.00,SAP software,6.0,true
+13-2011.00,Microsoft PowerPoint,6.0,true
+13-2011.00,Microsoft Outlook,6.0,true
+13-2011.00,Microsoft Word,3.0,false
+13-2011.00,Yardi software,1.0,false
+13-2011.00,Structured query language SQL,1.0,false
+13-2011.00,Microsoft Access,1.0,false
+13-2011.00,Tableau,1.0,false
+13-2011.00,Oracle PeopleSoft,1.0,false
+13-2011.00,Workday software,0.0,false
+13-2011.00,Alteryx software,0.0,false
+13-2011.00,Intuit TurboTax,0.0,false
+13-2011.00,Microsoft SharePoint,0.0,false
+13-2011.00,Salesforce software,0.0,false
+13-2011.00,SAP Concur,0.0,false
+13-2011.00,R,0.0,false
+13-2011.00,Microsoft Visio,0.0,false
+13-2011.00,Microsoft Windows,0.0,false
+13-2011.00,Google Sheets,0.0,false
+13-2011.00,SAS,0.0,false
+13-2011.00,Epic Systems,0.0,false
+13-2011.00,Microsoft Visual Basic for Applications VBA,0.0,false
+13-2011.00,Adobe Acrobat,0.0,false
+13-2011.00,Microsoft Project,0.0,false
+13-2011.00,Oracle Primavera Enterprise Project Portfolio Management,0.0,false
+13-2011.00,MEDITECH software,0.0,false
+13-2011.00,UNIX,0.0,false
+13-2011.00,Microsoft SQL Server,0.0,false
+13-2011.00,Oracle Database,0.0,false
+13-2011.00,Microsoft Visual Basic,0.0,false
+13-2011.00,Google Docs,0.0,false
+13-2011.00,IBM SPSS Statistics,0.0,false
+13-2011.00,Swift,0.0,false
+13-2011.00,Teradata Database,0.0,false
+13-2051.00,Microsoft Excel,32.0,true
+13-2051.00,Microsoft PowerPoint,16.0,true
+13-2051.00,Microsoft Office software,16.0,true
+13-2051.00,Microsoft Power BI,8.0,true
+13-2051.00,Structured query language SQL,7.0,true
+13-2051.00,SAP software,7.0,true
+13-2051.00,Microsoft Outlook,6.0,true
+13-2051.00,Tableau,5.0,true
+13-2051.00,Salesforce software,3.0,false
+13-2051.00,Microsoft Word,3.0,false
+13-2051.00,Microsoft Access,3.0,false
+13-2051.00,R,1.0,false
+13-2051.00,Microsoft Visual Basic for Applications VBA,1.0,false
+13-2051.00,Microsoft SharePoint,1.0,false
+13-2051.00,Workday software,1.0,false
+13-2051.00,Alteryx software,1.0,false
+13-2051.00,SAS,0.0,false
+13-2051.00,Oracle PeopleSoft,0.0,false
+13-2051.00,Microsoft Visio,0.0,false
+13-2051.00,Intuit QuickBooks,0.0,false
+13-2051.00,Yardi software,0.0,false
+13-2051.00,Microsoft Project,0.0,false
+13-2051.00,Teradata Database,0.0,false
+13-2051.00,Microsoft SQL Server,0.0,false
+13-2051.00,Microsoft Visual Basic,0.0,false
+13-2051.00,Microsoft SQL Server Reporting Services SSRS,0.0,false
+13-2051.00,IBM SPSS Statistics,0.0,false
+13-2051.00,The MathWorks MATLAB,0.0,false
+13-2051.00,Oracle Primavera Enterprise Project Portfolio Management,0.0,false
+13-2051.00,Apache Hive,0.0,false
+13-2051.00,Oracle Database,0.0,false
+13-2051.00,Google Docs,0.0,false
+13-2051.00,Marketo Marketing Automation,0.0,false
+13-2054.00,Microsoft Excel,19.0,true
+13-2054.00,Microsoft Office software,17.0,true
+13-2054.00,Microsoft PowerPoint,15.0,true
+13-2054.00,Structured query language SQL,12.0,true
+13-2054.00,Python,10.0,true
+13-2054.00,Tableau,7.0,true
+13-2054.00,Microsoft Power BI,5.0,true
+13-2054.00,R,5.0,true
+13-2054.00,Microsoft Outlook,4.0,false
+13-2054.00,SAS,4.0,false
+13-2054.00,Microsoft Word,3.0,false
+13-2054.00,Microsoft Access,3.0,false
+13-2054.00,Microsoft SharePoint,2.0,false
+13-2054.00,Amazon Web Services AWS software,2.0,false
+13-2054.00,Microsoft Azure software,2.0,false
+13-2054.00,Microsoft Visio,2.0,false
+13-2054.00,ServiceNow,2.0,false
+13-2054.00,Microsoft Visual Basic for Applications VBA,1.0,false
+13-2054.00,Atlassian JIRA,1.0,false
+13-2054.00,The MathWorks MATLAB,1.0,false
+13-2054.00,SAP software,0.0,false
+13-2054.00,C++,0.0,false
+13-2054.00,Microsoft Project,0.0,false
+13-2054.00,Salesforce software,0.0,false
+13-2054.00,Teradata Database,0.0,false
+13-2054.00,Microsoft SQL Server,0.0,false
+13-2054.00,Linux,0.0,false
+13-2054.00,Oracle Primavera Enterprise Project Portfolio Management,0.0,false
+13-2054.00,Microsoft Visual Basic,0.0,false
+13-2054.00,UNIX,0.0,false
+13-2054.00,Apache Hive,0.0,false
+13-2054.00,Oracle PeopleSoft,0.0,false
+13-2054.00,Microsoft SQL Server Reporting Services SSRS,0.0,false
+13-2054.00,PyTorch,0.0,false
+13-2054.00,TensorFlow,0.0,false
+13-2054.00,IBM SPSS Statistics,0.0,false
+13-2054.00,Google Docs,0.0,false
+13-2054.00,Intuit QuickBooks,0.0,false
+13-2054.00,Marketo Marketing Automation,0.0,false
+13-2054.00,Oracle Database,0.0,false
+13-2054.00,Perl,0.0,false
+13-2054.00,Ruby,0.0,false
+13-2054.00,Yardi software,0.0,false
+15-1211.00,Structured query language SQL,16.0,true
+15-1211.00,Microsoft Excel,15.0,true
+15-1211.00,Microsoft Office software,14.0,true
+15-1211.00,SAP software,13.0,true
+15-1211.00,Microsoft PowerPoint,10.0,true
+15-1211.00,ServiceNow,6.0,true
+15-1211.00,Atlassian JIRA,6.0,true
+15-1211.00,Python,6.0,true
+15-1211.00,Microsoft SharePoint,5.0,true
+15-1211.00,Microsoft Power BI,5.0,true
+15-1211.00,Microsoft Outlook,4.0,false
+15-1211.00,Microsoft Azure software,4.0,false
+15-1211.00,Amazon Web Services AWS software,4.0,false
+15-1211.00,Microsoft Visio,4.0,false
+15-1211.00,Microsoft Access,3.0,false
+15-1211.00,Linux,3.0,false
+15-1211.00,Tableau,3.0,false
+15-1211.00,Oracle Java,2.0,false
+15-1211.00,Atlassian Confluence,2.0,false
+15-1211.00,JavaScript,2.0,false
+15-1211.00,SAP ERP,2.0,false
+15-1211.00,Microsoft PowerShell,2.0,false
+15-1211.00,Microsoft Word,2.0,false
+15-1211.00,Salesforce software,2.0,false
+15-1211.00,Microsoft SQL Server,2.0,false
+15-1211.00,Extensible markup language XML,2.0,false
+15-1211.00,Microsoft Teams,1.0,false
+15-1211.00,Hypertext markup language HTML,1.0,false
+15-1211.00,Microsoft Windows Server,1.0,false
+15-1211.00,UNIX,1.0,false
+15-1211.00,C#,1.0,false
+15-1211.00,Microsoft Project,1.0,false
+15-1211.00,Git,1.0,false
+15-1211.00,Cascading style sheets CSS,1.0,false
+15-1211.00,R,1.0,false
+15-1211.00,Microsoft SQL Server Reporting Services SSRS,1.0,false
+15-1211.00,JavaScript Object Notation JSON,1.0,false
+15-1211.00,Microsoft Windows,1.0,false
+15-1211.00,Epic Systems,0.0,false
+15-1211.00,Splunk Enterprise,0.0,false
+15-1211.00,Oracle PL/SQL,0.0,false
+15-1211.00,SAS,0.0,false
+15-1211.00,GitHub,0.0,false
+15-1211.00,C++,0.0,false
+15-1211.00,Oracle PeopleSoft,0.0,false
+15-1211.00,Apple macOS,0.0,false
+15-1211.00,Oracle SQL Developer,0.0,false
+15-1211.00,Bash,0.0,false
+15-1211.00,C,0.0,false
+15-1211.00,Microsoft Visual Studio,0.0,false
+15-1211.00,Oracle Cloud software,0.0,false
+15-1211.00,Oracle Database,0.0,false
+15-1211.00,Microsoft SQL Server Integration Services SSIS,0.0,false
+15-1211.00,Microsoft Visual Basic,0.0,false
+15-1211.00,Ansible software,0.0,false
+15-1211.00,IBM DB2,0.0,false
+15-1211.00,PostgreSQL,0.0,false
+15-1211.00,The MathWorks MATLAB,0.0,false
+15-1211.00,Google Angular,0.0,false
+15-1211.00,MySQL,0.0,false
+15-1211.00,Perl,0.0,false
+15-1211.00,Docker,0.0,false
+15-1211.00,Apache Maven,0.0,false
+15-1211.00,ESRI ArcGIS software,0.0,false
+15-1211.00,Shell script,0.0,false
+15-1211.00,Red Hat Enterprise Linux,0.0,false
+15-1211.00,Amazon Elastic Compute Cloud EC2,0.0,false
+15-1211.00,Microsoft Visual Basic for Applications VBA,0.0,false
+15-1211.00,React,0.0,false
+15-1211.00,Transact-SQL,0.0,false
+15-1211.00,jQuery,0.0,false
+15-1211.00,Microsoft .NET Framework,0.0,false
+15-1211.00,Microsoft ASP.NET,0.0,false
+15-1211.00,Oracle Java 2 Platform Enterprise Edition J2EE,0.0,false
+15-1211.00,Apache Kafka,0.0,false
+15-1211.00,NoSQL,0.0,false
+15-1211.00,Microsoft Team Foundation Server,0.0,false
+15-1211.00,MongoDB,0.0,false
+15-1211.00,Apache Hadoop,0.0,false
+15-1211.00,PHP,0.0,false
+15-1211.00,Node.js,0.0,false
+15-1211.00,Eclipse IDE,0.0,false
+15-1211.00,MEDITECH software,0.0,false
+15-1211.00,Spring Framework,0.0,false
+15-1211.00,Apache Subversion SVN,0.0,false
+15-1211.00,Oracle Primavera Enterprise Project Portfolio Management,0.0,false
+15-1211.00,Amazon Redshift,0.0,false
+15-1211.00,Slack,0.0,false
+15-1211.00,Microsoft Active Server Pages ASP,0.0,false
+15-1211.00,Apache Tomcat,0.0,false
+15-1211.00,Selenium,0.0,false
+15-1211.00,Spring Boot,0.0,false
+15-1211.00,Puppet,0.0,false
+15-1211.00,Cisco Webex,0.0,false
+15-1211.00,UNIX Shell,0.0,false
+15-1211.00,Teradata Database,0.0,false
+15-1211.00,Go,0.0,false
+15-1211.00,Apache Spark,0.0,false
+15-1211.00,Red Hat OpenShift,0.0,false
+15-1211.00,Ruby,0.0,false
+15-1211.00,IBM SPSS Statistics,0.0,false
+15-1211.00,Adobe Acrobat,0.0,false
+15-1211.00,Chef,0.0,false
+15-1211.00,Apache Hive,0.0,false
+15-1211.00,Google Analytics,0.0,false
+15-1211.00,Scala,0.0,false
+15-1211.00,AJAX,0.0,false
+15-1211.00,Amazon Web Services AWS CloudFormation,0.0,false
+15-1211.00,Hibernate ORM,0.0,false
+15-1211.00,JUnit,0.0,false
+15-1211.00,Elasticsearch,0.0,false
+15-1211.00,Swift,0.0,false
+15-1211.00,Adobe Illustrator,0.0,false
+15-1211.00,Adobe Photoshop,0.0,false
+15-1211.00,Amazon DynamoDB,0.0,false
+15-1211.00,Apache Cassandra,0.0,false
+15-1211.00,Django,0.0,false
+15-1211.00,Google Docs,0.0,false
+15-1211.00,Marketo Marketing Automation,0.0,false

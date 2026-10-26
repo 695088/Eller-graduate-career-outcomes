@@ -1,0 +1,61 @@
+quadrant,term,term_source,demand_score,supply_score,alignment_gap,target_posting_share,task_relevance,national_job_postings,best_matching_course,catalog_similarity
+High Alignment,Microsoft Excel,onet_hot_technology,0.9991,0.5358,0.4632,0.1923,0.8881,3211598,FIN 397,0.291
+High Alignment,Microsoft Excel,course_skill,0.9991,0.6887,0.3104,0.1923,0.8881,3211598,OSCM 471,0.3672
+High Alignment,Tableau,course_skill,0.9811,0.6547,0.3264,0.0369,0.7914,278034,BNAN 277,0.2233
+High Alignment,Tableau,onet_hot_technology,0.9774,0.6547,0.3226,0.0369,0.777,278034,BNAN 277,0.2233
+High Alignment,SAS,course_skill,0.9623,0.7222,0.2401,0.004,0.6502,89247,BNAN 277,0.3345
+High Alignment,Human Resource Management,course_skill,0.9208,0.7297,0.191,0.0,0.4446,0,MGMT 330,0.4573
+High Alignment,Portfolio Management,course_skill,0.9094,0.8953,0.0142,0.0,0.3944,0,FIN 421,0.6342
+High Alignment,Fund Accounting,course_skill,0.8925,0.5184,0.3741,0.0,0.3701,0,ACCT 472A,0.3006
+High Alignment,Strategic Human Resource Management,course_skill,0.8811,0.6764,0.2047,0.0,0.3575,0,MGMT 433,0.394
+High Alignment,Analytical Thinking,course_skill,0.8491,0.8835,-0.0344,0.0117,0.2833,62279,MKTG 376,0.5212
+High Alignment,Human Resource Planning,course_skill,0.8434,0.6443,0.1991,0.0,0.2941,0,MGMT 460,0.3202
+High Alignment,Product Portfolio Management,course_skill,0.8113,0.8363,-0.025,0.0,0.2733,0,MKTG 459,0.8364
+High Alignment,Business Analytics,course_skill,0.8094,0.8156,-0.0061,0.0,0.2729,0,MIS 464,0.4219
+High Alignment,Teamwork and Collaboration,course_skill,0.8019,0.7028,0.0991,0.0,0.262,0,FIN 303,0.3611
+High Alignment,Excel Functions,course_skill,0.7906,0.575,0.2156,0.0,0.2502,0,OSCM 471,0.3512
+Market Gap,Google Docs,onet_hot_technology,0.9736,0.134,0.8396,0.0,0.777,17733,ECON 313,0.0
+Market Gap,Oracle PeopleSoft,onet_hot_technology,0.9604,0.134,0.8264,0.0017,0.647,64274,ECON 313,0.0
+Market Gap,Apache Hive,onet_hot_technology,0.9585,0.134,0.8245,0.0,0.6336,21071,ECON 313,0.0
+Market Gap,The MathWorks MATLAB,onet_hot_technology,0.9528,0.134,0.8189,0.0006,0.6104,72087,ECON 313,0.0
+Market Gap,Adobe Acrobat,onet_hot_technology,0.9509,0.134,0.817,0.0,0.6102,30431,ECON 313,0.0
+Market Gap,Microsoft PowerPoint,onet_hot_technology,0.9943,0.191,0.8033,0.1043,0.8881,1618650,FIN 413,0.0423
+Market Gap,Microsoft Outlook,onet_hot_technology,0.9925,0.1896,0.8028,0.0494,0.8881,1712260,FIN 413,0.0418
+Market Gap,Microsoft Visio,onet_hot_technology,0.9868,0.1896,0.7972,0.0194,0.8881,136648,FIN 413,0.0418
+Market Gap,Adobe InDesign,onet_hot_technology,0.9283,0.134,0.7943,0.005,0.4503,69049,ECON 313,0.0
+Market Gap,Microsoft SharePoint,onet_hot_technology,0.9849,0.192,0.7929,0.0176,0.8881,270377,FIN 413,0.0428
+Market Gap,R,onet_hot_technology,0.9264,0.134,0.7925,0.0101,0.445,401957,ECON 313,0.0
+Market Gap,Apple macOS,onet_hot_technology,0.9226,0.134,0.7887,0.0,0.4471,57496,ECON 313,0.0
+Market Gap,SAP software,onet_hot_technology,0.9906,0.2042,0.7863,0.0481,0.8881,534138,ACCT 472A,0.0577
+Market Gap,Adobe Illustrator,onet_hot_technology,0.9151,0.134,0.7811,0.005,0.4122,85736,ECON 313,0.0
+Market Gap,Salesforce software,onet_hot_technology,0.9792,0.2014,0.7778,0.0333,0.7928,581755,ACCT 472A,0.0546
+Over-Supply,Ethical Reasoning,course_skill,0.0245,0.9665,-0.942,0.0,0.0,0,ECON 205,1.0
+Over-Supply,Real Estate Investment Analysis,course_skill,0.1472,0.9745,-0.8274,0.0,0.045,0,FIN 460,1.0
+Over-Supply,Multiple Linear Regression,course_skill,0.0245,0.8363,-0.8118,0.0,0.0,0,BNAN 277,0.4461
+Over-Supply,Negotiation,course_skill,0.0642,0.866,-0.8019,0.0,0.0178,0,MGMT 483,0.5957
+Over-Supply,Social Entrepreneurship,course_skill,0.1528,0.9392,-0.7863,0.0,0.0472,0,MGMT 488,0.6629
+Over-Supply,Linear Regression,course_skill,0.066,0.8382,-0.7722,0.0,0.0178,0,BNAN 277,0.4475
+Over-Supply,Venture Capital,course_skill,0.1264,0.8906,-0.7642,0.0,0.0391,0,FIN 480,0.7786
+Over-Supply,Break-Even Analysis,course_skill,0.0755,0.8396,-0.7642,0.0,0.0226,0,FIN 303,1.0
+Over-Supply,Experimental Research,course_skill,0.1566,0.8811,-0.7245,0.0,0.0472,0,ECON 406,0.5617
+Over-Supply,Behavioral Game Theory,course_skill,0.117,0.7976,-0.6807,0.0,0.0379,0,ECON 440,0.4013
+Over-Supply,Property Rights Law,course_skill,0.0887,0.766,-0.6774,0.0,0.0277,0,MGMT 420,0.5434
+Over-Supply,Decision Making Under Uncertainty,course_skill,0.1151,0.7882,-0.6731,0.0,0.0363,0,OSCM 471,0.3905
+Over-Supply,Contract Law,course_skill,0.0585,0.7307,-0.6722,0.0,0.0149,0,MGMT 420,1.0
+Over-Supply,Monetary Policy Analysis,course_skill,0.1642,0.8316,-0.6675,0.0,0.0491,0,ECON 332,0.7532
+Over-Supply,Marginal Analysis,course_skill,0.0868,0.7269,-0.6401,0.0,0.0277,0,ECON 200,0.3381
+Low Priority,Dassault Systemes SolidWorks,onet_hot_technology,0.4774,0.2099,0.2675,0.0,0.106,82937,MIS 331,0.0713
+Low Priority,Procore software,onet_hot_technology,0.4698,0.1929,0.2769,0.0,0.1046,71562,ACCT 472A,0.0451
+Low Priority,Portfolio Optimization,course_skill,0.4604,0.4377,0.0226,0.0,0.1039,0,FIN 435,0.3089
+Low Priority,Performance Management,course_skill,0.4491,0.3778,0.0712,0.0,0.0998,0,MGMT 336,0.2305
+Low Priority,Portfolio Diversification,course_skill,0.4472,0.4349,0.0123,0.0,0.0995,0,FIN 302,0.3129
+Low Priority,Futures,course_skill,0.4434,0.4802,-0.0368,0.0,0.0992,0,ECON 313,0.338
+Low Priority,Fundraising,course_skill,0.4302,0.2542,0.1759,0.0,0.0975,0,MGMT 381,0.1681
+Low Priority,Docker,onet_hot_technology,0.4226,0.134,0.2887,0.0,0.0968,183266,ECON 313,0.0
+Low Priority,React,onet_hot_technology,0.4226,0.134,0.2887,0.0,0.0968,152183,ECON 313,0.0
+Low Priority,Django,onet_hot_technology,0.4226,0.134,0.2887,0.0,0.0968,14417,ECON 313,0.0
+Low Priority,eClinicalWorks EHR software,onet_hot_technology,0.4151,0.1816,0.2335,0.0,0.0961,31529,ACCT 472A,0.0331
+Low Priority,Amazon Elastic Compute Cloud EC2,onet_hot_technology,0.3981,0.2033,0.1948,0.0,0.0928,43300,MIS 464,0.0551
+Low Priority,Security Asset Valuation,course_skill,0.3943,0.45,-0.0557,0.0,0.0925,0,MIS 416,0.2451
+Low Priority,Atlassian Bitbucket,onet_hot_technology,0.3736,0.134,0.2396,0.0,0.0889,32813,ECON 313,0.0
+Low Priority,Retail Location Planning,course_skill,0.3717,0.4401,-0.0684,0.0,0.0886,0,MKTG 430,0.2969

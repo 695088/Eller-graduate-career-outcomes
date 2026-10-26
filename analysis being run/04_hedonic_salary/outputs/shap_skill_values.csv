@@ -1,0 +1,202 @@
+feature,label,feature_type,prevalence,mean_abs_shap,shap_gap_present_vs_absent,member_skill_names
+B001,SQL (+9 co-taught),skill_bundle,0.0301,9.03,110.03,SQL; Panel Data Modeling; Logistic Regression; Decision Trees; Analysis of Variance; Statistical Programming; SAS; Data Integration; Data Preparation; Audience Analysis
+B002,Financial Reporting,skill_bundle,0.1581,69.47,-221.86,Financial Reporting
+B003,Accounting Transaction Recording,skill_bundle,0.1044,13.51,-81.55,Accounting Transaction Recording
+B004,Cost Accounting (+4 co-taught),skill_bundle,0.1047,17.31,86.2,Cost Accounting; Cost-Volume-Profit Analysis; Job Costing; Process Costing; Standard Costing
+B005,Federal Taxation (+2 co-taught),skill_bundle,0.1039,5.92,-7.44,Federal Taxation; Tax Compliance; Tax Planning
+B006,Assurance Services,skill_bundle,0.1039,11.48,-58.57,Assurance Services
+B007,Internal Controls,skill_bundle,0.1377,10.3,27.23,Internal Controls
+B008,Accounting Information Systems,skill_bundle,0.1081,32.37,171.08,Accounting Information Systems
+B009,Governmental Accounting (+3 co-taught),skill_bundle,0.1061,5.15,25.79,Governmental Accounting; Nonprofit Accounting; Fund Accounting; GAAP
+B010,Financial Management,skill_bundle,0.2614,18.81,-12.34,Financial Management
+B011,Financial Analysis,skill_bundle,0.1145,44.72,-193.92,Financial Analysis
+B012,Financial Forecasting,skill_bundle,0.2318,13.57,-25.32,Financial Forecasting
+B013,Company Valuation,skill_bundle,0.3389,12.91,-24.18,Company Valuation
+B014,Discounted Cash Flow Valuation (+2 co-taught),skill_bundle,0.1066,38.9,-249.27,Discounted Cash Flow Valuation; Residual Income Valuation; Comparable Valuation Analysis
+B015,Credit Analysis,skill_bundle,0.1354,18.27,-72.1,Credit Analysis
+B016,Profitability Analysis,skill_bundle,0.1955,10.17,-34.25,Profitability Analysis
+B017,Investment Analysis,skill_bundle,0.2171,13.24,35.46,Investment Analysis
+B018,Portfolio Management,skill_bundle,0.1559,36.17,-145.44,Portfolio Management
+B019,Portfolio Diversification (+4 co-taught),skill_bundle,0.0485,2.3,-12.15,Portfolio Diversification; Asset Allocation; Investment Performance Evaluation; Mutual Fund Analysis; Market Efficiency Analysis
+B020,Fixed Income Analysis,skill_bundle,0.1389,37.68,-170.84,Fixed Income Analysis
+B021,Equity Analysis,skill_bundle,0.1387,90.17,-426.9,Equity Analysis
+B022,Small Business Finance (+2 co-taught),skill_bundle,0.1297,12.33,-29.35,Small Business Finance; Business Planning; Break-Even Analysis
+B023,Working Capital Management,skill_bundle,0.1661,11.65,-42.67,Working Capital Management
+B024,Real Estate Valuation,skill_bundle,0.0476,11.63,97.12,Real Estate Valuation
+B025,Real Estate Finance,skill_bundle,0.0869,16.62,30.9,Real Estate Finance
+B026,Real Estate Investment Analysis,skill_bundle,0.0517,6.43,54.68,Real Estate Investment Analysis
+B027,Time Value of Money,skill_bundle,0.0487,18.66,188.71,Time Value of Money
+B028,Capital Budgeting (+1 co-taught),skill_bundle,0.086,25.2,153.71,Capital Budgeting; Financial Planning
+B029,International Finance,skill_bundle,0.1167,22.26,101.46,International Finance
+B030,Financial Modeling,skill_bundle,0.0873,54.96,-369.71,Financial Modeling
+B031,Bloomberg,skill_bundle,0.0507,5.08,-11.96,Bloomberg
+B032,Capital Structure Analysis,skill_bundle,0.1168,18.22,56.45,Capital Structure Analysis
+B033,Corporate Restructuring,skill_bundle,0.0522,9.83,39.02,Corporate Restructuring
+B034,Risk-Return Analysis,skill_bundle,0.0481,8.88,70.5,Risk-Return Analysis
+B035,Investment Banking (+1 co-taught),skill_bundle,0.0488,43.77,532.89,Investment Banking; Professional Networking
+B036,Private Equity,skill_bundle,0.1652,11.63,-47.56,Private Equity
+B037,Venture Capital,skill_bundle,0.1935,12.31,28.44,Venture Capital
+B038,Financial Risk Management,skill_bundle,0.0877,8.86,67.14,Financial Risk Management
+B039,Derivatives (+2 co-taught),skill_bundle,0.0516,10.3,94.08,Derivatives; Swaps; Forward Contracts
+B040,Options (+1 co-taught),skill_bundle,0.0786,11.82,-74.52,Options; Futures
+B041,Hedging,skill_bundle,0.0758,7.73,40.48,Hedging
+B042,Financial Market Analysis,skill_bundle,0.1709,50.75,175.25,Financial Market Analysis
+B043,Financial Technology (+1 co-taught),skill_bundle,0.0496,12.56,-147.58,Financial Technology; ESG Investing
+B044,Financial Regulation,skill_bundle,0.0788,24.16,-166.57,Financial Regulation
+B045,Financial Institution Management,skill_bundle,0.0487,5.12,-44.06,Financial Institution Management
+B046,Deal Evaluation (+4 co-taught),skill_bundle,0.1293,9.94,23.88,Deal Evaluation; Deal Structuring; Due Diligence; Investment Fund Structuring; Value Creation Strategy
+B047,Cost of Capital Analysis (+6 co-taught),skill_bundle,0.0489,6.14,-9.51,Cost of Capital Analysis; Portfolio Optimization; AI Literacy; AI-Assisted Programming; AI Agent Development; Financial Application Automation; Automated Report Generation
+B048,Microeconomic Analysis,skill_bundle,0.1927,66.34,198.74,Microeconomic Analysis
+B049,Macroeconomic Analysis,skill_bundle,0.0817,27.59,171.51,Macroeconomic Analysis
+B050,Economic Growth and Development,skill_bundle,0.1012,24.59,-114.4,Economic Growth and Development
+B051,Economic History Analysis,skill_bundle,0.1245,7.35,15.57,Economic History Analysis
+B052,Industrial Organization,skill_bundle,0.1274,15.82,-48.07,Industrial Organization
+B053,Economic Policy Analysis,skill_bundle,0.1791,32.07,103.44,Economic Policy Analysis
+B054,Economics of Crime,skill_bundle,0.0309,11.79,-69.04,Economics of Crime
+B055,Sports Economics,skill_bundle,0.0285,14.41,256.9,Sports Economics
+B056,Monetary Policy Analysis,skill_bundle,0.1273,15.65,3.25,Monetary Policy Analysis
+B057,Fiscal Policy Analysis,skill_bundle,0.1027,86.53,478.32,Fiscal Policy Analysis
+B058,Law and Economics,skill_bundle,0.0553,10.88,46.57,Law and Economics
+B059,International Trade Analysis,skill_bundle,0.0565,15.88,147.23,International Trade Analysis
+B060,Exchange Rate Analysis,skill_bundle,0.0788,34.47,-262.3,Exchange Rate Analysis
+B061,Balance of Payments Analysis,skill_bundle,0.0299,10.21,-4.32,Balance of Payments Analysis
+B062,Environmental Economics,skill_bundle,0.0792,21.3,-134.09,Environmental Economics
+B063,Natural Resource Economics (+1 co-taught),skill_bundle,0.0292,31.2,521.91,Natural Resource Economics; Climate Economics
+B064,Energy Market Analysis,skill_bundle,0.0277,19.14,325.57,Energy Market Analysis
+B065,Labor Economics,skill_bundle,0.0813,44.89,308.5,Labor Economics
+B066,Labor Market Discrimination Analysis,skill_bundle,0.0595,8.57,-48.78,Labor Market Discrimination Analysis
+B067,Experimental Economics,skill_bundle,0.0291,30.16,540.02,Experimental Economics
+B068,Econometrics,skill_bundle,0.1043,6.99,35.03,Econometrics
+B069,Mathematical Economics,skill_bundle,0.0567,14.16,97.58,Mathematical Economics
+B070,Health Economics,skill_bundle,0.0591,51.43,451.39,Health Economics
+B071,Public Finance,skill_bundle,0.0565,14.34,-144.23,Public Finance
+B072,Decision Theory,skill_bundle,0.1738,20.39,-78.7,Decision Theory
+B073,Behavioral Economics,skill_bundle,0.075,29.24,-220.77,Behavioral Economics
+B074,Behavioral Game Theory,skill_bundle,0.0277,8.42,-41.1,Behavioral Game Theory
+B075,Economic Damages Estimation,skill_bundle,0.0299,4.04,-19.66,Economic Damages Estimation
+B076,General Equilibrium Analysis,skill_bundle,0.0276,3.43,51.08,General Equilibrium Analysis
+B077,Information Economics,skill_bundle,0.059,20.6,137.46,Information Economics
+B078,Antitrust Analysis,skill_bundle,0.0289,5.01,-37.44,Antitrust Analysis
+B079,Regulatory Economics,skill_bundle,0.0579,53.48,465.35,Regulatory Economics
+B080,Economic Modeling,skill_bundle,0.0819,16.86,-61.91,Economic Modeling
+B081,Statistical Model Estimation (+2 co-taught),skill_bundle,0.0285,11.83,177.97,Statistical Model Estimation; Regression Diagnostics; Hypothesis Testing for Economic Models
+B082,Nonparametric Statistics,skill_bundle,0.0311,7.66,-132.75,Nonparametric Statistics
+B083,Data Collection,skill_bundle,0.2113,36.38,-91.6,Data Collection
+B084,Forecasting,skill_bundle,0.4348,54.41,101.46,Forecasting
+B085,Data Mining (+2 co-taught),skill_bundle,0.0776,58.88,449.28,Data Mining; Web Mining; Business Intelligence
+B086,Business Modeling and Simulation,skill_bundle,0.0449,41.01,-461.16,Business Modeling and Simulation
+B087,Optimization Modeling (+13 co-taught),skill_bundle,0.1135,7.43,-44.83,Optimization Modeling; Linear Programming; Integer Programming; Nonlinear Programming; Network Optimization Models; Monte Carlo Simulation; Excel Functions; Excel Named Ranges; Pivot Tables; Conditional Formatting; Excel Macros; Revenue Management; Outsourcing Analysis; Decision Making Under Uncertainty
+B088,Decision Support Systems,skill_bundle,0.1885,62.23,214.57,Decision Support Systems
+B089,Spreadsheet Modeling,skill_bundle,0.1967,17.69,-4.37,Spreadsheet Modeling
+B090,Programming,skill_bundle,0.1951,18.76,-37.71,Programming
+B091,Java (+3 co-taught),skill_bundle,0.0787,10.08,-94.45,Java; C Programming; Data Structures; Algorithm Design and Analysis
+B092,Software Engineering (+3 co-taught),skill_bundle,0.077,10.32,61.41,Software Engineering; Healthcare Information Systems; Human-Computer Interaction; Technology Acceptance Evaluation
+B093,Deception Detection Software,skill_bundle,0.0795,42.33,285.21,Deception Detection Software
+B094,Information Systems Management,skill_bundle,0.1613,22.52,70.79,Information Systems Management
+B095,Computer Networking,skill_bundle,0.1234,63.19,335.45,Computer Networking
+B096,E-Commerce,skill_bundle,0.1507,36.41,-126.77,E-Commerce
+B097,Database Management (+5 co-taught),skill_bundle,0.0793,33.72,263.51,Database Management; Database Security; Database Concurrency Control; Database Integrity; Database Recovery; Database Querying
+B098,Relational Database Design,skill_bundle,0.1839,44.2,144.33,Relational Database Design
+B099,Information Systems Analysis and Design,skill_bundle,0.1206,94.29,444.18,Information Systems Analysis and Design
+B100,Systems Development Life Cycle (+2 co-taught),skill_bundle,0.0806,9.75,50.53,Systems Development Life Cycle; Requirements Analysis; Cost-Benefit Analysis
+B101,Business Process Design,skill_bundle,0.1911,24.06,-41.37,Business Process Design
+B102,Systems Integration,skill_bundle,0.1187,12.53,24.36,Systems Integration
+B103,Enterprise Resource Planning,skill_bundle,0.0818,69.43,448.44,Enterprise Resource Planning
+B104,Expert Systems (+5 co-taught),skill_bundle,0.0413,7.79,-8.71,Expert Systems; Data Privacy; Performance Management; Human Resource Information Systems; Human Resource Planning; HR Systems Selection and Evaluation
+B105,Information Security,skill_bundle,0.1468,18.81,-71.62,Information Security
+B106,Network Security (+1 co-taught),skill_bundle,0.1208,6.07,-0.98,Network Security; Security Countermeasures
+B107,Systems Security Administration (+1 co-taught),skill_bundle,0.0807,3.34,-7.83,Systems Security Administration; Information Assurance
+B108,Information Security Risk Assessment,skill_bundle,0.1235,4.49,-8.52,Information Security Risk Assessment
+B109,Security Threat Analysis,skill_bundle,0.1207,15.67,-24.26,Security Threat Analysis
+B110,Operations Security,skill_bundle,0.0773,14.38,97.17,Operations Security
+B111,Risk Reporting and Monitoring (+1 co-taught),skill_bundle,0.0804,19.48,-86.32,Risk Reporting and Monitoring; Security Asset Valuation
+B112,Marketing Management,skill_bundle,0.1821,68.09,245.32,Marketing Management
+B113,Marketing Strategy and Planning,skill_bundle,0.1883,24.19,-56.32,Marketing Strategy and Planning
+B114,Consumer Behavior Analysis,skill_bundle,0.1338,18.83,-68.57,Consumer Behavior Analysis
+B115,Sports Marketing,skill_bundle,0.1093,6.03,-1.27,Sports Marketing
+B116,Marketing Analytics,skill_bundle,0.1073,11.46,-66.67,Marketing Analytics
+B117,Digital Marketing (+3 co-taught),skill_bundle,0.0661,17.19,138.07,Digital Marketing; Search Marketing; Social Media Marketing; Customer-Friendly Website Design
+B118,Advertising,skill_bundle,0.1052,15.64,-52.92,Advertising
+B119,Advertising Message Development,skill_bundle,0.0633,13.83,-114.44,Advertising Message Development
+B120,Media Planning and Selection,skill_bundle,0.1745,13.53,39.83,Media Planning and Selection
+B121,Marketing Performance Measurement,skill_bundle,0.1341,55.36,-229.77,Marketing Performance Measurement
+B122,Pricing Strategy (+1 co-taught),skill_bundle,0.0643,35.35,-286.12,Pricing Strategy; Channel and Distribution Management
+B123,Sales (+1 co-taught),skill_bundle,0.0655,5.56,30.95,Sales; Customer Relationship Management
+B124,Retail Marketing (+3 co-taught),skill_bundle,0.0641,10.21,-88.1,Retail Marketing; Retail Location Planning; Merchandise Planning and Control; Store Layout and Design
+B125,Competitive Analysis,skill_bundle,0.2082,15.09,-24.79,Competitive Analysis
+B126,Market Selection,skill_bundle,0.1041,16.92,-60.74,Market Selection
+B127,Marketing Research,skill_bundle,0.1847,45.45,-148.73,Marketing Research
+B128,Integrated Marketing Communications (+2 co-taught),skill_bundle,0.0664,31.53,-274.45,Integrated Marketing Communications; Public Relations; Sales Promotion
+B129,Sales Operations Management,skill_bundle,0.1059,68.68,350.05,Sales Operations Management
+B130,International Marketing,skill_bundle,0.0669,9.99,-9.27,International Marketing
+B131,Healthcare Marketing,skill_bundle,0.0656,12.18,6.68,Healthcare Marketing
+B132,Product Innovation,skill_bundle,0.2551,63.83,-162.02,Product Innovation
+B133,Product Strategy (+2 co-taught),skill_bundle,0.1431,15.51,46.59,Product Strategy; Product Launch; Product Portfolio Management
+B134,Marketing Operations Auditing,skill_bundle,0.0661,11.16,57.26,Marketing Operations Auditing
+B135,Operations Management,skill_bundle,0.25,23.61,-61.18,Operations Management
+B136,Service Operations Management,skill_bundle,0.1723,5.47,5.29,Service Operations Management
+B137,Supply Chain Management,skill_bundle,0.2159,22.35,-66.05,Supply Chain Management
+B138,Logistics (+1 co-taught),skill_bundle,0.1875,8.68,7.98,Logistics; Transportation Management
+B139,Procurement (+2 co-taught),skill_bundle,0.1743,14.26,18.01,Procurement; Materials Handling; Warehousing
+B140,Inventory Management,skill_bundle,0.2161,34.58,-123.91,Inventory Management
+B141,Aggregate Planning (+2 co-taught),skill_bundle,0.1728,9.42,-8.71,Aggregate Planning; Materials Requirements Planning; Production Scheduling
+B142,Facility Layout and Location (+1 co-taught),skill_bundle,0.1475,4.57,16.47,Facility Layout and Location; Reliability and Maintainability
+B143,Quality Management,skill_bundle,0.2163,14.4,-32.52,Quality Management
+B144,Statistical Process Control,skill_bundle,0.149,44.89,150.25,Statistical Process Control
+B145,Manufacturing Product Design (+2 co-taught),skill_bundle,0.1138,10.54,62.4,Manufacturing Product Design; Capacity Management; Lean Operations
+B146,Resource Allocation,skill_bundle,0.1647,7.48,-14.67,Resource Allocation
+B147,Project Management,skill_bundle,0.2636,13.18,18.28,Project Management
+B148,Project Scope Management (+3 co-taught),skill_bundle,0.0812,37.86,-238.18,Project Scope Management; Project Cost Management; Project Schedule Management; Project Quality Management
+B149,Risk Management,skill_bundle,0.2428,19.58,-37.96,Risk Management
+B150,Organizational Behavior,skill_bundle,0.1422,15.48,-40.64,Organizational Behavior
+B151,Human Resource Management,skill_bundle,0.1222,9.42,-20.74,Human Resource Management
+B152,Strategic Human Resource Management,skill_bundle,0.0456,9.1,98.73,Strategic Human Resource Management
+B153,Compensation and Benefits,skill_bundle,0.1202,23.43,111.04,Compensation and Benefits
+B154,Recruiting and Staffing,skill_bundle,0.0852,18.75,72.21,Recruiting and Staffing
+B155,Employee Training and Development,skill_bundle,0.0862,44.75,-280.39,Employee Training and Development
+B156,Labor Relations,skill_bundle,0.0697,27.21,-143.29,Labor Relations
+B157,Equal Employment Opportunity,skill_bundle,0.0829,11.02,71.87,Equal Employment Opportunity
+B158,Employee Motivation,skill_bundle,0.2577,52.62,-109.6,Employee Motivation
+B159,Strategic Management,skill_bundle,0.3215,14.75,26.95,Strategic Management
+B160,Organization Design,skill_bundle,0.1209,7.1,8.23,Organization Design
+B161,Organizational Change Management,skill_bundle,0.1223,12.56,48.25,Organizational Change Management
+B162,International Business,skill_bundle,0.1292,33.05,-125.13,International Business
+B163,Management Consulting (+1 co-taught),skill_bundle,0.1238,28.39,139.15,Management Consulting; Client Management
+B164,Nonprofit Management,skill_bundle,0.2361,238.24,-654.45,Nonprofit Management
+B165,Organizational Governance (+2 co-taught),skill_bundle,0.1259,22.11,-93.12,Organizational Governance; Volunteer Management; Fundraising
+B166,Social Innovation,skill_bundle,0.1232,12.35,30.99,Social Innovation
+B167,Entrepreneurship,skill_bundle,0.3027,24.9,0.55,Entrepreneurship
+B168,Social Entrepreneurship,skill_bundle,0.122,17.97,-63.4,Social Entrepreneurship
+B169,Healthcare Entrepreneurship,skill_bundle,0.1249,46.7,198.03,Healthcare Entrepreneurship
+B170,Healthcare Management,skill_bundle,0.0853,38.77,239.24,Healthcare Management
+B171,Sports Administration,skill_bundle,0.1521,28.64,-89.29,Sports Administration
+B172,Event Management,skill_bundle,0.0461,28.75,-326.99,Event Management
+B173,Sports Facility Operations,skill_bundle,0.0459,5.38,-12.06,Sports Facility Operations
+B174,Sports Regulatory Compliance,skill_bundle,0.0889,21.95,71.44,Sports Regulatory Compliance
+B175,Business Law,skill_bundle,0.1089,7.53,-15.77,Business Law
+B176,Contract Law,skill_bundle,0.0709,15.14,95.93,Contract Law
+B177,Agency Law (+3 co-taught),skill_bundle,0.0439,10.46,38.57,Agency Law; Business Entity Law; Negotiable Instruments; Estate and Probate Law
+B178,Property Rights Law,skill_bundle,0.1181,20.31,80.71,Property Rights Law
+B179,Research,skill_bundle,0.2255,29.02,-31.06,Research
+B180,Experimental Research,skill_bundle,0.1737,8.73,-15.96,Experimental Research
+B181,Research Problem Definition,skill_bundle,0.0646,8.43,34.04,Research Problem Definition
+B182,Information Literacy,skill_bundle,0.1519,28.01,-112.49,Information Literacy
+B183,Written Communication,skill_bundle,0.0848,24.65,-149.83,Written Communication
+B184,Oral Communication,skill_bundle,0.0455,8.54,61.12,Oral Communication
+B185,Presentation Skills,skill_bundle,0.1088,31.66,-150.64,Presentation Skills
+B186,Persuasion,skill_bundle,0.1902,54.79,171.09,Persuasion
+B187,Research and Academic Writing,skill_bundle,0.0292,20.44,-375.83,Research and Academic Writing
+B188,Teamwork and Collaboration,skill_bundle,0.3253,55.06,-127.72,Teamwork and Collaboration
+B189,Negotiation,skill_bundle,0.2129,191.85,-576.5,Negotiation
+B190,Conflict Management,skill_bundle,0.0857,19.65,-127.62,Conflict Management
+B191,Cross-Cultural Competence,skill_bundle,0.1075,23.93,-112.4,Cross-Cultural Competence
+B192,Leadership,skill_bundle,0.1763,55.26,-193.25,Leadership
+B193,People Management,skill_bundle,0.1647,11.08,15.68,People Management
+B194,Team Management,skill_bundle,0.0423,11.76,-120.83,Team Management
+B195,Critical Thinking,skill_bundle,0.2669,17.66,37.69,Critical Thinking
+B196,Career Planning and Management,skill_bundle,0.0463,5.99,57.86,Career Planning and Management
+B197,Economic Welfare Analysis,skill_bundle,0.1007,21.76,-123.85,Economic Welfare Analysis
+B198,Tort Law (+1 co-taught),skill_bundle,0.0281,10.18,168.78,Tort Law; Criminal Law
+B199,Operations Strategy,skill_bundle,0.1733,7.66,10.91,Operations Strategy
+B200,Workplace Diversity Analysis,skill_bundle,0.1043,23.4,-117.84,Workplace Diversity Analysis
+B201,Business Opportunity Evaluation,skill_bundle,0.2138,37.84,94.37,Business Opportunity Evaluation

@@ -1,0 +1,109 @@
+term_id,term,term_source,major,alignment_gap
+HT_164,Google Docs,onet_hot_technology,ACCT,0.8104
+HT_164,Google Docs,onet_hot_technology,BMGT,0.8198
+HT_164,Google Docs,onet_hot_technology,BNAD,0.7623
+HT_164,Google Docs,onet_hot_technology,ECON,0.8245
+HT_164,Google Docs,onet_hot_technology,ENTR,0.783
+HT_164,Google Docs,onet_hot_technology,FIN,0.816
+HT_164,Google Docs,onet_hot_technology,MIS,0.7755
+HT_164,Google Docs,onet_hot_technology,MKTG,0.783
+HT_164,Google Docs,onet_hot_technology,OSCM,0.0491
+HT_080,Oracle PeopleSoft,onet_hot_technology,ACCT,0.8472
+HT_080,Oracle PeopleSoft,onet_hot_technology,BMGT,0.7887
+HT_080,Oracle PeopleSoft,onet_hot_technology,BNAD,0.5698
+HT_080,Oracle PeopleSoft,onet_hot_technology,ECON,0.7925
+HT_080,Oracle PeopleSoft,onet_hot_technology,ENTR,0.783
+HT_080,Oracle PeopleSoft,onet_hot_technology,FIN,0.816
+HT_080,Oracle PeopleSoft,onet_hot_technology,MIS,0.7321
+HT_080,Oracle PeopleSoft,onet_hot_technology,MKTG,0.783
+HT_080,Oracle PeopleSoft,onet_hot_technology,OSCM,0.666
+HT_157,Apache Hive,onet_hot_technology,ACCT,0.6434
+HT_157,Apache Hive,onet_hot_technology,BMGT,0.7434
+HT_157,Apache Hive,onet_hot_technology,BNAD,0.8085
+HT_157,Apache Hive,onet_hot_technology,ECON,0.8311
+HT_157,Apache Hive,onet_hot_technology,ENTR,0.8047
+HT_157,Apache Hive,onet_hot_technology,FIN,0.8264
+HT_157,Apache Hive,onet_hot_technology,MIS,0.8085
+HT_157,Apache Hive,onet_hot_technology,MKTG,0.8047
+HT_157,Apache Hive,onet_hot_technology,OSCM,0.0491
+HT_074,The MathWorks MATLAB,onet_hot_technology,ACCT,0.0057
+HT_074,The MathWorks MATLAB,onet_hot_technology,BMGT,0.7434
+HT_074,The MathWorks MATLAB,onet_hot_technology,BNAD,0.8085
+HT_074,The MathWorks MATLAB,onet_hot_technology,ECON,0.8311
+HT_074,The MathWorks MATLAB,onet_hot_technology,ENTR,0.8047
+HT_074,The MathWorks MATLAB,onet_hot_technology,FIN,0.834
+HT_074,The MathWorks MATLAB,onet_hot_technology,MIS,0.8085
+HT_074,The MathWorks MATLAB,onet_hot_technology,MKTG,0.8047
+HT_074,The MathWorks MATLAB,onet_hot_technology,OSCM,0.0491
+HT_134,Adobe Acrobat,onet_hot_technology,ACCT,0.8349
+HT_134,Adobe Acrobat,onet_hot_technology,BMGT,0.833
+HT_134,Adobe Acrobat,onet_hot_technology,BNAD,0.8085
+HT_134,Adobe Acrobat,onet_hot_technology,ECON,0.7443
+HT_134,Adobe Acrobat,onet_hot_technology,ENTR,0.8047
+HT_134,Adobe Acrobat,onet_hot_technology,FIN,-0.0519
+HT_134,Adobe Acrobat,onet_hot_technology,MIS,0.8085
+HT_134,Adobe Acrobat,onet_hot_technology,MKTG,0.8047
+HT_134,Adobe Acrobat,onet_hot_technology,OSCM,0.0491
+HT_004,Microsoft PowerPoint,onet_hot_technology,ACCT,0.8005
+HT_004,Microsoft PowerPoint,onet_hot_technology,BMGT,0.8033
+HT_004,Microsoft PowerPoint,onet_hot_technology,BNAD,0.8033
+HT_004,Microsoft PowerPoint,onet_hot_technology,ECON,0.8052
+HT_004,Microsoft PowerPoint,onet_hot_technology,ENTR,0.8033
+HT_004,Microsoft PowerPoint,onet_hot_technology,FIN,0.8033
+HT_004,Microsoft PowerPoint,onet_hot_technology,MIS,0.7995
+HT_004,Microsoft PowerPoint,onet_hot_technology,MKTG,0.8033
+HT_004,Microsoft PowerPoint,onet_hot_technology,OSCM,0.7995
+HT_003,Microsoft Outlook,onet_hot_technology,ACCT,0.7991
+HT_003,Microsoft Outlook,onet_hot_technology,BMGT,0.8028
+HT_003,Microsoft Outlook,onet_hot_technology,BNAD,0.783
+HT_003,Microsoft Outlook,onet_hot_technology,ECON,0.7934
+HT_003,Microsoft Outlook,onet_hot_technology,ENTR,0.7953
+HT_003,Microsoft Outlook,onet_hot_technology,FIN,0.7972
+HT_003,Microsoft Outlook,onet_hot_technology,MIS,0.7915
+HT_003,Microsoft Outlook,onet_hot_technology,MKTG,0.7953
+HT_003,Microsoft Outlook,onet_hot_technology,OSCM,0.8028
+HT_037,Microsoft Visio,onet_hot_technology,ACCT,0.7547
+HT_037,Microsoft Visio,onet_hot_technology,BMGT,0.7972
+HT_037,Microsoft Visio,onet_hot_technology,BNAD,0.7934
+HT_037,Microsoft Visio,onet_hot_technology,ECON,0.7896
+HT_037,Microsoft Visio,onet_hot_technology,ENTR,0.7274
+HT_037,Microsoft Visio,onet_hot_technology,FIN,0.7821
+HT_037,Microsoft Visio,onet_hot_technology,MIS,0.7934
+HT_037,Microsoft Visio,onet_hot_technology,MKTG,0.7274
+HT_037,Microsoft Visio,onet_hot_technology,OSCM,0.784
+HT_077,Adobe InDesign,onet_hot_technology,ACCT,0.6745
+HT_077,Adobe InDesign,onet_hot_technology,BMGT,0.8198
+HT_077,Adobe InDesign,onet_hot_technology,BNAD,0.7623
+HT_077,Adobe InDesign,onet_hot_technology,ECON,0.7236
+HT_077,Adobe InDesign,onet_hot_technology,ENTR,0.8321
+HT_077,Adobe InDesign,onet_hot_technology,FIN,-0.0519
+HT_077,Adobe InDesign,onet_hot_technology,MIS,0.6547
+HT_077,Adobe InDesign,onet_hot_technology,MKTG,0.8321
+HT_077,Adobe InDesign,onet_hot_technology,OSCM,0.0491
+HT_020,Microsoft SharePoint,onet_hot_technology,ACCT,0.7524
+HT_020,Microsoft SharePoint,onet_hot_technology,BMGT,0.7873
+HT_020,Microsoft SharePoint,onet_hot_technology,BNAD,0.7807
+HT_020,Microsoft SharePoint,onet_hot_technology,ECON,0.7835
+HT_020,Microsoft SharePoint,onet_hot_technology,ENTR,0.7627
+HT_020,Microsoft SharePoint,onet_hot_technology,FIN,0.7835
+HT_020,Microsoft SharePoint,onet_hot_technology,MIS,0.7929
+HT_020,Microsoft SharePoint,onet_hot_technology,MKTG,0.7627
+HT_020,Microsoft SharePoint,onet_hot_technology,OSCM,0.792
+HT_012,R,onet_hot_technology,ACCT,0.8104
+HT_012,R,onet_hot_technology,BMGT,0.0057
+HT_012,R,onet_hot_technology,BNAD,0.0698
+HT_012,R,onet_hot_technology,ECON,0.7528
+HT_012,R,onet_hot_technology,ENTR,0.8208
+HT_012,R,onet_hot_technology,FIN,0.8491
+HT_012,R,onet_hot_technology,MIS,0.0189
+HT_012,R,onet_hot_technology,MKTG,0.8208
+HT_012,R,onet_hot_technology,OSCM,0.0491
+HT_090,Apple macOS,onet_hot_technology,ACCT,0.0057
+HT_090,Apple macOS,onet_hot_technology,BMGT,0.833
+HT_090,Apple macOS,onet_hot_technology,BNAD,0.8085
+HT_090,Apple macOS,onet_hot_technology,ECON,0.8113
+HT_090,Apple macOS,onet_hot_technology,ENTR,0.8047
+HT_090,Apple macOS,onet_hot_technology,FIN,0.7019
+HT_090,Apple macOS,onet_hot_technology,MIS,0.3415
+HT_090,Apple macOS,onet_hot_technology,MKTG,0.8047
+HT_090,Apple macOS,onet_hot_technology,OSCM,0.0491

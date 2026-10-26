@@ -1,0 +1,429 @@
+{
+  "schemaVersion": 1,
+  "ok": false,
+  "command": "finalize",
+  "status": "fail",
+  "type": "architecture",
+  "quality": "showcase",
+  "startedAt": "2026-10-22T02:29:20.136Z",
+  "specification": {
+    "path": "/Users/athirumalai/Desktop/midterm-464/.archify/architecture-project-map-20261021-192624/candidate.json",
+    "sha256": "c8a626425d0f7dc357141270bf54793b2122f9b067894671f7516084b1e5a754",
+    "bytes": 12862
+  },
+  "artifact": {
+    "path": "/Users/athirumalai/Desktop/midterm-464/.archify/architecture-project-map-20261021-192624/project-map.html",
+    "sha256": "9793998cc4fa3d1acde7372d4565e67423a58dbcfdfae7505d09584711c099fa",
+    "bytes": 844944
+  },
+  "stages": {
+    "validate": {
+      "status": "pass",
+      "exitCode": 0,
+      "durationMs": null,
+      "execution": "embedded-in-deliver",
+      "command": [
+        "/opt/homebrew/Cellar/node/26.12.0/bin/node",
+        "/Users/athirumalai/.agents/skills/archify/bin/archify.mjs",
+        "deliver",
+        "architecture",
+        "/Users/athirumalai/Desktop/midterm-464/.archify/architecture-project-map-20261021-192624/candidate.json",
+        "/Users/athirumalai/Desktop/midterm-464/.archify/architecture-project-map-20261021-192624/project-map.html",
+        "--quality",
+        "showcase",
+        "--repo-root",
+        "/Users/athirumalai/Desktop/midterm-464/.archify/architecture-project-map-20261021-192624/source-snapshot",
+        "--json"
+      ],
+      "receipt": {
+        "schemaVersion": 1,
+        "ok": true,
+        "command": "validate",
+        "specification": {
+          "sha256": "c8a626425d0f7dc357141270bf54793b2122f9b067894671f7516084b1e5a754",
+          "bytes": 12862
+        },
+        "validation": {
+          "checksPassed": 9,
+          "checkCount": 9,
+          "compositionProfile": "showcase",
+          "compositionStatus": "pass",
+          "errors": 0,
+          "warnings": 0
+        }
+      }
+    },
+    "deliver": {
+      "status": "pass",
+      "exitCode": 0,
+      "durationMs": 437,
+      "command": [
+        "/opt/homebrew/Cellar/node/26.12.0/bin/node",
+        "/Users/athirumalai/.agents/skills/archify/bin/archify.mjs",
+        "deliver",
+        "architecture",
+        "/Users/athirumalai/Desktop/midterm-464/.archify/architecture-project-map-20261021-192624/candidate.json",
+        "/Users/athirumalai/Desktop/midterm-464/.archify/architecture-project-map-20261021-192624/project-map.html",
+        "--quality",
+        "showcase",
+        "--repo-root",
+        "/Users/athirumalai/Desktop/midterm-464/.archify/architecture-project-map-20261021-192624/source-snapshot",
+        "--json"
+      ],
+      "receipt": {
+        "schemaVersion": 1,
+        "receiptId": "97a1ce60-a8c9-45c2-96d2-282dea6da0ba",
+        "ok": true,
+        "command": "deliver",
+        "type": "architecture",
+        "input": "/Users/athirumalai/Desktop/midterm-464/.archify/architecture-project-map-20261021-192624/candidate.json",
+        "output": "/Users/athirumalai/Desktop/midterm-464/.archify/architecture-project-map-20261021-192624/project-map.html",
+        "specification": {
+          "sha256": "c8a626425d0f7dc357141270bf54793b2122f9b067894671f7516084b1e5a754",
+          "bytes": 12862
+        },
+        "artifact": {
+          "sha256": "9793998cc4fa3d1acde7372d4565e67423a58dbcfdfae7505d09584711c099fa",
+          "bytes": 844944
+        },
+        "validation": {
+          "checksPassed": 9,
+          "checkCount": 9,
+          "compositionProfile": "showcase",
+          "compositionStatus": "pass",
+          "errors": 0,
+          "warnings": 0
+        },
+        "evidence": {
+          "verified": true,
+          "repository": "ssh://git@localhost/midterm-464-documentation-snapshot.git",
+          "revision": "d44e2808d092cf39886d46acf4b7e8978a619e8d",
+          "references": 31,
+          "linkMode": "local-only"
+        },
+        "update": {
+          "status": "unavailable",
+          "installedVersion": null,
+          "availableVersion": null,
+          "releaseNotes": null,
+          "checkedAt": null,
+          "source": null,
+          "noticeRequired": false,
+          "noticeText": null,
+          "reason": "disabled"
+        }
+      }
+    },
+    "check": {
+      "status": "pass",
+      "exitCode": 0,
+      "durationMs": 209,
+      "command": [
+        "/opt/homebrew/Cellar/node/26.12.0/bin/node",
+        "/Users/athirumalai/.agents/skills/archify/bin/archify.mjs",
+        "check",
+        "/Users/athirumalai/Desktop/midterm-464/.archify/architecture-project-map-20261021-192624/project-map.html",
+        "--require-provenance"
+      ],
+      "receipt": {
+        "ok": true,
+        "file": "/Users/athirumalai/Desktop/midterm-464/.archify/architecture-project-map-20261021-192624/project-map.html",
+        "artifact": {
+          "sha256": "9793998cc4fa3d1acde7372d4565e67423a58dbcfdfae7505d09584711c099fa",
+          "bytes": 844944
+        },
+        "checks": [
+          {
+            "name": "single_svg",
+            "ok": true,
+            "details": [
+              "found 1 <svg> block(s)"
+            ]
+          },
+          {
+            "name": "finite_svg",
+            "ok": true,
+            "details": []
+          },
+          {
+            "name": "orthogonal_arrows",
+            "ok": true,
+            "details": []
+          },
+          {
+            "name": "label_route_clearance",
+            "ok": true,
+            "details": []
+          },
+          {
+            "name": "relationship_crossings",
+            "ok": true,
+            "details": []
+          },
+          {
+            "name": "relationship_corridors",
+            "ok": true,
+            "details": []
+          },
+          {
+            "name": "container_border_runs",
+            "ok": true,
+            "details": []
+          },
+          {
+            "name": "route_rhythm",
+            "ok": true,
+            "details": []
+          },
+          {
+            "name": "legend_clearance",
+            "ok": true,
+            "details": []
+          }
+        ],
+        "composition": {
+          "schemaVersion": 1,
+          "profile": "showcase",
+          "status": "pass",
+          "summary": {
+            "errors": 0,
+            "warnings": 0
+          },
+          "metrics": {
+            "properCrossings": 0,
+            "resolvedCrossovers": 2,
+            "ambiguousCorridors": 0,
+            "arrowheadCollisions": 0,
+            "containerBorderRuns": 0,
+            "labelRouteClearanceIssues": 0,
+            "labelCanvasOverflowIssues": 0,
+            "minLabelRouteClearance": 4,
+            "desktopReadabilityIssues": 0,
+            "viewportHeightIssues": 0,
+            "minProjectedNodeTextPx": 6.1234567901234565,
+            "maxBends": 2,
+            "routesOverSuggestedBends": 0,
+            "maxStretch": 1,
+            "routesOverSuggestedStretch": 0,
+            "minSegmentPx": 15.5,
+            "minInteriorSegmentPx": 448,
+            "shortSegmentCount": 1,
+            "shortEndpointSegmentCount": 1,
+            "shortInteriorSegmentCount": 0,
+            "microSegmentCount": 0
+          },
+          "suggestedLimits": {
+            "bendsPerRelationship": 2,
+            "stretch": 1.35,
+            "segmentPx": 16,
+            "microSegmentPx": 8
+          },
+          "routeReview": {
+            "crossings": [
+              {
+                "left": {
+                  "id": "companies-to-generator",
+                  "from": "companies",
+                  "to": "generator",
+                  "label": "Reads",
+                  "collectionIndex": 3,
+                  "artifactIndex": 4
+                },
+                "right": {
+                  "id": "references-to-execution",
+                  "from": "references",
+                  "to": "execution",
+                  "label": "Course / job refs",
+                  "collectionIndex": 5,
+                  "artifactIndex": 6
+                },
+                "point": [
+                  517.5,
+                  191
+                ]
+              },
+              {
+                "left": {
+                  "id": "execution-to-alignment",
+                  "from": "execution",
+                  "to": "alignment",
+                  "label": "Runs",
+                  "collectionIndex": 6,
+                  "artifactIndex": 7
+                },
+                "right": {
+                  "id": "execution-to-archetypes",
+                  "from": "execution",
+                  "to": "archetypes",
+                  "label": "Runs",
+                  "collectionIndex": 8,
+                  "artifactIndex": 9
+                },
+                "point": [
+                  891.5,
+                  315
+                ],
+                "sharedNode": "execution"
+              }
+            ],
+            "detours": []
+          },
+          "leadingSpace": {
+            "measured": true,
+            "emptyTopPx": 40,
+            "emptyTopRatio": 0.041,
+            "occupiedTop": 40,
+            "viewBoxTop": 0,
+            "canvasHeight": 969,
+            "typicalNodeHeight": 76,
+            "reviewSuggested": false
+          },
+          "desktopReadability": {
+            "budgetBasis": "legacy-930",
+            "readerContract": "declared-wide-v1",
+            "availableDiagramWidth": 930,
+            "actualBudgetPx": 930,
+            "limit": "legacy",
+            "requestedTargetPx": 7.5,
+            "requestedTargetMet": false,
+            "hardFloorPx": 6,
+            "hardFloorMet": true,
+            "minimumOwner": {
+              "kind": "edge",
+              "id": "references-to-generator",
+              "from": "references",
+              "to": "generator"
+            },
+            "minimumSourceTextPx": 8,
+            "minimumProjectedTextPx": 6.1234567901234565,
+            "semanticTextCount": 43
+          },
+          "issues": []
+        },
+        "provenance": "current",
+        "deliveryReceiptId": "97a1ce60-a8c9-45c2-96d2-282dea6da0ba"
+      }
+    },
+    "browser-check": {
+      "status": "fail",
+      "exitCode": 1,
+      "durationMs": 3713,
+      "command": [
+        "/opt/homebrew/Cellar/node/26.12.0/bin/node",
+        "/Users/athirumalai/.agents/skills/archify/bin/archify.mjs",
+        "browser-check",
+        "/Users/athirumalai/Desktop/midterm-464/.archify/architecture-project-map-20261021-192624/project-map.html",
+        "--json",
+        "--require-provenance"
+      ],
+      "execution": "in-process",
+      "receipt": {
+        "schemaVersion": 1,
+        "ok": false,
+        "command": "browser-check",
+        "evidenceKind": "automated-browser",
+        "status": "fail",
+        "visualReview": "not-requested",
+        "provenance": "current",
+        "deliveryReceiptId": "97a1ce60-a8c9-45c2-96d2-282dea6da0ba",
+        "artifact": {
+          "path": "/Users/athirumalai/Desktop/midterm-464/.archify/architecture-project-map-20261021-192624/project-map.html",
+          "sha256": "9793998cc4fa3d1acde7372d4565e67423a58dbcfdfae7505d09584711c099fa",
+          "bytes": 844944
+        },
+        "state": {
+          "detail": "read",
+          "motion": "still"
+        },
+        "chrome": {
+          "status": "available",
+          "executable": "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome"
+        },
+        "diagnostics": [
+          {
+            "code": "viewer/browser-check-runtime",
+            "severity": "error",
+            "message": "browser-check could not complete its Chrome inspection.",
+            "subject": {
+              "artifact": "/Users/athirumalai/Desktop/midterm-464/.archify/architecture-project-map-20261021-192624/project-map.html"
+            },
+            "evidence": {
+              "reason": "Chrome DevTools read pipe failed: stream ended\nChrome process: still running.\nChrome transport: Node v26.12.0, libuv 1.53.0, darwin; pid=11196, exitCode=null, signalCode=null.\nChrome read pipe: readable=false, ended=true, destroyed=false, receivedBytes=0, messages=0, bufferedBytes=0.\nChrome write pipe: writable=true, ended=false, destroyed=false, completedWrites=1, writtenBytes=50, bufferedBytes=0."
+            },
+            "supportedFixes": [
+              "resolve the reported Chrome inspection error, then rerun browser-check"
+            ]
+          }
+        ],
+        "containment": {
+          "status": "fail",
+          "policy": "fit-or-reader-declared-readable-vertical-scroll",
+          "viewports": []
+        },
+        "themeStates": {
+          "status": "fail",
+          "viewports": []
+        },
+        "readability": {
+          "status": "fail",
+          "minimumProjectedNodeTextPx": 6,
+          "viewports": []
+        },
+        "viewerChrome": {
+          "status": "fail",
+          "viewports": []
+        },
+        "captures": {
+          "status": "not-requested",
+          "screenshots": [],
+          "contactSheet": null
+        },
+        "sidecars": {
+          "receipt": "project-map.browser-check.json",
+          "files": []
+        },
+        "error": "Chrome DevTools read pipe failed: stream ended\nChrome process: still running.\nChrome transport: Node v26.12.0, libuv 1.53.0, darwin; pid=11196, exitCode=null, signalCode=null.\nChrome read pipe: readable=false, ended=true, destroyed=false, receivedBytes=0, messages=0, bufferedBytes=0.\nChrome write pipe: writable=true, ended=false, destroyed=false, completedWrites=1, writtenBytes=50, bufferedBytes=0."
+      }
+    }
+  },
+  "browserCheck": {
+    "requested": true,
+    "ran": false
+  },
+  "diagnostics": [
+    {
+      "code": "viewer/browser-check-runtime",
+      "severity": "error",
+      "message": "browser-check could not complete its Chrome inspection.",
+      "subject": {
+        "artifact": "/Users/athirumalai/Desktop/midterm-464/.archify/architecture-project-map-20261021-192624/project-map.html"
+      },
+      "evidence": {
+        "reason": "Chrome DevTools read pipe failed: stream ended\nChrome process: still running.\nChrome transport: Node v26.12.0, libuv 1.53.0, darwin; pid=11196, exitCode=null, signalCode=null.\nChrome read pipe: readable=false, ended=true, destroyed=false, receivedBytes=0, messages=0, bufferedBytes=0.\nChrome write pipe: writable=true, ended=false, destroyed=false, completedWrites=1, writtenBytes=50, bufferedBytes=0."
+      },
+      "supportedFixes": [
+        "resolve the reported Chrome inspection error, then rerun browser-check"
+      ]
+    }
+  ],
+  "evidence": {
+    "receipt": "/Users/athirumalai/Desktop/midterm-464/.archify/architecture-project-map-20261021-192624/project-map.finalize.json",
+    "summaryReceipt": "/Users/athirumalai/Desktop/midterm-464/.archify/architecture-project-map-20261021-192624/project-map.finalize-summary.json",
+    "browserCheckReceipt": "/Users/athirumalai/Desktop/midterm-464/.archify/architecture-project-map-20261021-192624/project-map.browser-check.json"
+  },
+  "visualReview": "not-requested",
+  "failedStage": "browser-check",
+  "finishedAt": "2026-10-22T02:29:24.598Z",
+  "durationMs": 4461,
+  "update": {
+    "status": "unavailable",
+    "installedVersion": null,
+    "availableVersion": null,
+    "releaseNotes": null,
+    "checkedAt": null,
+    "source": null,
+    "noticeRequired": false,
+    "noticeText": null,
+    "reason": "cache-unavailable"
+  }
+}

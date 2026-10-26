@@ -1,0 +1,5 @@
+Column Name,Data Type,Example Row Value,Purpose in Analysis
+skill_id (PK),VARCHAR(16),"""SK_001""",Canonical ID used across Tables 3 and 4
+skill_name,VARCHAR(64),"""SQL""",Clean display name
+skill_category,VARCHAR(32),"""Technical / Database""",Groups skills into Technical vs. Professional/Soft
+search_synonyms,ARRAY<STR>,"[""sql"", ""postgresql"", ""t-sql"", ""mysql"", ""relational query""]",Regex/keyword lookup list for text extraction

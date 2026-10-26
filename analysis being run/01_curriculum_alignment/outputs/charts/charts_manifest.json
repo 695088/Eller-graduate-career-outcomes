@@ -1,0 +1,57 @@
+{
+  "fonts": {
+    "sans": "Graphik",
+    "mono": "B612 Mono",
+    "sans_file": "/System/Library/AssetsV2/com_apple_MobileAsset_Font8/826aa3dd9709faf607b06657a17fba9e5547a0c9.asset/AssetData/Graphik.ttc",
+    "mono_file": "/Users/athirumalai/.agents/skills/matplotlib-research-charts/assets/fonts/B612Mono-Regular.ttf"
+  },
+  "formats": [
+    "PNG (300 dpi)",
+    "PDF (font subsets)",
+    "SVG (font paths)"
+  ],
+  "synthetic_alumni": true,
+  "charts": [
+    {
+      "section": "01_curriculum_alignment",
+      "stem": "01_supply_demand_quadrants",
+      "title": "Supply and demand quadrants",
+      "sources_sha256": {
+        "gap_matrix.csv": "77dce0d832582ada73989f561c5ac3d06d3551e3d4486fd78122c0c012aea232"
+      },
+      "plotting_rows": 530,
+      "notes": "Both axes are ranks, not percentages of postings. Duplicate display names retain separate source records. No jitter."
+    },
+    {
+      "section": "01_curriculum_alignment",
+      "stem": "02_alignment_mix_by_major",
+      "title": "Alignment mix across majors",
+      "sources_sha256": {
+        "gap_matrix_by_major.csv": "5d503dad65c90f003bb2e945ce9521b8976619bca594f6f4c441cd0c216cea2e"
+      },
+      "plotting_rows": 36,
+      "notes": "100% stacked shares, not counts of students."
+    },
+    {
+      "section": "01_curriculum_alignment",
+      "stem": "03_largest_market_gaps",
+      "title": "Largest market gaps",
+      "sources_sha256": {
+        "gap_matrix.csv": "77dce0d832582ada73989f561c5ac3d06d3551e3d4486fd78122c0c012aea232"
+      },
+      "plotting_rows": 12,
+      "notes": "Top 12 rows, retaining source identity; zero-based bar axis."
+    },
+    {
+      "section": "01_curriculum_alignment",
+      "stem": "04_market_gaps_by_major",
+      "title": "Market gaps by major",
+      "sources_sha256": {
+        "gap_matrix.csv": "77dce0d832582ada73989f561c5ac3d06d3551e3d4486fd78122c0c012aea232",
+        "gap_matrix_by_major.csv": "5d503dad65c90f003bb2e945ce9521b8976619bca594f6f4c441cd0c216cea2e"
+      },
+      "plotting_rows": 108,
+      "notes": "Diverging colors share the fixed \u22121 to +1 rank-gap scale."
+    }
+  ]
+}

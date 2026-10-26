@@ -1,0 +1,96 @@
+{
+  "major": "Business Management",
+  "major_code": "BMGT",
+  "source_file": "BMGT_Major-Industry-Guide.pdf",
+  "document_title": "BUSINESS MANAGEMENT CAREERS OVERVIEW",
+  "sections": {
+    "common_industries": {
+      "type": "list",
+      "data": [
+        "Business Services",
+        "Consumer Goods",
+        "Defense",
+        "Financial Services",
+        "Hospitality",
+        "Insurance",
+        "Retail",
+        "Real Estate",
+        "Sales",
+        "Sports",
+        "Technology"
+      ],
+      "original_header": "COMMON INDUSTRIES"
+    },
+    "typical_business_management_career_options": {
+      "type": "table",
+      "columns": [
+        "position_title",
+        "sample_of_companies",
+        "primary_responsibilities"
+      ],
+      "column_headers": {
+        "position_title": "POSITION/TITLE",
+        "sample_of_companies": "SAMPLE OF COMPANIES",
+        "primary_responsibilities": "PRIMARY RESPONSIBILITIES"
+      },
+      "data": [
+        {
+          "position_title": "Customer Service",
+          "sample_of_companies": "Fisher Investments, Vanguard, Ascensus, GEICO, Amazon",
+          "primary_responsibilities": "Client relationship management focused on delivering service, trouble-shooting, and customer retention. Primary function is to foster and maintain a positive customer experience. Tech Skills: Microsoft Excel, CRM, Project Management, Programming Language, Database, Cloud Platforms"
+        },
+        {
+          "position_title": "Human Resources/Recruiting",
+          "sample_of_companies": "ADP, Paychex, TEKsystems, Insight Global",
+          "primary_responsibilities": "Recruitment, management, and placement for the people who work in an organization. Can include employer relations, payroll, benefits, and training. Tech Skills: Microsoft Excel"
+        },
+        {
+          "position_title": "Management",
+          "sample_of_companies": "Macy’s, Target, Intuit, Enterprise, Walmart",
+          "primary_responsibilities": "Retail Sales Manager – Setting sales goals, overseeing distribution of products, training team members, and daily operations of a retail store. Project/Unit Manager – Employed to help a company attain organizational objectives. Can involve leading a business unit where strategy and decision-making skills are important."
+        },
+        {
+          "position_title": "Hospitality Management",
+          "sample_of_companies": "Marriott, MGM, Hilton, Hyatt",
+          "primary_responsibilities": "Hotel management training programs prepare you for careers in hospitality leadership, facility operations, sales management, and event coordination."
+        },
+        {
+          "position_title": "Management Trainee/Rotational Development",
+          "sample_of_companies": "GEICO, Enterprise, PepsiCo, Cintas, Sherwin-Williams, Raytheon, Gallo",
+          "primary_responsibilities": "Practical experience gained via career development programs. Programs are 1 to 3 years, allowing trainees to be mentors and groomed for a leadership role. Each assignment instructs trainees about a different part of the business or industry operation. For those who are interested in a particular industry but do not yet know which business function they prefer. Can be part of a long-term leadership track. Tech Skills: Microsoft Excel"
+        },
+        {
+          "position_title": "Operations Management",
+          "sample_of_companies": "Amazon, Aramark, Cintas",
+          "primary_responsibilities": "Plan, oversee, and coordinate the operations of a company. Typical responsibilities include procurement (acquiring goods and services from external sources), managing relations, and improving a use of resources. Opportunities can be found within corporation, government, and retail. Tech Skills: Microsoft Excel, CRM"
+        },
+        {
+          "position_title": "Sales",
+          "sample_of_companies": "ADP, LinkedIn, Altria, Sports Franchises",
+          "primary_responsibilities": "B2B- Business to Business B2C- Business to Consumer Any organization requires a division that generates revenue. Development programs and apprenticeships are growing in popularity, instead of traditional sales training. Tech Skills: CRM, Conferencing Tools"
+        }
+      ],
+      "original_header": "TYPICAL BUSINESS MANAGMEMENT CAREER OPTIONS"
+    },
+    "engagement_opportunities": {
+      "type": "list",
+      "data": [
+        "Eller Management Association",
+        "Professional Sales Club",
+        "Investments Club",
+        "Arizona Consulting Club",
+        "Eller Leadership Board",
+        "Sports Management Certificate",
+        "Business of Entertainment",
+        "Eller Ambassador Honorary",
+        "Sports Management Association"
+      ],
+      "original_header": "ENGAGEMENT OPPORTUNITIES"
+    }
+  },
+  "section_order": [
+    "common_industries",
+    "typical_business_management_career_options",
+    "engagement_opportunities"
+  ]
+}

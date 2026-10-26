@@ -1,0 +1,26 @@
+feature_a,feature_b,mean_abs_interaction,both_skills
+major_FIN,major_MIS,196.71,false
+Microeconomic Analysis,had_internship,98.96,false
+grad_year_2021,grad_year_2022,91.22,false
+major_BNAD,major_MKTG,85.52,false
+major_BMGT,major_MKTG,80.52,false
+major_BMGT,major_BNAD,79.09,false
+"location_metro_New York-Newark-Jersey City, NY-NJ",grad_year_2021,74.1,false
+"location_metro_New York-Newark-Jersey City, NY-NJ","location_metro_San Francisco-Oakland-Berkeley, CA",69.4,false
+major_MKTG,had_internship,68.39,false
+"location_metro_New York-Newark-Jersey City, NY-NJ","location_metro_Seattle-Tacoma-Bellevue, WA",67.31,false
+Information Systems Analysis and Design,had_internship,65.25,false
+"location_metro_Phoenix-Mesa-Chandler, AZ",grad_year_2018,65.03,false
+"location_metro_San Francisco-Oakland-Berkeley, CA","location_metro_Seattle-Tacoma-Bellevue, WA",62.62,false
+had_internship,gpa_final,62.6,false
+grad_year_2018,grad_year_2019,60.68,false
+grad_year_2018,had_internship,57.62,false
+major_ECON,major_FIN,54.08,false
+major_ECON,major_MIS,53.56,false
+major_MIS,had_internship,52.78,false
+grad_year_2022,had_internship,50.91,false
+major_ECON,major_OSCM,50.6,false
+grad_year_2018,gpa_final,49.36,false
+major_FIN,major_OSCM,48.42,false
+grad_year_2021,had_internship,45.49,false
+major_MIS,"location_metro_New York-Newark-Jersey City, NY-NJ",43.04,false

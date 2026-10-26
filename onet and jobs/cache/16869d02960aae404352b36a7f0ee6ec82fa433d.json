@@ -1,0 +1,1 @@
+{"outlook": {"category": "Bright", "description": "New job opportunities are very likely in the future."}, "bright_outlook": [{"href": "https://api-v2.onetcenter.org/mnm/bright_outlook/openings", "code": "openings", "title": "Openings"}], "salary": {"soc_code": "43-9061", "annual_10th_percentile": 30310, "annual_median": 45010, "annual_90th_percentile": 64680}}

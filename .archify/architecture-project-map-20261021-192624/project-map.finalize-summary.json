@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "ok": false,
+  "command": "finalize",
+  "status": "fail",
+  "type": "architecture",
+  "quality": "showcase",
+  "specification": {
+    "path": "/Users/athirumalai/Desktop/midterm-464/.archify/architecture-project-map-20261021-192624/candidate.json",
+    "sha256": "c8a626425d0f7dc357141270bf54793b2122f9b067894671f7516084b1e5a754",
+    "bytes": 12862
+  },
+  "artifact": {
+    "path": "/Users/athirumalai/Desktop/midterm-464/.archify/architecture-project-map-20261021-192624/project-map.html",
+    "sha256": "9793998cc4fa3d1acde7372d4565e67423a58dbcfdfae7505d09584711c099fa",
+    "bytes": 844944
+  },
+  "gates": {
+    "validate": "pass",
+    "deliver": "pass",
+    "check": "pass",
+    "browser-check": "fail"
+  },
+  "failedStage": "browser-check",
+  "diagnostics": [
+    {
+      "code": "viewer/browser-check-runtime",
+      "severity": "error",
+      "message": "browser-check could not complete its Chrome inspection.",
+      "subject": {
+        "artifact": "/Users/athirumalai/Desktop/midterm-464/.archify/architecture-project-map-20261021-192624/project-map.html"
+      },
+      "evidence": {
+        "reason": "Chrome DevTools read pipe failed: stream ended\nChrome process: still running.\nChrome transport: Node v26.12.0, libuv 1.53.0, darwin; pid=11196, exitCode=null, signalCode=null.\nChrome read pipe: readable=false, ended=true, destroyed=false, receivedBytes=0, messages=0, bufferedBytes=0.\nChrome write pipe: writable=true, ended=false, destroyed=false, completedWrites=1, writtenBytes=50, bufferedBytes=0."
+      },
+      "supportedFixes": [
+        "resolve the reported Chrome inspection error, then rerun browser-check"
+      ]
+    }
+  ],
+  "diagnosticSummary": {
+    "total": 1,
+    "shown": 1,
+    "truncated": false
+  },
+  "evidence": {
+    "receipt": "/Users/athirumalai/Desktop/midterm-464/.archify/architecture-project-map-20261021-192624/project-map.finalize.json",
+    "summaryReceipt": "/Users/athirumalai/Desktop/midterm-464/.archify/architecture-project-map-20261021-192624/project-map.finalize-summary.json",
+    "browserCheckReceipt": "/Users/athirumalai/Desktop/midterm-464/.archify/architecture-project-map-20261021-192624/project-map.browser-check.json"
+  },
+  "visualReview": "not-requested",
+  "durationMs": 4461,
+  "browserCheck": {
+    "requested": true,
+    "ran": false
+  }
+}

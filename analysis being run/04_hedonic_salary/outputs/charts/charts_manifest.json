@@ -1,0 +1,78 @@
+{
+  "fonts": {
+    "sans": "Graphik",
+    "mono": "B612 Mono",
+    "sans_file": "/System/Library/AssetsV2/com_apple_MobileAsset_Font8/826aa3dd9709faf607b06657a17fba9e5547a0c9.asset/AssetData/Graphik.ttc",
+    "mono_file": "/Users/athirumalai/.agents/skills/matplotlib-research-charts/assets/fonts/B612Mono-Regular.ttf"
+  },
+  "formats": [
+    "PNG (300 dpi)",
+    "PDF (font subsets)",
+    "SVG (font paths)"
+  ],
+  "synthetic_alumni": true,
+  "charts": [
+    {
+      "section": "04_hedonic_salary",
+      "stem": "01_model_cross_validation",
+      "title": "Salary model cross-validation",
+      "sources_sha256": {
+        "model_cv_performance.csv": "1a9fbc424fd51a6841e516c4f5434a0c58106b6f520d0d1075332cb5ee4f1fed"
+      },
+      "plotting_rows": 3,
+      "notes": "Symmetric bars are SD across folds for R\u00b2 only. Both bar axes begin at zero."
+    },
+    {
+      "section": "04_hedonic_salary",
+      "stem": "02_skill_premiums_robust_intervals",
+      "title": "Skill salary premiums with robust intervals",
+      "sources_sha256": {
+        "hedonic_skill_premiums_metro_fixed_effects.csv": "e6161d859262054c0e4df54a5ad5af251de9838ea1fa3eaab24fce8a4f56ce19",
+        "hedonic_model_summary.json": "616ffd70be27b76784ed2f6713299486293afdd0306d8e675c88b6a851bbf2af"
+      },
+      "plotting_rows": 12,
+      "notes": "Dollar CI endpoints = (exp(saved log-coefficient CI) \u2212 1) \u00d7 mean starting salary. Intervals are pointwise, not FDR-adjusted."
+    },
+    {
+      "section": "04_hedonic_salary",
+      "stem": "03_salary_control_estimates",
+      "title": "Salary control estimates",
+      "sources_sha256": {
+        "hedonic_controls_metro_fixed_effects.csv": "db8bbfe5781a707750c18dc21e2ffe32c29de3028c750ca849695663be19973d",
+        "hedonic_model_summary.json": "616ffd70be27b76784ed2f6713299486293afdd0306d8e675c88b6a851bbf2af"
+      },
+      "plotting_rows": 13,
+      "notes": "References inferred from observed levels absent from model coefficient table; source alumni fingerprint recorded in run manifest."
+    },
+    {
+      "section": "04_hedonic_salary",
+      "stem": "04_shap_feature_importance",
+      "title": "TreeSHAP feature importance",
+      "sources_sha256": {
+        "shap_feature_importance.csv": "508c9848179bee8594bafd5e9d270f1a5e9b7ff7e0e066a61951761332ea4743"
+      },
+      "plotting_rows": 15,
+      "notes": "Magnitude is unsigned and does not imply a positive effect. Saved attribution values, not a reconstructed SHAP beeswarm."
+    },
+    {
+      "section": "04_hedonic_salary",
+      "stem": "05_shap_top_interactions",
+      "title": "Largest TreeSHAP interactions",
+      "sources_sha256": {
+        "shap_top_interactions.csv": "4ed1758748751ea2d98a3362250f9f2f45414269eee5024570d8de0bc47116ab"
+      },
+      "plotting_rows": 10,
+      "notes": "Uses the saved upper-triangle entry scale; not doubled into a joint contribution."
+    },
+    {
+      "section": "04_hedonic_salary",
+      "stem": "06_requested_skill_pair_interactions",
+      "title": "Requested skill-pair estimability",
+      "sources_sha256": {
+        "skill_pair_interactions.csv": "e446513c7a52d61954c8f9fa35833d32bf6ce621ca0dc9de4aae1449ecb4fcac"
+      },
+      "plotting_rows": 5,
+      "notes": "All-zero estimates retain a symmetric \u00b1$1 display window. Missing pair estimates are text only, never fabricated zeros."
+    }
+  ]
+}

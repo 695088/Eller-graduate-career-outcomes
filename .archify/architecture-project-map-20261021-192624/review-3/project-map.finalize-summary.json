@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 1,
+  "ok": true,
+  "command": "finalize",
+  "status": "pass",
+  "type": "architecture",
+  "quality": "showcase",
+  "specification": {
+    "path": "/Users/athirumalai/Desktop/midterm-464/.archify/architecture-project-map-20261021-192624/candidate.json",
+    "sha256": "af10b50d706811aebf8e338a2ee04aeb295a00c5e345c66eb8498046dd9e8cea",
+    "bytes": 12863
+  },
+  "artifact": {
+    "path": "/Users/athirumalai/Desktop/midterm-464/.archify/architecture-project-map-20261021-192624/project-map.html",
+    "sha256": "49f46c4b5ab3e37033df29703f1d4449dceb2e95abee1fb663969e9aeaba43a5",
+    "bytes": 845054
+  },
+  "gates": {
+    "validate": "pass",
+    "deliver": "pass",
+    "check": "pass",
+    "browser-check": "pass"
+  },
+  "diagnostics": [],
+  "diagnosticSummary": {
+    "total": 0,
+    "shown": 0,
+    "truncated": false
+  },
+  "evidence": {
+    "receipt": "/Users/athirumalai/Desktop/midterm-464/.archify/architecture-project-map-20261021-192624/review-3/project-map.finalize.json",
+    "summaryReceipt": "/Users/athirumalai/Desktop/midterm-464/.archify/architecture-project-map-20261021-192624/review-3/project-map.finalize-summary.json",
+    "browserCheckReceipt": "/Users/athirumalai/Desktop/midterm-464/.archify/architecture-project-map-20261021-192624/review-3/project-map.browser-check.json"
+  },
+  "update": {
+    "status": "current",
+    "installedVersion": "3.2.0",
+    "availableVersion": "3.2.0",
+    "releaseNotes": null,
+    "checkedAt": "2026-10-22T02:30:38.698Z",
+    "source": "cache",
+    "noticeRequired": false,
+    "noticeText": null
+  },
+  "visualReview": "not-requested",
+  "durationMs": 2682,
+  "browserCheck": {
+    "requested": true,
+    "ran": true
+  },
+  "visualReviewRecommendation": {
+    "action": "inspect-route-readability",
+    "signals": {
+      "routesOverSuggestedBends": 1,
+      "routesOverSuggestedStretch": 1
+    },
+    "reason": "Automated gates passed, but crossings or detours still need perceptual review before claiming visual quality.",
+    "affectedRoutes": {
+      "crossings": [],
+      "detours": [
+        {
+          "relationship": {
+            "id": "alignment-to-onet",
+            "from": "alignment",
+            "to": "onet",
+            "label": "Market requests",
+            "collectionIndex": 14,
+            "artifactIndex": 15
+          },
+          "bends": 4,
+          "stretch": 1.562,
+          "directCorridorBlockers": [
+            {
+              "id": "references",
+              "label": "Reference preparation",
+              "box": [
+                40,
+                190,
+                235,
+                76
+              ]
+            }
+          ]
+        }
+      ],
+      "truncated": false
+    },
+    "repair": "Trace these relationships at the desktop viewport. For Architecture, use references/architecture-layout-repair.md: reflow a blocked main path or tangled connected scene, and repair an isolated defect locally only when the surrounding composition is accepted. Preserve all semantic content and user-fixed geometry. Rerun finalize once after the edit."
+  }
+}

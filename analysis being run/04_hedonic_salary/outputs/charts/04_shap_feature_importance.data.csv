@@ -1,0 +1,16 @@
+feature,label,feature_type,prevalence,mean_abs_shap,shap_gap_present_vs_absent
+major_MIS,major_MIS,control,0.1111,2151.32,11106.44
+major_FIN,major_FIN,control,0.1111,1356.75,6946.42
+"location_metro_San Francisco-Oakland-Berkeley, CA","location_metro_San Francisco-Oakland-Berkeley, CA",control,0.0701,1189.24,9139.62
+"location_metro_New York-Newark-Jersey City, NY-NJ","location_metro_New York-Newark-Jersey City, NY-NJ",control,0.0707,1168.91,8909.13
+"location_metro_Seattle-Tacoma-Bellevue, WA","location_metro_Seattle-Tacoma-Bellevue, WA",control,0.0564,1018.19,9497.55
+had_internship,had_internship,control,0.6991,856.79,2036.29
+major_MKTG,major_MKTG,control,0.1111,698.1,-3671.99
+grad_year_2018,grad_year_2018,control,0.2004,679.71,-2133.72
+grad_year_2022,grad_year_2022,control,0.2037,675.21,2107.46
+major_BNAD,major_BNAD,control,0.1111,627.98,-3098.46
+major_BMGT,major_BMGT,control,0.1111,603.28,-3066.47
+grad_year_2021,grad_year_2021,control,0.2001,397.85,1219.47
+major_OSCM,major_OSCM,control,0.1111,356.84,1838.29
+major_ECON,major_ECON,control,0.1111,291.26,1372.58
+major_ENTR,major_ENTR,control,0.1111,275.04,-1378.2

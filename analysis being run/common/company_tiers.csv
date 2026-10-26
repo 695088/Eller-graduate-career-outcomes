@@ -1,0 +1,27 @@
+# Employer tier used as the "company tier" control in the salary models.
+# Tier 1: Big Four accounting firms, mega-cap technology, bulge-bracket bank.
+# Tier 2: other large national or multinational employers.
+# Tier 3: regional or mid-size employers.
+# This is an editable judgment mapping, not an external ranking. Employers not
+# listed here default to tier 3.
+employer_clean,company_tier
+Deloitte,1
+Ernst & Young,1
+KPMG LLP,1
+PwC,1
+Google,1
+Microsoft,1
+Amazon,1
+JPMorgan Chase,1
+Accenture,2
+Charles Schwab,2
+Honeywell,2
+Intel,2
+Nielsen,2
+Oracle,2
+Protiviti,2
+Target,2
+Vanguard,2
+Wells Fargo,2
+Knight Transportation,3
+Madden Media,3

@@ -1,0 +1,101 @@
+{
+  "major": "Management Information Systems / Operations & Supply Chain Management",
+  "major_code": "MIS-OSCM",
+  "source_file": "MIS-OSCM_Major-Industry-Guide-2.pdf",
+  "document_title": "MANAGEMENT INFORMATION SYSTEMS/OPERATIONS & SUPPLY CHAIN MANAGEMENT CAREERS OVERVIEW",
+  "sections": {
+    "common_industries": {
+      "type": "list",
+      "data": [
+        "Aerospace/Defense",
+        "Financial Services/Banking",
+        "Insurance",
+        "Technology/Science",
+        "Retail",
+        "Healthcare",
+        "Consulting",
+        "E-Commerce"
+      ],
+      "original_header": "COMMON INDUSTRIES"
+    },
+    "typical_mis_om_career_options": {
+      "type": "table",
+      "columns": [
+        "job_function",
+        "sample_of_companies",
+        "sample_job_titles_positions",
+        "primary_responsibilities"
+      ],
+      "column_headers": {
+        "job_function": "JOB FUNCTION",
+        "sample_of_companies": "SAMPLE OF COMPANIES",
+        "sample_job_titles_positions": "SAMPLE JOB TITLES/POSITIONS",
+        "primary_responsibilities": "PRIMARY RESPONSIBILITIES"
+      },
+      "data": [
+        {
+          "job_function": "Design & Development",
+          "sample_of_companies": "DocuSign, General Motors",
+          "sample_job_titles_positions": "Engineers, Programmers, Application Developers, Designers, System Architect, Business Intelligence",
+          "primary_responsibilities": "Write and test code for applications and software programs to function properly. Test applications and programs to ensure they produce expected results. Tech Skills: Programming Languages (Java, HTML)"
+        },
+        {
+          "job_function": "IT Management",
+          "sample_of_companies": "Cognizant, Amazon Web Services, Insight",
+          "sample_job_titles_positions": "IT Consultant, CIO, Info Systems Manager, IT Director, IT/Project Manager, Social Media Manager, Information Security Officer, IT Service Manager",
+          "primary_responsibilities": "Plan, coordinate, and direct computer-related activities in an organization. Help determine technology goals of an organization. Tech Skills: PMP Software (Microsoft Project, Jira)"
+        },
+        {
+          "job_function": "Networking & Big Data Analytics",
+          "sample_of_companies": "IBM, Raytheon, Google, American Express",
+          "sample_job_titles_positions": "Database/Network/Systems/Information Security Administrator, Business Analyst/Network Administrator",
+          "primary_responsibilities": "Gather and organize information/data about a problem to be solved or a procedure to be improved. Can develop solutions, alternative practices, recommend new systems, procedures, or organizational changes. Tech Skills: Data Visualization, Programming Languages (SQL, Python, R)"
+        },
+        {
+          "job_function": "Operations Management/Supply Chain",
+          "sample_of_companies": "Amazon, Raytheon, Target, Walmart",
+          "sample_job_titles_positions": "Supply Chain Analyst, Operations Manager, Supply Chain Consultant",
+          "primary_responsibilities": "Plan, oversee, and coordinate the operations of a company. Typical responsibilities include procurement (acquiring goods and services from external sources), managing relations, and improving a company’s use of resources. Tech Skills: Microsoft Excel, Data Visualization, Programming Languages (SQL)"
+        },
+        {
+          "job_function": "Systems Analysis",
+          "sample_of_companies": "JP Morgan, Goldman Sachs",
+          "sample_job_titles_positions": "Business Intelligence/Systems/Information Security Analyst, Enterprise Information Analyst",
+          "primary_responsibilities": "Bring together business and information technology (IT) by understanding computer systems and procedures in order to design solutions to help them operate more efficiently and effectively. Tech Skills: Cloud Platforms, Programming Languages (Java)"
+        },
+        {
+          "job_function": "Systems Support",
+          "sample_of_companies": "ADP, Oracle, Insight",
+          "sample_job_titles_positions": "Technical Support/Technical Sales/Infrastructure/Security Support and IT User Liaison",
+          "primary_responsibilities": "Analyze, troubleshoot, and evaluate computer network problems. Provide assistance to people and organizations using computer software or equipment. Tech Skills: Operating Systems (Microsoft, Linux)"
+        },
+        {
+          "job_function": "Technical Sales",
+          "sample_of_companies": "IBM, Cisco, Siemens Dell",
+          "sample_job_titles_positions": "Business Development Associate, Account Manager, Sales Consultant",
+          "primary_responsibilities": "Focus on complex and technical products for businesses. Work directly with customers to meet customers' needs and product specifications, prepare contracts, and answer questions. Tech Skills: Customer Relationship Management Software (CRM)"
+        }
+      ],
+      "original_header": "TYPICAL MIS/OM CAREER OPTIONS"
+    },
+    "engagement_opportunities": {
+      "type": "list",
+      "data": [
+        "Management Information Systems Association (MISA)",
+        "Eller Professional Sales Club",
+        "Zipperman Scholars Program",
+        "Advanced Zipperman Associates (AZA)",
+        "HackArizona",
+        "Eller College Dean's Council",
+        "MIS 441 Systems Analysis & Design",
+        "MIS 478 Project Management"
+      ],
+      "original_header": "ENGAGEMENT OPPORTUNITIES"
+    }
+  },
+  "section_order": [
+    "common_industries",
+    "typical_mis_om_career_options",
+    "engagement_opportunities"
+  ]
+}

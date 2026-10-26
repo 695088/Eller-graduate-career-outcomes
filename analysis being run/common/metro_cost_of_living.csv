@@ -1,0 +1,14 @@
+# Regional cost-of-living index per metro (US average = 100).
+# Fill rpp_index from BEA Regional Price Parities by MSA ("All items" RPP,
+# table MARPP at https://apps.bea.gov/regional/). Until every row is filled,
+# the salary models use metro fixed effects instead of this index.
+location_metro,rpp_index
+"Phoenix-Mesa-Chandler, AZ",
+"Tucson, AZ",
+"Los Angeles-Long Beach-Anaheim, CA",
+"San Francisco-Oakland-Berkeley, CA",
+"Dallas-Fort Worth-Arlington, TX",
+"New York-Newark-Jersey City, NY-NJ",
+"Denver-Aurora-Centennial, CO",
+"Chicago-Naperville-Elgin, IL-IN",
+"Seattle-Tacoma-Bellevue, WA",

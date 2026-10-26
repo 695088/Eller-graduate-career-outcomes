@@ -1,0 +1,46 @@
+major,sequence_type,pattern,length,support_count,support_pct,confidence,is_closed
+ACCT,title,[Y0] Staff Accountant -> [Y3] Senior Accountant,2,242,0.1452,0.5513,true
+ACCT,title,[Y0] Audit Associate -> [Y3] Senior Audit/Tax Associate,2,239,0.1434,0.552,true
+ACCT,title,[Y0] Accountant -> [Y3] Senior Accountant,2,230,0.138,0.5736,true
+ACCT,title,[Y0] Tax Associate -> [Y3] Senior Audit/Tax Associate,2,222,0.1332,0.5635,true
+ACCT,title,[Intern] Consulting & Advisory -> [Y3] Senior Audit/Tax Associate,2,199,0.1194,0.3076,true
+BMGT,title,[Y0] Human Resources Associate -> [Y3] Senior Human Resources Specialist,2,235,0.141,0.5595,true
+BMGT,title,[Y0] Operations Analyst -> [Y3] Senior Operations Analyst,2,224,0.1344,0.5424,true
+BMGT,title,[Y0] Management Consulting Associate -> [Y3] Senior Operations Analyst,2,223,0.1338,0.5284,true
+BMGT,title,[Y0] Human Resources Specialist -> [Y3] Human Resources Specialist,2,208,0.1248,0.5049,true
+BMGT,title,[Y0] Human Resources Specialist -> [Y3] Senior Human Resources Specialist,2,204,0.1224,0.4951,true
+BNAD,title,[Y0] Management Analyst -> [Y3] Senior Management Analyst,2,251,0.1507,0.6019,true
+BNAD,title,[Y0] Business Associate -> [Y3] Senior Business Operations Analyst,2,235,0.1411,0.5542,true
+BNAD,title,[Y0] Business Operations Analyst -> [Y3] Senior Business Operations Analyst,2,231,0.1387,0.5397,true
+BNAD,title,[Y0] Business Analyst -> [Y3] Senior Management Analyst,2,215,0.1291,0.5416,true
+BNAD,title,[Y0] Business Operations Analyst -> [Y3] Business Operations Analyst,2,197,0.1182,0.4603,true
+ECON,title,[Y0] Business Analyst -> [Y3] Senior Business Analyst,2,230,0.138,0.5227,true
+ECON,title,[Y0] Economic Research Analyst -> [Y3] Senior Research Analyst,2,229,0.1374,0.5439,true
+ECON,title,[Y0] Economic Consulting Analyst -> [Y3] Senior Business Analyst,2,219,0.1314,0.5587,true
+ECON,title,[Y0] Research Analyst -> [Y3] Senior Research Analyst,2,218,0.1308,0.5266,true
+ECON,title,[Y0] Business Analyst -> [Y3] Business Analyst,2,210,0.126,0.4773,true
+ENTR,title,[Y0] Startup Operations Analyst -> [Y3] Senior Business Operations Specialist,2,243,0.1459,0.5664,true
+ENTR,title,[Y0] Market Development Analyst -> [Y3] Senior Growth Marketing Specialist,2,233,0.1399,0.5248,true
+ENTR,title,[Y0] Growth Marketing Associate -> [Y3] Senior Growth Marketing Specialist,2,228,0.1369,0.5772,true
+ENTR,title,[Y0] Business Operations Associate -> [Y3] Senior Business Operations Specialist,2,216,0.1297,0.5427,true
+ENTR,title,[Y0] Market Development Analyst -> [Y3] Market Development Analyst,2,211,0.1267,0.4752,true
+FIN,title,[Y0] Financial Risk Analyst -> [Y3] Senior Risk Analyst,2,253,0.1518,0.5737,true
+FIN,title,[Y0] Risk Analyst -> [Y3] Senior Risk Analyst,2,238,0.1428,0.592,true
+FIN,title,[Y0] Investment Analyst -> [Y3] Senior Financial Analyst,2,238,0.1428,0.5667,true
+FIN,title,[Y0] Financial Analyst -> [Y3] Senior Financial Analyst,2,231,0.1386,0.5718,true
+FIN,title,[Y0] Financial Risk Analyst -> [Y3] Financial Risk Analyst,2,188,0.1128,0.4263,true
+MIS,title,[Y0] Systems Analyst -> [Y3] Systems Analyst,2,366,0.2196,0.4368,true
+MIS,title,[Y0] Systems Analyst -> [Y3] Senior Systems Analyst,2,248,0.1488,0.2959,true
+MIS,title,[Y0] IT Business Analyst -> [Y3] Senior Systems Analyst,2,232,0.1392,0.5537,true
+MIS,title,[Y0] Systems Analyst -> [Y3] Senior Consultant,2,224,0.1344,0.2673,true
+MIS,title,[Intern] Consulting & Advisory -> [Y0] Systems Analyst,2,216,0.1296,0.5012,true
+MKTG,title,[Y0] Market Research Associate -> [Y3] Senior Marketing Specialist,2,249,0.1494,0.6163,true
+MKTG,title,[Y0] Marketing Specialist -> [Y3] Senior Marketing Specialist,2,238,0.1428,0.5535,true
+MKTG,title,[Y0] Marketing Analyst -> [Y3] Senior Marketing Analyst,2,235,0.141,0.5465,true
+MKTG,title,[Y0] Digital Marketing Associate -> [Y3] Senior Marketing Analyst,2,234,0.1404,0.5806,true
+MKTG,title,[Y0] Marketing Analyst -> [Y3] Marketing Analyst,2,195,0.117,0.4535,true
+OSCM,title,[Y0] Procurement Analyst -> [Y3] Senior Logistics Analyst,2,251,0.1507,0.5851,true
+OSCM,title,[Y0] Logistics Coordinator -> [Y3] Senior Supply Chain Analyst,2,243,0.1459,0.5573,true
+OSCM,title,[Y0] Supply Chain Analyst -> [Y3] Senior Supply Chain Analyst,2,237,0.1423,0.567,true
+OSCM,title,[Y0] Logistics Analyst -> [Y3] Senior Logistics Analyst,2,230,0.1381,0.6005,true
+OSCM,title,[Y0] Logistics Coordinator -> [Y3] Logistics Coordinator,2,193,0.1158,0.4427,true

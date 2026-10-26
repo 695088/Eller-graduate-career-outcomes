@@ -1,0 +1,202 @@
+bundle_id,bundle_label,lead_skill_id,n_skills,member_skill_ids,member_skill_names,prevalence
+B001,SQL (+9 co-taught),SK_001,10,SK_001; SK_130; SK_131; SK_132; SK_133; SK_134; SK_135; SK_140; SK_141; SK_322,SQL; Panel Data Modeling; Logistic Regression; Decision Trees; Analysis of Variance; Statistical Programming; SAS; Data Integration; Data Preparation; Audience Analysis,0.0301
+B002,Financial Reporting,SK_006,1,SK_006,Financial Reporting,0.1581
+B003,Accounting Transaction Recording,SK_007,1,SK_007,Accounting Transaction Recording,0.1044
+B004,Cost Accounting (+4 co-taught),SK_010,5,SK_010; SK_012; SK_013; SK_014; SK_015,Cost Accounting; Cost-Volume-Profit Analysis; Job Costing; Process Costing; Standard Costing,0.1047
+B005,Federal Taxation (+2 co-taught),SK_017,3,SK_017; SK_018; SK_019,Federal Taxation; Tax Compliance; Tax Planning,0.1039
+B006,Assurance Services,SK_020,1,SK_020,Assurance Services,0.1039
+B007,Internal Controls,SK_021,1,SK_021,Internal Controls,0.1377
+B008,Accounting Information Systems,SK_022,1,SK_022,Accounting Information Systems,0.1081
+B009,Governmental Accounting (+3 co-taught),SK_023,4,SK_023; SK_024; SK_025; SK_026,Governmental Accounting; Nonprofit Accounting; Fund Accounting; GAAP,0.1061
+B010,Financial Management,SK_027,1,SK_027,Financial Management,0.2614
+B011,Financial Analysis,SK_028,1,SK_028,Financial Analysis,0.1145
+B012,Financial Forecasting,SK_029,1,SK_029,Financial Forecasting,0.2318
+B013,Company Valuation,SK_030,1,SK_030,Company Valuation,0.3389
+B014,Discounted Cash Flow Valuation (+2 co-taught),SK_031,3,SK_031; SK_032; SK_033,Discounted Cash Flow Valuation; Residual Income Valuation; Comparable Valuation Analysis,0.1066
+B015,Credit Analysis,SK_034,1,SK_034,Credit Analysis,0.1354
+B016,Profitability Analysis,SK_035,1,SK_035,Profitability Analysis,0.1955
+B017,Investment Analysis,SK_036,1,SK_036,Investment Analysis,0.2171
+B018,Portfolio Management,SK_037,1,SK_037,Portfolio Management,0.1559
+B019,Portfolio Diversification (+4 co-taught),SK_038,5,SK_038; SK_039; SK_040; SK_043; SK_344,Portfolio Diversification; Asset Allocation; Investment Performance Evaluation; Mutual Fund Analysis; Market Efficiency Analysis,0.0485
+B020,Fixed Income Analysis,SK_041,1,SK_041,Fixed Income Analysis,0.1389
+B021,Equity Analysis,SK_042,1,SK_042,Equity Analysis,0.1387
+B022,Small Business Finance (+2 co-taught),SK_044,3,SK_044; SK_045; SK_046,Small Business Finance; Business Planning; Break-Even Analysis,0.1297
+B023,Working Capital Management,SK_047,1,SK_047,Working Capital Management,0.1661
+B024,Real Estate Valuation,SK_048,1,SK_048,Real Estate Valuation,0.0476
+B025,Real Estate Finance,SK_049,1,SK_049,Real Estate Finance,0.0869
+B026,Real Estate Investment Analysis,SK_050,1,SK_050,Real Estate Investment Analysis,0.0517
+B027,Time Value of Money,SK_051,1,SK_051,Time Value of Money,0.0487
+B028,Capital Budgeting (+1 co-taught),SK_052,2,SK_052; SK_053,Capital Budgeting; Financial Planning,0.086
+B029,International Finance,SK_054,1,SK_054,International Finance,0.1167
+B030,Financial Modeling,SK_055,1,SK_055,Financial Modeling,0.0873
+B031,Bloomberg,SK_056,1,SK_056,Bloomberg,0.0507
+B032,Capital Structure Analysis,SK_057,1,SK_057,Capital Structure Analysis,0.1168
+B033,Corporate Restructuring,SK_058,1,SK_058,Corporate Restructuring,0.0522
+B034,Risk-Return Analysis,SK_059,1,SK_059,Risk-Return Analysis,0.0481
+B035,Investment Banking (+1 co-taught),SK_060,2,SK_060; SK_341,Investment Banking; Professional Networking,0.0488
+B036,Private Equity,SK_061,1,SK_061,Private Equity,0.1652
+B037,Venture Capital,SK_062,1,SK_062,Venture Capital,0.1935
+B038,Financial Risk Management,SK_063,1,SK_063,Financial Risk Management,0.0877
+B039,Derivatives (+2 co-taught),SK_064,3,SK_064; SK_066; SK_068,Derivatives; Swaps; Forward Contracts,0.0516
+B040,Options (+1 co-taught),SK_065,2,SK_065; SK_067,Options; Futures,0.0786
+B041,Hedging,SK_069,1,SK_069,Hedging,0.0758
+B042,Financial Market Analysis,SK_070,1,SK_070,Financial Market Analysis,0.1709
+B043,Financial Technology (+1 co-taught),SK_071,2,SK_071; SK_072,Financial Technology; ESG Investing,0.0496
+B044,Financial Regulation,SK_073,1,SK_073,Financial Regulation,0.0788
+B045,Financial Institution Management,SK_074,1,SK_074,Financial Institution Management,0.0487
+B046,Deal Evaluation (+4 co-taught),SK_075,5,SK_075; SK_076; SK_077; SK_078; SK_079,Deal Evaluation; Deal Structuring; Due Diligence; Investment Fund Structuring; Value Creation Strategy,0.1293
+B047,Cost of Capital Analysis (+6 co-taught),SK_080,7,SK_080; SK_081; SK_171; SK_172; SK_173; SK_174; SK_175,Cost of Capital Analysis; Portfolio Optimization; AI Literacy; AI-Assisted Programming; AI Agent Development; Financial Application Automation; Automated Report Generation,0.0489
+B048,Microeconomic Analysis,SK_084,1,SK_084,Microeconomic Analysis,0.1927
+B049,Macroeconomic Analysis,SK_085,1,SK_085,Macroeconomic Analysis,0.0817
+B050,Economic Growth and Development,SK_090,1,SK_090,Economic Growth and Development,0.1012
+B051,Economic History Analysis,SK_091,1,SK_091,Economic History Analysis,0.1245
+B052,Industrial Organization,SK_092,1,SK_092,Industrial Organization,0.1274
+B053,Economic Policy Analysis,SK_093,1,SK_093,Economic Policy Analysis,0.1791
+B054,Economics of Crime,SK_094,1,SK_094,Economics of Crime,0.0309
+B055,Sports Economics,SK_095,1,SK_095,Sports Economics,0.0285
+B056,Monetary Policy Analysis,SK_096,1,SK_096,Monetary Policy Analysis,0.1273
+B057,Fiscal Policy Analysis,SK_097,1,SK_097,Fiscal Policy Analysis,0.1027
+B058,Law and Economics,SK_098,1,SK_098,Law and Economics,0.0553
+B059,International Trade Analysis,SK_099,1,SK_099,International Trade Analysis,0.0565
+B060,Exchange Rate Analysis,SK_100,1,SK_100,Exchange Rate Analysis,0.0788
+B061,Balance of Payments Analysis,SK_101,1,SK_101,Balance of Payments Analysis,0.0299
+B062,Environmental Economics,SK_102,1,SK_102,Environmental Economics,0.0792
+B063,Natural Resource Economics (+1 co-taught),SK_103,2,SK_103; SK_120,Natural Resource Economics; Climate Economics,0.0292
+B064,Energy Market Analysis,SK_104,1,SK_104,Energy Market Analysis,0.0277
+B065,Labor Economics,SK_105,1,SK_105,Labor Economics,0.0813
+B066,Labor Market Discrimination Analysis,SK_106,1,SK_106,Labor Market Discrimination Analysis,0.0595
+B067,Experimental Economics,SK_107,1,SK_107,Experimental Economics,0.0291
+B068,Econometrics,SK_108,1,SK_108,Econometrics,0.1043
+B069,Mathematical Economics,SK_109,1,SK_109,Mathematical Economics,0.0567
+B070,Health Economics,SK_110,1,SK_110,Health Economics,0.0591
+B071,Public Finance,SK_111,1,SK_111,Public Finance,0.0565
+B072,Decision Theory,SK_112,1,SK_112,Decision Theory,0.1738
+B073,Behavioral Economics,SK_113,1,SK_113,Behavioral Economics,0.075
+B074,Behavioral Game Theory,SK_114,1,SK_114,Behavioral Game Theory,0.0277
+B075,Economic Damages Estimation,SK_115,1,SK_115,Economic Damages Estimation,0.0299
+B076,General Equilibrium Analysis,SK_116,1,SK_116,General Equilibrium Analysis,0.0276
+B077,Information Economics,SK_117,1,SK_117,Information Economics,0.059
+B078,Antitrust Analysis,SK_118,1,SK_118,Antitrust Analysis,0.0289
+B079,Regulatory Economics,SK_119,1,SK_119,Regulatory Economics,0.0579
+B080,Economic Modeling,SK_122,1,SK_122,Economic Modeling,0.0819
+B081,Statistical Model Estimation (+2 co-taught),SK_127,3,SK_127; SK_128; SK_345,Statistical Model Estimation; Regression Diagnostics; Hypothesis Testing for Economic Models,0.0285
+B082,Nonparametric Statistics,SK_129,1,SK_129,Nonparametric Statistics,0.0311
+B083,Data Collection,SK_142,1,SK_142,Data Collection,0.2113
+B084,Forecasting,SK_147,1,SK_147,Forecasting,0.4348
+B085,Data Mining (+2 co-taught),SK_148,3,SK_148; SK_149; SK_150,Data Mining; Web Mining; Business Intelligence,0.0776
+B086,Business Modeling and Simulation,SK_151,1,SK_151,Business Modeling and Simulation,0.0449
+B087,Optimization Modeling (+13 co-taught),SK_152,14,SK_152; SK_153; SK_154; SK_155; SK_156; SK_157; SK_160; SK_161; SK_162; SK_163; SK_164; SK_263; SK_264; SK_272,Optimization Modeling; Linear Programming; Integer Programming; Nonlinear Programming; Network Optimization Models; Monte Carlo Simulation; Excel Functions; Excel Named Ranges; Pivot Tables; Conditional Formatting; Excel Macros; Revenue Management; Outsourcing Analysis; Decision Making Under Uncertainty,0.1135
+B088,Decision Support Systems,SK_158,1,SK_158,Decision Support Systems,0.1885
+B089,Spreadsheet Modeling,SK_159,1,SK_159,Spreadsheet Modeling,0.1967
+B090,Programming,SK_165,1,SK_165,Programming,0.1951
+B091,Java (+3 co-taught),SK_166,4,SK_166; SK_167; SK_168; SK_169,Java; C Programming; Data Structures; Algorithm Design and Analysis,0.0787
+B092,Software Engineering (+3 co-taught),SK_170,4,SK_170; SK_188; SK_189; SK_190,Software Engineering; Healthcare Information Systems; Human-Computer Interaction; Technology Acceptance Evaluation,0.077
+B093,Deception Detection Software,SK_176,1,SK_176,Deception Detection Software,0.0795
+B094,Information Systems Management,SK_178,1,SK_178,Information Systems Management,0.1613
+B095,Computer Networking,SK_179,1,SK_179,Computer Networking,0.1234
+B096,E-Commerce,SK_180,1,SK_180,E-Commerce,0.1507
+B097,Database Management (+5 co-taught),SK_181,6,SK_181; SK_183; SK_184; SK_185; SK_186; SK_187,Database Management; Database Security; Database Concurrency Control; Database Integrity; Database Recovery; Database Querying,0.0793
+B098,Relational Database Design,SK_182,1,SK_182,Relational Database Design,0.1839
+B099,Information Systems Analysis and Design,SK_191,1,SK_191,Information Systems Analysis and Design,0.1206
+B100,Systems Development Life Cycle (+2 co-taught),SK_192,3,SK_192; SK_193; SK_270,Systems Development Life Cycle; Requirements Analysis; Cost-Benefit Analysis,0.0806
+B101,Business Process Design,SK_194,1,SK_194,Business Process Design,0.1911
+B102,Systems Integration,SK_195,1,SK_195,Systems Integration,0.1187
+B103,Enterprise Resource Planning,SK_196,1,SK_196,Enterprise Resource Planning,0.0818
+B104,Expert Systems (+5 co-taught),SK_197,6,SK_197; SK_206; SK_279; SK_280; SK_281; SK_351,Expert Systems; Data Privacy; Performance Management; Human Resource Information Systems; Human Resource Planning; HR Systems Selection and Evaluation,0.0413
+B105,Information Security,SK_198,1,SK_198,Information Security,0.1468
+B106,Network Security (+1 co-taught),SK_199,2,SK_199; SK_203,Network Security; Security Countermeasures,0.1208
+B107,Systems Security Administration (+1 co-taught),SK_200,2,SK_200; SK_205,Systems Security Administration; Information Assurance,0.0807
+B108,Information Security Risk Assessment,SK_201,1,SK_201,Information Security Risk Assessment,0.1235
+B109,Security Threat Analysis,SK_202,1,SK_202,Security Threat Analysis,0.1207
+B110,Operations Security,SK_204,1,SK_204,Operations Security,0.0773
+B111,Risk Reporting and Monitoring (+1 co-taught),SK_207,2,SK_207; SK_343,Risk Reporting and Monitoring; Security Asset Valuation,0.0804
+B112,Marketing Management,SK_208,1,SK_208,Marketing Management,0.1821
+B113,Marketing Strategy and Planning,SK_209,1,SK_209,Marketing Strategy and Planning,0.1883
+B114,Consumer Behavior Analysis,SK_210,1,SK_210,Consumer Behavior Analysis,0.1338
+B115,Sports Marketing,SK_211,1,SK_211,Sports Marketing,0.1093
+B116,Marketing Analytics,SK_212,1,SK_212,Marketing Analytics,0.1073
+B117,Digital Marketing (+3 co-taught),SK_213,4,SK_213; SK_214; SK_215; SK_216,Digital Marketing; Search Marketing; Social Media Marketing; Customer-Friendly Website Design,0.0661
+B118,Advertising,SK_217,1,SK_217,Advertising,0.1052
+B119,Advertising Message Development,SK_218,1,SK_218,Advertising Message Development,0.0633
+B120,Media Planning and Selection,SK_219,1,SK_219,Media Planning and Selection,0.1745
+B121,Marketing Performance Measurement,SK_220,1,SK_220,Marketing Performance Measurement,0.1341
+B122,Pricing Strategy (+1 co-taught),SK_221,2,SK_221; SK_222,Pricing Strategy; Channel and Distribution Management,0.0643
+B123,Sales (+1 co-taught),SK_223,2,SK_223; SK_224,Sales; Customer Relationship Management,0.0655
+B124,Retail Marketing (+3 co-taught),SK_225,4,SK_225; SK_228; SK_229; SK_230,Retail Marketing; Retail Location Planning; Merchandise Planning and Control; Store Layout and Design,0.0641
+B125,Competitive Analysis,SK_226,1,SK_226,Competitive Analysis,0.2082
+B126,Market Selection,SK_227,1,SK_227,Market Selection,0.1041
+B127,Marketing Research,SK_231,1,SK_231,Marketing Research,0.1847
+B128,Integrated Marketing Communications (+2 co-taught),SK_232,3,SK_232; SK_233; SK_234,Integrated Marketing Communications; Public Relations; Sales Promotion,0.0664
+B129,Sales Operations Management,SK_235,1,SK_235,Sales Operations Management,0.1059
+B130,International Marketing,SK_236,1,SK_236,International Marketing,0.0669
+B131,Healthcare Marketing,SK_237,1,SK_237,Healthcare Marketing,0.0656
+B132,Product Innovation,SK_238,1,SK_238,Product Innovation,0.2551
+B133,Product Strategy (+2 co-taught),SK_239,3,SK_239; SK_240; SK_241,Product Strategy; Product Launch; Product Portfolio Management,0.1431
+B134,Marketing Operations Auditing,SK_242,1,SK_242,Marketing Operations Auditing,0.0661
+B135,Operations Management,SK_243,1,SK_243,Operations Management,0.25
+B136,Service Operations Management,SK_244,1,SK_244,Service Operations Management,0.1723
+B137,Supply Chain Management,SK_245,1,SK_245,Supply Chain Management,0.2159
+B138,Logistics (+1 co-taught),SK_246,2,SK_246; SK_250,Logistics; Transportation Management,0.1875
+B139,Procurement (+2 co-taught),SK_247,3,SK_247; SK_248; SK_249,Procurement; Materials Handling; Warehousing,0.1743
+B140,Inventory Management,SK_251,1,SK_251,Inventory Management,0.2161
+B141,Aggregate Planning (+2 co-taught),SK_252,3,SK_252; SK_253; SK_254,Aggregate Planning; Materials Requirements Planning; Production Scheduling,0.1728
+B142,Facility Layout and Location (+1 co-taught),SK_255,2,SK_255; SK_258,Facility Layout and Location; Reliability and Maintainability,0.1475
+B143,Quality Management,SK_256,1,SK_256,Quality Management,0.2163
+B144,Statistical Process Control,SK_257,1,SK_257,Statistical Process Control,0.149
+B145,Manufacturing Product Design (+2 co-taught),SK_259,3,SK_259; SK_260; SK_261,Manufacturing Product Design; Capacity Management; Lean Operations,0.1138
+B146,Resource Allocation,SK_262,1,SK_262,Resource Allocation,0.1647
+B147,Project Management,SK_265,1,SK_265,Project Management,0.2636
+B148,Project Scope Management (+3 co-taught),SK_266,4,SK_266; SK_267; SK_268; SK_269,Project Scope Management; Project Cost Management; Project Schedule Management; Project Quality Management,0.0812
+B149,Risk Management,SK_271,1,SK_271,Risk Management,0.2428
+B150,Organizational Behavior,SK_273,1,SK_273,Organizational Behavior,0.1422
+B151,Human Resource Management,SK_274,1,SK_274,Human Resource Management,0.1222
+B152,Strategic Human Resource Management,SK_275,1,SK_275,Strategic Human Resource Management,0.0456
+B153,Compensation and Benefits,SK_276,1,SK_276,Compensation and Benefits,0.1202
+B154,Recruiting and Staffing,SK_277,1,SK_277,Recruiting and Staffing,0.0852
+B155,Employee Training and Development,SK_278,1,SK_278,Employee Training and Development,0.0862
+B156,Labor Relations,SK_282,1,SK_282,Labor Relations,0.0697
+B157,Equal Employment Opportunity,SK_283,1,SK_283,Equal Employment Opportunity,0.0829
+B158,Employee Motivation,SK_284,1,SK_284,Employee Motivation,0.2577
+B159,Strategic Management,SK_285,1,SK_285,Strategic Management,0.3215
+B160,Organization Design,SK_286,1,SK_286,Organization Design,0.1209
+B161,Organizational Change Management,SK_287,1,SK_287,Organizational Change Management,0.1223
+B162,International Business,SK_288,1,SK_288,International Business,0.1292
+B163,Management Consulting (+1 co-taught),SK_289,2,SK_289; SK_290,Management Consulting; Client Management,0.1238
+B164,Nonprofit Management,SK_291,1,SK_291,Nonprofit Management,0.2361
+B165,Organizational Governance (+2 co-taught),SK_292,3,SK_292; SK_293; SK_294,Organizational Governance; Volunteer Management; Fundraising,0.1259
+B166,Social Innovation,SK_295,1,SK_295,Social Innovation,0.1232
+B167,Entrepreneurship,SK_296,1,SK_296,Entrepreneurship,0.3027
+B168,Social Entrepreneurship,SK_297,1,SK_297,Social Entrepreneurship,0.122
+B169,Healthcare Entrepreneurship,SK_298,1,SK_298,Healthcare Entrepreneurship,0.1249
+B170,Healthcare Management,SK_299,1,SK_299,Healthcare Management,0.0853
+B171,Sports Administration,SK_300,1,SK_300,Sports Administration,0.1521
+B172,Event Management,SK_301,1,SK_301,Event Management,0.0461
+B173,Sports Facility Operations,SK_302,1,SK_302,Sports Facility Operations,0.0459
+B174,Sports Regulatory Compliance,SK_303,1,SK_303,Sports Regulatory Compliance,0.0889
+B175,Business Law,SK_304,1,SK_304,Business Law,0.1089
+B176,Contract Law,SK_305,1,SK_305,Contract Law,0.0709
+B177,Agency Law (+3 co-taught),SK_306,4,SK_306; SK_307; SK_309; SK_310,Agency Law; Business Entity Law; Negotiable Instruments; Estate and Probate Law,0.0439
+B178,Property Rights Law,SK_308,1,SK_308,Property Rights Law,0.1181
+B179,Research,SK_312,1,SK_312,Research,0.2255
+B180,Experimental Research,SK_313,1,SK_313,Experimental Research,0.1737
+B181,Research Problem Definition,SK_314,1,SK_314,Research Problem Definition,0.0646
+B182,Information Literacy,SK_315,1,SK_315,Information Literacy,0.1519
+B183,Written Communication,SK_317,1,SK_317,Written Communication,0.0848
+B184,Oral Communication,SK_318,1,SK_318,Oral Communication,0.0455
+B185,Presentation Skills,SK_319,1,SK_319,Presentation Skills,0.1088
+B186,Persuasion,SK_323,1,SK_323,Persuasion,0.1902
+B187,Research and Academic Writing,SK_326,1,SK_326,Research and Academic Writing,0.0292
+B188,Teamwork and Collaboration,SK_327,1,SK_327,Teamwork and Collaboration,0.3253
+B189,Negotiation,SK_328,1,SK_328,Negotiation,0.2129
+B190,Conflict Management,SK_329,1,SK_329,Conflict Management,0.0857
+B191,Cross-Cultural Competence,SK_330,1,SK_330,Cross-Cultural Competence,0.1075
+B192,Leadership,SK_331,1,SK_331,Leadership,0.1763
+B193,People Management,SK_332,1,SK_332,People Management,0.1647
+B194,Team Management,SK_333,1,SK_333,Team Management,0.0423
+B195,Critical Thinking,SK_334,1,SK_334,Critical Thinking,0.2669
+B196,Career Planning and Management,SK_339,1,SK_339,Career Planning and Management,0.0463
+B197,Economic Welfare Analysis,SK_346,1,SK_346,Economic Welfare Analysis,0.1007
+B198,Tort Law (+1 co-taught),SK_348,2,SK_348; SK_349,Tort Law; Criminal Law,0.0281
+B199,Operations Strategy,SK_350,1,SK_350,Operations Strategy,0.1733
+B200,Workplace Diversity Analysis,SK_352,1,SK_352,Workplace Diversity Analysis,0.1043
+B201,Business Opportunity Evaluation,SK_353,1,SK_353,Business Opportunity Evaluation,0.2138

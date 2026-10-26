@@ -1,0 +1,933 @@
+onet_soc_code,text,source
+13-1071.00,"Interpret and explain human resources policies, procedures, laws, standards, or regulations.",task
+13-1071.00,Hire employees and process hiring-related paperwork.,task
+13-1071.00,"Maintain current knowledge of Equal Employment Opportunity (EEO) and affirmative action guidelines and laws, such as the Americans with Disabilities Act (ADA).",task
+13-1071.00,"Prepare or maintain employment records related to events, such as hiring, termination, leaves, transfers, or promotions, using human resources management system software.",task
+13-1071.00,"Address employee relations issues, such as harassment allegations, work complaints, or other employee concerns.",task
+13-1071.00,Review employment applications and job orders to match applicants with job requirements.,task
+13-1071.00,"Inform job applicants of details such as duties and responsibilities, compensation, benefits, schedules, working conditions, or promotion opportunities.",task
+13-1071.00,"Select qualified job applicants or refer them to managers, making hiring recommendations when appropriate.",task
+13-1071.00,Schedule or conduct new employee orientations.,task
+13-1071.00,"Maintain and update human resources documents, such as organizational charts, employee handbooks or directories, or performance evaluation forms.",task
+13-1071.00,Confer with management to develop or implement personnel policies or procedures.,task
+13-1071.00,Contact job applicants to inform them of the status of their applications.,task
+13-1071.00,Conduct exit interviews and ensure that necessary employment termination paperwork is completed.,task
+13-1071.00,"Interview job applicants to obtain information on work history, training, education, or job skills.",task
+13-1071.00,"Perform searches for qualified job candidates, using sources such as computer databases, networking, Internet recruiting resources, media advertisements, job fairs, recruiting firms, or employee referrals.",task
+13-1071.00,"Provide management with information or training related to interviewing, performance appraisals, counseling techniques, or documentation of performance issues.",task
+13-1071.00,Analyze employment-related data and prepare required reports.,task
+13-1071.00,"Advise management on organizing, preparing, or implementing recruiting or retention programs.",task
+13-1071.00,Develop or implement recruiting strategies to meet current or anticipated staffing needs.,task
+13-1071.00,Administer employee benefit plans.,task
+13-1071.00,"Schedule or administer skill, intelligence, psychological, or drug tests for current or prospective employees.",task
+13-1071.00,Conduct reference or background checks on job applicants.,task
+13-1071.00,"Review and evaluate applicant qualifications or eligibility for specified licensing, according to established guidelines and designated licensing codes.",task
+13-1071.00,"Evaluate recruitment or selection criteria to ensure conformance to professional, statistical, or testing standards, recommending revisions, as needed.",task
+13-1071.00,"Coordinate with outside staffing agencies to secure temporary employees, based on departmental needs.",task
+13-1071.00,Evaluate selection or testing techniques by conducting research or follow-up activities and conferring with management or supervisory personnel.,task
+13-1081.00,"Maintain and develop positive business relationships with a customer's key personnel involved in, or directly relevant to, a logistics activity.",task
+13-1081.00,Develop an understanding of customers' needs and take actions to ensure that such needs are met.,task
+13-1081.00,"Manage subcontractor activities, reviewing proposals, developing performance specifications, and serving as liaisons between subcontractors and organizations.",task
+13-1081.00,Develop proposals that include documentation for estimates.,task
+13-1081.00,"Review logistics performance with customers against targets, benchmarks, and service agreements.",task
+13-1081.00,"Direct availability and allocation of materials, supplies, and finished products.",task
+13-1081.00,Redesign the movement of goods to maximize value and minimize costs.,task
+13-1081.00,"Explain proposed solutions to customers, management, or other interested parties through written proposals and oral presentations.",task
+13-1081.00,"Direct team activities, establishing task priorities, scheduling and tracking work assignments, providing guidance, and ensuring the availability of resources.",task
+13-1081.00,Perform managerial duties such as hiring and training employees and overseeing facility needs or requirements.,task
+13-1081.00,"Collaborate with other departments as necessary to meet customer requirements, to take advantage of sales opportunities or, in the case of shortages, to minimize negative impacts on a business.",task
+13-1081.00,"Report project plans, progress, and results.",task
+13-1081.00,Protect and control proprietary materials.,task
+13-1081.00,Stay informed of logistics technology advances and apply appropriate technology to improve logistics processes.,task
+13-1081.00,"Develop and implement technical project management tools, such as plans, schedules, and responsibility and compliance matrices.",task
+13-1081.00,"Provide project management services, including the provision and analysis of technical data.",task
+13-1081.00,"Manage the logistical aspects of product life cycles, including coordination or provisioning of samples, and the minimization of obsolescence.",task
+13-1081.00,Perform system lifecycle cost analysis and develop component studies.,task
+13-1081.00,"Plan, organize, and execute logistics support activities, such as maintenance planning, repair analysis, and test equipment recommendations.",task
+13-1081.00,Participate in the assessment and review of design alternatives and design change proposal impacts.,task
+13-1081.00,Direct and support the compilation and analysis of technical source data necessary for product development.,task
+13-1081.00,Support the development of training materials and technical manuals.,task
+13-1111.00,Gather and organize information on problems or procedures.,task
+13-1111.00,Confer with personnel concerned to ensure successful functioning of newly implemented systems or procedures.,task
+13-1111.00,Analyze data gathered and develop solutions or alternative methods of proceeding.,task
+13-1111.00,"Document findings of study and prepare recommendations for implementation of new systems, procedures, or organizational changes.",task
+13-1111.00,"Plan study of work problems and procedures, such as organizational change, communications, information flow, integrated production methods, inventory control, or cost analysis.",task
+13-1111.00,"Interview personnel and conduct on-site observation to ascertain unit functions, work performed, and methods, equipment, and personnel used.",task
+13-1111.00,"Prepare manuals and train workers in use of new forms, reports, procedures or equipment, according to organizational policy.",task
+13-1111.00,"Review forms and reports and confer with management and users about format, distribution, and purpose, identifying problems and improvements.",task
+13-1111.00,"Develop and implement records management program for filing, protection, and retrieval of records, and assure compliance with program.",task
+13-1111.00,"Design, evaluate, recommend, and approve changes of forms and reports.",task
+13-1111.00,Recommend purchase of storage equipment and design area layout to locate equipment in space available.,task
+13-1161.00,"Prepare reports of findings, illustrating data graphically and translating complex findings into written text.",task
+13-1161.00,Seek and provide information to help companies determine their position in the marketplace.,task
+13-1161.00,"Conduct research on consumer opinions and marketing strategies, collaborating with marketing professionals, statisticians, pollsters, and other professionals.",task
+13-1161.00,"Collect and analyze data on customer demographics, preferences, needs, and buying habits to identify potential markets and factors affecting product demand.",task
+13-1161.00,"Devise and evaluate methods and procedures for collecting data, such as surveys, opinion polls, or questionnaires, or arrange to obtain existing data.",task
+13-1161.00,"Gather data on competitors and analyze their prices, sales, and method of marketing and distribution.",task
+13-1161.00,Measure and assess customer and employee satisfaction.,task
+13-1161.00,Monitor industry statistics and follow trends in trade literature.,task
+13-1161.00,Direct trained survey interviewers.,task
+13-1161.00,"Measure the effectiveness of marketing, advertising, and communications programs and strategies.",task
+13-1161.00,"Forecast and track marketing and sales trends, analyzing collected data.",task
+13-1161.00,"Attend staff conferences to provide management with information and proposals concerning the promotion, distribution, design, and pricing of company products or services.",task
+13-1161.00,Develop and implement procedures for identifying advertising needs.,task
+13-2011.00,"Prepare, examine, or analyze accounting records, financial statements, or other financial reports to assess accuracy, completeness, and conformance to reporting and procedural standards.",task
+13-2011.00,Process invoices for payment.,task
+13-2011.00,Review accounts for discrepancies and reconcile differences.,task
+13-2011.00,"Compute taxes owed and prepare tax returns, ensuring compliance with payment, reporting, or other tax requirements.",task
+13-2011.00,Prepare adjusting journal entries.,task
+13-2011.00,"Inspect account books and accounting systems for efficiency, effectiveness, and use of accepted accounting procedures to record transactions.",task
+13-2011.00,Prepare detailed reports on audit findings.,task
+13-2011.00,"Prepare, analyze, or verify annual reports, financial statements, and other records, using accepted accounting and statistical procedures to assess financial condition and facilitate financial planning.",task
+13-2011.00,"Collect and analyze data to detect deficient controls, duplicated effort, extravagance, fraud, or non-compliance with laws, regulations, and management policies.",task
+13-2011.00,"Review data about material assets, net worth, liabilities, capital stock, surplus, income, or expenditures.",task
+13-2011.00,Report to management regarding the finances of establishment.,task
+13-2011.00,"Evaluate taxpayer finances to determine tax liability, using knowledge of interest and discount rates, annuities, valuation of stocks and bonds, and amortization valuation of depletable assets.",task
+13-2011.00,"Supervise auditing of establishments, and determine scope of investigation required.",task
+13-2011.00,"Develop, implement, modify, and document recordkeeping and accounting systems, making use of current computer technology.",task
+13-2011.00,Confer with company officials about financial and regulatory matters.,task
+13-2011.00,"Review taxpayer accounts, and conduct audits on-site, by correspondence, or by summoning taxpayer to office.",task
+13-2011.00,Establish tables of accounts and assign entries to proper accounts.,task
+13-2011.00,"Inspect cash on hand, notes receivable and payable, negotiable securities, and canceled checks to confirm records are accurate.",task
+13-2011.00,"Examine and evaluate financial and information systems, recommending controls to ensure system reliability and data integrity.",task
+13-2011.00,Examine records and interview workers to ensure recording of transactions and compliance with laws and regulations.,task
+13-2011.00,"Analyze business operations, trends, costs, revenues, financial commitments, and obligations to project future revenues and expenses or to provide advice.",task
+13-2011.00,"Develop, maintain, or analyze budgets, preparing periodic reports that compare budgeted costs to actual costs.",task
+13-2011.00,Represent clients before taxing authorities and provide support during litigation involving financial issues.,task
+13-2011.00,"Direct activities of personnel engaged in filing, recording, compiling, and transmitting financial records.",task
+13-2011.00,"Audit payroll and personnel records to determine unemployment insurance premiums, workers' compensation coverage, liabilities, and compliance with tax laws.",task
+13-2011.00,"Examine whether the organization's objectives are reflected in its management activities, and whether employees understand the objectives.",task
+13-2011.00,Conduct pre-implementation audits to determine if systems and programs under development will work as planned.,task
+13-2011.00,"Advise clients in areas such as compensation, employee health care benefits, the design of accounting or data processing systems, or long-range tax or estate plans.",task
+13-2011.00,Examine inventory to verify journal and ledger entries.,task
+13-2011.00,"Report to management about asset utilization and audit results, and recommend changes in operations and financial activities.",task
+13-2051.00,"Advise clients on aspects of capitalization, such as amounts, sources, or timing.",task
+13-2051.00,Analyze financial or operational performance of companies facing financial difficulties to identify or recommend remedies.,task
+13-2051.00,Assess companies as investments for clients by examining company facilities.,task
+13-2051.00,"Collaborate on projects with other professionals, such as lawyers, accountants, or public relations experts.",task
+13-2051.00,Collaborate with investment bankers to attract new corporate clients.,task
+13-2051.00,Conduct financial analyses related to investments in green construction or green retrofitting projects.,task
+13-2051.00,"Confer with clients to restructure debt, refinance debt, or raise new debt.",task
+13-2051.00,Create client presentations of plan details.,task
+13-2051.00,Determine the prices at which securities should be syndicated and offered to the public.,task
+13-2051.00,Develop and maintain client relationships.,task
+13-2051.00,"Draw charts and graphs, using computer spreadsheets, to illustrate technical reports.",task
+13-2051.00,Employ financial models to develop solutions to financial problems or to assess the financial or capital impact of transactions.,task
+13-2051.00,Evaluate and compare the relative quality of various securities in a given industry.,task
+13-2051.00,Evaluate capital needs of clients and assess market conditions to inform structuring of financial packages.,task
+13-2051.00,"Inform investment decisions by analyzing financial information to forecast business, industry, or economic conditions.",task
+13-2051.00,"Interpret data on price, yield, stability, future investment-risk trends, economic influences, and other factors affecting investment programs.",task
+13-2051.00,"Monitor developments in the fields of industrial technology, business, finance, and economic theory.",task
+13-2051.00,"Monitor fundamental economic, industrial, and corporate developments by analyzing information from financial publications and services, investment banking firms, government agencies, trade publications, company sources, or personal interviews.",task
+13-2051.00,Perform securities valuation or pricing.,task
+13-2051.00,Prepare all materials for transactions or execution of deals.,task
+13-2051.00,"Prepare plans of action for investment, using financial analyses.",task
+13-2051.00,"Present oral or written reports on general economic trends, individual corporations, and entire industries.",task
+13-2051.00,Purchase investments for companies in accordance with company policy.,task
+13-2051.00,"Recommend investments and investment timing to companies, investment firm staff, or the public.",task
+13-2051.00,"Specialize in green financial instruments, such as socially responsible mutual funds or exchange-traded funds (ETF) that are comprised of green companies.",task
+13-2051.00,"Supervise, train, or mentor junior team members.",task
+13-2054.00,"Analyze areas of potential risk to the assets, earning capacity, or success of organizations.",task
+13-2054.00,Analyze new legislation to determine impact on risk exposure.,task
+13-2054.00,"Conduct statistical analyses to quantify risk, using statistical analysis software or econometric models.",task
+13-2054.00,Confer with traders to identify and communicate risks associated with specific trading strategies or positions.,task
+13-2054.00,Consult financial literature to ensure use of the latest models or statistical techniques.,task
+13-2054.00,Contribute to development of risk management systems.,task
+13-2054.00,Determine potential environmental impacts of new products or processes on long-term growth and profitability.,task
+13-2054.00,Develop contingency plans to deal with emergencies.,task
+13-2054.00,Develop or implement risk-assessment models or methodologies.,task
+13-2054.00,Devise scenario analyses reflecting possible severe market events.,task
+13-2054.00,Devise systems or processes to monitor validity of risk assessments.,task
+13-2054.00,"Document, and ensure communication of, key risks.",task
+13-2054.00,"Draw charts and graphs, using computer spreadsheets, to illustrate technical reports.",task
+13-2054.00,Evaluate and compare the relative quality of various securities in a given industry.,task
+13-2054.00,Evaluate the risks and benefits involved in implementing green building technologies.,task
+13-2054.00,"Evaluate the risks related to green investments, such as renewable energy company stocks.",task
+13-2054.00,Gather risk-related data from internal or external resources.,task
+13-2054.00,"Identify key risks and mitigating factors of potential investments, such as asset types and values, legal and ownership structures, professional reputations, customer bases, or industry segments.",task
+13-2054.00,"Inform financial decisions by analyzing financial information to forecast business, industry, or economic conditions.",task
+13-2054.00,"Interpret data on price, yield, stability, future investment-risk trends, economic influences, and other factors affecting investment programs.",task
+13-2054.00,Maintain input or data quality of risk management systems.,task
+13-2054.00,"Meet with clients to answer queries on subjects such as risk exposure, market scenarios, or values-at-risk calculations.",task
+13-2054.00,"Monitor developments in the fields of industrial technology, business, finance, and economic theory.",task
+13-2054.00,"Prepare plans of action for investment, using financial analyses.",task
+13-2054.00,"Produce reports or presentations that outline findings, explain risk positions, or recommend changes.",task
+13-2054.00,Provide statistical modeling advice to other departments.,task
+13-2054.00,"Recommend investments and investment timing to companies, investment firm staff, or the public.",task
+13-2054.00,Recommend ways to control or reduce risk.,task
+13-2054.00,Review or draft risk disclosures for offer documents.,task
+13-2054.00,"Track, measure, or report on aspects of market risk for traded issues.",task
+15-1211.00,Troubleshoot program and system malfunctions to restore normal functioning.,task
+15-1211.00,"Provide staff and users with assistance solving computer-related problems, such as malfunctions and program problems.",task
+15-1211.00,"Test, maintain, and monitor computer programs and systems, including coordinating the installation of computer programs and systems.",task
+15-1211.00,"Use the computer in the analysis and solution of business problems, such as development of integrated production and inventory control and cost analysis systems.",task
+15-1211.00,Coordinate and link the computer systems within an organization to increase compatibility so that information can be shared.,task
+15-1211.00,"Use object-oriented programming languages, as well as client and server applications development processes and multimedia and Internet technology.",task
+15-1211.00,"Analyze information processing or computation needs and plan and design computer systems, using techniques such as structured analysis, data modeling, and information engineering.",task
+15-1211.00,Consult with management to ensure agreement on system principles.,task
+15-1211.00,Specify inputs accessed by the system and plan the distribution and use of the results.,task
+15-1211.00,Expand or modify system to serve new purposes or improve work flow.,task
+15-1211.00,Train staff and users to work with computer systems and programs.,task
+15-1211.00,Assess the usefulness of pre-developed application packages and adapt them to a user environment.,task
+15-1211.00,Determine computer software or hardware needed to set up or alter systems.,task
+15-1211.00,"Read manuals, periodicals, and technical reports to learn how to develop programs that meet staff and user requirements.",task
+15-1211.00,"Develop, document, and revise system design procedures, test procedures, and quality standards.",task
+15-1211.00,Recommend new equipment or software packages.,task
+15-1211.00,Define the goals of the system and devise flow charts and diagrams describing logical operational steps of programs.,task
+15-1211.00,Confer with clients regarding the nature of the information processing or computation needs a computer program is to address.,task
+15-1211.00,"Review and analyze computer printouts and performance indicators to locate code problems, and correct errors by correcting codes.",task
+15-1211.00,"Interview or survey workers, observe job performance, or perform the job to determine what information is processed and how it is processed.",task
+15-1211.00,Supervise computer programmers or other systems analysts or serve as project leaders for particular systems projects.,task
+15-1211.00,Prepare cost-benefit and return-on-investment analyses to aid in decisions on system implementation.,task
+15-1211.00,Write code to perform desired actions.,task
+13-1071.00,Microsoft Dynamics,technology_example
+13-1071.00,Oracle PeopleSoft,technology_example
+13-1071.00,SAP software,technology_example
+13-1071.00,Workday software,technology_example
+13-1071.00,Airtable,technology_example
+13-1071.00,Blackboard software,technology_example
+13-1071.00,Microsoft SQL Server,technology_example
+13-1071.00,Oracle Database,technology_example
+13-1071.00,ADP Workforce Now,technology_example
+13-1071.00,Lawson Human Resource Management,technology_example
+13-1071.00,Oracle Taleo,technology_example
+13-1071.00,TempWorks recruiting and staffing software,technology_example
+13-1071.00,IBM Cognos Impromptu,technology_example
+13-1071.00,Oracle Business Intelligence Enterprise Edition,technology_example
+13-1071.00,Qlik Tech QlikView,technology_example
+13-1071.00,Tableau,technology_example
+13-1071.00,Adobe Creative Cloud software,technology_example
+13-1071.00,Adobe Illustrator,technology_example
+13-1071.00,Adobe Photoshop,technology_example
+13-1071.00,SmugMug Flickr,technology_example
+13-1071.00,Cisco Webex,technology_example
+13-1071.00,FaceTime,technology_example
+13-1071.00,Google Meet,technology_example
+13-1071.00,Zoom,technology_example
+13-1071.00,Blackbaud The Raiser's Edge,technology_example
+13-1071.00,Oracle Eloqua,technology_example
+13-1071.00,Salesforce software,technology_example
+13-1071.00,Vendor management system software,technology_example
+13-1071.00,Assessment software,technology_example
+13-1071.00,IBM SPSS Statistics,technology_example
+13-1071.00,SAS,technology_example
+13-1071.00,StataCorp Stata,technology_example
+13-1071.00,Intuit QuickBooks,technology_example
+13-1071.00,Sage 50 Accounting,technology_example
+13-1071.00,Tax software,technology_example
+13-1071.00,Adobe Acrobat,technology_example
+13-1071.00,Adobe LifeCycle Enterprise Suite,technology_example
+13-1071.00,Microsoft SharePoint,technology_example
+13-1071.00,Apple Final Cut Pro,technology_example
+13-1071.00,Loom,technology_example
+13-1071.00,YouTube,technology_example
+13-1071.00,Apple macOS,technology_example
+13-1071.00,Microsoft Windows,technology_example
+13-1071.00,Oracle Solaris,technology_example
+13-1071.00,Evernote,technology_example
+13-1071.00,Google Docs,technology_example
+13-1071.00,Microsoft Word,technology_example
+13-1071.00,Kronos Workforce Payroll,technology_example
+13-1071.00,Kronos Workforce Timekeeper,technology_example
+13-1071.00,MPAY Millennium,technology_example
+13-1071.00,Adobe Dreamweaver,technology_example
+13-1071.00,Facebook,technology_example
+13-1071.00,Social media sites,technology_example
+13-1071.00,Drupal,technology_example
+13-1071.00,Enterprise JavaBeans,technology_example
+13-1071.00,Hypertext markup language HTML,technology_example
+13-1071.00,IBM Notes,technology_example
+13-1071.00,Microsoft Outlook,technology_example
+13-1071.00,GitHub,technology_example
+13-1071.00,Oracle WebLogic Server,technology_example
+13-1071.00,Microsoft Visual Basic,technology_example
+13-1071.00,Microsoft Visual Basic for Applications VBA,technology_example
+13-1071.00,Adobe InDesign,technology_example
+13-1071.00,Microsoft Publisher,technology_example
+13-1071.00,Extensible markup language XML,technology_example
+13-1071.00,IBM InfoSphere DataStage,technology_example
+13-1071.00,Google Drive,technology_example
+13-1071.00,Slack,technology_example
+13-1071.00,Google Ads,technology_example
+13-1071.00,Marketo Marketing Automation,technology_example
+13-1071.00,Microsoft SQL Server Reporting Services SSRS,technology_example
+13-1071.00,SAP Crystal Reports,technology_example
+13-1071.00,Microsoft Internet Explorer,technology_example
+13-1071.00,Web browser software,technology_example
+13-1071.00,Google Slides,technology_example
+13-1071.00,Microsoft PowerPoint,technology_example
+13-1071.00,Microsoft Project,technology_example
+13-1071.00,Oracle Primavera Enterprise Project Portfolio Management,technology_example
+13-1071.00,Microsoft Excel,technology_example
+13-1071.00,ESRI ArcGIS software,technology_example
+13-1071.00,MEDITECH software,technology_example
+13-1071.00,Perforce Helix software,technology_example
+13-1071.00,IBM Power Systems software,technology_example
+13-1071.00,Skype,technology_example
+13-1071.00,IBM Domino,technology_example
+13-1071.00,Microsoft Office software,technology_example
+13-1071.00,Teradata Database,technology_example
+13-1071.00,Oracle E-Business Suite Financials,technology_example
+13-1071.00,Advanced business application programming ABAP,technology_example
+13-1071.00,Google Analytics,technology_example
+13-1071.00,Microsoft Visio,technology_example
+13-1071.00,LexisNexis,technology_example
+13-1081.00,Microsoft Dynamics,technology_example
+13-1081.00,Oracle E-Business Suite,technology_example
+13-1081.00,Oracle JD Edwards EnterpriseOne,technology_example
+13-1081.00,SAP software,technology_example
+13-1081.00,Microsoft PowerPoint,technology_example
+13-1081.00,Microsoft Access,technology_example
+13-1081.00,Microsoft SQL Server,technology_example
+13-1081.00,Structured query language SQL,technology_example
+13-1081.00,Order management software,technology_example
+13-1081.00,Purchasing software,technology_example
+13-1081.00,RedPrairie E2e,technology_example
+13-1081.00,Warehouse management system WMS,technology_example
+13-1081.00,Microsoft Project,technology_example
+13-1081.00,Oracle Primavera Enterprise Project Portfolio Management,technology_example
+13-1081.00,Microsoft Excel,technology_example
+13-1081.00,Microsoft Outlook,technology_example
+13-1081.00,Intuit QuickBooks,technology_example
+13-1081.00,IBM Power Systems software,technology_example
+13-1081.00,SmugMug Flickr,technology_example
+13-1081.00,Microsoft SharePoint,technology_example
+13-1081.00,Microsoft Office software,technology_example
+13-1081.00,Microsoft Word,technology_example
+13-1081.00,Autodesk AutoCAD,technology_example
+13-1081.00,IBM Cognos Impromptu,technology_example
+13-1081.00,Web browser software,technology_example
+13-1081.00,Radio frequency identification RFID software,technology_example
+13-1081.00,Microsoft Visio,technology_example
+13-1111.00,Apache Tomcat,technology_example
+13-1111.00,Google Angular,technology_example
+13-1111.00,Microsoft ASP.NET,technology_example
+13-1111.00,Spring Framework,technology_example
+13-1111.00,Airtable,technology_example
+13-1111.00,Blackboard software,technology_example
+13-1111.00,MySQL,technology_example
+13-1111.00,Transact-SQL,technology_example
+13-1111.00,Apache Kafka,technology_example
+13-1111.00,Apache Maven,technology_example
+13-1111.00,Go,technology_example
+13-1111.00,Microsoft PowerShell,technology_example
+13-1111.00,Microsoft Dynamics,technology_example
+13-1111.00,NetSuite ERP,technology_example
+13-1111.00,Oracle Hyperion,technology_example
+13-1111.00,SAP software,technology_example
+13-1111.00,C#,technology_example
+13-1111.00,jQuery,technology_example
+13-1111.00,Scala,technology_example
+13-1111.00,Swift,technology_example
+13-1111.00,Apple macOS,technology_example
+13-1111.00,Bash,technology_example
+13-1111.00,Red Hat Enterprise Linux,technology_example
+13-1111.00,Shell script,technology_example
+13-1111.00,Apache Hive,technology_example
+13-1111.00,Elasticsearch,technology_example
+13-1111.00,MongoDB,technology_example
+13-1111.00,Oracle PL/SQL,technology_example
+13-1111.00,Alteryx software,technology_example
+13-1111.00,Apache Spark,technology_example
+13-1111.00,Microsoft Power BI,technology_example
+13-1111.00,Tableau,technology_example
+13-1111.00,Epic Systems,technology_example
+13-1111.00,Medical condition coding software,technology_example
+13-1111.00,Medical procedure coding software,technology_example
+13-1111.00,MEDITECH software,technology_example
+13-1111.00,IBM SPSS Statistics,technology_example
+13-1111.00,Minitab,technology_example
+13-1111.00,SAS,technology_example
+13-1111.00,The MathWorks MATLAB,technology_example
+13-1111.00,Atlassian Confluence,technology_example
+13-1111.00,Microsoft Team Foundation Server,technology_example
+13-1111.00,Microsoft Teams,technology_example
+13-1111.00,Oracle Primavera Enterprise Project Portfolio Management,technology_example
+13-1111.00,IBM Notes,technology_example
+13-1111.00,MicroFocus GroupWise,technology_example
+13-1111.00,Microsoft Exchange,technology_example
+13-1111.00,Microsoft Outlook,technology_example
+13-1111.00,Atlassian Bamboo,technology_example
+13-1111.00,Extensible markup language XML,technology_example
+13-1111.00,IBM InfoSphere DataStage,technology_example
+13-1111.00,Microsoft SQL Server Integration Services SSIS,technology_example
+13-1111.00,3M Post-it App,technology_example
+13-1111.00,Google Docs,technology_example
+13-1111.00,Microsoft OneNote,technology_example
+13-1111.00,Microsoft Word,technology_example
+13-1111.00,ADP Workforce Now,technology_example
+13-1111.00,Ceridian Dayforce enterprise HCM,technology_example
+13-1111.00,Human resource management software HRMS,technology_example
+13-1111.00,Oracle Taleo,technology_example
+13-1111.00,Chef,technology_example
+13-1111.00,Perforce Helix software,technology_example
+13-1111.00,Puppet,technology_example
+13-1111.00,Fund accounting software,technology_example
+13-1111.00,Sage 50 Accounting,technology_example
+13-1111.00,Tax software,technology_example
+13-1111.00,GitHub,technology_example
+13-1111.00,Oracle WebLogic Server,technology_example
+13-1111.00,Red Hat WildFly,technology_example
+13-1111.00,Cisco Webex,technology_example
+13-1111.00,Google Meet,technology_example
+13-1111.00,LogMeIn GoToMeeting,technology_example
+13-1111.00,Blackbaud The Raiser's Edge,technology_example
+13-1111.00,Oracle Eloqua,technology_example
+13-1111.00,Salesforce software,technology_example
+13-1111.00,Information Builders WebFOCUS,technology_example
+13-1111.00,Microsoft SQL Server Reporting Services SSRS,technology_example
+13-1111.00,SAP Crystal Reports,technology_example
+13-1111.00,Google Slides,technology_example
+13-1111.00,Mentimeter,technology_example
+13-1111.00,Microsoft PowerPoint,technology_example
+13-1111.00,Hewlett Packard LoadRunner,technology_example
+13-1111.00,JUnit,technology_example
+13-1111.00,Selenium,technology_example
+13-1111.00,ESRI ArcGIS software,technology_example
+13-1111.00,Geographic information system GIS software,technology_example
+13-1111.00,Nagios,technology_example
+13-1111.00,Wireshark,technology_example
+13-1111.00,Hibernate ORM,technology_example
+13-1111.00,PostgreSQL,technology_example
+13-1111.00,SmugMug Flickr,technology_example
+13-1111.00,Trimble SketchUp Pro,technology_example
+13-1111.00,Adobe Acrobat,technology_example
+13-1111.00,Microsoft SharePoint,technology_example
+13-1111.00,Eko,technology_example
+13-1111.00,Skype,technology_example
+13-1111.00,Adobe InDesign,technology_example
+13-1111.00,Microsoft Publisher,technology_example
+13-1111.00,Apache Subversion SVN,technology_example
+13-1111.00,Git,technology_example
+13-1111.00,Dropbox,technology_example
+13-1111.00,Google Drive,technology_example
+13-1111.00,Delphi Technology,technology_example
+13-1111.00,Oracle E-Business Suite Financials,technology_example
+13-1111.00,McAfee,technology_example
+13-1111.00,NortonLifeLock cybersecurity software,technology_example
+13-1111.00,IBM WebSphere,technology_example
+13-1111.00,Splunk Enterprise,technology_example
+13-1111.00,Adobe Dreamweaver,technology_example
+13-1111.00,LinkedIn,technology_example
+13-1111.00,IBM Rational RequisitePro,technology_example
+13-1111.00,Unified modeling language UML,technology_example
+13-1111.00,Microsoft Excel,technology_example
+13-1111.00,Quest Erwin Data Modeler,technology_example
+13-1111.00,Atlassian JIRA,technology_example
+13-1111.00,IBM Power Systems software,technology_example
+13-1111.00,Citrix cloud computing software,technology_example
+13-1111.00,Ansible software,technology_example
+13-1111.00,VMware,technology_example
+13-1111.00,IBM Domino,technology_example
+13-1111.00,Apache HTTP Server,technology_example
+13-1111.00,Screencastify,technology_example
+13-1111.00,Slido interaction software,technology_example
+13-1111.00,Customer information control system CICS,technology_example
+13-1111.00,Microsoft Office software,technology_example
+13-1111.00,Virtual private networking VPN software,technology_example
+13-1111.00,Salesforce Visualforce,technology_example
+13-1111.00,Marketo Marketing Automation,technology_example
+13-1111.00,Web browser software,technology_example
+13-1111.00,Veritas NetBackup,technology_example
+13-1111.00,Google Analytics,technology_example
+13-1111.00,Supervisory control and data acquisition SCADA software,technology_example
+13-1111.00,Microsoft Visio,technology_example
+13-1111.00,LexisNexis,technology_example
+13-1161.00,IBM SPSS Statistics,technology_example
+13-1161.00,Minitab,technology_example
+13-1161.00,Sawtooth Composite Product Mapping CPM,technology_example
+13-1161.00,The MathWorks MATLAB,technology_example
+13-1161.00,Airtable,technology_example
+13-1161.00,Amazon Redshift,technology_example
+13-1161.00,Microsoft SQL Server,technology_example
+13-1161.00,MySQL,technology_example
+13-1161.00,Factiva,technology_example
+13-1161.00,LexisNexis,technology_example
+13-1161.00,Mintel Reports,technology_example
+13-1161.00,Verispan Patient Parameters,technology_example
+13-1161.00,Blackbaud The Raiser's Edge,technology_example
+13-1161.00,Insightful Corporation Confirmit,technology_example
+13-1161.00,Oracle Eloqua,technology_example
+13-1161.00,Salesforce software,technology_example
+13-1161.00,Aprimo Marketing,technology_example
+13-1161.00,Microsoft Dynamics,technology_example
+13-1161.00,Oracle PeopleSoft,technology_example
+13-1161.00,SAP software,technology_example
+13-1161.00,Cascading style sheets CSS,technology_example
+13-1161.00,Hypertext markup language HTML,technology_example
+13-1161.00,JavaScript,technology_example
+13-1161.00,PHP,technology_example
+13-1161.00,Adobe Creative Cloud software,technology_example
+13-1161.00,Adobe Illustrator,technology_example
+13-1161.00,Adobe Photoshop,technology_example
+13-1161.00,Canva,technology_example
+13-1161.00,Adobe After Effects,technology_example
+13-1161.00,Loom,technology_example
+13-1161.00,TikTok,technology_example
+13-1161.00,YouTube,technology_example
+13-1161.00,Google Looker Analytics,technology_example
+13-1161.00,IBM Cognos Impromptu,technology_example
+13-1161.00,Oracle Business Intelligence Enterprise Edition,technology_example
+13-1161.00,Tableau,technology_example
+13-1161.00,Adobe Dreamweaver,technology_example
+13-1161.00,Facebook,technology_example
+13-1161.00,Instagram,technology_example
+13-1161.00,WordPress,technology_example
+13-1161.00,Cytel Software XLMiner,technology_example
+13-1161.00,Google Analytics,technology_example
+13-1161.00,NCR Teradata Warehouse Miner,technology_example
+13-1161.00,Oracle Darwin,technology_example
+13-1161.00,Adobe InDesign,technology_example
+13-1161.00,LogiXML Ad-HOC,technology_example
+13-1161.00,Microsoft Publisher,technology_example
+13-1161.00,Sawtooth SSI Web,technology_example
+13-1161.00,Asana,technology_example
+13-1161.00,Dropbox,technology_example
+13-1161.00,Google Drive,technology_example
+13-1161.00,Slack,technology_example
+13-1161.00,3M Post-it App,technology_example
+13-1161.00,Evernote,technology_example
+13-1161.00,Google Docs,technology_example
+13-1161.00,Microsoft Word,technology_example
+13-1161.00,Apache Hadoop,technology_example
+13-1161.00,Apache Hive,technology_example
+13-1161.00,Apache Pig,technology_example
+13-1161.00,Teradata Database,technology_example
+13-1161.00,Basecamp,technology_example
+13-1161.00,ClassApps SelectSurveyASP,technology_example
+13-1161.00,Microsoft Project,technology_example
+13-1161.00,Perseus SurveySolutions,technology_example
+13-1161.00,Adobe ActionScript,technology_example
+13-1161.00,Microsoft Visual Basic,technology_example
+13-1161.00,Microsoft Visual Basic for Applications VBA,technology_example
+13-1161.00,Google Ads,technology_example
+13-1161.00,HubSpot software,technology_example
+13-1161.00,Marketo Marketing Automation,technology_example
+13-1161.00,Apple Keynote,technology_example
+13-1161.00,Google Slides,technology_example
+13-1161.00,Microsoft PowerPoint,technology_example
+13-1161.00,IBM Notes,technology_example
+13-1161.00,Microsoft Outlook,technology_example
+13-1161.00,Adobe Acrobat,technology_example
+13-1161.00,Microsoft SharePoint,technology_example
+13-1161.00,LogMeIn GoToMeeting,technology_example
+13-1161.00,Zoom,technology_example
+13-1161.00,Apple macOS,technology_example
+13-1161.00,Red Hat Enterprise Linux,technology_example
+13-1161.00,Delphi Technology,technology_example
+13-1161.00,Financial planning software,technology_example
+13-1161.00,Microsoft Excel,technology_example
+13-1161.00,ESRI ArcGIS software,technology_example
+13-1161.00,"Adxstudio, for Microsoft",technology_example
+13-1161.00,Map Maker,technology_example
+13-1161.00,Digivey software (expert system feature),technology_example
+13-1161.00,Digivey software (point of sale feature),technology_example
+13-1161.00,LogMeIn GoToWebinar,technology_example
+13-1161.00,Microsoft Office software,technology_example
+13-1161.00,GroupMe,technology_example
+13-1161.00,NortonLifeLock cybersecurity software,technology_example
+13-1161.00,SAP Crystal Reports,technology_example
+13-1161.00,R,technology_example
+13-1161.00,Web browser software,technology_example
+13-1161.00,Microsoft Visio,technology_example
+13-2011.00,Intuit QuickBooks,technology_example
+13-2011.00,Sage 50 Accounting,technology_example
+13-2011.00,SAP Concur,technology_example
+13-2011.00,Summit Software Summit Biofuels Accounting,technology_example
+13-2011.00,Google Docs,technology_example
+13-2011.00,Microsoft OneNote,technology_example
+13-2011.00,Microsoft Word,technology_example
+13-2011.00,Delphi Technology,technology_example
+13-2011.00,Oracle E-Business Suite Financials,technology_example
+13-2011.00,TopCAATs,technology_example
+13-2011.00,Tropics workers' compensation software,technology_example
+13-2011.00,ATX Total Tax Office,technology_example
+13-2011.00,CCH ProSystem fx TAX,technology_example
+13-2011.00,Intuit TurboTax,technology_example
+13-2011.00,Thomson GoSystem Tax,technology_example
+13-2011.00,Microsoft Dynamics,technology_example
+13-2011.00,Oracle PeopleSoft,technology_example
+13-2011.00,SAP software,technology_example
+13-2011.00,Workday software,technology_example
+13-2011.00,Intrax ProcedureNet,technology_example
+13-2011.00,Sage HandiSoft HandiLedger,technology_example
+13-2011.00,Tax compliance property tax management software,technology_example
+13-2011.00,TrendTracker Compliance Solution,technology_example
+13-2011.00,Microsoft SQL Server,technology_example
+13-2011.00,Oracle Database,technology_example
+13-2011.00,Structured query language SQL,technology_example
+13-2011.00,Yardi software,technology_example
+13-2011.00,Adobe Acrobat,technology_example
+13-2011.00,Document management system software,technology_example
+13-2011.00,Microsoft SharePoint,technology_example
+13-2011.00,Sage CPADocument Manager,technology_example
+13-2011.00,Guidance Software EnCase Enterprise,technology_example
+13-2011.00,IBM SPSS Statistics,technology_example
+13-2011.00,SAS,technology_example
+13-2011.00,WizSoft WizRule,technology_example
+13-2011.00,Epic Systems,technology_example
+13-2011.00,Medical condition coding software,technology_example
+13-2011.00,Medical procedure coding software,technology_example
+13-2011.00,MEDITECH software,technology_example
+13-2011.00,Alteryx software,technology_example
+13-2011.00,IBM Cognos Impromptu,technology_example
+13-2011.00,Oracle Business Intelligence Enterprise Edition,technology_example
+13-2011.00,Tableau,technology_example
+13-2011.00,ADP Workforce Now,technology_example
+13-2011.00,CPSI EHR System,technology_example
+13-2011.00,Human resource management software HRMS,technology_example
+13-2011.00,Sage HRMS,technology_example
+13-2011.00,Billing software,technology_example
+13-2011.00,Choice Technologies PowerBill +,technology_example
+13-2011.00,Client billing software,technology_example
+13-2011.00,Invoice software,technology_example
+13-2011.00,IBM Notes,technology_example
+13-2011.00,Microsoft Exchange,technology_example
+13-2011.00,Microsoft Outlook,technology_example
+13-2011.00,eXtensible Business Reporting Language XBRL,technology_example
+13-2011.00,Microsoft Visual Basic,technology_example
+13-2011.00,Microsoft Visual Basic for Applications VBA,technology_example
+13-2011.00,Corel WordPerfect Office Suite,technology_example
+13-2011.00,Microsoft Office software,technology_example
+13-2011.00,Microsoft Works,technology_example
+13-2011.00,Google Sheets,technology_example
+13-2011.00,Microsoft Excel,technology_example
+13-2011.00,Blackbaud The Raiser's Edge,technology_example
+13-2011.00,Salesforce software,technology_example
+13-2011.00,Microsoft Windows,technology_example
+13-2011.00,UNIX,technology_example
+13-2011.00,Apache Solr,technology_example
+13-2011.00,Teradata Database,technology_example
+13-2011.00,ADP Super Report Writer,technology_example
+13-2011.00,SAP Crystal Reports,technology_example
+13-2011.00,R,technology_example
+13-2011.00,Swift,technology_example
+13-2011.00,Payroll software,technology_example
+13-2011.00,WorkForce Software EmpCenter Time and Attendance,technology_example
+13-2011.00,Google Slides,technology_example
+13-2011.00,Microsoft PowerPoint,technology_example
+13-2011.00,Data extraction software,technology_example
+13-2011.00,WizSoft WizWhy,technology_example
+13-2011.00,Microsoft Project,technology_example
+13-2011.00,Oracle Primavera Enterprise Project Portfolio Management,technology_example
+13-2011.00,Thomson Reuters Risk Management,technology_example
+13-2011.00,IBM Power Systems software,technology_example
+13-2011.00,Eko,technology_example
+13-2011.00,Microsoft Publisher,technology_example
+13-2011.00,TechSmith Camtasia,technology_example
+13-2011.00,SAP BusinessObjects Data Integrator,technology_example
+13-2011.00,Tumbleweed SecureTransport,technology_example
+13-2011.00,NortonLifeLock cybersecurity software,technology_example
+13-2011.00,Asset management software,technology_example
+13-2011.00,Microsoft Visio,technology_example
+13-2011.00,LexisNexis,technology_example
+13-2051.00,IBM SPSS Statistics,technology_example
+13-2051.00,SAS,technology_example
+13-2051.00,StataCorp Stata,technology_example
+13-2051.00,The MathWorks MATLAB,technology_example
+13-2051.00,Google Docs,technology_example
+13-2051.00,Microsoft OneNote,technology_example
+13-2051.00,Microsoft Word,technology_example
+13-2051.00,Report generation software,technology_example
+13-2051.00,Delphi Technology,technology_example
+13-2051.00,Moody's RiskCalc,technology_example
+13-2051.00,Oracle E-Business Suite Financials,technology_example
+13-2051.00,Oracle Hyperion Financial Management,technology_example
+13-2051.00,Microsoft Dynamics,technology_example
+13-2051.00,Oracle PeopleSoft,technology_example
+13-2051.00,SAP software,technology_example
+13-2051.00,Workday software,technology_example
+13-2051.00,Alteryx software,technology_example
+13-2051.00,IBM Cognos Impromptu,technology_example
+13-2051.00,Microsoft Power BI,technology_example
+13-2051.00,Tableau,technology_example
+13-2051.00,Microsoft SQL Server,technology_example
+13-2051.00,Oracle Database,technology_example
+13-2051.00,Structured query language SQL,technology_example
+13-2051.00,Yardi software,technology_example
+13-2051.00,dailyVest Investment Personalization Platform,technology_example
+13-2051.00,LexisNexis,technology_example
+13-2051.00,TradeTools Monthly U.S. Economic Database,technology_example
+13-2051.00,Ward Systems Group NeuroShell Trader,technology_example
+13-2051.00,Apple AppleWorks,technology_example
+13-2051.00,Corel QuattroPro,technology_example
+13-2051.00,IBM Lotus 1-2-3,technology_example
+13-2051.00,Microsoft Excel,technology_example
+13-2051.00,Email software,technology_example
+13-2051.00,IBM Notes,technology_example
+13-2051.00,Microsoft Exchange,technology_example
+13-2051.00,Microsoft Outlook,technology_example
+13-2051.00,Fund accounting software,technology_example
+13-2051.00,Intuit QuickBooks,technology_example
+13-2051.00,Sage 50 Accounting,technology_example
+13-2051.00,Tax software,technology_example
+13-2051.00,Apple Keynote,technology_example
+13-2051.00,DealMaven PresLink for PowerPoint and Word,technology_example
+13-2051.00,Google Slides,technology_example
+13-2051.00,Microsoft PowerPoint,technology_example
+13-2051.00,Ivorix Neurostrategy Finance,technology_example
+13-2051.00,Matheny Pattern Forecaster Plus,technology_example
+13-2051.00,NeuroSolutions for MatLab,technology_example
+13-2051.00,Apache Hive,technology_example
+13-2051.00,Apache Pig,technology_example
+13-2051.00,Teradata Database,technology_example
+13-2051.00,Microsoft SQL Server Reporting Services SSRS,technology_example
+13-2051.00,Reporting software,technology_example
+13-2051.00,SAP Crystal Reports,technology_example
+13-2051.00,Microsoft SharePoint,technology_example
+13-2051.00,Microsoft SharePoint Server,technology_example
+13-2051.00,Microsoft Visual Basic,technology_example
+13-2051.00,Microsoft Visual Basic for Applications VBA,technology_example
+13-2051.00,Montgomery Investment Technology Utility XL,technology_example
+13-2051.00,TickQuest NeoTicker,technology_example
+13-2051.00,ADP Workforce Now,technology_example
+13-2051.00,Human resource management software HRMS,technology_example
+13-2051.00,Microsoft Project,technology_example
+13-2051.00,Oracle Primavera Enterprise Project Portfolio Management,technology_example
+13-2051.00,Perforce Helix software,technology_example
+13-2051.00,IBM Power Systems software,technology_example
+13-2051.00,Salesforce software,technology_example
+13-2051.00,Microsoft Office software,technology_example
+13-2051.00,Marketo Marketing Automation,technology_example
+13-2051.00,R,technology_example
+13-2051.00,Web browser software,technology_example
+13-2051.00,Microsoft Visio,technology_example
+13-2054.00,IBM SPSS Statistics,technology_example
+13-2054.00,SAS,technology_example
+13-2054.00,TensorFlow,technology_example
+13-2054.00,The MathWorks MATLAB,technology_example
+13-2054.00,Google Docs,technology_example
+13-2054.00,Microsoft OneNote,technology_example
+13-2054.00,Microsoft Word,technology_example
+13-2054.00,Report generation software,technology_example
+13-2054.00,Delphi Technology,technology_example
+13-2054.00,Oracle E-Business Suite Financials,technology_example
+13-2054.00,Wolfram Research Mathematica Finance Essentials,technology_example
+13-2054.00,Wolfram Research Mathematica UnRisk Pricing Engine,technology_example
+13-2054.00,Microsoft Dynamics,technology_example
+13-2054.00,Oracle PeopleSoft,technology_example
+13-2054.00,SAP software,technology_example
+13-2054.00,SSA Global Infinium Financial Management,technology_example
+13-2054.00,Amazon Web Services AWS software,technology_example
+13-2054.00,PyTorch,technology_example
+13-2054.00,ServiceNow,technology_example
+13-2054.00,Yardi software,technology_example
+13-2054.00,dailyVest Investment Personalization Platform,technology_example
+13-2054.00,LexisNexis,technology_example
+13-2054.00,S&P Capital IQ,technology_example
+13-2054.00,Standard & Poor's Capital IQ Compustat,technology_example
+13-2054.00,IBM Cognos Impromptu,technology_example
+13-2054.00,Microsoft Power BI,technology_example
+13-2054.00,Oracle Business Intelligence Enterprise Edition,technology_example
+13-2054.00,Tableau,technology_example
+13-2054.00,Apple AppleWorks,technology_example
+13-2054.00,Corel QuattroPro,technology_example
+13-2054.00,IBM Lotus 1-2-3,technology_example
+13-2054.00,Microsoft Excel,technology_example
+13-2054.00,Fund accounting software,technology_example
+13-2054.00,Intuit QuickBooks,technology_example
+13-2054.00,Sage 50 Accounting,technology_example
+13-2054.00,Tax software,technology_example
+13-2054.00,Microsoft Azure software,technology_example
+13-2054.00,Microsoft Visual Basic,technology_example
+13-2054.00,Microsoft Visual Basic for Applications VBA,technology_example
+13-2054.00,Ruby,technology_example
+13-2054.00,C++,technology_example
+13-2054.00,Perl,technology_example
+13-2054.00,Python,technology_example
+13-2054.00,R,technology_example
+13-2054.00,Apple Keynote,technology_example
+13-2054.00,DealMaven PresLink for PowerPoint and Word,technology_example
+13-2054.00,Google Slides,technology_example
+13-2054.00,Microsoft PowerPoint,technology_example
+13-2054.00,IBM Notes,technology_example
+13-2054.00,Microsoft Exchange,technology_example
+13-2054.00,Microsoft Outlook,technology_example
+13-2054.00,Ivorix Neurostrategy Finance,technology_example
+13-2054.00,Matheny Pattern Forecaster Plus,technology_example
+13-2054.00,NeuroSolutions for MatLab,technology_example
+13-2054.00,Apache Hive,technology_example
+13-2054.00,Apache Pig,technology_example
+13-2054.00,Teradata Database,technology_example
+13-2054.00,Microsoft SQL Server Reporting Services SSRS,technology_example
+13-2054.00,Reporting software,technology_example
+13-2054.00,SAP Crystal Reports,technology_example
+13-2054.00,Microsoft SharePoint,technology_example
+13-2054.00,Microsoft SharePoint Server,technology_example
+13-2054.00,Linux,technology_example
+13-2054.00,UNIX,technology_example
+13-2054.00,Montgomery Investment Technology Utility XL,technology_example
+13-2054.00,TickQuest NeoTicker,technology_example
+13-2054.00,ADP Workforce Now,technology_example
+13-2054.00,Human resource management software HRMS,technology_example
+13-2054.00,Microsoft Project,technology_example
+13-2054.00,Oracle Primavera Enterprise Project Portfolio Management,technology_example
+13-2054.00,Atlassian JIRA,technology_example
+13-2054.00,Perforce Helix software,technology_example
+13-2054.00,IBM Power Systems software,technology_example
+13-2054.00,Salesforce software,technology_example
+13-2054.00,Microsoft Office software,technology_example
+13-2054.00,Marketo Marketing Automation,technology_example
+13-2054.00,McAfee,technology_example
+13-2054.00,Web browser software,technology_example
+13-2054.00,Microsoft Visio,technology_example
+15-1211.00,Apache Kafka,technology_example
+15-1211.00,Apache Maven,technology_example
+15-1211.00,Oracle Java 2 Platform Enterprise Edition J2EE,technology_example
+15-1211.00,Oracle SQL Developer,technology_example
+15-1211.00,Blackboard software,technology_example
+15-1211.00,IBM DB2,technology_example
+15-1211.00,ServiceNow,technology_example
+15-1211.00,Transact-SQL,technology_example
+15-1211.00,Django,technology_example
+15-1211.00,Google Angular,technology_example
+15-1211.00,React,technology_example
+15-1211.00,Spring Framework,technology_example
+15-1211.00,Functional testing software,technology_example
+15-1211.00,Hewlett Packard LoadRunner,technology_example
+15-1211.00,JUnit,technology_example
+15-1211.00,Selenium,technology_example
+15-1211.00,C#,technology_example
+15-1211.00,jQuery,technology_example
+15-1211.00,Scala,technology_example
+15-1211.00,Swift,technology_example
+15-1211.00,Amazon DynamoDB,technology_example
+15-1211.00,Apache Hive,technology_example
+15-1211.00,Oracle Database,technology_example
+15-1211.00,Oracle PL/SQL,technology_example
+15-1211.00,Bash,technology_example
+15-1211.00,Microsoft Windows Server,technology_example
+15-1211.00,Red Hat Enterprise Linux,technology_example
+15-1211.00,UNIX Shell,technology_example
+15-1211.00,Chef,technology_example
+15-1211.00,HyperSpace,technology_example
+15-1211.00,Perforce Helix software,technology_example
+15-1211.00,Puppet,technology_example
+15-1211.00,Microsoft Dynamics,technology_example
+15-1211.00,Oracle PeopleSoft,technology_example
+15-1211.00,SAP ERP,technology_example
+15-1211.00,SAP software,technology_example
+15-1211.00,Extensible markup language XML,technology_example
+15-1211.00,IBM InfoSphere DataStage,technology_example
+15-1211.00,Microsoft SQL Server Integration Services SSIS,technology_example
+15-1211.00,WebFOCUS,technology_example
+15-1211.00,Apache Spark,technology_example
+15-1211.00,IBM Cognos Impromptu,technology_example
+15-1211.00,Microsoft Power BI,technology_example
+15-1211.00,Tableau,technology_example
+15-1211.00,Docker,technology_example
+15-1211.00,GitHub,technology_example
+15-1211.00,Red Hat OpenShift,technology_example
+15-1211.00,Spring Boot,technology_example
+15-1211.00,IBM SPSS Statistics,technology_example
+15-1211.00,Minitab,technology_example
+15-1211.00,SAS,technology_example
+15-1211.00,The MathWorks MATLAB,technology_example
+15-1211.00,Epic Systems,technology_example
+15-1211.00,Medical condition coding software,technology_example
+15-1211.00,Medical procedure coding software,technology_example
+15-1211.00,MEDITECH software,technology_example
+15-1211.00,Remote control software,technology_example
+15-1211.00,Skype,technology_example
+15-1211.00,Stac Software ReachOut,technology_example
+15-1211.00,Symantec pcAnywhere,technology_example
+15-1211.00,Dassault Systemes CATIA,technology_example
+15-1211.00,Electronic design automation EDA software,technology_example
+15-1211.00,OrCAD Capture,technology_example
+15-1211.00,SpectraQuest,technology_example
+15-1211.00,Architecture description language ADL,technology_example
+15-1211.00,Popkin System Architect,technology_example
+15-1211.00,Requirements management software,technology_example
+15-1211.00,Unified modeling language UML,technology_example
+15-1211.00,Atlassian Confluence,technology_example
+15-1211.00,Microsoft Team Foundation Server,technology_example
+15-1211.00,Microsoft Teams,technology_example
+15-1211.00,Oracle Primavera Enterprise Project Portfolio Management,technology_example
+15-1211.00,Informatica Corporation PowerCenter,technology_example
+15-1211.00,Oracle Master Data Management MDM Suite,technology_example
+15-1211.00,Quest Erwin Data Modeler,technology_example
+15-1211.00,SAP Master Data Management MDM,technology_example
+15-1211.00,Nagios,technology_example
+15-1211.00,Network intrusion prevention systems NIPS,technology_example
+15-1211.00,Snort,technology_example
+15-1211.00,Wireshark,technology_example
+15-1211.00,Customer information control system CICS,technology_example
+15-1211.00,Microsoft Internet Information Services (IIS),technology_example
+15-1211.00,Sun Microsystems Sun ONE,technology_example
+15-1211.00,Web server software,technology_example
+15-1211.00,Amazon Web Services AWS CloudFormation,technology_example
+15-1211.00,IBM WebSphere,technology_example
+15-1211.00,Oracle Cloud software,technology_example
+15-1211.00,Splunk Enterprise,technology_example
+15-1211.00,IBM Notes,technology_example
+15-1211.00,Microsoft Exchange,technology_example
+15-1211.00,Microsoft Outlook,technology_example
+15-1211.00,Hibernate ORM,technology_example
+15-1211.00,Microsoft Visual FoxPro,technology_example
+15-1211.00,PostgreSQL,technology_example
+15-1211.00,Apache Subversion SVN,technology_example
+15-1211.00,Git,technology_example
+15-1211.00,Version control software,technology_example
+15-1211.00,Blackbaud The Raiser's Edge,technology_example
+15-1211.00,Oracle Eloqua,technology_example
+15-1211.00,Salesforce software,technology_example
+15-1211.00,3M Post-it App,technology_example
+15-1211.00,Google Docs,technology_example
+15-1211.00,Microsoft Word,technology_example
+15-1211.00,Cost estimating software,technology_example
+15-1211.00,Delphi Technology,technology_example
+15-1211.00,Oracle E-Business Suite Financials,technology_example
+15-1211.00,McAfee,technology_example
+15-1211.00,NortonLifeLock cybersecurity software,technology_example
+15-1211.00,Virus scanning software,technology_example
+15-1211.00,Microsoft SQL Server Reporting Services SSRS,technology_example
+15-1211.00,Oracle Business Intelligence Suite,technology_example
+15-1211.00,SAP Crystal Reports,technology_example
+15-1211.00,ADP Workforce Now,technology_example
+15-1211.00,Human resource management software HRMS,technology_example
+15-1211.00,Oracle Taleo,technology_example
+15-1211.00,ESRI ArcGIS software,technology_example
+15-1211.00,Geographic information system GIS software,technology_example
+15-1211.00,Diagramming software,technology_example
+15-1211.00,Omni Group OmniGraffle,technology_example
+15-1211.00,Fund accounting software,technology_example
+15-1211.00,Tax software,technology_example
+15-1211.00,Access management software,technology_example
+15-1211.00,Citrix cloud computing software,technology_example
+15-1211.00,Adobe Illustrator,technology_example
+15-1211.00,Adobe Photoshop,technology_example
+15-1211.00,Adobe Acrobat,technology_example
+15-1211.00,Microsoft SharePoint,technology_example
+15-1211.00,Cisco Systems CiscoWorks,technology_example
+15-1211.00,Element management software,technology_example
+15-1211.00,System and data disaster recovery software,technology_example
+15-1211.00,Veritas NetBackup,technology_example
+15-1211.00,Flow chart software,technology_example
+15-1211.00,Microsoft Visio,technology_example
+15-1211.00,Microsoft Excel,technology_example
+15-1211.00,Atlassian JIRA,technology_example
+15-1211.00,Help desk software,technology_example
+15-1211.00,IBM Power Systems software,technology_example
+15-1211.00,Ansible software,technology_example
+15-1211.00,VMware,technology_example
+15-1211.00,Cisco Webex,technology_example
+15-1211.00,IBM Domino,technology_example
+15-1211.00,Microsoft Publisher,technology_example
+15-1211.00,Apache HTTP Server,technology_example
+15-1211.00,YouTube,technology_example
+15-1211.00,Virtual private networking VPN software,technology_example
+15-1211.00,Slido interaction software,technology_example
+15-1211.00,Microsoft Office software,technology_example
+15-1211.00,Slack,technology_example
+15-1211.00,Salesforce Visualforce,technology_example
+15-1211.00,Blink,technology_example
+15-1211.00,Active directory software,technology_example
+15-1211.00,Marketo Marketing Automation,technology_example
+15-1211.00,Voice over internet protocol VoIP system software,technology_example
+15-1211.00,Microsoft PowerPoint,technology_example
+15-1211.00,Adobe Dreamweaver,technology_example
+15-1211.00,Google Analytics,technology_example
+15-1211.00,Amazon Simple Storage Service S3,technology_example
+15-1211.00,Supervisory control and data acquisition SCADA software,technology_example
+15-1211.00,LexisNexis,technology_example
+15-1211.00,Time sharing option TSO software,technology_example

@@ -1,0 +1,241 @@
+{
+  "status": "passed",
+  "chart_count": 20,
+  "fonts": {
+    "sans": "Graphik",
+    "mono": "B612 Mono",
+    "sans_file": "/System/Library/AssetsV2/com_apple_MobileAsset_Font8/826aa3dd9709faf607b06657a17fba9e5547a0c9.asset/AssetData/Graphik.ttc",
+    "mono_file": "/Users/athirumalai/.agents/skills/matplotlib-research-charts/assets/fonts/B612Mono-Regular.ttf"
+  },
+  "checks": [
+    "All source fingerprints unchanged",
+    "PNG 300 dpi and nonempty vector exports",
+    "SVG font paths",
+    "Plotting-data record counts",
+    "OLS asymmetric interval ordering",
+    "Projection observation labels",
+    "Python syntax"
+  ],
+  "charts": [
+    {
+      "stem": "01_supply_demand_quadrants",
+      "section": "01_curriculum_alignment",
+      "png_dimensions": [
+        3101,
+        2301
+      ],
+      "dpi": 300,
+      "plotting_rows": 530,
+      "status": "passed"
+    },
+    {
+      "stem": "02_alignment_mix_by_major",
+      "section": "01_curriculum_alignment",
+      "png_dimensions": [
+        3114,
+        2028
+      ],
+      "dpi": 300,
+      "plotting_rows": 36,
+      "status": "passed"
+    },
+    {
+      "stem": "03_largest_market_gaps",
+      "section": "01_curriculum_alignment",
+      "png_dimensions": [
+        3357,
+        2356
+      ],
+      "dpi": 300,
+      "plotting_rows": 12,
+      "status": "passed"
+    },
+    {
+      "stem": "04_market_gaps_by_major",
+      "section": "01_curriculum_alignment",
+      "png_dimensions": [
+        3556,
+        2465
+      ],
+      "dpi": 300,
+      "plotting_rows": 108,
+      "status": "passed"
+    },
+    {
+      "stem": "01_cluster_selection",
+      "section": "02_career_archetypes",
+      "png_dimensions": [
+        4256,
+        2438
+      ],
+      "dpi": 300,
+      "plotting_rows": 56,
+      "status": "passed"
+    },
+    {
+      "stem": "02_pooled_archetype_profiles",
+      "section": "02_career_archetypes",
+      "png_dimensions": [
+        3598,
+        2574
+      ],
+      "dpi": 300,
+      "plotting_rows": 10,
+      "status": "passed"
+    },
+    {
+      "stem": "03_archetype_major_composition",
+      "section": "02_career_archetypes",
+      "png_dimensions": [
+        3382,
+        2301
+      ],
+      "dpi": 300,
+      "plotting_rows": 90,
+      "status": "passed"
+    },
+    {
+      "stem": "04_archetype_industry_mix",
+      "section": "02_career_archetypes",
+      "png_dimensions": [
+        3517,
+        2574
+      ],
+      "dpi": 300,
+      "plotting_rows": 32,
+      "status": "passed"
+    },
+    {
+      "stem": "05_archetype_geographic_concentration",
+      "section": "02_career_archetypes",
+      "png_dimensions": [
+        3726,
+        2574
+      ],
+      "dpi": 300,
+      "plotting_rows": 90,
+      "status": "passed"
+    },
+    {
+      "stem": "01_observed_role_transitions",
+      "section": "03_transition_dynamics",
+      "png_dimensions": [
+        3517,
+        2164
+      ],
+      "dpi": 300,
+      "plotting_rows": 4,
+      "status": "passed"
+    },
+    {
+      "stem": "02_common_title_paths",
+      "section": "03_transition_dynamics",
+      "png_dimensions": [
+        4001,
+        3258
+      ],
+      "dpi": 300,
+      "plotting_rows": 18,
+      "status": "passed"
+    },
+    {
+      "stem": "03_entry_role_promotion_comparison",
+      "section": "03_transition_dynamics",
+      "png_dimensions": [
+        3651,
+        3941
+      ],
+      "dpi": 300,
+      "plotting_rows": 35,
+      "status": "passed"
+    },
+    {
+      "stem": "04_frequent_title_sequences",
+      "section": "03_transition_dynamics",
+      "png_dimensions": [
+        3867,
+        2711
+      ],
+      "dpi": 300,
+      "plotting_rows": 9,
+      "status": "passed"
+    },
+    {
+      "stem": "05_absorbing_chain_projection",
+      "section": "03_transition_dynamics",
+      "png_dimensions": [
+        3236,
+        2164
+      ],
+      "dpi": 300,
+      "plotting_rows": 9,
+      "status": "passed"
+    },
+    {
+      "stem": "01_model_cross_validation",
+      "section": "04_hedonic_salary",
+      "png_dimensions": [
+        3228,
+        2164
+      ],
+      "dpi": 300,
+      "plotting_rows": 3,
+      "status": "passed"
+    },
+    {
+      "stem": "02_skill_premiums_robust_intervals",
+      "section": "04_hedonic_salary",
+      "png_dimensions": [
+        3607,
+        2520
+      ],
+      "dpi": 300,
+      "plotting_rows": 12,
+      "status": "passed"
+    },
+    {
+      "stem": "03_salary_control_estimates",
+      "section": "04_hedonic_salary",
+      "png_dimensions": [
+        3599,
+        2629
+      ],
+      "dpi": 300,
+      "plotting_rows": 13,
+      "status": "passed"
+    },
+    {
+      "stem": "04_shap_feature_importance",
+      "section": "04_hedonic_salary",
+      "png_dimensions": [
+        3598,
+        2711
+      ],
+      "dpi": 300,
+      "plotting_rows": 15,
+      "status": "passed"
+    },
+    {
+      "stem": "05_shap_top_interactions",
+      "section": "04_hedonic_salary",
+      "png_dimensions": [
+        3598,
+        2574
+      ],
+      "dpi": 300,
+      "plotting_rows": 10,
+      "status": "passed"
+    },
+    {
+      "stem": "06_requested_skill_pair_interactions",
+      "section": "04_hedonic_salary",
+      "png_dimensions": [
+        3485,
+        2028
+      ],
+      "dpi": 300,
+      "plotting_rows": 5,
+      "status": "passed"
+    }
+  ]
+}

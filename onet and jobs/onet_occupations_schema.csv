@@ -1,0 +1,6 @@
+Column Name,Data Type,Example Row Value,Purpose in Analysis
+onet_soc_code (PK),VARCHAR(10),"""15-1211.00""",Joins alumni titles to public market data
+soc_title,VARCHAR(128),"""Computer Systems Analysts""",Clean label for charts & Sankey diagrams
+job_zone,INT (1–5),4 (Considerable Prep),Quantifies seniority jump (yr3_zone - yr1_zone)
+career_cluster,VARCHAR(64),"""Information Technology""",High-level grouping
+national_median_pay,FLOAT,102240.0,Benchmark comparison for Eller salaries

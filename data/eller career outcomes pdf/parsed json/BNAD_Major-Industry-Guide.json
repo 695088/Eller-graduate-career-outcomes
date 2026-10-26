@@ -1,0 +1,96 @@
+{
+  "major": "Business Administration",
+  "major_code": "BNAD",
+  "source_file": "BNAD_Major-Industry-Guide.pdf",
+  "document_title": "BUSINESS ADMINISTRATION CAREERS OVERVIEW",
+  "sections": {
+    "common_industries": {
+      "type": "list",
+      "data": [
+        "Retail",
+        "Hospitality",
+        "Sales",
+        "Human Resources",
+        "Education",
+        "Operations",
+        "Wealth Management",
+        "Government",
+        "Consumer Goods",
+        "Business Services",
+        "Financial Services",
+        "Insurance"
+      ],
+      "original_header": "COMMON INDUSTRIES"
+    },
+    "typical_business_administration_career_options": {
+      "type": "table",
+      "columns": [
+        "industry",
+        "sample_of_companies",
+        "primary_responsibilities_position_titles"
+      ],
+      "column_headers": {
+        "industry": "INDUSTRY",
+        "sample_of_companies": "SAMPLE OF COMPANIES",
+        "primary_responsibilities_position_titles": "PRIMARY RESPONSIBILITIES/POSITION TITLES"
+      },
+      "data": [
+        {
+          "industry": "Education",
+          "sample_of_companies": "University of Arizona, Pima Community College",
+          "primary_responsibilities_position_titles": "Advisors, Program Coordinators, Business Office Manager"
+        },
+        {
+          "industry": "Financial Advisor/Wealth Manager",
+          "sample_of_companies": "Fisher Investments, EY, Vanguard, Edwards Jones, Goldman Sachs",
+          "primary_responsibilities_position_titles": "Work with individuals to accomplish investment goals including college savings, retirement, estate planning, etc."
+        },
+        {
+          "industry": "Government",
+          "sample_of_companies": "Raytheon, Dept. Of Defense, Dept. Of Justice, Pima County",
+          "primary_responsibilities_position_titles": "Management Development Program, Information Specialist, Contract Specialist, Logistics/Supply Chain Specialist"
+        },
+        {
+          "industry": "Hospitality",
+          "sample_of_companies": "Marriott, Hyatt, The Graduate, Aramark, Omni Hotels and Resorts",
+          "primary_responsibilities_position_titles": "Hotel Management Programs, Event Planner, Catering Specialist, Sales and Marketing Coordinator"
+        },
+        {
+          "industry": "Management Trainee/Rotational Development",
+          "sample_of_companies": "Enterprise, PepsiCo, Amazon, City National Bank, Honeywell, JP Morgan",
+          "primary_responsibilities_position_titles": "Practical experience gained via career development programs. Programs are 1 to 3 years, allowing trainees to be mentored for a leadership role. Each assignment instructs trainees about a different part of the business or industry operation."
+        },
+        {
+          "industry": "Retail/Sales/Consumer Goods",
+          "sample_of_companies": "Target, Macys, Altria, Geico, Shamrock, Hershey",
+          "primary_responsibilities_position_titles": "Territory Sales Manager, Sales Associate, Inventory Manager, Retail Buyer, Customer Services Representative, E-Commerce Specialist"
+        },
+        {
+          "industry": "Human Resources",
+          "sample_of_companies": "ADP, Yelp, Toyota, BTS, Colleges & Universities, Local City Offices",
+          "primary_responsibilities_position_titles": "The HR industry focuses on managing and supporting an organization's employees, including hiring, training, benefits administration, and ensuring workplace compliance and employee well-being."
+        }
+      ],
+      "original_header": "TYPICAL BUSINESS ADMINISTRATION CAREER OPTIONS"
+    },
+    "engagement_opportunities": {
+      "type": "list",
+      "data": [
+        "Eller Management Association",
+        "Professional Sales Club",
+        "Arizona Consulting Club",
+        "Eller Social Media Club",
+        "Professional Women in Business Association",
+        "Financial Modeling Club",
+        "Commercial Real Estate"
+      ],
+      "note": "FESO Clubs may have limited opportunities for Arizona Online students to participate in virtually. Please contact the club president to confirm meeting modalities.",
+      "original_header": "ENGAGNEMENT OPPORTUNITIES"
+    }
+  },
+  "section_order": [
+    "common_industries",
+    "typical_business_administration_career_options",
+    "engagement_opportunities"
+  ]
+}

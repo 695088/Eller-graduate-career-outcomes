@@ -1,0 +1,122 @@
+{
+  "major": "Accounting",
+  "major_code": "ACCT",
+  "source_file": "ACCT_Major-Industry-Guide.pdf",
+  "document_title": "ACCOUNTING CAREERS OVERVIEW",
+  "sections": {
+    "typical_accounting_careers_with_public_accounting_firms": {
+      "type": "table",
+      "columns": [
+        "careers",
+        "primary_responsibilities",
+        "education"
+      ],
+      "column_headers": {
+        "careers": "CAREERS",
+        "primary_responsibilities": "PRIMARY RESPONSIBILITIES",
+        "education": "EDUCATION"
+      },
+      "data": [
+        {
+          "careers": "Tax",
+          "primary_responsibilities": "Prepare and review federal and state tax returns for corporations and individuals, ensure tax compliance, provide clients with tax strategies.",
+          "education": "Bachelor’s Degree (and CPA ready) or Master’s Degree (to become CPA ready)"
+        },
+        {
+          "careers": "Audit/Assurance",
+          "primary_responsibilities": "Assure that financial statements of corporations and other organizations accurately reflect their financial situation for stakeholder reliance.",
+          "education": "Bachelor’s Degree (and CPA ready) or Master’s Degree (to become CPA ready)"
+        },
+        {
+          "careers": "Consulting/Advisory",
+          "primary_responsibilities": "Help clients strategize to benefit and improve operations in areas such as technology, risk assessment, human capital, forensics, analytics, etc.",
+          "education": "Bachelor’s Degree (and CPA ready) or Master’s Degree (to become CPA ready)"
+        }
+      ],
+      "original_header": "TYPICAL ACCOUNTING CAREERS WITH PUBLIC ACCOUNTING FIRMS"
+    },
+    "typical_accounting_careers_with_companies_and_organizations": {
+      "type": "table",
+      "columns": [
+        "careers",
+        "primary_responsibilities",
+        "education"
+      ],
+      "column_headers": {
+        "careers": "CAREERS",
+        "primary_responsibilities": "PRIMARY RESPONSIBILITIES",
+        "education": "EDUCATION"
+      },
+      "data": [
+        {
+          "careers": "Financial Accountant",
+          "primary_responsibilities": "Accumulate financial data, document financial transactions and analyze financial information for decision making in corporations and other organizations.",
+          "education": "Bachelor’s Degree and optional Master’s Degree"
+        },
+        {
+          "careers": "Cost Accountant",
+          "primary_responsibilities": "Analyze the costs associated with providing a service or manufacturing a product to help set appropriate prices, prepare budget forecasts and make sound business decisions.",
+          "education": "Bachelor’s Degree and optional Master’s Degree"
+        },
+        {
+          "careers": "Internal Auditor",
+          "primary_responsibilities": "Evaluate and improve the effectiveness of business operations, risk management, and internal control processes in companies and other organizations.",
+          "education": "Bachelor’s Degree and optional Master’s Degree"
+        },
+        {
+          "careers": "Forensic Accountant",
+          "primary_responsibilities": "Analyze financial records to locate evidence of fraud and other financial crimes and assist in providing litigation support.",
+          "education": "Bachelor’s Degree and optional Master’s Degree"
+        }
+      ],
+      "original_header": "TYPICAL ACCOUNTING CAREERS WITH COMPANIES & ORGANIZATIONS"
+    },
+    "arizona_cpa_requirements_each_state_is_different": {
+      "type": "key_value",
+      "data": {
+        "education": "150 credits including: 36 credits in accounting (of which 30 must be upper division) and 30 credits in related business courses",
+        "cpa_exam": "Pass 4 sections of the CPA exam",
+        "work_experience": "2000 hours (about 1-2 years) in the accounting profession"
+      },
+      "original_header": "ARIZONA CPA REQUIRMENTS (each state is different)"
+    },
+    "sample_of_companies_who_frequently_hire_accounting_majors": {
+      "type": "list",
+      "data": [
+        "Arizona Auditor General",
+        "Arizona Public Service",
+        "Bank of America",
+        "BeachFleischman",
+        "Capital One",
+        "CBIZ/MHM",
+        "City of Tucson",
+        "Deloitte & Touche LLP",
+        "Equity Methods",
+        "Ernst & Young LLP",
+        "Frank Rimerman + Co., LLP",
+        "Goldman Sachs",
+        "Heinfeld, Meech & Co.",
+        "Honeywell",
+        "Intel Corporation",
+        "Internal Revenue Service",
+        "KPMG LLP",
+        "Microsoft",
+        "Moss Adams",
+        "National Bank of Arizona",
+        "Pima County",
+        "Protiviti",
+        "PricewaterhouseCoopers LLP",
+        "R & A CPAs",
+        "RTX (Raytheon Technologies)",
+        "Texas Instruments"
+      ],
+      "original_header": "SAMPLE OF COMPANIES WHO FREQUENTLY HIRE ACCOUNTING MAJORS"
+    }
+  },
+  "section_order": [
+    "typical_accounting_careers_with_public_accounting_firms",
+    "typical_accounting_careers_with_companies_and_organizations",
+    "arizona_cpa_requirements_each_state_is_different",
+    "sample_of_companies_who_frequently_hire_accounting_majors"
+  ]
+}

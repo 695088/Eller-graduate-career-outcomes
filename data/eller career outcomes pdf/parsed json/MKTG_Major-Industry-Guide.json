@@ -1,0 +1,94 @@
+{
+  "major": "Marketing",
+  "major_code": "MKTG",
+  "source_file": "MKTG_Major-Industry-Guide.pdf",
+  "document_title": "MARKETING CAREERS OVERVIEW",
+  "sections": {
+    "common_industries": {
+      "type": "list",
+      "data": [
+        "Advertising",
+        "Consumer Products",
+        "Financial Services",
+        "Healthcare",
+        "Media/Entertainment",
+        "Retail",
+        "Sports/Leisure",
+        "Technology/Science",
+        "Real Estate"
+      ],
+      "original_header": "COMMON INDUSTRIES"
+    },
+    "typical_marketing_career_options": {
+      "type": "table",
+      "columns": [
+        "position",
+        "sample_of_companies",
+        "primary_responsibilities"
+      ],
+      "column_headers": {
+        "position": "POSITION",
+        "sample_of_companies": "SAMPLE OF COMPANIES",
+        "primary_responsibilities": "PRIMARY RESPONSIBILITIES"
+      },
+      "data": [
+        {
+          "position": "Advertising/Promotions",
+          "sample_of_companies": "Cox Media, iamHeart, GoDaddy, Madden Media",
+          "primary_responsibilities": "Involves helping a company call attention to their product, service, or brand by creating and executing a marketing strategy and concept. Digital Marketing: Using digital channels to market products. Includes Search Engine Optimization (SEO), Search Engine Marketing (SEM), blogs (content/inbound marketing), newsletters"
+        },
+        {
+          "position": "Buying",
+          "sample_of_companies": "Dillards, Macy’s, Target, Ross, TJX, Advertising agencies",
+          "primary_responsibilities": "Buy products for organizations to use or resell. Evaluate suppliers, negotiate contracts, review product quality, analyze and strategize for inventory flow within a department. Predict what customers will want, make sure there is sufficient inventory, and at prices that will encourage buying."
+        },
+        {
+          "position": "Customer Service",
+          "sample_of_companies": "Fisher Investments, Geico, Vanguard, Paradox",
+          "primary_responsibilities": "Provide support for customers, may also have a sales component."
+        },
+        {
+          "position": "Event Planning",
+          "sample_of_companies": "Avnet, TTI, Clinisys, non-profits",
+          "primary_responsibilities": "Coordinate all aspects of meetings and events including arranging location, transportation and all the event details. Spend a lot of time in the office, but also conduct site visits, and often travel to attend events."
+        },
+        {
+          "position": "Market Research/Analytics",
+          "sample_of_companies": "Engine, SC Johnson, Gartner, Nielsen, PR Companies",
+          "primary_responsibilities": "Collect, analyze, interpret data to determine what people want, who will buy, and at what price."
+        },
+        {
+          "position": "PR/Social Media",
+          "sample_of_companies": "Oliver Peoples, Big Marlin Group, Insight Enterprises, Vantage West, Mars, Inc",
+          "primary_responsibilities": "Responsible for presenting the best possible public image for the company or client. They create and release statements to the media and plan and direct public relations programs or campaigns."
+        },
+        {
+          "position": "Management",
+          "sample_of_companies": "Amazon, Enterprise, GEICO, Kohl’s, Macy’s, MGM Resorts, Nordstrom, Ross, Target",
+          "primary_responsibilities": "Retail in-store sales manager can often have a path to regional manager in a few years."
+        },
+        {
+          "position": "Sales",
+          "sample_of_companies": "ADP, Altria, Cisco, E&J Gallo Winery, General Mills, Professional Sports Teams, TekSystems, TTI",
+          "primary_responsibilities": "B2B- Business to Business (consultative sales) B2C- Business to Consumer"
+        }
+      ],
+      "original_header": "TYPICAL MARKETING CAREER OPTIONS"
+    },
+    "marketing_engagement_opportunities": {
+      "type": "list",
+      "data": [
+        "MKTG 297 Marketing Careers",
+        "MKTG 423 Digital Marketing | MKTG 425 Applied Advertising",
+        "ENTR 455 Small Business Development and Consulting",
+        "FESO Clubs: AdCats; AdTEAM; American Marketing Association; Business of Entertainment; Eller Social Media Club"
+      ],
+      "original_header": "MARKETING ENGAGEMENT OPPORTUNITIES"
+    }
+  },
+  "section_order": [
+    "common_industries",
+    "typical_marketing_career_options",
+    "marketing_engagement_opportunities"
+  ]
+}

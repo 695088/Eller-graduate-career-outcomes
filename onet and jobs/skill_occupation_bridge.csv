@@ -1,0 +1,1760 @@
+skill_id,skill_name,onet_soc_code,match_rank,match_score,terms_matched
+SK_001,SQL,15-1242.00,1,4.0,6
+SK_001,SQL,15-1243.00,2,3.4,6
+SK_001,SQL,15-1254.00,3,2.0,2
+SK_001,SQL,13-1161.01,4,0.667,2
+SK_001,SQL,15-1252.00,5,0.5,2
+SK_002,Financial Accounting,43-3031.00,1,1.5,2
+SK_002,Financial Accounting,43-5011.01,2,1.0,1
+SK_002,Financial Accounting,13-2011.00,3,0.833,2
+SK_002,Financial Accounting,11-3031.00,4,0.333,1
+SK_002,Financial Accounting,13-2051.00,5,0.25,1
+SK_003,Managerial Accounting,43-3031.00,1,2.0,2
+SK_003,Managerial Accounting,13-2011.00,2,1.0,2
+SK_003,Managerial Accounting,11-3031.00,3,0.583,2
+SK_003,Managerial Accounting,43-3021.00,4,0.533,2
+SK_003,Managerial Accounting,13-2031.00,5,0.45,2
+SK_004,Financial Statement Preparation,13-2051.00,1,3.5,4
+SK_004,Financial Statement Preparation,13-2052.00,2,2.333,4
+SK_004,Financial Statement Preparation,13-2099.01,3,1.5,4
+SK_004,Financial Statement Preparation,15-2041.00,4,1.0,1
+SK_004,Financial Statement Preparation,41-3031.00,5,1.0,4
+SK_005,Financial Statement Analysis,13-2051.00,1,5.0,5
+SK_005,Financial Statement Analysis,13-2099.01,2,2.333,5
+SK_005,Financial Statement Analysis,13-2052.00,3,1.333,4
+SK_005,Financial Statement Analysis,11-3031.00,4,1.117,4
+SK_005,Financial Statement Analysis,41-3031.00,5,0.8,4
+SK_006,Financial Reporting,13-2051.00,1,1.833,3
+SK_006,Financial Reporting,11-3031.00,2,1.75,3
+SK_006,Financial Reporting,43-3021.00,3,1.0,1
+SK_006,Financial Reporting,13-2052.00,4,0.533,2
+SK_006,Financial Reporting,41-3031.00,5,0.533,2
+SK_007,Accounting Transaction Recording,43-3031.00,1,3.0,3
+SK_007,Accounting Transaction Recording,43-4011.00,2,2.333,4
+SK_007,Accounting Transaction Recording,13-2011.00,3,1.167,3
+SK_007,Accounting Transaction Recording,41-9021.00,4,0.7,2
+SK_007,Accounting Transaction Recording,13-1199.06,5,0.583,2
+SK_008,Asset and Revenue Accounting,13-2011.00,1,3.333,5
+SK_008,Asset and Revenue Accounting,13-2081.00,2,3.0,3
+SK_008,Asset and Revenue Accounting,11-3031.00,3,1.617,5
+SK_008,Asset and Revenue Accounting,43-3031.00,4,1.0,3
+SK_008,Asset and Revenue Accounting,13-2052.00,5,0.833,2
+SK_009,Liability and Equity Accounting,41-3031.00,1,2.533,4
+SK_009,Liability and Equity Accounting,13-2099.01,2,2.2,4
+SK_009,Liability and Equity Accounting,13-2051.00,3,1.417,4
+SK_009,Liability and Equity Accounting,13-1031.00,4,1.0,1
+SK_009,Liability and Equity Accounting,13-2054.00,5,0.9,3
+SK_010,Cost Accounting,43-3031.00,1,2.0,2
+SK_010,Cost Accounting,13-1051.00,2,1.583,3
+SK_010,Cost Accounting,13-2011.00,3,1.25,3
+SK_010,Cost Accounting,43-3021.00,4,0.783,3
+SK_010,Cost Accounting,13-1081.01,5,0.5,1
+SK_011,Cost Allocation,43-1011.00,1,1.833,3
+SK_011,Cost Allocation,13-1081.00,2,1.333,3
+SK_011,Cost Allocation,13-1051.00,3,1.0,1
+SK_011,Cost Allocation,13-2023.00,4,1.0,1
+SK_011,Cost Allocation,43-9061.00,5,0.333,1
+SK_012,Cost-Volume-Profit Analysis,11-9151.00,1,2.0,2
+SK_012,Cost-Volume-Profit Analysis,11-2021.00,2,1.0,2
+SK_012,Cost-Volume-Profit Analysis,15-1211.00,3,1.0,1
+SK_012,Cost-Volume-Profit Analysis,13-2031.00,4,0.75,3
+SK_012,Cost-Volume-Profit Analysis,13-1051.00,5,0.667,2
+SK_013,Job Costing,13-1141.00,1,3.0,3
+SK_013,Job Costing,43-5061.00,2,1.333,3
+SK_013,Job Costing,13-1051.00,3,1.167,3
+SK_013,Job Costing,13-1071.00,4,0.75,3
+SK_013,Job Costing,43-4151.00,5,0.4,2
+SK_014,Process Costing,13-1081.01,1,1.0,1
+SK_014,Process Costing,43-3031.00,2,1.0,1
+SK_014,Process Costing,13-1051.00,3,0.583,2
+SK_014,Process Costing,13-2011.00,4,0.5,1
+SK_014,Process Costing,17-2112.03,5,0.5,1
+SK_015,Standard Costing,13-1051.00,1,1.333,2
+SK_015,Standard Costing,13-2011.00,2,1.0,1
+SK_015,Standard Costing,17-2112.00,3,0.5,1
+SK_015,Standard Costing,43-3031.00,4,0.5,1
+SK_015,Standard Costing,13-1081.01,5,0.333,1
+SK_016,Budgeting,13-2031.00,1,2.0,2
+SK_016,Budgeting,13-2071.00,2,1.0,2
+SK_016,Budgeting,41-2031.00,3,1.0,1
+SK_016,Budgeting,13-2011.00,4,0.667,2
+SK_016,Budgeting,13-1022.00,5,0.5,1
+SK_017,Federal Taxation,13-2081.00,1,3.0,3
+SK_017,Federal Taxation,13-2082.00,2,1.5,3
+SK_017,Federal Taxation,23-1011.00,3,0.667,2
+SK_017,Federal Taxation,11-1011.00,4,0.5,2
+SK_017,Federal Taxation,11-3031.03,5,0.4,2
+SK_018,Tax Compliance,13-2081.00,1,2.0,2
+SK_018,Tax Compliance,13-2082.00,2,1.0,2
+SK_018,Tax Compliance,13-2011.00,3,0.667,2
+SK_018,Tax Compliance,11-9199.02,4,0.5,2
+SK_018,Tax Compliance,13-2023.00,5,0.4,2
+SK_019,Tax Planning,13-2082.00,1,2.5,3
+SK_019,Tax Planning,13-2081.00,2,2.0,3
+SK_019,Tax Planning,13-2011.00,3,0.867,3
+SK_019,Tax Planning,13-2023.00,4,0.833,3
+SK_019,Tax Planning,13-1041.08,5,0.25,1
+SK_020,Assurance Services,15-1253.00,1,2.0,2
+SK_020,Assurance Services,11-3051.01,2,0.833,2
+SK_020,Assurance Services,11-9111.00,3,0.7,2
+SK_020,Assurance Services,11-3021.00,4,0.533,2
+SK_020,Assurance Services,13-1041.07,5,0.25,1
+SK_021,Internal Controls,13-1041.07,1,2.0,2
+SK_021,Internal Controls,17-2141.00,2,1.25,2
+SK_021,Internal Controls,13-2011.00,3,0.917,3
+SK_021,Internal Controls,11-3051.01,4,0.833,2
+SK_021,Internal Controls,17-2199.05,5,0.7,2
+SK_022,Accounting Information Systems,13-2011.00,1,2.0,2
+SK_022,Accounting Information Systems,15-1212.00,2,1.0,1
+SK_022,Accounting Information Systems,43-3031.00,3,1.0,2
+SK_022,Accounting Information Systems,15-1299.02,4,0.667,2
+SK_022,Accounting Information Systems,11-3021.00,5,0.5,2
+SK_023,Governmental Accounting,43-3031.00,1,2.5,3
+SK_023,Governmental Accounting,11-1011.00,2,1.583,3
+SK_023,Governmental Accounting,13-2011.00,3,1.333,3
+SK_023,Governmental Accounting,43-3021.00,4,0.583,2
+SK_023,Governmental Accounting,13-2031.00,5,0.4,2
+SK_024,Nonprofit Accounting,11-9151.00,1,2.25,3
+SK_024,Nonprofit Accounting,13-1131.00,2,1.0,1
+SK_024,Nonprofit Accounting,11-2021.00,3,0.833,2
+SK_024,Nonprofit Accounting,43-3031.00,4,0.833,2
+SK_024,Nonprofit Accounting,11-1011.00,5,0.5,1
+SK_025,Fund Accounting,13-2011.00,1,2.0,2
+SK_025,Fund Accounting,11-3031.03,2,1.0,2
+SK_025,Fund Accounting,43-3031.00,3,0.667,2
+SK_025,Fund Accounting,13-2051.00,4,0.5,2
+SK_025,Fund Accounting,11-1011.00,5,0.2,1
+SK_026,GAAP,43-3031.00,1,1.0,1
+SK_026,GAAP,13-2011.00,2,0.5,1
+SK_026,GAAP,43-3021.00,3,0.333,1
+SK_026,GAAP,13-2031.00,4,0.25,1
+SK_026,GAAP,43-9061.00,5,0.2,1
+SK_027,Financial Management,13-2051.00,1,2.2,4
+SK_027,Financial Management,41-3031.00,2,2.0,2
+SK_027,Financial Management,13-2052.00,3,1.5,4
+SK_027,Financial Management,13-2061.00,4,1.25,4
+SK_027,Financial Management,11-3031.00,5,1.2,2
+SK_028,Financial Analysis,13-2051.00,1,2.5,3
+SK_028,Financial Analysis,13-2099.01,2,1.0,2
+SK_028,Financial Analysis,19-3011.00,3,1.0,1
+SK_028,Financial Analysis,41-3031.00,4,0.583,2
+SK_028,Financial Analysis,11-3031.00,5,0.533,2
+SK_029,Financial Forecasting,19-3011.00,1,2.5,3
+SK_029,Financial Forecasting,13-2051.00,2,2.0,3
+SK_029,Financial Forecasting,43-3031.00,3,1.0,1
+SK_029,Financial Forecasting,11-3031.00,4,0.867,3
+SK_029,Financial Forecasting,41-2011.00,5,0.5,1
+SK_030,Company Valuation,13-2022.00,1,2.283,5
+SK_030,Company Valuation,13-2051.00,2,2.083,4
+SK_030,Company Valuation,13-2023.00,3,1.95,4
+SK_030,Company Valuation,11-9141.00,4,1.5,2
+SK_030,Company Valuation,41-3031.00,5,1.2,2
+SK_031,Discounted Cash Flow Valuation,43-3031.00,1,3.0,3
+SK_031,Discounted Cash Flow Valuation,41-2011.00,2,1.5,3
+SK_031,Discounted Cash Flow Valuation,13-2022.00,3,1.2,2
+SK_031,Discounted Cash Flow Valuation,43-3071.00,4,1.0,3
+SK_031,Discounted Cash Flow Valuation,13-2023.00,5,0.5,1
+SK_032,Residual Income Valuation,13-2023.00,1,1.0,1
+SK_032,Residual Income Valuation,43-3031.00,2,1.0,1
+SK_032,Residual Income Valuation,13-2082.00,3,0.75,2
+SK_032,Residual Income Valuation,11-3031.03,4,0.583,2
+SK_032,Residual Income Valuation,13-2041.00,5,0.533,2
+SK_033,Comparable Valuation Analysis,13-2022.00,1,3.5,4
+SK_033,Comparable Valuation Analysis,13-2023.00,2,2.5,4
+SK_033,Comparable Valuation Analysis,13-2051.00,3,1.333,4
+SK_033,Comparable Valuation Analysis,15-2011.00,4,1.0,4
+SK_033,Comparable Valuation Analysis,13-2099.01,5,0.8,4
+SK_034,Credit Analysis,13-2041.00,1,3.0,3
+SK_034,Credit Analysis,43-4041.00,2,1.167,3
+SK_034,Credit Analysis,13-2054.00,3,1.0,2
+SK_034,Credit Analysis,43-3021.00,4,1.0,1
+SK_034,Credit Analysis,13-2071.00,5,0.833,3
+SK_035,Profitability Analysis,11-9151.00,1,2.0,3
+SK_035,Profitability Analysis,11-2021.00,2,1.833,3
+SK_035,Profitability Analysis,13-2023.00,3,1.0,1
+SK_035,Profitability Analysis,13-2072.00,4,1.0,1
+SK_035,Profitability Analysis,13-2041.00,5,0.917,3
+SK_036,Investment Analysis,13-2051.00,1,3.5,4
+SK_036,Investment Analysis,11-3031.03,2,2.5,4
+SK_036,Investment Analysis,13-2052.00,3,1.333,4
+SK_036,Investment Analysis,41-3031.00,4,0.95,4
+SK_036,Investment Analysis,11-3031.01,5,0.85,4
+SK_037,Portfolio Management,11-3031.03,1,2.667,5
+SK_037,Portfolio Management,13-2099.01,2,2.5,3
+SK_037,Portfolio Management,13-2051.00,3,2.0,2
+SK_037,Portfolio Management,13-2052.00,4,1.917,5
+SK_037,Portfolio Management,11-3021.00,5,0.7,3
+SK_038,Portfolio Diversification,11-3031.03,1,1.5,2
+SK_038,Portfolio Diversification,13-2099.01,2,1.0,1
+SK_038,Portfolio Diversification,13-2052.00,3,0.667,2
+SK_038,Portfolio Diversification,13-2051.00,4,0.5,1
+SK_038,Portfolio Diversification,11-3021.00,5,0.25,1
+SK_039,Asset Allocation,11-3031.03,1,2.0,2
+SK_039,Asset Allocation,13-2052.00,2,0.667,2
+SK_039,Asset Allocation,11-9199.08,3,0.5,1
+SK_039,Asset Allocation,13-2051.00,4,0.5,1
+SK_039,Asset Allocation,11-3031.00,5,0.45,2
+SK_040,Investment Performance Evaluation,13-2051.00,1,1.2,2
+SK_040,Investment Performance Evaluation,11-3031.03,2,1.0,2
+SK_040,Investment Performance Evaluation,13-2099.01,3,1.0,1
+SK_040,Investment Performance Evaluation,15-1253.00,4,1.0,1
+SK_040,Investment Performance Evaluation,13-2052.00,5,0.667,2
+SK_041,Fixed Income Analysis,41-3031.00,1,3.0,3
+SK_041,Fixed Income Analysis,11-3031.03,2,2.0,2
+SK_041,Fixed Income Analysis,13-2041.00,3,1.0,2
+SK_041,Fixed Income Analysis,13-2054.00,4,1.0,2
+SK_041,Fixed Income Analysis,43-3031.00,5,0.917,3
+SK_042,Equity Analysis,41-3031.00,1,2.65,5
+SK_042,Equity Analysis,13-2099.01,2,2.333,3
+SK_042,Equity Analysis,11-3031.03,3,1.583,3
+SK_042,Equity Analysis,13-2051.00,4,1.2,3
+SK_042,Equity Analysis,13-2054.00,5,1.083,3
+SK_043,Mutual Fund Analysis,41-3031.00,1,2.0,2
+SK_043,Mutual Fund Analysis,11-3031.03,2,1.0,2
+SK_043,Mutual Fund Analysis,13-2051.00,3,0.667,2
+SK_043,Mutual Fund Analysis,13-2011.00,4,0.5,2
+SK_043,Mutual Fund Analysis,43-3031.00,5,0.4,2
+SK_044,Small Business Finance,13-2072.00,1,2.5,3
+SK_044,Small Business Finance,13-2051.00,2,1.0,1
+SK_044,Small Business Finance,13-1199.04,3,0.833,2
+SK_044,Small Business Finance,13-1011.00,4,0.65,3
+SK_044,Small Business Finance,11-3031.00,5,0.583,2
+SK_045,Business Planning,13-1199.04,1,2.0,2
+SK_045,Business Planning,13-1199.00,2,1.0,2
+SK_045,Business Planning,13-1011.00,3,0.667,2
+SK_045,Business Planning,13-2022.00,4,0.5,2
+SK_045,Business Planning,15-2051.01,5,0.4,2
+SK_046,Break-Even Analysis,43-5071.00,1,2.5,3
+SK_046,Break-Even Analysis,13-1121.00,2,1.0,2
+SK_046,Break-Even Analysis,13-1141.00,3,1.0,1
+SK_046,Break-Even Analysis,27-3023.00,4,0.667,2
+SK_046,Break-Even Analysis,15-1211.00,5,0.333,1
+SK_047,Working Capital Management,13-1131.00,1,1.0,1
+SK_047,Working Capital Management,27-3043.05,2,1.0,1
+SK_047,Working Capital Management,13-2051.00,3,0.583,2
+SK_047,Working Capital Management,27-3043.00,4,0.5,1
+SK_047,Working Capital Management,43-3031.00,5,0.5,1
+SK_048,Real Estate Valuation,13-2023.00,1,2.0,3
+SK_048,Real Estate Valuation,41-9021.00,2,1.5,2
+SK_048,Real Estate Valuation,13-2022.00,3,1.0,1
+SK_048,Real Estate Valuation,41-9022.00,4,0.867,3
+SK_048,Real Estate Valuation,11-9141.00,5,0.833,3
+SK_049,Real Estate Finance,41-9021.00,1,2.5,3
+SK_049,Real Estate Finance,13-2023.00,2,2.0,3
+SK_049,Real Estate Finance,41-9022.00,3,1.0,3
+SK_049,Real Estate Finance,11-9141.00,4,0.75,3
+SK_049,Real Estate Finance,13-2061.00,5,0.6,3
+SK_050,Real Estate Investment Analysis,13-2051.00,1,4.0,4
+SK_050,Real Estate Investment Analysis,11-3031.03,2,1.833,4
+SK_050,Real Estate Investment Analysis,13-2023.00,3,1.25,4
+SK_050,Real Estate Investment Analysis,41-9021.00,4,1.25,4
+SK_050,Real Estate Investment Analysis,11-9141.00,5,0.8,4
+SK_051,Time Value of Money,43-5051.00,1,1.0,1
+SK_051,Time Value of Money,43-3071.00,2,0.5,1
+SK_051,Time Value of Money,41-2011.00,3,0.333,1
+SK_051,Time Value of Money,13-2051.00,4,0.25,1
+SK_051,Time Value of Money,13-2023.00,5,0.2,1
+SK_052,Capital Budgeting,13-2051.00,1,1.333,2
+SK_052,Capital Budgeting,43-3031.00,2,1.0,1
+SK_052,Capital Budgeting,13-1131.00,3,0.7,2
+SK_052,Capital Budgeting,11-3031.03,4,0.5,1
+SK_052,Capital Budgeting,13-2023.00,5,0.333,1
+SK_053,Financial Planning,13-2052.00,1,1.5,2
+SK_053,Financial Planning,13-2099.01,2,1.2,2
+SK_053,Financial Planning,13-2051.00,3,0.833,2
+SK_053,Financial Planning,11-3031.00,4,0.583,2
+SK_053,Financial Planning,13-2061.00,5,0.25,1
+SK_054,International Finance,11-3031.00,1,1.75,3
+SK_054,International Finance,41-3031.00,2,1.333,2
+SK_054,International Finance,11-9141.00,3,1.0,1
+SK_054,International Finance,13-2051.00,4,0.533,2
+SK_054,International Finance,11-1011.00,5,0.5,1
+SK_055,Financial Modeling,13-2099.01,1,3.0,3
+SK_055,Financial Modeling,13-2051.00,2,1.167,3
+SK_055,Financial Modeling,13-2052.00,3,1.083,3
+SK_055,Financial Modeling,13-2054.00,4,0.95,3
+SK_055,Financial Modeling,13-2061.00,5,0.4,2
+SK_056,Bloomberg,11-3071.00,1,1.0,1
+SK_056,Bloomberg,43-4031.00,2,1.0,1
+SK_056,Bloomberg,13-1071.00,3,0.5,1
+SK_056,Bloomberg,43-9021.00,4,0.5,1
+SK_056,Bloomberg,17-2011.00,5,0.333,1
+SK_057,Capital Structure Analysis,13-2051.00,1,1.667,3
+SK_057,Capital Structure Analysis,13-1131.00,2,1.5,2
+SK_057,Capital Structure Analysis,43-3031.00,3,1.5,2
+SK_057,Capital Structure Analysis,13-2052.00,4,0.5,1
+SK_057,Capital Structure Analysis,13-2061.00,5,0.333,1
+SK_058,Corporate Restructuring,13-2051.00,1,1.0,1
+SK_058,Corporate Restructuring,11-9111.00,2,0.5,1
+SK_058,Corporate Restructuring,11-1011.03,3,0.333,1
+SK_058,Corporate Restructuring,11-9199.02,4,0.25,1
+SK_058,Corporate Restructuring,11-1011.00,5,0.2,1
+SK_059,Risk-Return Analysis,13-2054.00,1,4.0,4
+SK_059,Risk-Return Analysis,13-2099.01,2,1.75,4
+SK_059,Risk-Return Analysis,13-2041.00,3,1.5,4
+SK_059,Risk-Return Analysis,15-1212.00,4,1.033,4
+SK_059,Risk-Return Analysis,15-2011.00,5,0.65,3
+SK_060,Investment Banking,13-2051.00,1,2.0,2
+SK_060,Investment Banking,11-3031.03,2,1.0,2
+SK_060,Investment Banking,13-2052.00,3,0.667,2
+SK_060,Investment Banking,41-3031.00,4,0.5,2
+SK_060,Investment Banking,11-3031.00,5,0.4,2
+SK_061,Private Equity,11-9032.00,1,1.0,1
+SK_061,Private Equity,13-2099.01,2,1.0,1
+SK_061,Private Equity,11-3031.03,3,0.75,2
+SK_061,Private Equity,13-2051.00,4,0.583,2
+SK_061,Private Equity,17-2199.11,5,0.5,1
+SK_062,Venture Capital,13-2051.00,1,1.333,2
+SK_062,Venture Capital,13-1131.00,2,1.0,1
+SK_062,Venture Capital,11-3031.00,3,0.583,2
+SK_062,Venture Capital,11-3031.03,4,0.5,1
+SK_062,Venture Capital,43-3031.00,5,0.5,1
+SK_063,Financial Risk Management,13-2054.00,1,2.75,4
+SK_063,Financial Risk Management,41-3031.00,2,2.0,2
+SK_063,Financial Risk Management,13-2099.01,3,1.667,4
+SK_063,Financial Risk Management,11-3031.03,4,0.9,3
+SK_063,Financial Risk Management,11-3031.00,5,0.667,2
+SK_064,Derivatives,41-3031.00,1,3.0,3
+SK_064,Derivatives,15-1299.06,2,1.5,3
+SK_064,Derivatives,13-2099.01,3,0.667,2
+SK_064,Derivatives,13-2061.00,4,0.25,1
+SK_064,Derivatives,41-9022.00,5,0.25,1
+SK_065,Options,41-3031.00,1,2.5,3
+SK_065,Options,17-2199.07,2,1.083,3
+SK_065,Options,41-9022.00,3,1.0,1
+SK_065,Options,19-3011.01,4,0.583,2
+SK_065,Options,13-2099.00,5,0.5,1
+SK_066,Swaps,41-9022.00,1,1.0,1
+SK_066,Swaps,13-1023.00,2,0.5,1
+SK_066,Swaps,13-1021.00,3,0.333,1
+SK_066,Swaps,13-1022.00,4,0.25,1
+SK_066,Swaps,41-4011.00,5,0.2,1
+SK_067,Futures,41-3031.00,1,3.0,3
+SK_067,Futures,13-2099.00,2,1.5,3
+SK_067,Futures,13-1023.00,3,0.583,2
+SK_067,Futures,11-2021.00,4,0.333,1
+SK_067,Futures,15-2011.00,5,0.333,1
+SK_068,Forward Contracts,43-5011.01,1,2.0,2
+SK_068,Forward Contracts,13-1041.08,2,1.0,2
+SK_068,Forward Contracts,43-5053.00,3,0.583,2
+SK_068,Forward Contracts,43-5011.00,4,0.533,2
+SK_068,Forward Contracts,43-5071.00,5,0.45,2
+SK_069,Hedging,41-3031.00,1,2.5,3
+SK_069,Hedging,11-3031.03,2,1.5,2
+SK_069,Hedging,13-2099.01,3,0.667,2
+SK_069,Hedging,13-2054.00,4,0.5,2
+SK_069,Hedging,13-2041.00,5,0.2,1
+SK_070,Financial Market Analysis,41-3031.00,1,4.0,4
+SK_070,Financial Market Analysis,13-2054.00,2,1.7,4
+SK_070,Financial Market Analysis,13-2051.00,3,1.167,4
+SK_070,Financial Market Analysis,13-2099.01,4,1.167,3
+SK_070,Financial Market Analysis,13-1131.00,5,1.0,1
+SK_071,Financial Technology,13-2051.00,1,1.5,2
+SK_071,Financial Technology,13-2054.00,2,1.0,1
+SK_071,Financial Technology,13-2052.00,3,0.75,2
+SK_071,Financial Technology,13-2099.01,4,0.583,2
+SK_071,Financial Technology,13-2061.00,5,0.533,2
+SK_072,ESG Investing,11-1011.03,1,3.0,3
+SK_072,ESG Investing,19-3011.01,2,1.0,2
+SK_072,ESG Investing,17-2081.00,3,0.667,2
+SK_072,ESG Investing,11-9199.02,4,0.5,2
+SK_072,ESG Investing,13-2099.01,5,0.5,1
+SK_073,Financial Regulation,13-2061.00,1,1.25,2
+SK_073,Financial Regulation,13-2071.00,2,1.0,1
+SK_073,Financial Regulation,43-3071.00,3,1.0,1
+SK_073,Financial Regulation,11-3031.00,4,0.5,1
+SK_073,Financial Regulation,13-2052.00,5,0.5,1
+SK_074,Financial Institution Management,13-2061.00,1,2.25,3
+SK_074,Financial Institution Management,13-2051.00,2,1.333,3
+SK_074,Financial Institution Management,43-5011.01,3,1.0,1
+SK_074,Financial Institution Management,11-3031.00,4,0.833,2
+SK_074,Financial Institution Management,13-2052.00,5,0.833,3
+SK_075,Deal Evaluation,13-1199.00,1,1.0,1
+SK_075,Deal Evaluation,13-2051.00,2,1.0,1
+SK_075,Deal Evaluation,11-3031.03,3,0.5,1
+SK_075,Deal Evaluation,13-1111.00,4,0.5,1
+SK_075,Deal Evaluation,41-3031.00,5,0.45,2
+SK_076,Deal Structuring,11-2022.00,1,1.0,1
+SK_076,Deal Structuring,43-4011.00,2,1.0,1
+SK_076,Deal Structuring,41-3031.00,3,0.5,1
+SK_076,Deal Structuring,41-9021.00,4,0.5,1
+SK_076,Deal Structuring,13-1021.00,5,0.333,1
+SK_077,Due Diligence,13-2051.00,1,1.0,1
+SK_077,Due Diligence,43-3021.00,2,1.0,1
+SK_077,Due Diligence,11-3031.03,3,0.5,1
+SK_077,Due Diligence,13-2052.00,4,0.333,1
+SK_077,Due Diligence,41-3031.00,5,0.25,1
+SK_078,Investment Fund Structuring,11-3031.03,1,4.0,4
+SK_078,Investment Fund Structuring,13-2051.00,2,1.45,4
+SK_078,Investment Fund Structuring,41-3031.00,3,1.083,4
+SK_078,Investment Fund Structuring,11-2033.00,4,0.833,2
+SK_078,Investment Fund Structuring,13-2052.00,5,0.667,2
+SK_079,Value Creation Strategy,13-2022.00,1,2.0,2
+SK_079,Value Creation Strategy,13-2023.00,2,1.0,2
+SK_079,Value Creation Strategy,13-2051.00,3,0.667,2
+SK_079,Value Creation Strategy,11-3051.00,4,0.45,2
+SK_079,Value Creation Strategy,13-2099.01,5,0.25,1
+SK_080,Cost of Capital Analysis,43-3031.00,1,2.0,2
+SK_080,Cost of Capital Analysis,13-1131.00,2,1.0,2
+SK_080,Cost of Capital Analysis,13-2023.00,3,0.667,2
+SK_080,Cost of Capital Analysis,13-1051.00,4,0.45,2
+SK_080,Cost of Capital Analysis,13-2051.00,5,0.25,1
+SK_081,Portfolio Optimization,13-2099.01,1,2.0,2
+SK_081,Portfolio Optimization,11-3031.03,2,1.0,2
+SK_081,Portfolio Optimization,13-2052.00,3,0.667,2
+SK_081,Portfolio Optimization,41-3031.00,4,0.5,2
+SK_081,Portfolio Optimization,11-3021.00,5,0.4,2
+SK_082,Impact Investing,13-2051.00,1,2.0,2
+SK_082,Impact Investing,11-3031.03,2,1.0,2
+SK_082,Impact Investing,13-2099.01,3,0.667,2
+SK_082,Impact Investing,11-3031.00,4,0.45,2
+SK_082,Impact Investing,13-2052.00,5,0.45,2
+SK_083,Microfinance,43-9021.00,1,2.0,2
+SK_083,Microfinance,15-1232.00,2,1.0,2
+SK_083,Microfinance,43-9071.00,3,0.667,2
+SK_083,Microfinance,13-2051.00,4,0.5,2
+SK_083,Microfinance,13-2052.00,5,0.2,1
+SK_084,Microeconomic Analysis,13-1141.00,1,1.0,1
+SK_084,Microeconomic Analysis,15-1221.00,2,1.0,1
+SK_084,Microeconomic Analysis,17-2051.00,3,1.0,1
+SK_084,Microeconomic Analysis,41-9012.00,4,1.0,1
+SK_084,Microeconomic Analysis,11-1011.00,5,0.5,1
+SK_085,Macroeconomic Analysis,19-3011.00,1,2.0,2
+SK_085,Macroeconomic Analysis,13-1141.00,2,1.0,1
+SK_085,Macroeconomic Analysis,15-1211.00,3,1.0,2
+SK_085,Macroeconomic Analysis,15-1253.00,4,1.0,1
+SK_085,Macroeconomic Analysis,19-3011.01,5,1.0,2
+SK_086,Opportunity Cost Analysis,13-1041.03,1,3.0,3
+SK_086,Opportunity Cost Analysis,13-1051.00,2,1.25,3
+SK_086,Opportunity Cost Analysis,13-1041.00,3,1.0,3
+SK_086,Opportunity Cost Analysis,13-1081.01,4,0.667,2
+SK_086,Opportunity Cost Analysis,13-1199.00,5,0.533,2
+SK_087,Marginal Analysis,43-3031.00,1,2.0,2
+SK_087,Marginal Analysis,43-4011.00,2,1.0,2
+SK_087,Marginal Analysis,13-1141.00,3,0.333,1
+SK_087,Marginal Analysis,19-3011.00,4,0.333,1
+SK_087,Marginal Analysis,15-1211.00,5,0.25,1
+SK_088,Supply and Demand Analysis,11-3071.04,1,4.0,4
+SK_088,Supply and Demand Analysis,13-1081.02,2,2.0,4
+SK_088,Supply and Demand Analysis,11-3051.04,3,1.167,4
+SK_088,Supply and Demand Analysis,13-1081.00,4,0.833,3
+SK_088,Supply and Demand Analysis,11-3051.00,5,0.4,2
+SK_089,Game Theory,15-1255.01,1,2.0,2
+SK_089,Game Theory,13-1161.01,2,1.0,1
+SK_089,Game Theory,11-1021.00,3,0.75,2
+SK_089,Game Theory,11-9071.00,4,0.7,2
+SK_089,Game Theory,11-2021.00,5,0.5,1
+SK_090,Economic Growth and Development,19-3011.00,1,3.0,3
+SK_090,Economic Growth and Development,11-9013.00,2,1.5,3
+SK_090,Economic Growth and Development,19-3011.01,3,1.5,3
+SK_090,Economic Growth and Development,11-3131.00,4,1.0,1
+SK_090,Economic Growth and Development,19-3051.00,5,0.867,3
+SK_091,Economic History Analysis,19-3011.00,1,4.5,5
+SK_091,Economic History Analysis,19-3011.01,2,1.75,4
+SK_091,Economic History Analysis,11-1011.00,3,1.0,3
+SK_091,Economic History Analysis,13-2023.00,4,1.0,1
+SK_091,Economic History Analysis,19-3092.00,5,0.867,3
+SK_092,Industrial Organization,15-2051.01,1,2.0,2
+SK_092,Industrial Organization,17-2112.00,2,1.833,3
+SK_092,Industrial Organization,19-3032.00,3,1.7,3
+SK_092,Industrial Organization,19-3011.00,4,1.0,1
+SK_092,Industrial Organization,41-9099.00,5,1.0,2
+SK_093,Economic Policy Analysis,11-1011.00,1,2.917,6
+SK_093,Economic Policy Analysis,43-9041.00,2,2.45,4
+SK_093,Economic Policy Analysis,19-3094.00,3,2.2,5
+SK_093,Economic Policy Analysis,19-3011.00,4,2.033,4
+SK_093,Economic Policy Analysis,11-2032.00,5,1.333,2
+SK_094,Economics of Crime,43-9111.00,1,3.5,4
+SK_094,Economics of Crime,13-2099.04,2,1.25,2
+SK_094,Economics of Crime,13-2061.00,3,0.9,3
+SK_094,Economics of Crime,13-2023.00,4,0.75,2
+SK_094,Economics of Crime,43-4131.00,5,0.667,2
+SK_095,Sports Economics,19-3011.00,1,2.0,2
+SK_095,Sports Economics,19-3011.01,2,1.0,2
+SK_095,Sports Economics,11-9199.00,3,0.333,1
+SK_095,Sports Economics,15-2041.00,4,0.333,1
+SK_095,Sports Economics,13-1011.00,5,0.25,1
+SK_096,Monetary Policy Analysis,19-3011.00,1,4.0,4
+SK_096,Monetary Policy Analysis,13-1131.00,2,1.5,3
+SK_096,Monetary Policy Analysis,43-9041.00,3,0.667,2
+SK_096,Monetary Policy Analysis,13-2031.00,4,0.5,1
+SK_096,Monetary Policy Analysis,19-3032.00,5,0.4,2
+SK_097,Fiscal Policy Analysis,19-3011.00,1,3.0,3
+SK_097,Fiscal Policy Analysis,13-2031.00,2,1.5,3
+SK_097,Fiscal Policy Analysis,13-2081.00,3,1.0,1
+SK_097,Fiscal Policy Analysis,13-2051.00,4,0.783,3
+SK_097,Fiscal Policy Analysis,19-3094.00,5,0.667,2
+SK_098,Law and Economics,19-3011.00,1,2.333,3
+SK_098,Law and Economics,19-3011.01,2,1.25,3
+SK_098,Law and Economics,15-1251.00,3,1.0,1
+SK_098,Law and Economics,11-1011.00,4,0.5,2
+SK_098,Law and Economics,41-9091.00,5,0.5,1
+SK_099,International Trade Analysis,11-2021.00,1,2.5,3
+SK_099,International Trade Analysis,11-2022.00,2,1.75,3
+SK_099,International Trade Analysis,13-1041.08,3,1.283,4
+SK_099,International Trade Analysis,19-3011.00,4,1.033,3
+SK_099,International Trade Analysis,43-5011.00,5,1.0,1
+SK_100,Exchange Rate Analysis,43-1011.00,1,1.333,2
+SK_100,Exchange Rate Analysis,13-2099.00,2,1.0,2
+SK_100,Exchange Rate Analysis,19-3091.00,3,1.0,1
+SK_100,Exchange Rate Analysis,43-3071.00,4,1.0,1
+SK_100,Exchange Rate Analysis,43-2021.00,5,0.583,2
+SK_101,Balance of Payments Analysis,43-3031.00,1,3.0,3
+SK_101,Balance of Payments Analysis,13-2023.00,2,1.5,3
+SK_101,Balance of Payments Analysis,43-9199.00,3,1.0,3
+SK_101,Balance of Payments Analysis,43-1011.00,4,0.75,3
+SK_101,Balance of Payments Analysis,43-3021.00,5,0.6,3
+SK_102,Environmental Economics,19-3011.01,1,3.0,3
+SK_102,Environmental Economics,19-3011.00,2,1.5,3
+SK_102,Environmental Economics,11-1011.00,3,0.45,2
+SK_102,Environmental Economics,13-2023.00,4,0.333,1
+SK_102,Environmental Economics,17-2081.00,5,0.333,1
+SK_103,Natural Resource Economics,19-3011.01,1,2.0,2
+SK_103,Natural Resource Economics,11-2032.00,2,1.0,1
+SK_103,Natural Resource Economics,11-9121.00,3,0.7,2
+SK_103,Natural Resource Economics,19-3092.00,4,0.533,2
+SK_103,Natural Resource Economics,19-3011.00,5,0.5,1
+SK_104,Energy Market Analysis,17-2199.03,1,4.0,4
+SK_104,Energy Market Analysis,17-2199.11,2,1.833,4
+SK_104,Energy Market Analysis,11-9199.10,3,1.5,4
+SK_104,Energy Market Analysis,17-2199.10,4,0.9,4
+SK_104,Energy Market Analysis,11-9199.09,5,0.9,4
+SK_105,Labor Economics,19-3011.00,1,2.25,3
+SK_105,Labor Economics,11-1011.00,2,1.5,3
+SK_105,Labor Economics,11-3071.04,3,1.0,1
+SK_105,Labor Economics,11-3111.00,4,1.0,1
+SK_105,Labor Economics,13-1075.00,5,0.833,2
+SK_106,Labor Market Discrimination Analysis,13-1041.03,1,4.0,4
+SK_106,Labor Market Discrimination Analysis,11-3111.00,2,1.5,4
+SK_106,Labor Market Discrimination Analysis,19-3011.00,3,1.0,2
+SK_106,Labor Market Discrimination Analysis,11-2021.00,4,0.667,2
+SK_106,Labor Market Discrimination Analysis,19-3011.01,5,0.667,2
+SK_107,Experimental Economics,19-3011.00,1,2.0,2
+SK_107,Experimental Economics,13-1075.00,2,1.0,1
+SK_107,Experimental Economics,19-3011.01,3,1.0,2
+SK_107,Experimental Economics,11-9041.01,4,0.5,1
+SK_107,Experimental Economics,19-3092.00,5,0.5,2
+SK_108,Econometrics,19-3011.00,1,4.0,4
+SK_108,Econometrics,13-2099.01,2,1.0,2
+SK_108,Econometrics,13-2054.00,3,0.867,3
+SK_108,Econometrics,15-2031.00,4,0.5,2
+SK_108,Econometrics,19-3011.01,5,0.5,1
+SK_109,Mathematical Economics,15-2099.00,1,3.0,3
+SK_109,Mathematical Economics,15-2021.00,2,1.2,3
+SK_109,Mathematical Economics,15-2041.00,3,1.167,3
+SK_109,Mathematical Economics,15-2031.00,4,0.5,2
+SK_109,Mathematical Economics,13-2099.01,5,0.4,2
+SK_110,Health Economics,19-3011.00,1,2.0,2
+SK_110,Health Economics,11-9111.00,2,1.45,3
+SK_110,Health Economics,15-1211.01,3,1.167,3
+SK_110,Health Economics,19-3011.01,4,1.0,2
+SK_110,Health Economics,17-2111.00,5,0.583,2
+SK_111,Public Finance,11-1011.00,1,1.45,3
+SK_111,Public Finance,11-2032.00,2,1.25,2
+SK_111,Public Finance,13-2081.00,3,1.0,1
+SK_111,Public Finance,27-3031.00,4,0.7,2
+SK_111,Public Finance,19-3011.00,5,0.5,1
+SK_112,Decision Theory,15-2031.00,1,2.0,3
+SK_112,Decision Theory,15-1221.00,2,1.0,1
+SK_112,Decision Theory,23-1021.00,3,1.0,1
+SK_112,Decision Theory,13-1141.00,4,0.5,1
+SK_112,Decision Theory,15-1211.00,5,0.333,1
+SK_113,Behavioral Economics,19-3034.00,1,1.833,3
+SK_113,Behavioral Economics,19-3033.00,2,1.45,3
+SK_113,Behavioral Economics,19-3011.00,3,1.0,1
+SK_113,Behavioral Economics,19-3032.00,4,0.533,2
+SK_113,Behavioral Economics,15-2031.00,5,0.5,1
+SK_114,Behavioral Game Theory,15-1255.01,1,1.0,1
+SK_114,Behavioral Game Theory,19-3011.01,2,1.0,1
+SK_114,Behavioral Game Theory,11-1021.00,3,0.5,1
+SK_114,Behavioral Game Theory,19-3011.00,4,0.5,1
+SK_114,Behavioral Game Theory,11-9199.00,5,0.333,1
+SK_115,Economic Damages Estimation,19-3011.00,1,2.25,3
+SK_115,Economic Damages Estimation,13-2099.01,2,1.0,1
+SK_115,Economic Damages Estimation,19-3011.01,3,1.0,2
+SK_115,Economic Damages Estimation,19-3092.00,4,0.667,2
+SK_115,Economic Damages Estimation,15-2041.00,5,0.5,1
+SK_116,General Equilibrium Analysis,11-1021.00,1,2.0,2
+SK_116,General Equilibrium Analysis,43-9061.00,2,1.0,2
+SK_116,General Equilibrium Analysis,43-3031.00,3,0.583,2
+SK_116,General Equilibrium Analysis,13-1141.00,4,0.333,1
+SK_116,General Equilibrium Analysis,11-9179.01,5,0.25,1
+SK_117,Information Economics,19-3011.01,1,2.0,2
+SK_117,Information Economics,19-3011.00,2,1.0,2
+SK_117,Information Economics,13-2023.00,3,0.333,1
+SK_117,Information Economics,15-2041.00,4,0.333,1
+SK_117,Information Economics,15-1212.00,5,0.25,1
+SK_118,Antitrust Analysis,19-3011.00,1,1.333,2
+SK_118,Antitrust Analysis,13-1141.00,2,1.0,1
+SK_118,Antitrust Analysis,43-9041.00,3,1.0,1
+SK_118,Antitrust Analysis,11-1011.00,4,0.5,1
+SK_118,Antitrust Analysis,15-1211.00,5,0.5,1
+SK_119,Regulatory Economics,11-1011.00,1,1.0,1
+SK_119,Regulatory Economics,11-3051.00,2,1.0,1
+SK_119,Regulatory Economics,15-1299.05,3,1.0,1
+SK_119,Regulatory Economics,19-3011.00,4,1.0,1
+SK_119,Regulatory Economics,11-3013.01,5,0.5,1
+SK_120,Climate Economics,11-1011.03,1,4.0,4
+SK_120,Climate Economics,19-3092.00,2,1.667,4
+SK_120,Climate Economics,19-3011.00,3,1.417,4
+SK_120,Climate Economics,19-3011.01,4,0.75,3
+SK_120,Climate Economics,41-9091.00,5,0.5,1
+SK_121,Climate Modeling,11-1011.03,1,2.0,2
+SK_121,Climate Modeling,19-3092.00,2,1.0,2
+SK_121,Climate Modeling,17-2199.11,3,0.667,2
+SK_121,Climate Modeling,13-2099.01,4,0.5,2
+SK_121,Climate Modeling,15-2051.00,5,0.2,1
+SK_122,Economic Modeling,19-3011.00,1,3.0,3
+SK_122,Economic Modeling,19-3011.01,2,1.5,3
+SK_122,Economic Modeling,19-3092.00,3,1.0,3
+SK_122,Economic Modeling,41-9012.00,4,1.0,1
+SK_122,Economic Modeling,19-3051.00,5,0.7,3
+SK_123,Statistical Inference,15-2041.00,1,2.333,3
+SK_123,Statistical Inference,41-2031.00,2,1.5,2
+SK_123,Statistical Inference,15-2051.00,3,0.9,3
+SK_123,Statistical Inference,43-9111.00,4,0.783,3
+SK_123,Statistical Inference,15-2041.01,5,0.75,2
+SK_124,Statistical Analysis,43-9111.00,1,3.0,3
+SK_124,Statistical Analysis,15-2041.00,2,1.833,4
+SK_124,Statistical Analysis,19-3011.00,3,1.0,1
+SK_124,Statistical Analysis,15-2041.01,4,0.917,3
+SK_124,Statistical Analysis,15-2051.00,5,0.733,3
+SK_125,Linear Regression,15-1253.00,1,2.5,3
+SK_125,Linear Regression,15-2041.01,2,2.0,3
+SK_125,Linear Regression,13-1141.00,3,0.333,1
+SK_125,Linear Regression,23-1011.00,4,0.333,1
+SK_125,Linear Regression,15-1211.00,5,0.25,1
+SK_126,Multiple Linear Regression,15-1253.00,1,3.0,3
+SK_126,Multiple Linear Regression,15-2041.01,2,1.5,3
+SK_126,Multiple Linear Regression,11-1021.00,3,0.667,2
+SK_126,Multiple Linear Regression,11-3013.00,4,0.5,2
+SK_126,Multiple Linear Regression,13-1071.00,5,0.4,2
+SK_127,Statistical Model Estimation,13-2099.01,1,1.75,3
+SK_127,Statistical Model Estimation,41-9012.00,2,1.2,2
+SK_127,Statistical Model Estimation,15-2041.00,3,1.0,1
+SK_127,Statistical Model Estimation,19-3011.00,4,1.0,1
+SK_127,Statistical Model Estimation,13-2054.00,5,0.65,3
+SK_128,Regression Diagnostics,15-1253.00,1,2.5,3
+SK_128,Regression Diagnostics,15-2041.01,2,1.333,3
+SK_128,Regression Diagnostics,15-2021.00,3,1.0,1
+SK_128,Regression Diagnostics,13-1141.00,4,0.333,1
+SK_128,Regression Diagnostics,15-1231.00,5,0.333,1
+SK_129,Nonparametric Statistics,15-2041.00,1,2.2,3
+SK_129,Nonparametric Statistics,15-2031.00,2,1.0,1
+SK_129,Nonparametric Statistics,43-9111.00,3,0.75,2
+SK_129,Nonparametric Statistics,11-1011.00,4,0.7,2
+SK_129,Nonparametric Statistics,41-1012.00,5,0.583,2
+SK_130,Panel Data Modeling,15-2051.00,1,2.0,2
+SK_130,Panel Data Modeling,15-1243.00,2,1.0,2
+SK_130,Panel Data Modeling,15-1253.00,3,1.0,1
+SK_130,Panel Data Modeling,15-1243.01,4,0.667,2
+SK_130,Panel Data Modeling,15-2041.01,5,0.5,1
+SK_131,Logistic Regression,15-2041.01,1,1.0,1
+SK_131,Logistic Regression,15-1253.00,2,0.5,1
+SK_131,Logistic Regression,13-1081.00,3,0.333,1
+SK_131,Logistic Regression,13-1081.01,4,0.25,1
+SK_131,Logistic Regression,13-1081.02,5,0.2,1
+SK_132,Decision Trees,15-1253.00,1,1.0,1
+SK_132,Decision Trees,15-2031.00,2,1.0,1
+SK_132,Decision Trees,41-9091.00,3,1.0,1
+SK_132,Decision Trees,15-2041.01,4,0.5,1
+SK_132,Decision Trees,19-3033.00,5,0.5,1
+SK_133,Analysis of Variance,13-2023.00,1,1.0,1
+SK_133,Analysis of Variance,13-1041.00,2,0.5,1
+SK_133,Analysis of Variance,11-1011.00,3,0.333,1
+SK_133,Analysis of Variance,11-9051.00,4,0.25,1
+SK_133,Analysis of Variance,11-9141.00,5,0.2,1
+SK_134,Statistical Programming,15-2041.00,1,2.0,2
+SK_134,Statistical Programming,15-2041.01,2,0.833,2
+SK_134,Statistical Programming,43-9111.00,3,0.75,2
+SK_134,Statistical Programming,11-1011.00,4,0.333,1
+SK_134,Statistical Programming,15-1251.00,5,0.25,1
+SK_135,SAS,43-9111.00,1,1.143,2
+SK_135,SAS,15-1253.00,2,1.0,1
+SK_135,SAS,15-2041.00,3,0.625,2
+SK_135,SAS,11-3021.00,4,0.5,1
+SK_135,SAS,11-9111.00,5,0.333,1
+SK_136,Data Analysis,15-2051.00,1,3.333,4
+SK_136,Data Analysis,15-1243.01,2,1.333,3
+SK_136,Data Analysis,15-2051.02,3,1.083,3
+SK_136,Data Analysis,13-2023.00,4,1.0,1
+SK_136,Data Analysis,43-3021.00,5,0.5,1
+SK_137,Business Analytics,15-2051.00,1,2.2,4
+SK_137,Business Analytics,15-2051.01,2,1.5,2
+SK_137,Business Analytics,13-1199.04,3,1.25,2
+SK_137,Business Analytics,13-2099.01,4,1.25,2
+SK_137,Business Analytics,15-2041.00,5,0.533,2
+SK_138,Data Management,15-2051.00,1,1.833,3
+SK_138,Data Management,15-2051.02,2,1.75,3
+SK_138,Data Management,41-3041.00,3,1.0,1
+SK_138,Data Management,15-1243.01,4,0.583,2
+SK_138,Data Management,15-1299.03,5,0.5,1
+SK_139,Data Cleaning,15-2051.00,1,1.5,2
+SK_139,Data Cleaning,41-2021.00,2,1.0,1
+SK_139,Data Cleaning,43-9022.00,3,1.0,1
+SK_139,Data Cleaning,15-2051.02,4,0.833,2
+SK_139,Data Cleaning,15-1243.01,5,0.583,2
+SK_140,Data Integration,13-2051.00,1,2.0,2
+SK_140,Data Integration,15-1243.01,2,1.2,2
+SK_140,Data Integration,43-9022.00,3,1.0,2
+SK_140,Data Integration,15-1243.00,4,0.5,1
+SK_140,Data Integration,15-1299.08,5,0.333,1
+SK_141,Data Preparation,15-2051.00,1,2.5,3
+SK_141,Data Preparation,15-2051.02,2,1.5,2
+SK_141,Data Preparation,15-1243.01,3,0.667,2
+SK_141,Data Preparation,19-3011.00,4,0.5,1
+SK_141,Data Preparation,43-9021.00,5,0.5,2
+SK_142,Data Collection,13-2023.00,1,1.0,1
+SK_142,Data Collection,15-2051.00,2,1.0,1
+SK_142,Data Collection,19-3011.00,3,1.0,1
+SK_142,Data Collection,43-3011.00,4,1.0,1
+SK_142,Data Collection,15-1212.00,5,0.5,1
+SK_143,Data Visualization,15-2051.00,1,2.0,2
+SK_143,Data Visualization,43-9031.00,2,1.0,1
+SK_143,Data Visualization,43-9111.00,3,1.0,1
+SK_143,Data Visualization,15-2099.01,4,0.533,2
+SK_143,Data Visualization,15-1255.00,5,0.5,1
+SK_144,Microsoft Excel,13-1081.02,1,2.0,2
+SK_144,Microsoft Excel,13-1199.06,2,1.0,1
+SK_144,Microsoft Excel,43-6011.00,3,1.0,2
+SK_144,Microsoft Excel,13-2051.00,4,0.5,1
+SK_144,Microsoft Excel,13-2054.00,5,0.333,1
+SK_145,Tableau,15-1254.00,1,2.0,2
+SK_145,Tableau,15-1252.00,2,0.5,1
+SK_145,Tableau,15-2051.00,3,0.5,1
+SK_145,Tableau,15-1253.00,4,0.333,1
+SK_145,Tableau,15-2051.01,5,0.333,1
+SK_146,Big Data Analytics,15-2051.00,1,3.2,4
+SK_146,Big Data Analytics,15-1243.00,2,1.833,4
+SK_146,Big Data Analytics,15-1243.01,3,1.333,2
+SK_146,Big Data Analytics,11-3031.03,4,0.583,2
+SK_146,Big Data Analytics,15-1242.00,5,0.533,2
+SK_147,Forecasting,19-3011.00,1,1.5,3
+SK_147,Forecasting,11-3071.04,2,1.333,2
+SK_147,Forecasting,15-2011.00,3,1.333,2
+SK_147,Forecasting,13-2081.00,4,1.0,1
+SK_147,Forecasting,41-1011.00,5,1.0,1
+SK_148,Data Mining,15-2051.00,1,1.5,2
+SK_148,Data Mining,17-2151.00,2,1.5,2
+SK_148,Data Mining,15-2031.00,3,0.333,1
+SK_148,Data Mining,15-2051.02,4,0.333,1
+SK_148,Data Mining,15-1243.01,5,0.25,1
+SK_149,Web Mining,15-1254.00,1,1.5,2
+SK_149,Web Mining,15-1299.01,2,1.333,2
+SK_149,Web Mining,15-1255.00,3,0.833,2
+SK_149,Web Mining,13-1161.01,4,0.5,2
+SK_149,Web Mining,15-1251.00,5,0.4,2
+SK_150,Business Intelligence,15-2051.01,1,2.0,2
+SK_150,Business Intelligence,15-2051.00,2,0.833,2
+SK_150,Business Intelligence,13-1071.00,3,0.5,1
+SK_150,Business Intelligence,13-2099.01,4,0.333,1
+SK_150,Business Intelligence,15-1252.00,5,0.25,1
+SK_151,Business Modeling and Simulation,15-2051.00,1,2.25,3
+SK_151,Business Modeling and Simulation,15-1252.00,2,1.333,3
+SK_151,Business Modeling and Simulation,19-3099.01,3,1.0,1
+SK_151,Business Modeling and Simulation,13-1011.00,4,0.583,2
+SK_151,Business Modeling and Simulation,13-1199.04,5,0.583,2
+SK_152,Optimization Modeling,15-2031.00,1,2.5,3
+SK_152,Optimization Modeling,13-1161.01,2,2.0,3
+SK_152,Optimization Modeling,17-2199.03,3,0.917,3
+SK_152,Optimization Modeling,27-3043.00,4,0.333,1
+SK_152,Optimization Modeling,13-2099.01,5,0.25,1
+SK_153,Linear Programming,11-3021.00,1,1.0,1
+SK_153,Linear Programming,13-1161.01,2,1.0,1
+SK_153,Linear Programming,15-1251.00,3,0.5,1
+SK_153,Linear Programming,15-2031.00,4,0.5,1
+SK_153,Linear Programming,15-2041.00,5,0.333,1
+SK_154,Integer Programming,11-3021.00,1,1.0,1
+SK_154,Integer Programming,13-1161.01,2,1.0,1
+SK_154,Integer Programming,15-1251.00,3,0.5,1
+SK_154,Integer Programming,15-2031.00,4,0.5,1
+SK_154,Integer Programming,15-2041.00,5,0.333,1
+SK_155,Nonlinear Programming,11-3021.00,1,1.0,1
+SK_155,Nonlinear Programming,13-1161.01,2,1.0,1
+SK_155,Nonlinear Programming,15-1251.00,3,0.5,1
+SK_155,Nonlinear Programming,15-2031.00,4,0.5,1
+SK_155,Nonlinear Programming,15-2041.00,5,0.333,1
+SK_156,Network Optimization Models,15-1241.00,1,4.0,4
+SK_156,Network Optimization Models,15-1244.00,2,1.833,4
+SK_156,Network Optimization Models,15-1231.00,3,1.5,4
+SK_156,Network Optimization Models,15-1299.04,4,1.0,4
+SK_156,Network Optimization Models,15-1299.08,5,0.4,2
+SK_157,Monte Carlo Simulation,11-9031.00,1,1.333,2
+SK_157,Monte Carlo Simulation,15-1252.00,2,1.0,1
+SK_157,Monte Carlo Simulation,15-2031.00,3,0.5,1
+SK_157,Monte Carlo Simulation,15-2051.00,4,0.5,1
+SK_157,Monte Carlo Simulation,17-2112.03,5,0.333,1
+SK_158,Decision Support Systems,15-2031.00,1,3.0,3
+SK_158,Decision Support Systems,15-1231.00,2,1.033,3
+SK_158,Decision Support Systems,43-1011.00,3,0.833,2
+SK_158,Decision Support Systems,15-1232.00,4,0.583,2
+SK_158,Decision Support Systems,17-2112.00,5,0.5,1
+SK_159,Spreadsheet Modeling,13-2054.00,1,1.25,2
+SK_159,Spreadsheet Modeling,15-2051.00,2,1.2,2
+SK_159,Spreadsheet Modeling,13-1199.06,3,1.0,1
+SK_159,Spreadsheet Modeling,43-5021.00,4,1.0,1
+SK_159,Spreadsheet Modeling,43-6013.00,5,0.533,2
+SK_160,Excel Functions,15-1211.00,1,1.333,2
+SK_160,Excel Functions,11-9032.00,2,1.0,1
+SK_160,Excel Functions,43-6011.00,3,1.0,1
+SK_160,Excel Functions,15-1299.08,4,0.5,1
+SK_160,Excel Functions,23-1011.00,5,0.5,1
+SK_161,Excel Named Ranges,41-9041.00,1,2.0,2
+SK_161,Excel Named Ranges,15-1299.01,2,1.0,2
+SK_162,Pivot Tables,11-9071.00,1,2.0,2
+SK_162,Pivot Tables,15-2011.00,2,1.0,2
+SK_162,Pivot Tables,41-2031.00,3,0.667,2
+SK_163,Conditional Formatting,15-2051.02,1,2.0,2
+SK_163,Conditional Formatting,27-3023.00,2,1.0,2
+SK_163,Conditional Formatting,17-2199.03,3,0.667,2
+SK_163,Conditional Formatting,17-2141.00,4,0.5,2
+SK_163,Conditional Formatting,13-2023.00,5,0.4,2
+SK_164,Excel Macros,13-1199.06,1,1.0,1
+SK_164,Excel Macros,43-6011.00,2,0.5,1
+SK_164,Excel Macros,43-6013.00,3,0.333,1
+SK_165,Programming,15-1252.00,1,2.0,2
+SK_165,Programming,11-3021.00,2,1.0,1
+SK_165,Programming,11-3031.00,3,1.0,1
+SK_165,Programming,15-1253.00,4,1.0,2
+SK_165,Programming,13-2061.00,5,0.5,1
+SK_166,Java,15-1251.00,1,2.0,2
+SK_166,Java,15-1254.00,2,1.0,2
+SK_166,Java,11-3021.00,3,0.333,1
+SK_166,Java,15-2041.00,4,0.25,1
+SK_166,Java,15-2041.01,5,0.2,1
+SK_167,C Programming,11-3021.00,1,1.0,1
+SK_167,C Programming,23-1011.00,2,1.0,1
+SK_167,C Programming,27-3091.00,3,1.0,1
+SK_167,C Programming,15-1251.00,4,0.5,1
+SK_167,C Programming,15-1254.00,5,0.5,1
+SK_168,Data Structures,15-1243.00,1,1.0,1
+SK_168,Data Structures,19-3033.00,2,1.0,1
+SK_168,Data Structures,43-4121.00,3,1.0,1
+SK_168,Data Structures,15-1255.00,4,0.5,1
+SK_168,Data Structures,15-2051.00,5,0.5,1
+SK_169,Algorithm Design and Analysis,17-2199.08,1,4.0,4
+SK_169,Algorithm Design and Analysis,17-2199.07,2,1.583,4
+SK_169,Algorithm Design and Analysis,15-1299.07,3,1.5,4
+SK_169,Algorithm Design and Analysis,43-5053.00,4,1.0,1
+SK_169,Algorithm Design and Analysis,43-9031.00,5,1.0,1
+SK_170,Software Engineering,15-1252.00,1,2.0,2
+SK_170,Software Engineering,15-1253.00,2,0.833,2
+SK_170,Software Engineering,15-1211.00,3,0.75,2
+SK_170,Software Engineering,17-2031.00,4,0.333,1
+SK_170,Software Engineering,17-2141.02,5,0.25,1
+SK_171,AI Literacy,15-1212.00,1,1.667,3
+SK_171,AI Literacy,15-1221.00,2,1.0,3
+SK_171,AI Literacy,15-1299.05,3,1.0,1
+SK_171,AI Literacy,15-2051.01,4,1.0,1
+SK_171,AI Literacy,15-1244.00,5,0.733,3
+SK_172,AI-Assisted Programming,15-1221.00,1,2.0,2
+SK_172,AI-Assisted Programming,15-1211.01,2,1.0,1
+SK_172,AI-Assisted Programming,15-1252.00,3,1.0,2
+SK_172,AI-Assisted Programming,15-1244.00,4,0.667,2
+SK_172,AI-Assisted Programming,43-1011.00,5,0.5,1
+SK_173,AI Agent Development,27-3043.00,1,1.833,3
+SK_173,AI Agent Development,15-1252.00,2,1.25,2
+SK_173,AI Agent Development,15-1299.05,3,1.2,2
+SK_173,AI Agent Development,15-1253.00,4,1.0,2
+SK_173,AI Agent Development,15-1212.00,5,0.533,2
+SK_174,Financial Application Automation,11-3031.00,1,2.0,2
+SK_174,Financial Application Automation,13-2061.00,2,0.833,2
+SK_174,Financial Application Automation,13-2099.01,3,0.833,2
+SK_174,Financial Application Automation,13-2051.00,4,0.5,2
+SK_174,Financial Application Automation,13-2052.00,5,0.4,2
+SK_175,Automated Report Generation,11-3051.06,1,1.0,1
+SK_175,Automated Report Generation,17-2199.05,2,1.0,1
+SK_175,Automated Report Generation,15-1253.00,3,0.5,1
+SK_175,Automated Report Generation,43-5061.00,4,0.5,1
+SK_175,Automated Report Generation,11-3031.00,5,0.333,1
+SK_176,Deception Detection Software,15-1232.00,1,1.333,2
+SK_176,Deception Detection Software,13-1161.01,2,1.0,1
+SK_176,Deception Detection Software,13-2099.04,3,1.0,1
+SK_176,Deception Detection Software,15-1252.00,4,1.0,1
+SK_176,Deception Detection Software,11-3111.00,5,0.5,1
+SK_177,Digital Literacy,13-1161.01,1,1.333,2
+SK_177,Digital Literacy,13-2023.00,2,1.0,1
+SK_177,Digital Literacy,15-1211.00,3,1.0,1
+SK_177,Digital Literacy,15-1299.06,4,1.0,1
+SK_177,Digital Literacy,15-1255.00,5,0.7,2
+SK_178,Information Systems Management,11-3021.00,1,2.75,4
+SK_178,Information Systems Management,15-1299.02,2,2.0,3
+SK_178,Information Systems Management,15-1299.09,3,1.65,4
+SK_178,Information Systems Management,15-1299.03,4,1.167,3
+SK_178,Information Systems Management,15-1299.05,5,1.167,4
+SK_179,Computer Networking,15-1241.00,1,2.833,4
+SK_179,Computer Networking,15-1231.00,2,2.7,4
+SK_179,Computer Networking,15-1244.00,3,1.167,3
+SK_179,Computer Networking,17-2112.02,4,1.0,1
+SK_179,Computer Networking,11-9121.01,5,0.5,1
+SK_180,E-Commerce,13-1161.01,1,2.0,3
+SK_180,E-Commerce,13-1199.06,2,1.583,3
+SK_180,E-Commerce,15-1211.00,3,1.033,3
+SK_180,E-Commerce,17-2072.00,4,1.0,1
+SK_180,E-Commerce,11-2022.00,5,0.5,2
+SK_181,Database Management,15-1242.00,1,2.0,2
+SK_181,Database Management,15-1243.00,2,1.0,2
+SK_181,Database Management,15-1243.01,3,0.333,1
+SK_181,Database Management,15-1299.02,4,0.333,1
+SK_181,Database Management,11-3021.00,5,0.25,1
+SK_182,Relational Database Design,15-1243.00,1,1.833,3
+SK_182,Relational Database Design,15-1242.00,2,1.5,2
+SK_182,Relational Database Design,41-9012.00,3,1.0,1
+SK_182,Relational Database Design,15-1299.02,4,0.667,2
+SK_182,Relational Database Design,13-2099.01,5,0.5,1
+SK_183,Database Security,15-1212.00,1,1.5,2
+SK_183,Database Security,15-1242.00,2,1.0,1
+SK_183,Database Security,15-1299.05,3,0.75,2
+SK_183,Database Security,11-3013.01,4,0.533,2
+SK_183,Database Security,15-1243.00,5,0.333,1
+SK_184,Database Concurrency Control,15-1242.00,1,2.0,2
+SK_184,Database Concurrency Control,11-3051.01,2,1.0,1
+SK_184,Database Concurrency Control,15-1243.00,3,1.0,2
+SK_184,Database Concurrency Control,15-2099.01,4,0.583,2
+SK_184,Database Concurrency Control,17-2199.05,5,0.5,1
+SK_185,Database Integrity,15-1243.00,1,1.583,3
+SK_185,Database Integrity,15-1243.01,2,1.333,2
+SK_185,Database Integrity,13-1199.04,3,1.0,1
+SK_185,Database Integrity,11-9161.00,4,0.5,1
+SK_185,Database Integrity,15-1242.00,5,0.5,1
+SK_186,Database Recovery,15-1242.00,1,1.833,3
+SK_186,Database Recovery,15-1243.00,2,1.75,3
+SK_186,Database Recovery,13-1199.04,3,1.333,2
+SK_186,Database Recovery,11-9161.00,4,0.75,2
+SK_186,Database Recovery,15-2099.01,5,0.45,2
+SK_187,Database Querying,15-1243.00,1,3.0,3
+SK_187,Database Querying,15-1242.00,2,1.5,3
+SK_187,Database Querying,13-1161.01,3,0.867,3
+SK_187,Database Querying,15-2051.01,4,0.783,3
+SK_187,Database Querying,15-2099.01,5,0.45,2
+SK_188,Healthcare Information Systems,15-1211.01,1,3.0,3
+SK_188,Healthcare Information Systems,11-3021.00,2,1.0,3
+SK_188,Healthcare Information Systems,11-9111.00,3,1.0,2
+SK_188,Healthcare Information Systems,13-1111.00,4,0.533,2
+SK_188,Healthcare Information Systems,15-1211.00,5,0.45,2
+SK_189,Human-Computer Interaction,15-1255.00,1,2.0,2
+SK_189,Human-Computer Interaction,11-3021.00,2,1.0,2
+SK_189,Human-Computer Interaction,15-1221.00,3,0.667,2
+SK_189,Human-Computer Interaction,15-1211.00,4,0.5,2
+SK_189,Human-Computer Interaction,15-1251.00,5,0.4,2
+SK_190,Technology Acceptance Evaluation,15-1299.09,1,2.0,2
+SK_190,Technology Acceptance Evaluation,11-9041.01,2,1.0,2
+SK_190,Technology Acceptance Evaluation,15-1232.00,3,1.0,1
+SK_190,Technology Acceptance Evaluation,19-3011.00,4,1.0,1
+SK_190,Technology Acceptance Evaluation,15-1211.01,5,0.667,2
+SK_191,Information Systems Analysis and Design,15-1299.02,1,2.0,2
+SK_191,Information Systems Analysis and Design,15-1211.00,2,1.0,2
+SK_191,Information Systems Analysis and Design,17-2199.11,3,1.0,1
+SK_191,Information Systems Analysis and Design,15-1299.08,4,0.533,2
+SK_191,Information Systems Analysis and Design,13-1081.01,5,0.5,1
+SK_192,Systems Development Life Cycle,11-3031.00,1,2.0,2
+SK_192,Systems Development Life Cycle,43-5061.00,2,1.0,2
+SK_192,Systems Development Life Cycle,43-1011.00,3,0.667,2
+SK_192,Systems Development Life Cycle,43-3021.00,4,0.5,2
+SK_192,Systems Development Life Cycle,43-5071.00,5,0.4,2
+SK_193,Requirements Analysis,15-1252.00,1,2.25,3
+SK_193,Requirements Analysis,15-1299.02,2,1.0,1
+SK_193,Requirements Analysis,17-2011.00,3,0.75,2
+SK_193,Requirements Analysis,15-1299.08,4,0.667,2
+SK_193,Requirements Analysis,11-3021.00,5,0.5,1
+SK_194,Business Process Design,13-1199.04,1,1.25,2
+SK_194,Business Process Design,13-1011.00,2,1.2,2
+SK_194,Business Process Design,17-2112.03,3,1.0,1
+SK_194,Business Process Design,13-2022.00,4,0.5,1
+SK_194,Business Process Design,15-2051.01,5,0.5,1
+SK_195,Systems Integration,15-1299.08,1,2.333,3
+SK_195,Systems Integration,15-1243.00,2,1.5,2
+SK_195,Systems Integration,15-1211.00,3,1.033,3
+SK_195,Systems Integration,15-1252.00,4,0.5,2
+SK_195,Systems Integration,15-1299.03,5,0.5,1
+SK_196,Enterprise Resource Planning,15-1299.03,1,2.0,2
+SK_196,Enterprise Resource Planning,15-1243.00,2,1.0,2
+SK_196,Enterprise Resource Planning,11-3021.00,3,0.667,2
+SK_196,Enterprise Resource Planning,15-1211.00,4,0.5,2
+SK_196,Enterprise Resource Planning,11-1011.00,5,0.2,1
+SK_197,Expert Systems,15-1244.00,1,2.0,2
+SK_197,Expert Systems,15-1252.00,2,0.833,2
+SK_197,Expert Systems,17-2141.00,3,0.75,2
+SK_197,Expert Systems,15-1212.00,4,0.533,2
+SK_197,Expert Systems,17-2112.00,5,0.25,1
+SK_198,Information Security,15-1299.05,1,1.667,3
+SK_198,Information Security,15-1212.00,2,1.25,3
+SK_198,Information Security,13-2099.04,3,1.0,1
+SK_198,Information Security,15-1299.06,4,1.0,1
+SK_198,Information Security,43-4171.00,5,1.0,1
+SK_199,Network Security,15-1299.05,1,1.45,3
+SK_199,Network Security,15-1241.00,2,1.333,2
+SK_199,Network Security,15-1244.00,3,1.333,2
+SK_199,Network Security,15-1231.00,4,1.0,2
+SK_199,Network Security,15-1299.04,5,0.7,3
+SK_200,Systems Security Administration,13-1199.07,1,2.0,2
+SK_200,Systems Security Administration,15-1244.00,2,1.25,2
+SK_200,Systems Security Administration,15-1212.00,3,1.083,3
+SK_200,Systems Security Administration,15-1242.00,4,1.083,3
+SK_200,Systems Security Administration,15-1299.05,5,1.0,2
+SK_201,Information Security Risk Assessment,13-2054.00,1,3.0,4
+SK_201,Information Security Risk Assessment,15-1212.00,2,2.833,4
+SK_201,Information Security Risk Assessment,13-1199.07,3,0.917,3
+SK_201,Information Security Risk Assessment,15-1299.04,4,0.783,3
+SK_201,Information Security Risk Assessment,15-1299.05,5,0.6,3
+SK_202,Security Threat Analysis,15-1299.05,1,3.0,3
+SK_202,Security Threat Analysis,15-1212.00,2,1.2,3
+SK_202,Security Threat Analysis,15-1299.07,3,0.917,3
+SK_202,Security Threat Analysis,15-1299.06,4,0.75,2
+SK_202,Security Threat Analysis,15-1231.00,5,0.45,2
+SK_203,Security Countermeasures,15-1212.00,1,2.5,3
+SK_203,Security Countermeasures,11-9161.00,2,1.0,2
+SK_203,Security Countermeasures,13-1199.07,3,1.0,1
+SK_203,Security Countermeasures,11-3013.01,4,0.65,3
+SK_203,Security Countermeasures,11-3051.02,5,0.583,2
+SK_204,Operations Security,11-3013.01,1,1.0,1
+SK_204,Operations Security,15-1212.00,2,0.5,1
+SK_204,Operations Security,13-1199.07,3,0.333,1
+SK_204,Operations Security,15-1299.05,4,0.25,1
+SK_204,Operations Security,15-1299.01,5,0.2,1
+SK_205,Information Assurance,15-1212.00,1,1.333,2
+SK_205,Information Assurance,15-1253.00,2,1.333,2
+SK_205,Information Assurance,15-1299.05,3,1.0,2
+SK_205,Information Assurance,11-3021.00,4,0.45,2
+SK_205,Information Assurance,15-1241.00,5,0.25,1
+SK_206,Data Privacy,15-1243.00,1,2.333,3
+SK_206,Data Privacy,11-9199.02,2,1.833,3
+SK_206,Data Privacy,13-1151.00,3,1.333,3
+SK_206,Data Privacy,11-1011.00,4,0.5,2
+SK_206,Data Privacy,15-2051.00,5,0.25,1
+SK_207,Risk Reporting and Monitoring,13-2054.00,1,3.0,3
+SK_207,Risk Reporting and Monitoring,15-1212.00,2,1.25,3
+SK_207,Risk Reporting and Monitoring,13-2099.01,3,1.083,3
+SK_207,Risk Reporting and Monitoring,13-2041.00,4,0.917,3
+SK_207,Risk Reporting and Monitoring,11-3031.00,5,0.4,2
+SK_208,Marketing Management,11-2021.00,1,4.0,4
+SK_208,Marketing Management,13-1161.01,2,1.7,4
+SK_208,Marketing Management,13-1161.00,3,1.333,4
+SK_208,Marketing Management,11-9013.00,4,1.0,3
+SK_208,Marketing Management,13-1199.06,5,0.6,3
+SK_209,Marketing Strategy and Planning,11-2021.00,1,4.5,5
+SK_209,Marketing Strategy and Planning,13-1161.01,2,2.667,5
+SK_209,Marketing Strategy and Planning,13-1161.00,3,2.0,5
+SK_209,Marketing Strategy and Planning,13-1199.06,4,0.75,3
+SK_209,Marketing Strategy and Planning,11-9013.00,5,0.7,3
+SK_210,Consumer Behavior Analysis,13-1161.00,1,3.0,3
+SK_210,Consumer Behavior Analysis,13-2071.00,2,1.5,3
+SK_210,Consumer Behavior Analysis,43-4041.00,3,1.083,4
+SK_210,Consumer Behavior Analysis,27-3031.00,4,1.0,3
+SK_210,Consumer Behavior Analysis,43-4051.00,5,1.0,1
+SK_211,Sports Marketing,11-2021.00,1,2.0,2
+SK_211,Sports Marketing,11-1021.00,2,1.0,1
+SK_211,Sports Marketing,13-1161.01,3,1.0,2
+SK_211,Sports Marketing,13-1011.00,4,0.583,2
+SK_211,Sports Marketing,13-1161.00,5,0.533,2
+SK_212,Marketing Analytics,13-1161.01,1,1.5,2
+SK_212,Marketing Analytics,11-2021.00,2,1.4,3
+SK_212,Marketing Analytics,13-1161.00,3,1.333,3
+SK_212,Marketing Analytics,41-3031.00,4,1.0,1
+SK_212,Marketing Analytics,13-2051.00,5,0.333,1
+SK_213,Digital Marketing,13-1161.01,1,2.0,2
+SK_213,Digital Marketing,15-1299.06,2,1.0,2
+SK_213,Digital Marketing,11-2021.00,3,0.583,2
+SK_213,Digital Marketing,15-1255.00,4,0.583,2
+SK_213,Digital Marketing,13-1161.00,5,0.4,2
+SK_214,Search Marketing,13-1161.01,1,3.0,3
+SK_214,Search Marketing,13-1161.00,2,1.0,2
+SK_214,Search Marketing,23-2093.00,3,0.583,2
+SK_214,Search Marketing,27-3043.00,4,0.583,2
+SK_214,Search Marketing,11-2021.00,5,0.4,2
+SK_215,Social Media Marketing,13-1161.01,1,3.0,3
+SK_215,Social Media Marketing,11-2021.00,2,0.833,2
+SK_215,Social Media Marketing,13-1161.00,3,0.833,2
+SK_215,Social Media Marketing,11-2032.00,4,0.7,2
+SK_215,Social Media Marketing,27-3031.00,5,0.583,2
+SK_216,Customer-Friendly Website Design,15-1254.00,1,4.0,4
+SK_216,Customer-Friendly Website Design,15-1255.00,2,2.0,4
+SK_216,Customer-Friendly Website Design,13-1161.01,3,1.333,4
+SK_216,Customer-Friendly Website Design,15-1299.01,4,1.0,4
+SK_216,Customer-Friendly Website Design,15-1251.00,5,0.8,4
+SK_217,Advertising,11-2011.00,1,2.0,2
+SK_217,Advertising,41-3011.00,2,1.0,2
+SK_217,Advertising,13-1161.00,3,0.583,2
+SK_217,Advertising,27-3043.00,4,0.583,2
+SK_217,Advertising,13-1161.01,5,0.2,1
+SK_218,Advertising Message Development,11-2011.00,1,2.5,3
+SK_218,Advertising Message Development,43-5021.00,2,2.333,3
+SK_218,Advertising Message Development,41-3011.00,3,1.333,3
+SK_218,Advertising Message Development,43-1011.00,4,0.75,3
+SK_218,Advertising Message Development,43-9051.00,5,0.6,3
+SK_219,Media Planning and Selection,27-3031.00,1,3.5,4
+SK_219,Media Planning and Selection,41-3011.00,2,1.283,4
+SK_219,Media Planning and Selection,41-9012.00,3,1.0,1
+SK_219,Media Planning and Selection,15-1299.06,4,0.533,2
+SK_219,Media Planning and Selection,11-9111.00,5,0.5,1
+SK_220,Marketing Performance Measurement,13-1161.01,1,2.0,2
+SK_220,Marketing Performance Measurement,13-1161.00,2,1.333,3
+SK_220,Marketing Performance Measurement,13-2023.00,3,1.0,1
+SK_220,Marketing Performance Measurement,41-3031.00,4,1.0,1
+SK_220,Marketing Performance Measurement,11-2021.00,5,0.9,3
+SK_221,Pricing Strategy,11-2021.00,1,3.0,3
+SK_221,Pricing Strategy,13-2051.00,2,1.333,3
+SK_221,Pricing Strategy,15-2011.00,3,0.917,3
+SK_221,Pricing Strategy,13-1199.00,4,0.6,3
+SK_221,Pricing Strategy,13-2099.01,5,0.5,1
+SK_222,Channel and Distribution Management,11-2021.00,1,2.833,4
+SK_222,Channel and Distribution Management,11-2022.00,2,1.533,3
+SK_222,Channel and Distribution Management,11-3071.00,3,1.0,1
+SK_222,Channel and Distribution Management,13-1161.01,4,1.0,2
+SK_222,Channel and Distribution Management,23-1022.00,5,1.0,1
+SK_223,Sales,41-1011.00,1,2.0,2
+SK_223,Sales,13-1161.01,2,1.0,1
+SK_223,Sales,41-1012.00,3,1.0,2
+SK_223,Sales,41-9091.00,4,1.0,1
+SK_223,Sales,11-2022.00,5,0.583,2
+SK_224,Customer Relationship Management,43-4051.00,1,1.0,1
+SK_224,Customer Relationship Management,11-3071.00,2,0.5,1
+SK_224,Customer Relationship Management,43-4141.00,3,0.333,1
+SK_224,Customer Relationship Management,43-3071.00,4,0.25,1
+SK_224,Customer Relationship Management,41-3031.00,5,0.2,1
+SK_225,Retail Marketing,13-1022.00,1,2.0,3
+SK_225,Retail Marketing,13-1199.06,2,1.333,2
+SK_225,Retail Marketing,41-1011.00,3,1.033,3
+SK_225,Retail Marketing,41-4012.00,4,1.0,1
+SK_225,Retail Marketing,41-1012.00,5,0.45,2
+SK_226,Competitive Analysis,15-2051.01,1,3.0,3
+SK_226,Competitive Analysis,41-9099.00,2,1.5,3
+SK_226,Competitive Analysis,11-1011.03,3,0.583,2
+SK_226,Competitive Analysis,13-1161.00,4,0.533,2
+SK_226,Competitive Analysis,11-2021.00,5,0.5,2
+SK_227,Market Selection,13-1161.00,1,1.833,3
+SK_227,Market Selection,11-2021.00,2,1.7,3
+SK_227,Market Selection,17-2072.01,3,1.0,1
+SK_227,Market Selection,15-1241.00,4,0.5,1
+SK_227,Market Selection,15-1299.08,5,0.333,1
+SK_228,Retail Location Planning,13-1022.00,1,3.0,3
+SK_228,Retail Location Planning,41-1011.00,2,1.5,3
+SK_228,Retail Location Planning,41-2031.00,3,0.833,3
+SK_228,Retail Location Planning,13-1199.06,4,0.733,3
+SK_228,Retail Location Planning,41-1012.00,5,0.583,2
+SK_229,Merchandise Planning and Control,13-1022.00,1,3.0,4
+SK_229,Merchandise Planning and Control,41-2031.00,2,2.833,4
+SK_229,Merchandise Planning and Control,43-4151.00,3,1.5,4
+SK_229,Merchandise Planning and Control,41-1011.00,4,1.0,4
+SK_229,Merchandise Planning and Control,43-5071.00,5,0.4,2
+SK_230,Store Layout and Design,17-2061.00,1,1.0,1
+SK_230,Store Layout and Design,41-1011.00,2,1.0,1
+SK_230,Store Layout and Design,41-2031.00,3,0.5,1
+SK_230,Store Layout and Design,13-1022.00,4,0.333,1
+SK_230,Store Layout and Design,13-1199.06,5,0.25,1
+SK_231,Marketing Research,13-1161.00,1,3.0,3
+SK_231,Marketing Research,13-1161.01,2,1.333,3
+SK_231,Marketing Research,11-2021.00,3,1.167,3
+SK_231,Marketing Research,11-9121.01,4,0.65,3
+SK_231,Marketing Research,15-2031.00,5,0.25,1
+SK_232,Integrated Marketing Communications,11-2011.00,1,1.25,2
+SK_232,Integrated Marketing Communications,13-1161.01,2,1.0,1
+SK_232,Integrated Marketing Communications,11-2021.00,3,0.5,1
+SK_232,Integrated Marketing Communications,27-3031.00,4,0.5,1
+SK_232,Integrated Marketing Communications,13-1161.00,5,0.333,1
+SK_233,Public Relations,11-2032.00,1,1.5,2
+SK_233,Public Relations,27-3031.00,2,1.5,2
+SK_233,Public Relations,43-2099.00,3,0.333,1
+SK_233,Public Relations,43-5031.00,4,0.333,1
+SK_233,Public Relations,15-1241.00,5,0.25,1
+SK_234,Sales Promotion,11-2011.00,1,2.333,3
+SK_234,Sales Promotion,41-3011.00,2,1.2,2
+SK_234,Sales Promotion,11-2022.00,3,0.833,2
+SK_234,Sales Promotion,41-1011.00,4,0.7,2
+SK_234,Sales Promotion,27-3031.00,5,0.5,1
+SK_235,Sales Operations Management,41-1011.00,1,4.0,4
+SK_235,Sales Operations Management,11-2022.00,2,1.667,4
+SK_235,Sales Operations Management,41-1012.00,3,1.667,4
+SK_235,Sales Operations Management,41-4011.00,4,0.7,3
+SK_235,Sales Operations Management,41-9031.00,5,0.45,2
+SK_236,International Marketing,11-2021.00,1,2.0,2
+SK_236,International Marketing,13-1161.00,2,1.0,2
+SK_236,International Marketing,41-3031.00,3,1.0,1
+SK_236,International Marketing,13-1161.01,4,0.667,2
+SK_236,International Marketing,11-1011.00,5,0.5,1
+SK_237,Healthcare Marketing,11-9111.00,1,2.25,3
+SK_237,Healthcare Marketing,15-1211.01,2,1.033,3
+SK_237,Healthcare Marketing,11-2021.00,3,1.0,1
+SK_237,Healthcare Marketing,13-1161.01,4,0.5,1
+SK_237,Healthcare Marketing,27-3031.00,5,0.5,1
+SK_238,Product Innovation,27-3023.00,1,1.333,2
+SK_238,Product Innovation,11-9041.01,2,1.0,1
+SK_238,Product Innovation,15-1221.00,3,1.0,1
+SK_238,Product Innovation,11-1011.00,4,0.833,2
+SK_238,Product Innovation,11-2021.00,5,0.5,1
+SK_239,Product Strategy,11-3071.04,1,2.5,3
+SK_239,Product Strategy,11-3021.00,2,1.2,2
+SK_239,Product Strategy,41-9011.00,3,0.833,2
+SK_239,Product Strategy,41-3091.00,4,0.75,2
+SK_239,Product Strategy,11-2021.00,5,0.5,2
+SK_240,Product Launch,11-3071.04,1,1.5,2
+SK_240,Product Launch,11-9041.01,2,1.45,3
+SK_240,Product Launch,43-4141.00,3,1.25,2
+SK_240,Product Launch,27-3023.00,4,0.833,2
+SK_240,Product Launch,41-9011.00,5,0.7,2
+SK_241,Product Portfolio Management,13-2099.01,1,2.833,4
+SK_241,Product Portfolio Management,41-3031.00,2,2.0,2
+SK_241,Product Portfolio Management,11-3031.03,3,1.833,4
+SK_241,Product Portfolio Management,11-3021.00,4,0.833,3
+SK_241,Product Portfolio Management,13-2052.00,5,0.783,3
+SK_242,Marketing Operations Auditing,43-3031.00,1,3.0,3
+SK_242,Marketing Operations Auditing,11-2021.00,2,2.25,4
+SK_242,Marketing Operations Auditing,13-1161.01,3,1.5,4
+SK_242,Marketing Operations Auditing,13-1161.00,4,1.033,4
+SK_242,Marketing Operations Auditing,13-2023.00,5,0.5,1
+SK_243,Operations Management,11-1021.00,1,1.25,2
+SK_243,Operations Management,11-3051.03,2,1.0,1
+SK_243,Operations Management,17-2199.11,3,1.0,1
+SK_243,Operations Management,11-3051.02,4,0.5,1
+SK_243,Operations Management,13-1111.00,5,0.5,1
+SK_244,Service Operations Management,11-1021.00,1,2.0,2
+SK_244,Service Operations Management,15-1244.00,2,1.0,1
+SK_244,Service Operations Management,43-9022.00,3,1.0,1
+SK_244,Service Operations Management,11-9199.09,4,0.833,2
+SK_244,Service Operations Management,11-3012.00,5,0.75,2
+SK_245,Supply Chain Management,11-3071.04,1,3.0,3
+SK_245,Supply Chain Management,13-1081.02,2,1.5,3
+SK_245,Supply Chain Management,11-3071.00,3,1.0,3
+SK_245,Supply Chain Management,11-3061.00,4,0.5,2
+SK_245,Supply Chain Management,43-5061.00,5,0.4,2
+SK_246,Logistics,13-1081.02,1,1.5,3
+SK_246,Logistics,13-1081.00,2,1.333,2
+SK_246,Logistics,13-1081.01,3,1.0,2
+SK_246,Logistics,43-5061.00,4,1.0,1
+SK_246,Logistics,17-2112.00,5,0.7,2
+SK_247,Procurement,11-3061.00,1,1.833,3
+SK_247,Procurement,43-3061.00,2,1.25,2
+SK_247,Procurement,13-1071.00,3,1.0,1
+SK_247,Procurement,13-1023.00,4,0.75,2
+SK_247,Procurement,13-1022.00,5,0.533,2
+SK_248,Materials Handling,41-4011.00,1,2.0,3
+SK_248,Materials Handling,17-2131.00,2,1.5,2
+SK_248,Materials Handling,43-5053.00,3,1.0,1
+SK_248,Materials Handling,43-5071.00,4,0.667,2
+SK_248,Materials Handling,43-4151.00,5,0.333,1
+SK_249,Warehousing,15-1243.01,1,3.0,3
+SK_249,Warehousing,11-3071.00,2,1.2,3
+SK_249,Warehousing,15-1243.00,3,1.167,3
+SK_249,Warehousing,43-5071.00,4,0.333,1
+SK_249,Warehousing,11-3071.04,5,0.25,1
+SK_250,Transportation Management,11-3071.00,1,3.0,3
+SK_250,Transportation Management,19-3099.01,2,1.083,3
+SK_250,Transportation Management,17-2051.01,3,0.833,2
+SK_250,Transportation Management,13-1081.02,4,0.7,2
+SK_250,Transportation Management,43-4181.00,5,0.5,2
+SK_251,Inventory Management,43-5071.00,1,3.0,3
+SK_251,Inventory Management,11-3071.04,2,1.333,3
+SK_251,Inventory Management,13-1081.02,3,0.917,3
+SK_251,Inventory Management,17-2112.00,4,0.7,2
+SK_251,Inventory Management,43-5061.00,5,0.4,2
+SK_252,Aggregate Planning,41-1011.00,1,2.0,2
+SK_252,Aggregate Planning,11-2022.00,2,1.0,2
+SK_252,Aggregate Planning,13-1199.00,3,1.0,1
+SK_252,Aggregate Planning,19-3051.00,4,1.0,1
+SK_252,Aggregate Planning,41-4011.00,5,0.667,2
+SK_253,Materials Requirements Planning,43-5061.00,1,3.25,4
+SK_253,Materials Requirements Planning,11-3071.04,2,1.0,2
+SK_253,Materials Requirements Planning,11-9121.02,3,1.0,1
+SK_253,Materials Requirements Planning,17-2131.00,4,0.583,2
+SK_253,Materials Requirements Planning,13-1071.00,5,0.5,1
+SK_254,Production Scheduling,43-5061.00,1,2.5,3
+SK_254,Production Scheduling,43-6014.00,2,1.5,2
+SK_254,Production Scheduling,11-3051.00,3,0.7,2
+SK_254,Production Scheduling,11-3051.03,4,0.667,2
+SK_254,Production Scheduling,17-2112.00,5,0.5,2
+SK_255,Facility Layout and Location,11-9013.00,1,2.333,3
+SK_255,Facility Layout and Location,11-3013.00,2,2.0,3
+SK_255,Facility Layout and Location,17-2061.00,3,1.0,1
+SK_255,Facility Layout and Location,11-9111.00,4,0.833,2
+SK_255,Facility Layout and Location,11-1021.00,5,0.5,1
+SK_256,Quality Management,11-3051.01,1,3.0,4
+SK_256,Quality Management,17-2112.00,2,1.583,4
+SK_256,Quality Management,17-2112.03,3,1.333,2
+SK_256,Quality Management,15-1253.00,4,1.2,2
+SK_256,Quality Management,17-2031.00,5,0.583,2
+SK_257,Statistical Process Control,43-9111.00,1,1.0,1
+SK_257,Statistical Process Control,15-2041.00,2,0.5,1
+SK_257,Statistical Process Control,11-3051.01,3,0.333,1
+SK_257,Statistical Process Control,17-2112.00,4,0.25,1
+SK_257,Statistical Process Control,43-3021.00,5,0.2,1
+SK_258,Reliability and Maintainability,17-2199.00,1,1.25,2
+SK_258,Reliability and Maintainability,17-2141.00,2,1.2,2
+SK_258,Reliability and Maintainability,15-1221.00,3,1.0,1
+SK_258,Reliability and Maintainability,17-2112.02,4,0.7,2
+SK_258,Reliability and Maintainability,15-1252.00,5,0.583,2
+SK_259,Manufacturing Product Design,17-2112.03,1,3.0,3
+SK_259,Manufacturing Product Design,17-2071.00,2,1.5,3
+SK_259,Manufacturing Product Design,11-3071.04,3,0.583,2
+SK_259,Manufacturing Product Design,17-2141.00,4,0.583,2
+SK_259,Manufacturing Product Design,17-2112.00,5,0.4,2
+SK_260,Capacity Management,19-3051.00,1,2.0,2
+SK_260,Capacity Management,15-1241.00,2,1.0,2
+SK_260,Capacity Management,13-1081.01,3,0.583,2
+SK_260,Capacity Management,13-2054.00,4,0.583,2
+SK_260,Capacity Management,15-1242.00,5,0.4,2
+SK_261,Lean Operations,17-2112.03,1,3.0,3
+SK_261,Lean Operations,11-3051.01,2,0.5,1
+SK_261,Lean Operations,11-9199.09,3,0.5,1
+SK_261,Lean Operations,17-2071.00,4,0.5,1
+SK_261,Lean Operations,17-2112.00,5,0.45,2
+SK_262,Resource Allocation,43-1011.00,1,1.583,3
+SK_262,Resource Allocation,11-3121.00,2,1.4,3
+SK_262,Resource Allocation,11-9121.02,3,1.25,2
+SK_262,Resource Allocation,13-1071.00,4,1.083,3
+SK_262,Resource Allocation,13-1081.00,5,1.0,2
+SK_263,Revenue Management,13-2081.00,1,2.0,2
+SK_263,Revenue Management,11-9081.00,2,1.0,2
+SK_263,Revenue Management,13-2011.00,3,0.583,2
+SK_263,Revenue Management,11-1021.00,4,0.333,1
+SK_263,Revenue Management,43-3021.00,5,0.25,1
+SK_264,Outsourcing Analysis,11-3051.03,1,2.0,2
+SK_264,Outsourcing Analysis,13-1141.00,2,1.0,1
+SK_264,Outsourcing Analysis,43-5061.00,3,1.0,2
+SK_264,Outsourcing Analysis,11-3051.00,4,0.667,2
+SK_264,Outsourcing Analysis,11-3051.06,5,0.5,2
+SK_265,Project Management,13-1082.00,1,3.0,3
+SK_265,Project Management,15-1299.09,2,1.5,3
+SK_265,Project Management,11-9021.00,3,0.833,3
+SK_265,Project Management,11-9199.10,4,0.733,3
+SK_265,Project Management,11-3021.00,5,0.333,1
+SK_266,Project Scope Management,15-1299.09,1,2.0,2
+SK_266,Project Scope Management,11-9199.10,2,1.667,3
+SK_266,Project Scope Management,13-1082.00,3,1.0,2
+SK_266,Project Scope Management,11-9021.00,4,0.5,2
+SK_266,Project Scope Management,15-1299.03,5,0.5,1
+SK_267,Project Cost Management,13-1051.00,1,2.0,2
+SK_267,Project Cost Management,13-1082.00,2,1.667,3
+SK_267,Project Cost Management,15-1299.09,3,1.5,3
+SK_267,Project Cost Management,11-9021.00,4,0.7,3
+SK_267,Project Cost Management,43-5061.00,5,0.45,2
+SK_268,Project Schedule Management,13-1082.00,1,3.0,3
+SK_268,Project Schedule Management,15-1299.09,2,1.5,3
+SK_268,Project Schedule Management,15-1253.00,3,1.0,1
+SK_268,Project Schedule Management,43-5061.00,4,0.917,3
+SK_268,Project Schedule Management,11-9021.00,5,0.833,3
+SK_269,Project Quality Management,13-1082.00,1,1.333,2
+SK_269,Project Quality Management,17-2112.00,2,1.333,2
+SK_269,Project Quality Management,15-1299.09,3,1.0,2
+SK_269,Project Quality Management,11-3051.01,4,0.45,2
+SK_269,Project Quality Management,11-9121.02,5,0.25,1
+SK_270,Cost-Benefit Analysis,13-1141.00,1,3.0,3
+SK_270,Cost-Benefit Analysis,11-3111.00,2,1.5,3
+SK_270,Cost-Benefit Analysis,13-1051.00,3,1.0,3
+SK_270,Cost-Benefit Analysis,13-1081.01,4,0.75,3
+SK_270,Cost-Benefit Analysis,43-4061.00,5,0.6,3
+SK_271,Risk Management,13-2054.00,1,3.0,3
+SK_271,Risk Management,15-1212.00,2,1.033,3
+SK_271,Risk Management,13-2099.01,3,0.95,3
+SK_271,Risk Management,13-2041.00,4,0.833,2
+SK_271,Risk Management,11-3051.02,5,0.333,1
+SK_272,Decision Making Under Uncertainty,13-2054.00,1,2.0,2
+SK_272,Decision Making Under Uncertainty,15-2031.00,2,1.75,3
+SK_272,Decision Making Under Uncertainty,23-1021.00,3,1.0,1
+SK_272,Decision Making Under Uncertainty,13-2041.00,4,0.833,2
+SK_272,Decision Making Under Uncertainty,13-2099.01,5,0.833,2
+SK_273,Organizational Behavior,19-3032.00,1,2.0,2
+SK_273,Organizational Behavior,19-3033.00,2,1.45,3
+SK_273,Organizational Behavior,19-3034.00,3,0.833,2
+SK_273,Organizational Behavior,11-9151.00,4,0.533,2
+SK_273,Organizational Behavior,13-1111.00,5,0.5,1
+SK_274,Human Resource Management,13-1071.00,1,2.0,2
+SK_274,Human Resource Management,11-3121.00,2,1.0,2
+SK_274,Human Resource Management,13-1111.00,3,1.0,1
+SK_274,Human Resource Management,19-3032.00,4,0.833,3
+SK_274,Human Resource Management,13-1082.00,5,0.7,2
+SK_275,Strategic Human Resource Management,11-1011.00,1,1.0,1
+SK_275,Strategic Human Resource Management,11-9151.00,2,1.0,1
+SK_275,Strategic Human Resource Management,41-9099.00,3,1.0,1
+SK_275,Strategic Human Resource Management,11-1021.00,4,0.5,1
+SK_275,Strategic Human Resource Management,13-1071.00,5,0.5,1
+SK_276,Compensation and Benefits,11-3111.00,1,3.0,3
+SK_276,Compensation and Benefits,13-1141.00,2,1.5,3
+SK_276,Compensation and Benefits,11-3121.00,3,1.0,3
+SK_276,Compensation and Benefits,13-1031.00,4,0.5,2
+SK_276,Compensation and Benefits,43-9041.00,5,0.25,1
+SK_277,Recruiting and Staffing,11-3121.00,1,1.833,4
+SK_277,Recruiting and Staffing,13-1071.00,2,1.2,2
+SK_277,Recruiting and Staffing,11-1011.00,3,1.0,1
+SK_277,Recruiting and Staffing,11-3111.00,4,1.0,1
+SK_277,Recruiting and Staffing,11-9199.00,5,1.0,1
+SK_278,Employee Training and Development,11-3131.00,1,1.5,2
+SK_278,Employee Training and Development,13-1151.00,2,1.5,2
+SK_278,Employee Training and Development,13-1075.00,3,1.0,1
+SK_278,Employee Training and Development,41-9099.00,4,1.0,1
+SK_278,Employee Training and Development,19-3032.00,5,0.667,2
+SK_279,Performance Management,13-1111.00,1,1.2,2
+SK_279,Performance Management,13-1075.00,2,1.0,1
+SK_279,Performance Management,11-3121.00,3,0.5,1
+SK_279,Performance Management,15-1299.03,4,0.5,1
+SK_279,Performance Management,13-1071.00,5,0.333,1
+SK_280,Human Resource Information Systems,13-1071.00,1,3.0,3
+SK_280,Human Resource Information Systems,11-3121.00,2,1.0,2
+SK_280,Human Resource Information Systems,43-4161.00,3,0.667,2
+SK_280,Human Resource Information Systems,11-3021.00,4,0.583,2
+SK_280,Human Resource Information Systems,11-3013.01,5,0.5,1
+SK_281,Human Resource Planning,11-3021.00,1,1.0,1
+SK_281,Human Resource Planning,13-1071.00,2,1.0,1
+SK_281,Human Resource Planning,11-3121.00,3,0.833,2
+SK_281,Human Resource Planning,13-1141.00,4,0.5,1
+SK_281,Human Resource Planning,43-4161.00,5,0.333,1
+SK_282,Labor Relations,13-1075.00,1,2.5,3
+SK_282,Labor Relations,17-2112.00,2,1.0,1
+SK_282,Labor Relations,11-3121.00,3,0.7,2
+SK_282,Labor Relations,43-5061.00,4,0.5,1
+SK_282,Labor Relations,11-3051.00,5,0.333,1
+SK_283,Equal Employment Opportunity,13-1041.03,1,2.0,2
+SK_283,Equal Employment Opportunity,13-2011.00,2,1.0,1
+SK_283,Equal Employment Opportunity,13-1071.00,3,0.75,2
+SK_283,Equal Employment Opportunity,11-2033.00,4,0.5,1
+SK_283,Equal Employment Opportunity,13-1041.00,5,0.5,1
+SK_284,Employee Motivation,13-1075.00,1,1.2,2
+SK_284,Employee Motivation,13-1131.00,2,1.0,1
+SK_284,Employee Motivation,13-2023.00,3,1.0,1
+SK_284,Employee Motivation,41-2031.00,4,1.0,1
+SK_284,Employee Motivation,41-9099.00,5,1.0,1
+SK_285,Strategic Management,11-2021.00,1,2.0,2
+SK_285,Strategic Management,11-1011.00,2,1.2,3
+SK_285,Strategic Management,11-1011.03,3,1.0,1
+SK_285,Strategic Management,19-3011.00,4,1.0,1
+SK_285,Strategic Management,11-3061.00,5,0.583,2
+SK_286,Organization Design,11-1021.00,1,2.2,4
+SK_286,Organization Design,19-3032.00,2,1.917,4
+SK_286,Organization Design,11-9151.00,3,1.583,3
+SK_286,Organization Design,15-1221.00,4,1.0,1
+SK_286,Organization Design,11-3131.00,5,0.7,2
+SK_287,Organizational Change Management,41-2012.00,1,2.7,4
+SK_287,Organizational Change Management,19-3032.00,2,2.0,2
+SK_287,Organizational Change Management,11-9161.00,3,1.333,3
+SK_287,Organizational Change Management,13-1199.04,4,0.783,3
+SK_287,Organizational Change Management,13-1111.00,5,0.75,2
+SK_288,International Business,13-1199.04,1,2.0,2
+SK_288,International Business,11-2022.00,2,1.5,2
+SK_288,International Business,15-1212.00,3,1.0,1
+SK_288,International Business,13-1011.00,4,0.667,2
+SK_288,International Business,11-2021.00,5,0.5,1
+SK_289,Management Consulting,13-1041.00,1,1.0,1
+SK_289,Management Consulting,13-1131.00,2,1.0,1
+SK_289,Management Consulting,15-1299.03,3,1.0,1
+SK_289,Management Consulting,17-2199.11,4,1.0,1
+SK_289,Management Consulting,19-3034.00,5,0.75,2
+SK_290,Client Management,13-2052.00,1,2.0,2
+SK_290,Client Management,41-3091.00,2,0.833,2
+SK_290,Client Management,11-9111.00,3,0.7,2
+SK_290,Client Management,13-2071.00,4,0.583,2
+SK_290,Client Management,41-3031.00,5,0.45,2
+SK_291,Nonprofit Management,13-1131.00,1,2.0,2
+SK_291,Nonprofit Management,11-1011.00,2,1.583,4
+SK_291,Nonprofit Management,11-9151.00,3,1.5,3
+SK_291,Nonprofit Management,11-1021.00,4,1.033,3
+SK_291,Nonprofit Management,13-1041.04,5,1.0,1
+SK_292,Organizational Governance,13-1131.00,1,1.333,2
+SK_292,Organizational Governance,11-1011.00,2,1.25,3
+SK_292,Organizational Governance,13-1041.04,3,1.0,1
+SK_292,Organizational Governance,19-3032.00,4,1.0,1
+SK_292,Organizational Governance,13-1111.00,5,0.5,1
+SK_293,Volunteer Management,11-9151.00,1,2.0,2
+SK_293,Volunteer Management,11-9111.00,2,1.0,2
+SK_293,Volunteer Management,13-1071.00,3,0.333,1
+SK_293,Volunteer Management,13-1121.00,4,0.333,1
+SK_293,Volunteer Management,11-3131.00,5,0.25,1
+SK_294,Fundraising,11-3031.03,1,2.333,3
+SK_294,Fundraising,11-2033.00,2,1.5,3
+SK_294,Fundraising,41-9099.00,3,1.25,3
+SK_294,Fundraising,13-1131.00,4,1.167,3
+SK_294,Fundraising,13-2051.00,5,0.4,2
+SK_295,Social Innovation,11-9151.00,1,1.2,2
+SK_295,Social Innovation,11-1011.03,2,1.0,1
+SK_295,Social Innovation,43-5071.00,3,1.0,1
+SK_295,Social Innovation,11-3031.00,4,0.5,1
+SK_295,Social Innovation,15-1221.00,5,0.5,1
+SK_296,Entrepreneurship,11-1011.03,1,1.0,1
+SK_296,Entrepreneurship,13-1151.00,2,1.0,1
+SK_296,Entrepreneurship,43-4141.00,3,1.0,1
+SK_296,Entrepreneurship,11-3131.00,4,0.5,1
+SK_296,Entrepreneurship,13-1199.04,5,0.5,1
+SK_297,Social Entrepreneurship,11-9151.00,1,1.0,1
+SK_297,Social Entrepreneurship,19-3011.01,2,1.0,1
+SK_297,Social Entrepreneurship,11-9199.00,3,0.5,1
+SK_297,Social Entrepreneurship,19-3099.00,4,0.5,1
+SK_297,Social Entrepreneurship,17-2151.00,5,0.333,1
+SK_298,Healthcare Entrepreneurship,11-9111.00,1,2.0,2
+SK_298,Healthcare Entrepreneurship,15-1211.01,2,1.2,3
+SK_298,Healthcare Entrepreneurship,15-1221.00,3,1.0,1
+SK_298,Healthcare Entrepreneurship,15-1299.08,4,0.5,1
+SK_298,Healthcare Entrepreneurship,15-1299.07,5,0.333,1
+SK_299,Healthcare Management,11-9111.00,1,4.0,4
+SK_299,Healthcare Management,15-1211.01,2,2.0,4
+SK_299,Healthcare Management,17-2111.00,3,0.667,2
+SK_299,Healthcare Management,13-1111.00,4,0.533,2
+SK_299,Healthcare Management,13-1071.00,5,0.25,1
+SK_300,Sports Administration,11-1021.00,1,2.583,4
+SK_300,Sports Administration,11-2021.00,2,1.033,3
+SK_300,Sports Administration,11-9033.00,3,1.0,1
+SK_300,Sports Administration,11-9179.01,4,1.0,1
+SK_300,Sports Administration,27-3011.00,5,1.0,3
+SK_301,Event Management,13-1121.00,1,2.0,2
+SK_301,Event Management,13-1011.00,2,1.2,2
+SK_301,Event Management,11-9072.00,3,0.667,2
+SK_301,Event Management,11-9161.00,4,0.5,1
+SK_301,Event Management,13-1131.00,5,0.5,1
+SK_302,Sports Facility Operations,11-1021.00,1,3.0,3
+SK_302,Sports Facility Operations,11-9199.00,2,1.333,3
+SK_302,Sports Facility Operations,11-3013.00,3,1.033,3
+SK_302,Sports Facility Operations,27-3011.00,4,0.65,3
+SK_302,Sports Facility Operations,17-2112.01,5,0.5,2
+SK_303,Sports Regulatory Compliance,11-9199.02,1,1.667,3
+SK_303,Sports Regulatory Compliance,13-1011.00,2,1.0,1
+SK_303,Sports Regulatory Compliance,15-1252.00,3,1.0,1
+SK_303,Sports Regulatory Compliance,43-4051.00,4,1.0,1
+SK_303,Sports Regulatory Compliance,13-1041.00,5,0.833,3
+SK_304,Business Law,11-9199.02,1,1.0,1
+SK_304,Business Law,13-1199.04,2,1.0,1
+SK_304,Business Law,23-2011.00,3,1.0,1
+SK_304,Business Law,23-1011.00,4,0.75,2
+SK_304,Business Law,15-1299.02,5,0.5,1
+SK_305,Contract Law,23-1012.00,1,1.333,2
+SK_305,Contract Law,23-1011.00,2,1.25,2
+SK_305,Contract Law,13-1041.04,3,1.0,1
+SK_305,Contract Law,13-1075.00,4,0.5,1
+SK_305,Contract Law,13-2023.00,5,0.5,1
+SK_306,Agency Law,11-9032.00,1,1.0,1
+SK_306,Agency Law,13-1075.00,2,1.0,1
+SK_306,Agency Law,23-1011.00,3,1.0,1
+SK_306,Agency Law,13-1141.00,4,0.5,1
+SK_306,Agency Law,13-2052.00,5,0.5,1
+SK_307,Business Entity Law,13-1199.04,1,2.0,2
+SK_307,Business Entity Law,11-3121.00,2,1.0,1
+SK_307,Business Entity Law,13-1031.00,3,1.0,1
+SK_307,Business Entity Law,13-2051.00,4,1.0,1
+SK_307,Business Entity Law,13-1011.00,5,0.833,2
+SK_308,Property Rights Law,23-1011.00,1,2.083,4
+SK_308,Property Rights Law,11-9141.00,2,1.5,3
+SK_308,Property Rights Law,23-2011.00,3,1.2,2
+SK_308,Property Rights Law,13-1041.03,4,1.0,2
+SK_308,Property Rights Law,13-2022.00,5,1.0,1
+SK_309,Negotiable Instruments,13-1075.00,1,1.2,2
+SK_309,Negotiable Instruments,23-1012.00,2,1.0,1
+SK_309,Negotiable Instruments,23-1021.00,3,0.5,1
+SK_309,Negotiable Instruments,23-2093.00,4,0.5,1
+SK_309,Negotiable Instruments,41-4012.00,5,0.5,2
+SK_310,Estate and Probate Law,23-1011.00,1,2.25,4
+SK_310,Estate and Probate Law,43-4199.00,2,1.583,3
+SK_310,Estate and Probate Law,13-2023.00,3,1.533,3
+SK_310,Estate and Probate Law,41-9021.00,4,1.0,1
+SK_310,Estate and Probate Law,23-1023.00,5,0.833,2
+SK_311,Legislative Analysis,19-3094.00,1,3.0,3
+SK_311,Legislative Analysis,13-1199.00,2,1.5,3
+SK_311,Legislative Analysis,23-2099.00,3,1.0,3
+SK_311,Legislative Analysis,43-4021.00,4,0.75,3
+SK_311,Legislative Analysis,11-1031.00,5,0.6,3
+SK_312,Research,11-9121.01,1,2.2,3
+SK_312,Research,15-1221.00,2,1.333,2
+SK_312,Research,15-1299.02,3,1.0,1
+SK_312,Research,13-1161.00,4,0.75,2
+SK_312,Research,15-1299.05,5,0.5,1
+SK_313,Experimental Research,13-1161.01,1,1.25,2
+SK_313,Experimental Research,11-9121.01,2,1.0,1
+SK_313,Experimental Research,15-1252.00,3,1.0,1
+SK_313,Experimental Research,19-3033.00,4,1.0,1
+SK_313,Experimental Research,13-1161.00,5,0.5,1
+SK_314,Research Problem Definition,15-1242.00,1,2.0,2
+SK_314,Research Problem Definition,15-2031.00,2,1.2,2
+SK_314,Research Problem Definition,11-9121.01,3,1.0,2
+SK_314,Research Problem Definition,13-2023.00,4,1.0,1
+SK_314,Research Problem Definition,15-1221.00,5,0.533,2
+SK_315,Information Literacy,15-1299.02,1,1.333,2
+SK_315,Information Literacy,15-1299.09,2,1.333,2
+SK_315,Information Literacy,13-2051.00,3,1.0,1
+SK_315,Information Literacy,15-1299.05,4,1.0,2
+SK_315,Information Literacy,11-3031.03,5,0.5,1
+SK_316,Business Communication,11-2021.00,1,1.0,1
+SK_316,Business Communication,11-9151.00,2,1.0,1
+SK_316,Business Communication,13-1199.04,3,1.0,1
+SK_316,Business Communication,11-2032.00,4,0.5,1
+SK_316,Business Communication,13-1131.00,5,0.5,1
+SK_317,Written Communication,27-3043.00,1,3.333,5
+SK_317,Written Communication,27-3043.05,2,3.083,5
+SK_317,Written Communication,27-3042.00,3,1.117,4
+SK_317,Written Communication,27-3091.00,4,1.0,1
+SK_317,Written Communication,27-3023.00,5,0.75,2
+SK_318,Oral Communication,19-3093.00,1,2.0,2
+SK_318,Oral Communication,27-3091.00,2,1.0,2
+SK_318,Oral Communication,43-2011.00,3,1.0,1
+SK_318,Oral Communication,11-3111.00,4,0.5,1
+SK_318,Oral Communication,11-9199.00,5,0.333,1
+SK_319,Presentation Skills,41-9011.00,1,2.5,3
+SK_319,Presentation Skills,11-1011.00,2,1.033,3
+SK_319,Presentation Skills,13-1151.00,3,1.0,1
+SK_319,Presentation Skills,13-2023.00,4,1.0,1
+SK_319,Presentation Skills,27-3023.00,5,1.0,1
+SK_320,Visual Communication,15-1241.01,1,1.0,1
+SK_320,Visual Communication,27-3099.00,2,1.0,1
+SK_320,Visual Communication,17-2072.00,3,0.5,1
+SK_320,Visual Communication,43-5021.00,4,0.5,1
+SK_320,Visual Communication,27-3043.05,5,0.333,1
+SK_321,Data Communication,13-2023.00,1,1.0,1
+SK_321,Data Communication,15-1241.01,2,1.0,1
+SK_321,Data Communication,15-2051.02,3,1.0,1
+SK_321,Data Communication,17-2071.00,4,1.0,1
+SK_321,Data Communication,41-4012.00,5,1.0,1
+SK_322,Audience Analysis,27-3031.00,1,3.2,4
+SK_322,Audience Analysis,27-3099.00,2,1.5,3
+SK_322,Audience Analysis,11-1011.03,3,1.0,1
+SK_322,Audience Analysis,13-1199.04,4,1.0,1
+SK_322,Audience Analysis,27-3011.00,5,0.583,2
+SK_323,Persuasion,27-3031.00,1,1.0,1
+SK_323,Persuasion,27-3099.00,2,0.5,1
+SK_323,Persuasion,43-2099.00,3,0.333,1
+SK_323,Persuasion,19-3091.00,4,0.25,1
+SK_323,Persuasion,43-2011.00,5,0.2,1
+SK_324,English Grammar and Vocabulary,27-3091.00,1,2.0,2
+SK_324,English Grammar and Vocabulary,43-9081.00,2,1.5,2
+SK_324,English Grammar and Vocabulary,17-2199.03,3,1.0,1
+SK_324,English Grammar and Vocabulary,27-3023.00,4,0.833,2
+SK_324,English Grammar and Vocabulary,43-6014.00,5,0.583,2
+SK_325,English Pronunciation,27-3091.00,1,1.0,1
+SK_326,Research and Academic Writing,11-9013.00,1,1.0,1
+SK_326,Research and Academic Writing,11-9033.00,2,1.0,1
+SK_326,Research and Academic Writing,11-9121.00,3,1.0,1
+SK_326,Research and Academic Writing,11-9121.01,4,1.0,1
+SK_326,Research and Academic Writing,41-4012.00,5,1.0,1
+SK_327,Teamwork and Collaboration,19-3033.00,1,1.333,2
+SK_327,Teamwork and Collaboration,15-1241.01,2,1.25,2
+SK_327,Teamwork and Collaboration,11-9199.00,3,1.0,1
+SK_327,Teamwork and Collaboration,15-1255.01,4,1.0,1
+SK_327,Teamwork and Collaboration,15-1299.09,5,1.0,1
+SK_328,Negotiation,13-1075.00,1,3.5,4
+SK_328,Negotiation,23-1022.00,2,1.5,2
+SK_328,Negotiation,41-4012.00,3,1.083,3
+SK_328,Negotiation,41-2031.00,4,0.5,1
+SK_328,Negotiation,11-9161.00,5,0.45,2
+SK_329,Conflict Management,23-1022.00,1,4.0,4
+SK_329,Conflict Management,11-2022.00,2,0.5,1
+SK_329,Conflict Management,11-9013.00,3,0.5,1
+SK_329,Conflict Management,13-1011.00,4,0.5,1
+SK_329,Conflict Management,15-1299.03,5,0.5,1
+SK_330,Cross-Cultural Competence,19-3091.00,1,4.5,6
+SK_330,Cross-Cultural Competence,19-3092.00,2,4.333,6
+SK_330,Cross-Cultural Competence,11-9013.00,3,1.5,5
+SK_330,Cross-Cultural Competence,11-3071.00,4,1.283,5
+SK_330,Cross-Cultural Competence,15-1255.00,5,0.5,1
+SK_331,Leadership,13-1151.00,1,2.0,3
+SK_331,Leadership,11-9199.10,2,1.583,3
+SK_331,Leadership,19-3032.00,3,1.5,2
+SK_331,Leadership,11-3131.00,4,1.333,2
+SK_331,Leadership,41-4011.00,5,0.75,2
+SK_332,People Management,41-9099.00,1,3.0,3
+SK_332,People Management,43-4171.00,2,1.5,3
+SK_332,People Management,11-1011.00,3,1.0,1
+SK_332,People Management,11-3131.00,4,0.7,2
+SK_332,People Management,19-3091.00,5,0.583,2
+SK_333,Team Management,19-3033.00,1,2.0,2
+SK_333,Team Management,11-1021.00,2,1.5,2
+SK_333,Team Management,11-3071.00,3,0.7,2
+SK_333,Team Management,43-4181.00,4,0.5,1
+SK_333,Team Management,13-1081.00,5,0.333,1
+SK_334,Critical Thinking,17-2161.00,1,2.25,4
+SK_334,Critical Thinking,27-3043.05,2,1.833,3
+SK_334,Critical Thinking,27-3023.00,3,1.783,4
+SK_334,Critical Thinking,11-9033.00,4,1.0,1
+SK_334,Critical Thinking,17-2199.09,5,1.0,1
+SK_335,Analytical Thinking,13-1151.00,1,2.0,2
+SK_335,Analytical Thinking,15-2031.00,2,1.5,3
+SK_335,Analytical Thinking,15-2051.00,3,1.2,2
+SK_335,Analytical Thinking,13-2099.01,4,1.033,3
+SK_335,Analytical Thinking,11-3131.00,5,1.0,2
+SK_336,Problem Solving,15-1211.01,1,2.25,3
+SK_336,Problem Solving,15-1211.00,2,1.5,3
+SK_336,Problem Solving,13-2052.00,3,1.0,1
+SK_336,Problem Solving,15-1221.00,4,1.0,3
+SK_336,Problem Solving,15-2031.00,5,1.0,1
+SK_337,Decision Making,15-2031.00,1,3.25,4
+SK_337,Decision Making,23-1021.00,2,2.0,3
+SK_337,Decision Making,11-3051.00,3,0.5,1
+SK_337,Decision Making,19-3032.00,4,0.5,1
+SK_337,Decision Making,19-3033.00,5,0.333,1
+SK_338,Ethical Reasoning,13-1071.00,1,3.0,5
+SK_338,Ethical Reasoning,15-1251.00,2,2.583,4
+SK_338,Ethical Reasoning,11-9199.02,3,2.167,4
+SK_338,Ethical Reasoning,15-1299.04,4,1.45,4
+SK_338,Ethical Reasoning,13-1199.00,5,0.933,4
+SK_339,Career Planning and Management,11-9033.00,1,3.7,5
+SK_339,Career Planning and Management,11-9111.00,2,1.25,3
+SK_339,Career Planning and Management,11-3071.00,3,1.2,2
+SK_339,Career Planning and Management,15-2031.00,4,1.0,1
+SK_339,Career Planning and Management,43-5061.00,5,0.833,2
+SK_340,Self-Assessment,41-2021.00,1,2.0,2
+SK_340,Self-Assessment,13-2023.00,2,1.4,3
+SK_340,Self-Assessment,43-1011.00,3,1.0,2
+SK_340,Self-Assessment,19-3033.00,4,0.917,3
+SK_340,Self-Assessment,13-2022.00,5,0.5,1
+SK_341,Professional Networking,15-1231.00,1,1.5,2
+SK_341,Professional Networking,15-1244.00,2,1.5,2
+SK_341,Professional Networking,13-1199.04,3,1.0,1
+SK_341,Professional Networking,15-1241.00,4,0.667,2
+SK_341,Professional Networking,13-1011.00,5,0.5,1
+SK_342,Self-Directed Learning,43-1011.00,1,3.0,3
+SK_342,Self-Directed Learning,41-2021.00,2,1.5,3
+SK_342,Self-Directed Learning,13-1081.00,3,1.0,1
+SK_342,Self-Directed Learning,15-2051.00,4,0.667,2
+SK_342,Self-Directed Learning,15-1212.00,5,0.5,1
+SK_343,Security Asset Valuation,11-3031.03,1,2.333,3
+SK_343,Security Asset Valuation,13-2023.00,2,1.0,1
+SK_343,Security Asset Valuation,13-2052.00,3,1.0,3
+SK_343,Security Asset Valuation,13-2011.00,4,0.95,3
+SK_343,Security Asset Valuation,11-9199.08,5,0.667,2
+SK_344,Market Efficiency Analysis,11-2021.00,1,2.5,3
+SK_344,Market Efficiency Analysis,13-1161.00,2,2.0,3
+SK_344,Market Efficiency Analysis,17-2199.03,3,0.867,3
+SK_344,Market Efficiency Analysis,13-1161.01,4,0.783,3
+SK_344,Market Efficiency Analysis,17-2141.02,5,0.25,1
+SK_345,Hypothesis Testing for Economic Models,19-3011.00,1,2.0,2
+SK_345,Hypothesis Testing for Economic Models,15-1253.00,2,1.0,1
+SK_345,Hypothesis Testing for Economic Models,19-3011.01,3,1.0,2
+SK_345,Hypothesis Testing for Economic Models,43-9111.00,4,1.0,1
+SK_345,Hypothesis Testing for Economic Models,19-3092.00,5,0.667,2
+SK_346,Economic Welfare Analysis,43-4061.00,1,5.0,5
+SK_346,Economic Welfare Analysis,11-1011.00,2,2.25,5
+SK_346,Economic Welfare Analysis,11-3121.00,3,1.45,5
+SK_346,Economic Welfare Analysis,11-9151.00,4,1.4,5
+SK_346,Economic Welfare Analysis,19-3041.00,5,0.983,4
+SK_347,Climate Science Fundamentals,11-1011.03,1,4.0,4
+SK_347,Climate Science Fundamentals,15-1221.00,2,1.583,4
+SK_347,Climate Science Fundamentals,19-3092.00,3,1.2,4
+SK_347,Climate Science Fundamentals,15-2021.00,4,0.917,3
+SK_347,Climate Science Fundamentals,17-2199.11,5,0.533,2
+SK_348,Tort Law,23-1012.00,1,1.0,1
+SK_348,Tort Law,23-1021.00,2,0.5,1
+SK_348,Tort Law,23-1011.00,3,0.333,1
+SK_348,Tort Law,23-1023.00,4,0.25,1
+SK_348,Tort Law,43-5031.00,5,0.2,1
+SK_349,Criminal Law,23-1011.00,1,2.0,2
+SK_349,Criminal Law,23-1023.00,2,1.0,2
+SK_349,Criminal Law,43-4031.00,3,0.667,2
+SK_349,Criminal Law,19-3033.00,4,0.5,2
+SK_349,Criminal Law,15-1299.06,5,0.4,2
+SK_350,Operations Strategy,11-1011.03,1,1.25,2
+SK_350,Operations Strategy,15-2051.01,2,1.0,1
+SK_350,Operations Strategy,11-3021.00,3,0.533,2
+SK_350,Operations Strategy,15-1212.00,4,0.5,1
+SK_350,Operations Strategy,41-9099.00,5,0.5,1
+SK_351,HR Systems Selection and Evaluation,13-1071.00,1,3.5,4
+SK_351,HR Systems Selection and Evaluation,13-1111.00,2,1.333,2
+SK_351,HR Systems Selection and Evaluation,15-1299.05,3,0.833,2
+SK_351,HR Systems Selection and Evaluation,19-3032.00,4,0.833,2
+SK_351,HR Systems Selection and Evaluation,11-3013.01,5,0.75,2
+SK_352,Workplace Diversity Analysis,11-1011.00,1,1.583,3
+SK_352,Workplace Diversity Analysis,11-3121.00,2,1.5,2
+SK_352,Workplace Diversity Analysis,13-1041.03,3,1.25,2
+SK_352,Workplace Diversity Analysis,11-1021.00,4,1.0,1
+SK_352,Workplace Diversity Analysis,13-1141.00,5,1.0,1
+SK_353,Business Opportunity Evaluation,13-1041.03,1,2.5,3
+SK_353,Business Opportunity Evaluation,11-9111.00,2,1.0,1
+SK_353,Business Opportunity Evaluation,13-1199.00,3,0.75,2
+SK_353,Business Opportunity Evaluation,11-3071.04,4,0.5,1
+SK_353,Business Opportunity Evaluation,11-9199.10,5,0.333,1
+SK_354,Economic Analysis,19-3011.00,1,3.0,3
+SK_354,Economic Analysis,19-3011.01,2,1.5,3
+SK_354,Economic Analysis,19-3092.00,3,0.867,3
+SK_354,Economic Analysis,15-2041.00,4,0.533,2
+SK_354,Economic Analysis,19-3051.00,5,0.5,2

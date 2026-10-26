@@ -1,0 +1,21 @@
+[
+  {
+    "specification": "metro_fixed_effects",
+    "n": 15000,
+    "r_squared": 0.3768,
+    "adj_r_squared": 0.3671,
+    "controls_only_r_squared": 0.3692,
+    "mean_starting_salary": 69132.0,
+    "n_skill_bundles_estimated": 201,
+    "columns_dropped_collinear": [
+      "company_tier_3"
+    ],
+    "joint_test_all_skills_zero": {
+      "F": 0.9302,
+      "p_value": 0.7516093886940565,
+      "df_num": 201,
+      "df_denom": 14768
+    },
+    "n_skill_bundles_q_below_0.05": 0
+  }
+]

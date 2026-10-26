@@ -1,0 +1,91 @@
+group,archetype_id,location_metro,n_alumni,share,location_quotient,is_hub
+ALL,ALL-A1,"Denver-Aurora-Centennial, CO",169,0.0674,1.133,false
+ALL,ALL-A1,"Los Angeles-Long Beach-Anaheim, CA",269,0.1073,1.072,false
+ALL,ALL-A1,"San Francisco-Oakland-Berkeley, CA",185,0.0738,1.054,false
+ALL,ALL-A1,"Chicago-Naperville-Elgin, IL-IN",157,0.0626,1.034,false
+ALL,ALL-A1,"New York-Newark-Jersey City, NY-NJ",181,0.0722,1.022,false
+ALL,ALL-A1,"Dallas-Fort Worth-Arlington, TX",204,0.0814,1.011,false
+ALL,ALL-A1,"Phoenix-Mesa-Chandler, AZ",862,0.344,0.977,false
+ALL,ALL-A1,"Seattle-Tacoma-Bellevue, WA",132,0.0527,0.934,false
+ALL,ALL-A1,"Tucson, AZ",347,0.1385,0.922,false
+ALL,ALL-A10,"Seattle-Tacoma-Bellevue, WA",51,0.0619,1.097,false
+ALL,ALL-A10,"Tucson, AZ",133,0.1614,1.075,false
+ALL,ALL-A10,"Phoenix-Mesa-Chandler, AZ",306,0.3714,1.055,false
+ALL,ALL-A10,"Chicago-Naperville-Elgin, IL-IN",49,0.0595,0.981,false
+ALL,ALL-A10,"Dallas-Fort Worth-Arlington, TX",62,0.0752,0.934,false
+ALL,ALL-A10,"Los Angeles-Long Beach-Anaheim, CA",77,0.0934,0.933,false
+ALL,ALL-A10,"Denver-Aurora-Centennial, CO",45,0.0546,0.917,false
+ALL,ALL-A10,"New York-Newark-Jersey City, NY-NJ",52,0.0631,0.893,false
+ALL,ALL-A10,"San Francisco-Oakland-Berkeley, CA",49,0.0595,0.849,false
+ALL,ALL-A2,"Chicago-Naperville-Elgin, IL-IN",168,0.0677,1.117,false
+ALL,ALL-A2,"Seattle-Tacoma-Bellevue, WA",155,0.0625,1.108,false
+ALL,ALL-A2,"Dallas-Fort Worth-Arlington, TX",216,0.0871,1.081,false
+ALL,ALL-A2,"Los Angeles-Long Beach-Anaheim, CA",261,0.1052,1.051,false
+ALL,ALL-A2,"New York-Newark-Jersey City, NY-NJ",175,0.0705,0.998,false
+ALL,ALL-A2,"San Francisco-Oakland-Berkeley, CA",169,0.0681,0.972,false
+ALL,ALL-A2,"Tucson, AZ",360,0.1451,0.966,false
+ALL,ALL-A2,"Denver-Aurora-Centennial, CO",142,0.0572,0.961,false
+ALL,ALL-A2,"Phoenix-Mesa-Chandler, AZ",835,0.3366,0.956,false
+ALL,ALL-A3,"New York-Newark-Jersey City, NY-NJ",136,0.081,1.146,false
+ALL,ALL-A3,"Los Angeles-Long Beach-Anaheim, CA",184,0.1096,1.094,false
+ALL,ALL-A3,"Phoenix-Mesa-Chandler, AZ",635,0.3782,1.075,false
+ALL,ALL-A3,"Denver-Aurora-Centennial, CO",106,0.0631,1.06,false
+ALL,ALL-A3,"San Francisco-Oakland-Berkeley, CA",114,0.0679,0.969,false
+ALL,ALL-A3,"Dallas-Fort Worth-Arlington, TX",120,0.0715,0.887,false
+ALL,ALL-A3,"Tucson, AZ",222,0.1322,0.881,false
+ALL,ALL-A3,"Chicago-Naperville-Elgin, IL-IN",86,0.0512,0.845,false
+ALL,ALL-A3,"Seattle-Tacoma-Bellevue, WA",76,0.0453,0.803,false
+ALL,ALL-A4,"Seattle-Tacoma-Bellevue, WA",99,0.0594,1.053,false
+ALL,ALL-A4,"Chicago-Naperville-Elgin, IL-IN",105,0.063,1.039,false
+ALL,ALL-A4,"Dallas-Fort Worth-Arlington, TX",139,0.0834,1.035,false
+ALL,ALL-A4,"Phoenix-Mesa-Chandler, AZ",603,0.3617,1.028,false
+ALL,ALL-A4,"Tucson, AZ",257,0.1542,1.027,false
+ALL,ALL-A4,"New York-Newark-Jersey City, NY-NJ",118,0.0708,1.002,false
+ALL,ALL-A4,"San Francisco-Oakland-Berkeley, CA",113,0.0678,0.967,false
+ALL,ALL-A4,"Los Angeles-Long Beach-Anaheim, CA",154,0.0924,0.923,false
+ALL,ALL-A4,"Denver-Aurora-Centennial, CO",79,0.0474,0.796,false
+ALL,ALL-A5,"Tucson, AZ",279,0.1674,1.115,false
+ALL,ALL-A5,"Denver-Aurora-Centennial, CO",110,0.066,1.108,false
+ALL,ALL-A5,"Seattle-Tacoma-Bellevue, WA",101,0.0606,1.074,false
+ALL,ALL-A5,"New York-Newark-Jersey City, NY-NJ",119,0.0714,1.01,false
+ALL,ALL-A5,"Phoenix-Mesa-Chandler, AZ",573,0.3437,0.977,false
+ALL,ALL-A5,"San Francisco-Oakland-Berkeley, CA",114,0.0684,0.976,false
+ALL,ALL-A5,"Dallas-Fort Worth-Arlington, TX",129,0.0774,0.961,false
+ALL,ALL-A5,"Los Angeles-Long Beach-Anaheim, CA",152,0.0912,0.911,false
+ALL,ALL-A5,"Chicago-Naperville-Elgin, IL-IN",90,0.054,0.891,false
+ALL,ALL-A6,"Seattle-Tacoma-Bellevue, WA",109,0.0654,1.16,false
+ALL,ALL-A6,"Denver-Aurora-Centennial, CO",106,0.0636,1.069,false
+ALL,ALL-A6,"Chicago-Naperville-Elgin, IL-IN",107,0.0642,1.06,false
+ALL,ALL-A6,"San Francisco-Oakland-Berkeley, CA",122,0.0732,1.045,false
+ALL,ALL-A6,"Phoenix-Mesa-Chandler, AZ",587,0.3523,1.001,false
+ALL,ALL-A6,"Tucson, AZ",244,0.1465,0.976,false
+ALL,ALL-A6,"New York-Newark-Jersey City, NY-NJ",114,0.0684,0.968,false
+ALL,ALL-A6,"Dallas-Fort Worth-Arlington, TX",127,0.0762,0.947,false
+ALL,ALL-A6,"Los Angeles-Long Beach-Anaheim, CA",150,0.09,0.899,false
+ALL,ALL-A7,"Tucson, AZ",146,0.1732,1.154,false
+ALL,ALL-A7,"San Francisco-Oakland-Berkeley, CA",66,0.0783,1.117,false
+ALL,ALL-A7,"Chicago-Naperville-Elgin, IL-IN",54,0.0641,1.057,false
+ALL,ALL-A7,"Dallas-Fort Worth-Arlington, TX",68,0.0807,1.002,false
+ALL,ALL-A7,"New York-Newark-Jersey City, NY-NJ",59,0.07,0.99,false
+ALL,ALL-A7,"Phoenix-Mesa-Chandler, AZ",287,0.3405,0.967,false
+ALL,ALL-A7,"Los Angeles-Long Beach-Anaheim, CA",80,0.0949,0.948,false
+ALL,ALL-A7,"Seattle-Tacoma-Bellevue, WA",45,0.0534,0.946,false
+ALL,ALL-A7,"Denver-Aurora-Centennial, CO",38,0.0451,0.757,false
+ALL,ALL-A8,"Los Angeles-Long Beach-Anaheim, CA",95,0.1138,1.136,false
+ALL,ALL-A8,"Tucson, AZ",131,0.1569,1.045,false
+ALL,ALL-A8,"Phoenix-Mesa-Chandler, AZ",303,0.3629,1.031,false
+ALL,ALL-A8,"San Francisco-Oakland-Berkeley, CA",60,0.0719,1.026,false
+ALL,ALL-A8,"Denver-Aurora-Centennial, CO",51,0.0611,1.026,false
+ALL,ALL-A8,"Dallas-Fort Worth-Arlington, TX",64,0.0766,0.952,false
+ALL,ALL-A8,"Chicago-Naperville-Elgin, IL-IN",45,0.0539,0.889,false
+ALL,ALL-A8,"New York-Newark-Jersey City, NY-NJ",49,0.0587,0.83,false
+ALL,ALL-A8,"Seattle-Tacoma-Bellevue, WA",37,0.0443,0.786,false
+ALL,ALL-A9,"Dallas-Fort Worth-Arlington, TX",79,0.095,1.179,false
+ALL,ALL-A9,"Tucson, AZ",133,0.1599,1.065,false
+ALL,ALL-A9,"San Francisco-Oakland-Berkeley, CA",59,0.0709,1.012,false
+ALL,ALL-A9,"Phoenix-Mesa-Chandler, AZ",288,0.3462,0.984,false
+ALL,ALL-A9,"New York-Newark-Jersey City, NY-NJ",57,0.0685,0.969,false
+ALL,ALL-A9,"Los Angeles-Long Beach-Anaheim, CA",80,0.0962,0.96,false
+ALL,ALL-A9,"Chicago-Naperville-Elgin, IL-IN",48,0.0577,0.952,false
+ALL,ALL-A9,"Denver-Aurora-Centennial, CO",47,0.0565,0.949,false
+ALL,ALL-A9,"Seattle-Tacoma-Bellevue, WA",41,0.0493,0.874,false

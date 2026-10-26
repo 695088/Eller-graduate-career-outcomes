@@ -1,0 +1,10 @@
+state,year,share,observation_status
+Individual Contributor,3,0.3048,observed endpoint
+Individual Contributor,6,0.1334,model projection
+Individual Contributor,9,0.0584,model projection
+Client-Facing Operator,3,0.1383,observed endpoint
+Client-Facing Operator,6,0.063,model projection
+Client-Facing Operator,9,0.0287,model projection
+Functional Lead,3,0.5569,observed endpoint
+Functional Lead,6,0.8036,model projection
+Functional Lead,9,0.9129,model projection

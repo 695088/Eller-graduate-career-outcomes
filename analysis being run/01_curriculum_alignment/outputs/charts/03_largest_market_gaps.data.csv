@@ -1,0 +1,13 @@
+term_id,term,term_source,category,catalog_similarity,best_matching_course,core_similarity,alumni_exposure,matched_hot_technology,target_posting_share,national_job_postings,task_relevance,demand_score,supply_score,alignment_gap,quadrant
+HT_164,Google Docs,onet_hot_technology,Market / Technology,0.0,ECON 313,0.0,0.0,Google Docs,0.0,17733,0.777,0.9736,0.134,0.8396,Market Gap
+HT_080,Oracle PeopleSoft,onet_hot_technology,Market / Technology,0.0,ECON 313,0.0,0.0,Oracle PeopleSoft,0.0017,64274,0.647,0.9604,0.134,0.8264,Market Gap
+HT_157,Apache Hive,onet_hot_technology,Market / Technology,0.0,ECON 313,0.0,0.0,Apache Hive,0.0,21071,0.6336,0.9585,0.134,0.8245,Market Gap
+HT_074,The MathWorks MATLAB,onet_hot_technology,Market / Technology,0.0,ECON 313,0.0,0.0,The MathWorks MATLAB,0.0006,72087,0.6104,0.9528,0.134,0.8189,Market Gap
+HT_134,Adobe Acrobat,onet_hot_technology,Market / Technology,0.0,ECON 313,0.0,0.0,Adobe Acrobat,0.0,30431,0.6102,0.9509,0.134,0.817,Market Gap
+HT_004,Microsoft PowerPoint,onet_hot_technology,Market / Technology,0.0423,FIN 413,0.0,0.0,Microsoft PowerPoint,0.1043,1618650,0.8881,0.9943,0.191,0.8033,Market Gap
+HT_003,Microsoft Outlook,onet_hot_technology,Market / Technology,0.0418,FIN 413,0.0,0.0,Microsoft Outlook,0.0494,1712260,0.8881,0.9925,0.1896,0.8028,Market Gap
+HT_037,Microsoft Visio,onet_hot_technology,Market / Technology,0.0418,FIN 413,0.0,0.0,Microsoft Visio,0.0194,136648,0.8881,0.9868,0.1896,0.7972,Market Gap
+HT_077,Adobe InDesign,onet_hot_technology,Market / Technology,0.0,ECON 313,0.0,0.0,Adobe InDesign,0.005,69049,0.4503,0.9283,0.134,0.7943,Market Gap
+HT_020,Microsoft SharePoint,onet_hot_technology,Market / Technology,0.0428,FIN 413,0.0,0.0,Microsoft SharePoint,0.0176,270377,0.8881,0.9849,0.192,0.7929,Market Gap
+HT_012,R,onet_hot_technology,Market / Technology,0.0,ECON 313,0.0,0.0,R,0.0101,401957,0.445,0.9264,0.134,0.7925,Market Gap
+HT_090,Apple macOS,onet_hot_technology,Market / Technology,0.0,ECON 313,0.0,0.0,Apple macOS,0.0,57496,0.4471,0.9226,0.134,0.7887,Market Gap

@@ -1,0 +1,114 @@
+{
+  "schemaVersion": 1,
+  "ok": true,
+  "command": "finalize",
+  "status": "pass",
+  "type": "architecture",
+  "quality": "showcase",
+  "specification": {
+    "path": "/Users/athirumalai/Desktop/midterm-464/.archify/architecture-project-map-20261021-192624/candidate.json",
+    "sha256": "c8a626425d0f7dc357141270bf54793b2122f9b067894671f7516084b1e5a754",
+    "bytes": 12862
+  },
+  "artifact": {
+    "path": "/Users/athirumalai/Desktop/midterm-464/.archify/architecture-project-map-20261021-192624/project-map.html",
+    "sha256": "9793998cc4fa3d1acde7372d4565e67423a58dbcfdfae7505d09584711c099fa",
+    "bytes": 844944
+  },
+  "gates": {
+    "validate": "pass",
+    "deliver": "pass",
+    "check": "pass",
+    "browser-check": "pass"
+  },
+  "diagnostics": [],
+  "diagnosticSummary": {
+    "total": 0,
+    "shown": 0,
+    "truncated": false
+  },
+  "evidence": {
+    "receipt": "/Users/athirumalai/Desktop/midterm-464/.archify/architecture-project-map-20261021-192624/review-2/project-map.finalize.json",
+    "summaryReceipt": "/Users/athirumalai/Desktop/midterm-464/.archify/architecture-project-map-20261021-192624/review-2/project-map.finalize-summary.json",
+    "browserCheckReceipt": "/Users/athirumalai/Desktop/midterm-464/.archify/architecture-project-map-20261021-192624/review-2/project-map.browser-check.json"
+  },
+  "update": {
+    "status": "current",
+    "installedVersion": "3.2.0",
+    "availableVersion": "3.2.0",
+    "releaseNotes": null,
+    "checkedAt": "2026-10-22T02:30:38.698Z",
+    "source": "network",
+    "noticeRequired": false,
+    "noticeText": null
+  },
+  "visualReview": "not-requested",
+  "durationMs": 3265,
+  "browserCheck": {
+    "requested": true,
+    "ran": true
+  },
+  "visualReviewRecommendation": {
+    "action": "inspect-route-readability",
+    "signals": {
+      "resolvedCrossovers": 2
+    },
+    "reason": "Automated gates passed, but crossings or detours still need perceptual review before claiming visual quality.",
+    "affectedRoutes": {
+      "crossings": [
+        {
+          "left": {
+            "id": "companies-to-generator",
+            "from": "companies",
+            "to": "generator",
+            "label": "Reads",
+            "collectionIndex": 3,
+            "artifactIndex": 4
+          },
+          "right": {
+            "id": "references-to-execution",
+            "from": "references",
+            "to": "execution",
+            "label": "Course / job refs",
+            "collectionIndex": 5,
+            "artifactIndex": 6
+          },
+          "point": [
+            517.5,
+            191
+          ]
+        },
+        {
+          "left": {
+            "id": "execution-to-alignment",
+            "from": "execution",
+            "to": "alignment",
+            "label": "Runs",
+            "collectionIndex": 6,
+            "artifactIndex": 7
+          },
+          "right": {
+            "id": "execution-to-archetypes",
+            "from": "execution",
+            "to": "archetypes",
+            "label": "Runs",
+            "collectionIndex": 8,
+            "artifactIndex": 9
+          },
+          "point": [
+            891.5,
+            315
+          ],
+          "sharedNode": "execution"
+        }
+      ],
+      "detours": [],
+      "truncated": false
+    },
+    "hints": [
+      "companies → generator crosses references → execution: move the node of whichever is a branch, return, or second entrance to the other side of the main path, so that relationship runs through an empty corridor.",
+      "execution → alignment and execution → archetypes cross next to execution: move node alignment or archetypes so the two reach execution from different sides (for example one level with it, one directly above or below it)."
+    ],
+    "repair": "Trace these relationships at the desktop viewport. For Architecture, use references/architecture-layout-repair.md: reflow a blocked main path or tangled connected scene, and repair an isolated defect locally only when the surrounding composition is accepted. Preserve all semantic content and user-fixed geometry. Rerun finalize once after the edit."
+  }
+}

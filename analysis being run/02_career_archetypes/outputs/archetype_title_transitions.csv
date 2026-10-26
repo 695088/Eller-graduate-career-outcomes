@@ -1,0 +1,188 @@
+group,archetype_id,first_title,yr3_title,n_alumni,p_yr3_given_entry
+ACCT,ACCT-A1,Audit Associate,Senior Audit/Tax Associate,199,1.0
+ACCT,ACCT-A1,Tax Associate,Senior Audit/Tax Associate,181,0.5801
+ACCT,ACCT-A1,Tax Associate,Tax Associate,131,0.4199
+ACCT,ACCT-A2,Staff Accountant,Senior Accountant,242,1.0
+ACCT,ACCT-A2,Accountant,Senior Accountant,230,1.0
+ACCT,ACCT-A3,Staff Accountant,Staff Accountant,197,1.0
+ACCT,ACCT-A4,Accountant,Accountant,171,1.0
+ACCT,ACCT-A5,Audit Associate,Audit Associate,44,0.5238
+ACCT,ACCT-A5,Tax Associate,Tax Associate,41,0.5
+ACCT,ACCT-A5,Tax Associate,Senior Audit/Tax Associate,41,0.5
+ACCT,ACCT-A5,Audit Associate,Senior Audit/Tax Associate,40,0.4762
+ACCT,ACCT-A6,Audit Associate,Audit Associate,150,1.0
+ALL,ALL-A1,Market Research Associate,Senior Marketing Specialist,249,0.6163
+ALL,ALL-A1,Marketing Specialist,Senior Marketing Specialist,238,0.5535
+ALL,ALL-A1,Marketing Analyst,Senior Marketing Analyst,235,0.5465
+ALL,ALL-A1,Digital Marketing Associate,Senior Marketing Analyst,234,0.5806
+ALL,ALL-A1,Market Development Analyst,Senior Growth Marketing Specialist,233,0.5248
+ALL,ALL-A1,Growth Marketing Associate,Senior Growth Marketing Specialist,228,0.5772
+ALL,ALL-A1,Market Development Analyst,Market Development Analyst,211,0.4752
+ALL,ALL-A1,Marketing Analyst,Marketing Analyst,195,0.4535
+ALL,ALL-A1,Marketing Specialist,Marketing Specialist,192,0.4465
+ALL,ALL-A1,Digital Marketing Associate,Digital Marketing Associate,169,0.4194
+ALL,ALL-A1,Growth Marketing Associate,Growth Marketing Associate,167,0.4228
+ALL,ALL-A1,Market Research Associate,Market Research Associate,155,0.3837
+ALL,ALL-A10,Investment Analyst,Senior Financial Analyst,238,0.5667
+ALL,ALL-A10,Financial Analyst,Senior Financial Analyst,231,0.5718
+ALL,ALL-A10,Investment Analyst,Investment Analyst,182,0.4333
+ALL,ALL-A10,Financial Analyst,Financial Analyst,173,0.4282
+ALL,ALL-A2,Business Analyst,Business Analyst,392,0.4683
+ALL,ALL-A2,Management Analyst,Senior Management Analyst,251,0.6019
+ALL,ALL-A2,Business Analyst,Senior Business Analyst,230,0.2748
+ALL,ALL-A2,Operations Analyst,Senior Operations Analyst,224,0.5424
+ALL,ALL-A2,Management Consulting Associate,Senior Operations Analyst,223,0.5284
+ALL,ALL-A2,Economic Consulting Analyst,Senior Business Analyst,219,0.5587
+ALL,ALL-A2,Business Analyst,Senior Management Analyst,215,0.2569
+ALL,ALL-A2,Management Consulting Associate,Management Consulting Associate,199,0.4716
+ALL,ALL-A2,Operations Analyst,Operations Analyst,189,0.4576
+ALL,ALL-A2,Economic Consulting Analyst,Economic Consulting Analyst,173,0.4413
+ALL,ALL-A2,Management Analyst,Management Analyst,166,0.3981
+ALL,ALL-A3,Startup Operations Analyst,Senior Business Operations Specialist,243,0.5664
+ALL,ALL-A3,Business Associate,Senior Business Operations Analyst,235,0.5542
+ALL,ALL-A3,Business Operations Analyst,Senior Business Operations Analyst,231,0.5397
+ALL,ALL-A3,Business Operations Associate,Senior Business Operations Specialist,216,0.5427
+ALL,ALL-A3,Business Operations Analyst,Business Operations Analyst,197,0.4603
+ALL,ALL-A3,Business Associate,Business Associate,189,0.4458
+ALL,ALL-A3,Startup Operations Analyst,Startup Operations Analyst,186,0.4336
+ALL,ALL-A3,Business Operations Associate,Business Operations Associate,182,0.4573
+ALL,ALL-A4,Systems Analyst,Systems Analyst,366,0.4368
+ALL,ALL-A4,Systems Analyst,Senior Systems Analyst,248,0.2959
+ALL,ALL-A4,IT Business Analyst,Senior Systems Analyst,232,0.5537
+ALL,ALL-A4,Systems Analyst,Senior Consultant,224,0.2673
+ALL,ALL-A4,Tech Consultant,Senior Consultant,205,0.5
+ALL,ALL-A4,Tech Consultant,Tech Consultant,205,0.5
+ALL,ALL-A4,IT Business Analyst,IT Business Analyst,187,0.4463
+ALL,ALL-A5,Staff Accountant,Senior Accountant,242,0.5513
+ALL,ALL-A5,Audit Associate,Senior Audit/Tax Associate,239,0.552
+ALL,ALL-A5,Accountant,Senior Accountant,230,0.5736
+ALL,ALL-A5,Tax Associate,Senior Audit/Tax Associate,222,0.5635
+ALL,ALL-A5,Staff Accountant,Staff Accountant,197,0.4487
+ALL,ALL-A5,Audit Associate,Audit Associate,194,0.448
+ALL,ALL-A5,Tax Associate,Tax Associate,172,0.4365
+ALL,ALL-A5,Accountant,Accountant,171,0.4264
+ALL,ALL-A6,Procurement Analyst,Senior Logistics Analyst,251,0.5851
+ALL,ALL-A6,Logistics Coordinator,Senior Supply Chain Analyst,243,0.5573
+ALL,ALL-A6,Supply Chain Analyst,Senior Supply Chain Analyst,237,0.567
+ALL,ALL-A6,Logistics Analyst,Senior Logistics Analyst,230,0.6005
+ALL,ALL-A6,Logistics Coordinator,Logistics Coordinator,193,0.4427
+ALL,ALL-A6,Supply Chain Analyst,Supply Chain Analyst,181,0.433
+ALL,ALL-A6,Procurement Analyst,Procurement Analyst,178,0.4149
+ALL,ALL-A6,Logistics Analyst,Logistics Analyst,153,0.3995
+ALL,ALL-A7,Financial Risk Analyst,Senior Risk Analyst,253,0.5737
+ALL,ALL-A7,Risk Analyst,Senior Risk Analyst,238,0.592
+ALL,ALL-A7,Financial Risk Analyst,Financial Risk Analyst,188,0.4263
+ALL,ALL-A7,Risk Analyst,Risk Analyst,164,0.408
+ALL,ALL-A8,Economic Research Analyst,Senior Research Analyst,229,0.5439
+ALL,ALL-A8,Research Analyst,Senior Research Analyst,218,0.5266
+ALL,ALL-A8,Research Analyst,Research Analyst,196,0.4734
+ALL,ALL-A8,Economic Research Analyst,Economic Research Analyst,192,0.4561
+ALL,ALL-A9,Human Resources Associate,Senior Human Resources Specialist,235,0.5595
+ALL,ALL-A9,Human Resources Specialist,Human Resources Specialist,208,0.5049
+ALL,ALL-A9,Human Resources Specialist,Senior Human Resources Specialist,204,0.4951
+ALL,ALL-A9,Human Resources Associate,Human Resources Associate,185,0.4405
+BMGT,BMGT-A1,Operations Analyst,Senior Operations Analyst,224,0.5424
+BMGT,BMGT-A1,Management Consulting Associate,Senior Operations Analyst,223,0.5284
+BMGT,BMGT-A1,Management Consulting Associate,Management Consulting Associate,199,0.4716
+BMGT,BMGT-A1,Operations Analyst,Operations Analyst,189,0.4576
+BMGT,BMGT-A2,Human Resources Associate,Senior Human Resources Specialist,235,0.5595
+BMGT,BMGT-A2,Human Resources Specialist,Human Resources Specialist,208,0.5049
+BMGT,BMGT-A2,Human Resources Specialist,Senior Human Resources Specialist,204,0.4951
+BMGT,BMGT-A2,Human Resources Associate,Human Resources Associate,185,0.4405
+BNAD,BNAD-A1,Business Associate,Senior Business Operations Analyst,235,0.5542
+BNAD,BNAD-A1,Business Operations Analyst,Senior Business Operations Analyst,231,0.5397
+BNAD,BNAD-A1,Business Operations Analyst,Business Operations Analyst,197,0.4603
+BNAD,BNAD-A1,Business Associate,Business Associate,189,0.4458
+BNAD,BNAD-A2,Management Analyst,Senior Management Analyst,251,0.6019
+BNAD,BNAD-A2,Business Analyst,Senior Management Analyst,215,0.5416
+BNAD,BNAD-A2,Business Analyst,Business Analyst,182,0.4584
+BNAD,BNAD-A2,Management Analyst,Management Analyst,166,0.3981
+ECON,ECON-A1,Business Analyst,Senior Business Analyst,131,0.5901
+ECON,ECON-A1,Economic Consulting Analyst,Senior Business Analyst,93,0.5536
+ECON,ECON-A1,Business Analyst,Business Analyst,91,0.4099
+ECON,ECON-A1,Economic Consulting Analyst,Economic Consulting Analyst,75,0.4464
+ECON,ECON-A2,Research Analyst,Senior Research Analyst,107,0.5194
+ECON,ECON-A2,Research Analyst,Research Analyst,99,0.4806
+ECON,ECON-A2,Economic Research Analyst,Senior Research Analyst,96,0.5246
+ECON,ECON-A2,Economic Research Analyst,Economic Research Analyst,87,0.4754
+ECON,ECON-A3,Research Analyst,Senior Research Analyst,66,0.55
+ECON,ECON-A3,Economic Research Analyst,Senior Research Analyst,65,0.5804
+ECON,ECON-A3,Research Analyst,Research Analyst,54,0.45
+ECON,ECON-A3,Economic Research Analyst,Economic Research Analyst,47,0.4196
+ECON,ECON-A4,Economic Consulting Analyst,Senior Business Analyst,67,0.5726
+ECON,ECON-A4,Business Analyst,Business Analyst,61,0.5446
+ECON,ECON-A4,Business Analyst,Senior Business Analyst,51,0.4554
+ECON,ECON-A4,Economic Consulting Analyst,Economic Consulting Analyst,50,0.4274
+ECON,ECON-A5,Economic Research Analyst,Senior Research Analyst,68,0.5397
+ECON,ECON-A5,Economic Research Analyst,Economic Research Analyst,58,0.4603
+ECON,ECON-A5,Research Analyst,Senior Research Analyst,45,0.5114
+ECON,ECON-A5,Research Analyst,Research Analyst,43,0.4886
+ECON,ECON-A6,Economic Consulting Analyst,Senior Business Analyst,59,0.5514
+ECON,ECON-A6,Business Analyst,Business Analyst,58,0.5472
+ECON,ECON-A6,Business Analyst,Senior Business Analyst,48,0.4528
+ECON,ECON-A6,Economic Consulting Analyst,Economic Consulting Analyst,48,0.4486
+ENTR,ENTR-A1,Market Development Analyst,Senior Growth Marketing Specialist,233,0.5248
+ENTR,ENTR-A1,Growth Marketing Associate,Senior Growth Marketing Specialist,228,0.5772
+ENTR,ENTR-A1,Market Development Analyst,Market Development Analyst,211,0.4752
+ENTR,ENTR-A1,Growth Marketing Associate,Growth Marketing Associate,167,0.4228
+ENTR,ENTR-A2,Startup Operations Analyst,Senior Business Operations Specialist,243,0.5664
+ENTR,ENTR-A2,Business Operations Associate,Senior Business Operations Specialist,216,0.5427
+ENTR,ENTR-A2,Startup Operations Analyst,Startup Operations Analyst,186,0.4336
+ENTR,ENTR-A2,Business Operations Associate,Business Operations Associate,182,0.4573
+FIN,FIN-A1,Financial Risk Analyst,Senior Risk Analyst,208,0.5746
+FIN,FIN-A1,Risk Analyst,Senior Risk Analyst,196,0.6087
+FIN,FIN-A1,Financial Risk Analyst,Financial Risk Analyst,154,0.4254
+FIN,FIN-A1,Risk Analyst,Risk Analyst,126,0.3913
+FIN,FIN-A2,Investment Analyst,Senior Financial Analyst,190,1.0
+FIN,FIN-A2,Financial Analyst,Senior Financial Analyst,182,1.0
+FIN,FIN-A3,Investment Analyst,Investment Analyst,182,1.0
+FIN,FIN-A4,Financial Risk Analyst,Senior Risk Analyst,45,0.5696
+FIN,FIN-A4,Risk Analyst,Senior Risk Analyst,42,0.525
+FIN,FIN-A4,Risk Analyst,Risk Analyst,38,0.475
+FIN,FIN-A4,Financial Risk Analyst,Financial Risk Analyst,34,0.4304
+FIN,FIN-A5,Financial Analyst,Financial Analyst,137,1.0
+FIN,FIN-A6,Financial Analyst,Senior Financial Analyst,49,0.5765
+FIN,FIN-A6,Investment Analyst,Senior Financial Analyst,48,1.0
+FIN,FIN-A6,Financial Analyst,Financial Analyst,36,0.4235
+MIS,MIS-A1,Systems Analyst,Systems Analyst,195,0.5927
+MIS,MIS-A1,Systems Analyst,Senior Systems Analyst,134,0.4073
+MIS,MIS-A1,IT Business Analyst,Senior Systems Analyst,118,1.0
+MIS,MIS-A2,IT Business Analyst,IT Business Analyst,187,0.6213
+MIS,MIS-A2,IT Business Analyst,Senior Systems Analyst,114,0.3787
+MIS,MIS-A3,Systems Analyst,Systems Analyst,171,0.6
+MIS,MIS-A3,Systems Analyst,Senior Systems Analyst,114,0.4
+MIS,MIS-A4,Systems Analyst,Senior Consultant,114,1.0
+MIS,MIS-A4,Tech Consultant,Senior Consultant,109,1.0
+MIS,MIS-A5,Systems Analyst,Senior Consultant,110,1.0
+MIS,MIS-A5,Tech Consultant,Senior Consultant,96,1.0
+MIS,MIS-A6,Tech Consultant,Tech Consultant,205,1.0
+MKTG,MKTG-A1,Marketing Analyst,Senior Marketing Analyst,235,0.5465
+MKTG,MKTG-A1,Marketing Analyst,Marketing Analyst,195,0.4535
+MKTG,MKTG-A2,Marketing Specialist,Senior Marketing Specialist,238,0.5535
+MKTG,MKTG-A2,Marketing Specialist,Marketing Specialist,192,0.4465
+MKTG,MKTG-A3,Market Research Associate,Senior Marketing Specialist,249,0.6163
+MKTG,MKTG-A3,Market Research Associate,Market Research Associate,155,0.3837
+MKTG,MKTG-A4,Digital Marketing Associate,Senior Marketing Analyst,234,0.5806
+MKTG,MKTG-A4,Digital Marketing Associate,Digital Marketing Associate,169,0.4194
+OSCM,OSCM-A1,Procurement Analyst,Senior Logistics Analyst,108,0.6067
+OSCM,OSCM-A1,Logistics Analyst,Senior Logistics Analyst,92,0.6389
+OSCM,OSCM-A1,Procurement Analyst,Procurement Analyst,70,0.3933
+OSCM,OSCM-A1,Logistics Analyst,Logistics Analyst,52,0.3611
+OSCM,OSCM-A2,Procurement Analyst,Senior Logistics Analyst,93,0.5741
+OSCM,OSCM-A2,Logistics Analyst,Senior Logistics Analyst,92,0.5786
+OSCM,OSCM-A2,Procurement Analyst,Procurement Analyst,69,0.4259
+OSCM,OSCM-A2,Logistics Analyst,Logistics Analyst,67,0.4214
+OSCM,OSCM-A3,Logistics Coordinator,Senior Supply Chain Analyst,59,1.0
+OSCM,OSCM-A3,Procurement Analyst,Senior Logistics Analyst,50,0.5618
+OSCM,OSCM-A3,Logistics Analyst,Senior Logistics Analyst,46,0.575
+OSCM,OSCM-A3,Supply Chain Analyst,Senior Supply Chain Analyst,41,0.5541
+OSCM,OSCM-A3,Procurement Analyst,Procurement Analyst,39,0.4382
+OSCM,OSCM-A3,Logistics Analyst,Logistics Analyst,34,0.425
+OSCM,OSCM-A3,Supply Chain Analyst,Supply Chain Analyst,33,0.4459
+OSCM,OSCM-A4,Supply Chain Analyst,Senior Supply Chain Analyst,111,0.6066
+OSCM,OSCM-A4,Logistics Coordinator,Senior Supply Chain Analyst,85,1.0
+OSCM,OSCM-A4,Supply Chain Analyst,Supply Chain Analyst,72,0.3934
+OSCM,OSCM-A5,Logistics Coordinator,Senior Supply Chain Analyst,99,1.0
+OSCM,OSCM-A5,Supply Chain Analyst,Senior Supply Chain Analyst,85,0.528
+OSCM,OSCM-A5,Supply Chain Analyst,Supply Chain Analyst,76,0.472
+OSCM,OSCM-A6,Logistics Coordinator,Logistics Coordinator,193,1.0

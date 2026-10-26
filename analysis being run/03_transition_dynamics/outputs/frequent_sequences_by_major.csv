@@ -1,0 +1,300 @@
+major,sequence_type,pattern,length,support_count,support_pct,confidence,is_closed
+ACCT,role_state,[Y0] Individual Contributor -> [Y3] Functional Lead,2,472,0.2831,0.5619,true
+ACCT,role_state,[Y0] Client-Facing Operator -> [Y3] Functional Lead,2,461,0.2765,0.5574,true
+ACCT,role_state,[Intern] Consulting & Advisory -> [Y3] Functional Lead,2,384,0.2304,0.5935,true
+ACCT,role_state,[Y0] Individual Contributor -> [Y3] Individual Contributor,2,368,0.2208,0.4381,true
+ACCT,role_state,[Y0] Client-Facing Operator -> [Y3] Client-Facing Operator,2,366,0.2196,0.4426,true
+ACCT,role_state,[Intern] Consulting & Advisory -> [Y0] Client-Facing Operator,2,325,0.195,0.5023,true
+ACCT,role_state,[Intern] Consulting & Advisory -> [Y0] Individual Contributor,2,322,0.1932,0.4977,true
+ACCT,role_state,[Intern] Consulting & Advisory -> [Y0] Client-Facing Operator -> [Y3] Functional Lead,3,199,0.1194,0.6123,true
+ACCT,role_state,[Intern] Consulting & Advisory -> [Y0] Individual Contributor -> [Y3] Functional Lead,3,185,0.111,0.5745,true
+ACCT,role_state,[Intern] Consulting & Advisory -> [Y3] Individual Contributor,2,137,0.0822,0.2117,false
+ACCT,role_state,[Intern] Consulting & Advisory -> [Y0] Individual Contributor -> [Y3] Individual Contributor,3,137,0.0822,0.4255,true
+ACCT,role_state,[Intern] Consulting & Advisory -> [Y0] Client-Facing Operator -> [Y3] Client-Facing Operator,3,126,0.0756,0.3877,true
+ACCT,role_state,[Intern] Consulting & Advisory -> [Y3] Client-Facing Operator,2,126,0.0756,0.1947,false
+ACCT,role_state,[Intern] Manufacturing -> [Y0] Individual Contributor,2,88,0.0528,0.5269,true
+ACCT,title,[Y0] Staff Accountant -> [Y3] Senior Accountant,2,242,0.1452,0.5513,true
+ACCT,title,[Y0] Audit Associate -> [Y3] Senior Audit/Tax Associate,2,239,0.1434,0.552,true
+ACCT,title,[Y0] Accountant -> [Y3] Senior Accountant,2,230,0.138,0.5736,true
+ACCT,title,[Y0] Tax Associate -> [Y3] Senior Audit/Tax Associate,2,222,0.1332,0.5635,true
+ACCT,title,[Intern] Consulting & Advisory -> [Y3] Senior Audit/Tax Associate,2,199,0.1194,0.3076,true
+ACCT,title,[Y0] Staff Accountant -> [Y3] Staff Accountant,2,197,0.1182,0.4487,true
+ACCT,title,[Y0] Audit Associate -> [Y3] Audit Associate,2,194,0.1164,0.448,true
+ACCT,title,[Intern] Consulting & Advisory -> [Y3] Senior Accountant,2,185,0.111,0.2859,true
+ACCT,title,[Intern] Consulting & Advisory -> [Y0] Audit Associate,2,184,0.1104,0.2844,true
+ACCT,title,[Y0] Tax Associate -> [Y3] Tax Associate,2,172,0.1032,0.4365,true
+ACCT,title,[Y0] Accountant -> [Y3] Accountant,2,171,0.1026,0.4264,true
+ACCT,title,[Intern] Consulting & Advisory -> [Y0] Staff Accountant,2,169,0.1014,0.2612,true
+ACCT,title,[Intern] Consulting & Advisory -> [Y0] Accountant,2,153,0.0918,0.2365,true
+ACCT,title,[Intern] Consulting & Advisory -> [Y0] Tax Associate,2,141,0.0846,0.2179,true
+ACCT,title,[Intern] Consulting & Advisory -> [Y0] Audit Associate -> [Y3] Senior Audit/Tax Associate,3,110,0.066,0.5978,true
+ACCT,title,[Intern] Consulting & Advisory -> [Y0] Accountant -> [Y3] Senior Accountant,3,96,0.0576,0.6275,true
+ACCT,title,[Intern] Consulting & Advisory -> [Y0] Staff Accountant -> [Y3] Senior Accountant,3,89,0.0534,0.5266,true
+ACCT,title,[Intern] Consulting & Advisory -> [Y0] Tax Associate -> [Y3] Senior Audit/Tax Associate,3,89,0.0534,0.6312,true
+ALL,role_state,[Y0] Individual Contributor -> [Y3] Functional Lead,2,5873,0.3915,0.5623,true
+ALL,role_state,[Y0] Individual Contributor -> [Y3] Individual Contributor,2,4572,0.3048,0.4377,true
+ALL,role_state,[Y0] Client-Facing Operator -> [Y3] Functional Lead,2,2480,0.1653,0.5445,true
+ALL,role_state,[Y0] Client-Facing Operator -> [Y3] Client-Facing Operator,2,2075,0.1383,0.4555,true
+ALL,role_state,[Intern] Consulting & Advisory -> [Y0] Individual Contributor,2,1862,0.1241,0.6622,true
+ALL,role_state,[Intern] Consulting & Advisory -> [Y3] Functional Lead,2,1638,0.1092,0.5825,true
+ALL,role_state,[Intern] Financial Services -> [Y0] Individual Contributor,2,1519,0.1013,0.802,true
+ALL,role_state,[Intern] Financial Services -> [Y3] Functional Lead,2,1107,0.0738,0.5845,true
+ALL,role_state,[Intern] Consulting & Advisory -> [Y0] Individual Contributor -> [Y3] Functional Lead,3,1091,0.0727,0.5859,true
+ALL,role_state,[Intern] Technology -> [Y0] Individual Contributor,2,1081,0.0721,0.6656,true
+ALL,role_state,[Intern] Retail & E-Commerce -> [Y0] Individual Contributor,2,1024,0.0683,0.6547,true
+ALL,role_state,[Intern] Technology -> [Y3] Functional Lead,2,951,0.0634,0.5856,true
+ALL,role_state,[Intern] Consulting & Advisory -> [Y0] Client-Facing Operator,2,950,0.0633,0.3378,true
+ALL,role_state,[Intern] Retail & E-Commerce -> [Y3] Functional Lead,2,931,0.0621,0.5953,true
+ALL,role_state,[Intern] Financial Services -> [Y0] Individual Contributor -> [Y3] Functional Lead,3,893,0.0595,0.5879,true
+ALL,role_state,[Intern] Manufacturing -> [Y0] Individual Contributor,2,891,0.0594,0.725,true
+ALL,role_state,[Intern] Consulting & Advisory -> [Y3] Individual Contributor,2,771,0.0514,0.2742,false
+ALL,role_state,[Intern] Consulting & Advisory -> [Y0] Individual Contributor -> [Y3] Individual Contributor,3,771,0.0514,0.4141,true
+BMGT,role_state,[Y0] Client-Facing Operator -> [Y3] Functional Lead,2,662,0.3971,0.5279,true
+BMGT,role_state,[Y0] Client-Facing Operator -> [Y3] Client-Facing Operator,2,592,0.3551,0.4721,true
+BMGT,role_state,[Intern] Consulting & Advisory -> [Y0] Client-Facing Operator,2,254,0.1524,0.7449,true
+BMGT,role_state,[Intern] Retail & E-Commerce -> [Y0] Client-Facing Operator,2,244,0.1464,0.7554,true
+BMGT,role_state,[Y0] Individual Contributor -> [Y3] Functional Lead,2,224,0.1344,0.5424,true
+BMGT,role_state,[Y0] Individual Contributor -> [Y3] Individual Contributor,2,189,0.1134,0.4576,true
+BMGT,role_state,[Intern] Retail & E-Commerce -> [Y3] Functional Lead,2,189,0.1134,0.5851,true
+BMGT,role_state,[Intern] Consulting & Advisory -> [Y3] Functional Lead,2,182,0.1092,0.5337,true
+BMGT,role_state,[Intern] Manufacturing -> [Y0] Client-Facing Operator,2,156,0.0936,0.7393,true
+BMGT,role_state,[Intern] Retail & E-Commerce -> [Y0] Client-Facing Operator -> [Y3] Functional Lead,3,141,0.0846,0.5779,true
+BMGT,role_state,[Intern] Consulting & Advisory -> [Y0] Client-Facing Operator -> [Y3] Functional Lead,3,130,0.078,0.5118,true
+BMGT,role_state,[Intern] Consulting & Advisory -> [Y0] Client-Facing Operator -> [Y3] Client-Facing Operator,3,124,0.0744,0.4882,true
+BMGT,role_state,[Intern] Consulting & Advisory -> [Y3] Client-Facing Operator,2,124,0.0744,0.3636,false
+BMGT,role_state,[Intern] Manufacturing -> [Y3] Functional Lead,2,119,0.0714,0.564,true
+BMGT,role_state,[Intern] Retail & E-Commerce -> [Y0] Client-Facing Operator -> [Y3] Client-Facing Operator,3,103,0.0618,0.4221,true
+BMGT,role_state,[Intern] Retail & E-Commerce -> [Y3] Client-Facing Operator,2,103,0.0618,0.3189,false
+BMGT,role_state,[Intern] Financial Services -> [Y0] Client-Facing Operator,2,98,0.0588,0.7368,true
+BMGT,role_state,[Intern] Manufacturing -> [Y0] Client-Facing Operator -> [Y3] Functional Lead,3,96,0.0576,0.6154,true
+BMGT,role_state,[Intern] Consulting & Advisory -> [Y0] Individual Contributor,2,87,0.0522,0.2551,true
+BMGT,title,[Y0] Human Resources Associate -> [Y3] Senior Human Resources Specialist,2,235,0.141,0.5595,true
+BMGT,title,[Y0] Operations Analyst -> [Y3] Senior Operations Analyst,2,224,0.1344,0.5424,true
+BMGT,title,[Y0] Management Consulting Associate -> [Y3] Senior Operations Analyst,2,223,0.1338,0.5284,true
+BMGT,title,[Y0] Human Resources Specialist -> [Y3] Human Resources Specialist,2,208,0.1248,0.5049,true
+BMGT,title,[Y0] Human Resources Specialist -> [Y3] Senior Human Resources Specialist,2,204,0.1224,0.4951,true
+BMGT,title,[Y0] Management Consulting Associate -> [Y3] Management Consulting Associate,2,199,0.1194,0.4716,true
+BMGT,title,[Y0] Operations Analyst -> [Y3] Operations Analyst,2,189,0.1134,0.4576,true
+BMGT,title,[Y0] Human Resources Associate -> [Y3] Human Resources Associate,2,185,0.111,0.4405,true
+BMGT,title,[Intern] Retail & E-Commerce -> [Y3] Senior Human Resources Specialist,2,97,0.0582,0.3003,true
+BMGT,title,[Intern] Consulting & Advisory -> [Y3] Senior Operations Analyst,2,96,0.0576,0.2815,true
+BMGT,title,[Intern] Consulting & Advisory -> [Y0] Management Consulting Associate,2,93,0.0558,0.2727,true
+BMGT,title,[Intern] Retail & E-Commerce -> [Y3] Senior Operations Analyst,2,92,0.0552,0.2848,true
+BMGT,title,[Intern] Consulting & Advisory -> [Y0] Human Resources Associate,2,88,0.0528,0.2581,true
+BMGT,title,[Intern] Consulting & Advisory -> [Y0] Operations Analyst,2,87,0.0522,0.2551,true
+BMGT,title,[Intern] Consulting & Advisory -> [Y3] Senior Human Resources Specialist,2,86,0.0516,0.2522,true
+BMGT,title,[Intern] Retail & E-Commerce -> [Y0] Management Consulting Associate,2,86,0.0516,0.2663,true
+BNAD,role_state,[Y0] Individual Contributor -> [Y3] Functional Lead,2,932,0.5594,0.5594,true
+BNAD,role_state,[Y0] Individual Contributor -> [Y3] Individual Contributor,2,734,0.4406,0.4406,true
+BNAD,role_state,[Intern] Consulting & Advisory -> [Y0] Individual Contributor,2,306,0.1837,1.0,true
+BNAD,role_state,[Intern] Retail & E-Commerce -> [Y0] Individual Contributor,2,267,0.1603,1.0,true
+BNAD,role_state,[Intern] Financial Services -> [Y0] Individual Contributor,2,241,0.1447,1.0,true
+BNAD,role_state,[Intern] Consulting & Advisory -> [Y3] Functional Lead,2,195,0.117,0.6373,false
+BNAD,role_state,[Intern] Consulting & Advisory -> [Y0] Individual Contributor -> [Y3] Functional Lead,3,195,0.117,0.6373,true
+BNAD,role_state,[Intern] Manufacturing -> [Y0] Individual Contributor,2,167,0.1002,1.0,true
+BNAD,role_state,[Intern] Retail & E-Commerce -> [Y0] Individual Contributor -> [Y3] Functional Lead,3,166,0.0996,0.6217,true
+BNAD,role_state,[Intern] Retail & E-Commerce -> [Y3] Functional Lead,2,166,0.0996,0.6217,false
+BNAD,role_state,[Intern] Financial Services -> [Y3] Functional Lead,2,137,0.0822,0.5685,false
+BNAD,role_state,[Intern] Financial Services -> [Y0] Individual Contributor -> [Y3] Functional Lead,3,137,0.0822,0.5685,true
+BNAD,role_state,[Intern] Consulting & Advisory -> [Y0] Individual Contributor -> [Y3] Individual Contributor,3,111,0.0666,0.3627,true
+BNAD,role_state,[Intern] Consulting & Advisory -> [Y3] Individual Contributor,2,111,0.0666,0.3627,false
+BNAD,role_state,[Intern] Manufacturing -> [Y0] Individual Contributor -> [Y3] Functional Lead,3,104,0.0624,0.6228,true
+BNAD,role_state,[Intern] Manufacturing -> [Y3] Functional Lead,2,104,0.0624,0.6228,false
+BNAD,role_state,[Intern] Financial Services -> [Y0] Individual Contributor -> [Y3] Individual Contributor,3,104,0.0624,0.4315,true
+BNAD,role_state,[Intern] Financial Services -> [Y3] Individual Contributor,2,104,0.0624,0.4315,false
+BNAD,role_state,[Intern] Retail & E-Commerce -> [Y3] Individual Contributor,2,101,0.0606,0.3783,false
+BNAD,role_state,[Intern] Retail & E-Commerce -> [Y0] Individual Contributor -> [Y3] Individual Contributor,3,101,0.0606,0.3783,true
+BNAD,role_state,[Intern] Technology -> [Y0] Individual Contributor,2,99,0.0594,1.0,true
+BNAD,title,[Y0] Management Analyst -> [Y3] Senior Management Analyst,2,251,0.1507,0.6019,true
+BNAD,title,[Y0] Business Associate -> [Y3] Senior Business Operations Analyst,2,235,0.1411,0.5542,true
+BNAD,title,[Y0] Business Operations Analyst -> [Y3] Senior Business Operations Analyst,2,231,0.1387,0.5397,true
+BNAD,title,[Y0] Business Analyst -> [Y3] Senior Management Analyst,2,215,0.1291,0.5416,true
+BNAD,title,[Y0] Business Operations Analyst -> [Y3] Business Operations Analyst,2,197,0.1182,0.4603,true
+BNAD,title,[Y0] Business Associate -> [Y3] Business Associate,2,189,0.1134,0.4458,true
+BNAD,title,[Y0] Business Analyst -> [Y3] Business Analyst,2,182,0.1092,0.4584,true
+BNAD,title,[Y0] Management Analyst -> [Y3] Management Analyst,2,166,0.0996,0.3981,true
+BNAD,title,[Intern] Retail & E-Commerce -> [Y3] Senior Business Operations Analyst,2,99,0.0594,0.3708,true
+BNAD,title,[Intern] Consulting & Advisory -> [Y3] Senior Management Analyst,2,98,0.0588,0.3203,true
+BNAD,title,[Intern] Consulting & Advisory -> [Y3] Senior Business Operations Analyst,2,97,0.0582,0.317,true
+BNAD,title,[Intern] Consulting & Advisory -> [Y0] Business Analyst,2,85,0.051,0.2778,true
+ECON,role_state,[Y0] Individual Contributor -> [Y3] Functional Lead,2,677,0.4061,0.531,true
+ECON,role_state,[Y0] Individual Contributor -> [Y3] Individual Contributor,2,598,0.3587,0.469,true
+ECON,role_state,[Intern] Financial Services -> [Y0] Individual Contributor,2,313,0.1878,0.8109,true
+ECON,role_state,[Intern] Consulting & Advisory -> [Y0] Individual Contributor,2,246,0.1476,0.7235,true
+ECON,role_state,[Y0] Client-Facing Operator -> [Y3] Functional Lead,2,219,0.1314,0.5587,true
+ECON,role_state,[Intern] Financial Services -> [Y3] Functional Lead,2,219,0.1314,0.5674,true
+ECON,role_state,[Intern] Consulting & Advisory -> [Y3] Functional Lead,2,189,0.1134,0.5559,true
+ECON,role_state,[Intern] Financial Services -> [Y0] Individual Contributor -> [Y3] Functional Lead,3,174,0.1044,0.5559,true
+ECON,role_state,[Y0] Client-Facing Operator -> [Y3] Client-Facing Operator,2,173,0.1038,0.4413,true
+ECON,role_state,[Intern] Financial Services -> [Y3] Individual Contributor,2,139,0.0834,0.3601,false
+ECON,role_state,[Intern] Financial Services -> [Y0] Individual Contributor -> [Y3] Individual Contributor,3,139,0.0834,0.4441,true
+ECON,role_state,[Intern] Consulting & Advisory -> [Y0] Individual Contributor -> [Y3] Functional Lead,3,128,0.0768,0.5203,true
+ECON,role_state,[Intern] Market Research -> [Y0] Individual Contributor,2,126,0.0756,0.7826,true
+ECON,role_state,[Intern] Consulting & Advisory -> [Y3] Individual Contributor,2,118,0.0708,0.3471,false
+ECON,role_state,[Intern] Consulting & Advisory -> [Y0] Individual Contributor -> [Y3] Individual Contributor,3,118,0.0708,0.4797,true
+ECON,role_state,[Intern] Market Research -> [Y3] Functional Lead,2,96,0.0576,0.5963,true
+ECON,role_state,[Intern] Consulting & Advisory -> [Y0] Client-Facing Operator,2,94,0.0564,0.2765,true
+ECON,title,[Y0] Business Analyst -> [Y3] Senior Business Analyst,2,230,0.138,0.5227,true
+ECON,title,[Y0] Economic Research Analyst -> [Y3] Senior Research Analyst,2,229,0.1374,0.5439,true
+ECON,title,[Y0] Economic Consulting Analyst -> [Y3] Senior Business Analyst,2,219,0.1314,0.5587,true
+ECON,title,[Y0] Research Analyst -> [Y3] Senior Research Analyst,2,218,0.1308,0.5266,true
+ECON,title,[Y0] Business Analyst -> [Y3] Business Analyst,2,210,0.126,0.4773,true
+ECON,title,[Y0] Research Analyst -> [Y3] Research Analyst,2,196,0.1176,0.4734,true
+ECON,title,[Y0] Economic Research Analyst -> [Y3] Economic Research Analyst,2,192,0.1152,0.4561,true
+ECON,title,[Y0] Economic Consulting Analyst -> [Y3] Economic Consulting Analyst,2,173,0.1038,0.4413,true
+ECON,title,[Intern] Financial Services -> [Y0] Research Analyst,2,115,0.069,0.2979,true
+ECON,title,[Intern] Financial Services -> [Y0] Business Analyst,2,115,0.069,0.2979,true
+ECON,title,[Intern] Financial Services -> [Y3] Senior Business Analyst,2,113,0.0678,0.2927,true
+ECON,title,[Intern] Financial Services -> [Y3] Senior Research Analyst,2,106,0.0636,0.2746,true
+ECON,title,[Intern] Consulting & Advisory -> [Y3] Senior Business Analyst,2,98,0.0588,0.2882,true
+ECON,title,[Intern] Consulting & Advisory -> [Y0] Economic Consulting Analyst,2,94,0.0564,0.2765,true
+ECON,title,[Intern] Consulting & Advisory -> [Y3] Senior Research Analyst,2,91,0.0546,0.2676,true
+ECON,title,[Intern] Consulting & Advisory -> [Y0] Economic Research Analyst,2,89,0.0534,0.2618,true
+ENTR,role_state,[Y0] Client-Facing Operator -> [Y3] Functional Lead,2,461,0.2767,0.5495,true
+ENTR,role_state,[Y0] Individual Contributor -> [Y3] Functional Lead,2,459,0.2755,0.555,true
+ENTR,role_state,[Y0] Client-Facing Operator -> [Y3] Client-Facing Operator,2,378,0.2269,0.4505,true
+ENTR,role_state,[Y0] Individual Contributor -> [Y3] Individual Contributor,2,368,0.2209,0.445,true
+ENTR,role_state,[Intern] Technology -> [Y3] Functional Lead,2,269,0.1615,0.6086,true
+ENTR,role_state,[Intern] Technology -> [Y0] Individual Contributor,2,233,0.1399,0.5271,true
+ENTR,role_state,[Intern] Technology -> [Y0] Client-Facing Operator,2,209,0.1255,0.4729,true
+ENTR,role_state,[Intern] Technology -> [Y0] Individual Contributor -> [Y3] Functional Lead,3,152,0.0912,0.6524,true
+ENTR,role_state,[Intern] Technology -> [Y0] Client-Facing Operator -> [Y3] Functional Lead,3,117,0.0702,0.5598,true
+ENTR,role_state,[Intern] Retail & E-Commerce -> [Y3] Functional Lead,2,102,0.0612,0.5965,true
+ENTR,role_state,[Intern] Consulting & Advisory -> [Y3] Functional Lead,2,99,0.0594,0.5723,true
+ENTR,role_state,[Intern] Retail & E-Commerce -> [Y0] Client-Facing Operator,2,93,0.0558,0.5439,true
+ENTR,role_state,[Intern] Technology -> [Y3] Client-Facing Operator,2,92,0.0552,0.2081,false
+ENTR,role_state,[Intern] Technology -> [Y0] Client-Facing Operator -> [Y3] Client-Facing Operator,3,92,0.0552,0.4402,true
+ENTR,role_state,[Intern] Consulting & Advisory -> [Y0] Individual Contributor,2,91,0.0546,0.526,true
+ENTR,title,[Y0] Startup Operations Analyst -> [Y3] Senior Business Operations Specialist,2,243,0.1459,0.5664,true
+ENTR,title,[Y0] Market Development Analyst -> [Y3] Senior Growth Marketing Specialist,2,233,0.1399,0.5248,true
+ENTR,title,[Y0] Growth Marketing Associate -> [Y3] Senior Growth Marketing Specialist,2,228,0.1369,0.5772,true
+ENTR,title,[Y0] Business Operations Associate -> [Y3] Senior Business Operations Specialist,2,216,0.1297,0.5427,true
+ENTR,title,[Y0] Market Development Analyst -> [Y3] Market Development Analyst,2,211,0.1267,0.4752,true
+ENTR,title,[Y0] Startup Operations Analyst -> [Y3] Startup Operations Analyst,2,186,0.1116,0.4336,true
+ENTR,title,[Y0] Business Operations Associate -> [Y3] Business Operations Associate,2,182,0.1092,0.4573,true
+ENTR,title,[Y0] Growth Marketing Associate -> [Y3] Growth Marketing Associate,2,167,0.1002,0.4228,true
+ENTR,title,[Intern] Technology -> [Y3] Senior Business Operations Specialist,2,152,0.0912,0.3439,true
+ENTR,title,[Intern] Technology -> [Y3] Senior Growth Marketing Specialist,2,117,0.0702,0.2647,true
+ENTR,title,[Intern] Technology -> [Y0] Business Operations Associate,2,117,0.0702,0.2647,true
+ENTR,title,[Intern] Technology -> [Y0] Startup Operations Analyst,2,116,0.0696,0.2624,true
+ENTR,title,[Intern] Technology -> [Y0] Market Development Analyst,2,112,0.0672,0.2534,true
+ENTR,title,[Intern] Technology -> [Y0] Growth Marketing Associate,2,97,0.0582,0.2195,true
+ENTR,title,[Intern] Technology -> [Y0] Startup Operations Analyst -> [Y3] Senior Business Operations Specialist,3,84,0.0504,0.7241,true
+FIN,role_state,[Y0] Individual Contributor -> [Y3] Functional Lead,2,960,0.5759,0.5759,true
+FIN,role_state,[Y0] Individual Contributor -> [Y3] Individual Contributor,2,707,0.4241,0.4241,true
+FIN,role_state,[Intern] Financial Services -> [Y0] Individual Contributor,2,516,0.3095,1.0,true
+FIN,role_state,[Intern] Financial Services -> [Y3] Functional Lead,2,309,0.1854,0.5988,false
+FIN,role_state,[Intern] Financial Services -> [Y0] Individual Contributor -> [Y3] Functional Lead,3,309,0.1854,0.5988,true
+FIN,role_state,[Intern] Financial Services -> [Y3] Individual Contributor,2,207,0.1242,0.4012,false
+FIN,role_state,[Intern] Financial Services -> [Y0] Individual Contributor -> [Y3] Individual Contributor,3,207,0.1242,0.4012,true
+FIN,role_state,[Intern] Consulting & Advisory -> [Y0] Individual Contributor,2,189,0.1134,1.0,true
+FIN,role_state,[Intern] Manufacturing -> [Y0] Individual Contributor,2,165,0.099,1.0,true
+FIN,role_state,[Intern] Technology -> [Y0] Individual Contributor,2,119,0.0714,1.0,true
+FIN,role_state,[Intern] Consulting & Advisory -> [Y3] Functional Lead,2,118,0.0708,0.6243,false
+FIN,role_state,[Intern] Consulting & Advisory -> [Y0] Individual Contributor -> [Y3] Functional Lead,3,118,0.0708,0.6243,true
+FIN,role_state,[Intern] Manufacturing -> [Y0] Individual Contributor -> [Y3] Functional Lead,3,106,0.0636,0.6424,true
+FIN,role_state,[Intern] Manufacturing -> [Y3] Functional Lead,2,106,0.0636,0.6424,false
+FIN,title,[Y0] Financial Risk Analyst -> [Y3] Senior Risk Analyst,2,253,0.1518,0.5737,true
+FIN,title,[Y0] Risk Analyst -> [Y3] Senior Risk Analyst,2,238,0.1428,0.592,true
+FIN,title,[Y0] Investment Analyst -> [Y3] Senior Financial Analyst,2,238,0.1428,0.5667,true
+FIN,title,[Y0] Financial Analyst -> [Y3] Senior Financial Analyst,2,231,0.1386,0.5718,true
+FIN,title,[Y0] Financial Risk Analyst -> [Y3] Financial Risk Analyst,2,188,0.1128,0.4263,true
+FIN,title,[Y0] Investment Analyst -> [Y3] Investment Analyst,2,182,0.1092,0.4333,true
+FIN,title,[Y0] Financial Analyst -> [Y3] Financial Analyst,2,173,0.1038,0.4282,true
+FIN,title,[Y0] Risk Analyst -> [Y3] Risk Analyst,2,164,0.0984,0.408,true
+FIN,title,[Intern] Financial Services -> [Y3] Senior Risk Analyst,2,159,0.0954,0.3081,true
+FIN,title,[Intern] Financial Services -> [Y3] Senior Financial Analyst,2,150,0.09,0.2907,true
+FIN,title,[Intern] Financial Services -> [Y0] Financial Risk Analyst,2,145,0.087,0.281,true
+FIN,title,[Intern] Financial Services -> [Y0] Investment Analyst,2,129,0.0774,0.25,true
+FIN,title,[Intern] Financial Services -> [Y0] Risk Analyst,2,124,0.0744,0.2403,true
+FIN,title,[Intern] Financial Services -> [Y0] Financial Analyst,2,118,0.0708,0.2287,true
+FIN,title,[Intern] Financial Services -> [Y0] Financial Risk Analyst -> [Y3] Senior Risk Analyst,3,88,0.0528,0.6069,true
+MIS,role_state,[Y0] Individual Contributor -> [Y3] Functional Lead,2,704,0.4223,0.5601,true
+MIS,role_state,[Y0] Individual Contributor -> [Y3] Individual Contributor,2,553,0.3317,0.4399,true
+MIS,role_state,[Intern] Consulting & Advisory -> [Y0] Individual Contributor,2,335,0.201,0.7773,true
+MIS,role_state,[Intern] Technology -> [Y0] Individual Contributor,2,295,0.177,0.7412,true
+MIS,role_state,[Intern] Consulting & Advisory -> [Y3] Functional Lead,2,244,0.1464,0.5661,true
+MIS,role_state,[Intern] Technology -> [Y3] Functional Lead,2,224,0.1344,0.5628,true
+MIS,role_state,[Y0] Client-Facing Operator -> [Y3] Client-Facing Operator,2,205,0.123,0.5,true
+MIS,role_state,[Y0] Client-Facing Operator -> [Y3] Functional Lead,2,205,0.123,0.5,true
+MIS,role_state,[Intern] Consulting & Advisory -> [Y0] Individual Contributor -> [Y3] Functional Lead,3,195,0.117,0.5821,true
+MIS,role_state,[Intern] Technology -> [Y0] Individual Contributor -> [Y3] Functional Lead,3,165,0.099,0.5593,true
+MIS,role_state,[Intern] Consulting & Advisory -> [Y0] Individual Contributor -> [Y3] Individual Contributor,3,140,0.084,0.4179,true
+MIS,role_state,[Intern] Consulting & Advisory -> [Y3] Individual Contributor,2,140,0.084,0.3248,false
+MIS,role_state,[Intern] Technology -> [Y0] Individual Contributor -> [Y3] Individual Contributor,3,130,0.078,0.4407,true
+MIS,role_state,[Intern] Technology -> [Y3] Individual Contributor,2,130,0.078,0.3266,false
+MIS,role_state,[Intern] Technology -> [Y0] Client-Facing Operator,2,103,0.0618,0.2588,true
+MIS,role_state,[Intern] Financial Services -> [Y0] Individual Contributor,2,103,0.0618,0.824,true
+MIS,role_state,[Intern] Consulting & Advisory -> [Y0] Client-Facing Operator,2,96,0.0576,0.2227,true
+MIS,title,[Y0] Systems Analyst -> [Y3] Systems Analyst,2,366,0.2196,0.4368,true
+MIS,title,[Y0] Systems Analyst -> [Y3] Senior Systems Analyst,2,248,0.1488,0.2959,true
+MIS,title,[Y0] IT Business Analyst -> [Y3] Senior Systems Analyst,2,232,0.1392,0.5537,true
+MIS,title,[Y0] Systems Analyst -> [Y3] Senior Consultant,2,224,0.1344,0.2673,true
+MIS,title,[Intern] Consulting & Advisory -> [Y0] Systems Analyst,2,216,0.1296,0.5012,true
+MIS,title,[Y0] Tech Consultant -> [Y3] Senior Consultant,2,205,0.123,0.5,true
+MIS,title,[Y0] Tech Consultant -> [Y3] Tech Consultant,2,205,0.123,0.5,true
+MIS,title,[Y0] IT Business Analyst -> [Y3] IT Business Analyst,2,187,0.1122,0.4463,true
+MIS,title,[Intern] Technology -> [Y0] Systems Analyst,2,186,0.1116,0.4673,true
+MIS,title,[Intern] Consulting & Advisory -> [Y3] Senior Systems Analyst,2,129,0.0774,0.2993,true
+MIS,title,[Intern] Consulting & Advisory -> [Y0] IT Business Analyst,2,119,0.0714,0.2761,true
+MIS,title,[Intern] Consulting & Advisory -> [Y3] Senior Consultant,2,115,0.069,0.2668,true
+MIS,title,[Intern] Technology -> [Y3] Senior Systems Analyst,2,114,0.0684,0.2864,true
+MIS,title,[Intern] Technology -> [Y3] Senior Consultant,2,110,0.066,0.2764,true
+MIS,title,[Intern] Technology -> [Y0] IT Business Analyst,2,109,0.0654,0.2739,true
+MIS,title,[Intern] Technology -> [Y0] Tech Consultant,2,103,0.0618,0.2588,true
+MIS,title,[Intern] Consulting & Advisory -> [Y0] Tech Consultant,2,96,0.0576,0.2227,true
+MIS,title,[Intern] Consulting & Advisory -> [Y3] Systems Analyst,2,87,0.0522,0.2019,false
+MIS,title,[Intern] Consulting & Advisory -> [Y0] Systems Analyst -> [Y3] Systems Analyst,3,87,0.0522,0.4028,true
+MKTG,role_state,[Y0] Individual Contributor -> [Y3] Functional Lead,2,484,0.2903,0.5803,true
+MKTG,role_state,[Y0] Client-Facing Operator -> [Y3] Functional Lead,2,472,0.2831,0.5666,true
+MKTG,role_state,[Y0] Client-Facing Operator -> [Y3] Client-Facing Operator,2,361,0.2166,0.4334,true
+MKTG,role_state,[Y0] Individual Contributor -> [Y3] Individual Contributor,2,350,0.21,0.4197,true
+MKTG,role_state,[Intern] Retail & E-Commerce -> [Y3] Functional Lead,2,170,0.102,0.5923,true
+MKTG,role_state,[Intern] Retail & E-Commerce -> [Y0] Client-Facing Operator,2,149,0.0894,0.5192,true
+MKTG,role_state,[Intern] Retail & E-Commerce -> [Y0] Individual Contributor,2,138,0.0828,0.4808,true
+MKTG,role_state,[Intern] Consulting & Advisory -> [Y3] Functional Lead,2,119,0.0714,0.5833,true
+MKTG,role_state,[Intern] Technology -> [Y3] Functional Lead,2,110,0.066,0.6145,true
+MKTG,role_state,[Intern] Consulting & Advisory -> [Y0] Individual Contributor,2,105,0.063,0.5147,true
+MKTG,role_state,[Intern] Consulting & Advisory -> [Y0] Client-Facing Operator,2,99,0.0594,0.4853,true
+MKTG,role_state,[Intern] Advertising & Marketing -> [Y3] Functional Lead,2,91,0.0546,0.6691,true
+MKTG,role_state,[Intern] Technology -> [Y0] Client-Facing Operator,2,90,0.054,0.5028,true
+MKTG,role_state,[Intern] Technology -> [Y0] Individual Contributor,2,89,0.0534,0.4972,true
+MKTG,role_state,[Intern] Retail & E-Commerce -> [Y0] Individual Contributor -> [Y3] Functional Lead,3,85,0.051,0.6159,true
+MKTG,role_state,[Intern] Retail & E-Commerce -> [Y0] Client-Facing Operator -> [Y3] Functional Lead,3,85,0.051,0.5705,true
+MKTG,title,[Y0] Market Research Associate -> [Y3] Senior Marketing Specialist,2,249,0.1494,0.6163,true
+MKTG,title,[Y0] Marketing Specialist -> [Y3] Senior Marketing Specialist,2,238,0.1428,0.5535,true
+MKTG,title,[Y0] Marketing Analyst -> [Y3] Senior Marketing Analyst,2,235,0.141,0.5465,true
+MKTG,title,[Y0] Digital Marketing Associate -> [Y3] Senior Marketing Analyst,2,234,0.1404,0.5806,true
+MKTG,title,[Y0] Marketing Analyst -> [Y3] Marketing Analyst,2,195,0.117,0.4535,true
+MKTG,title,[Y0] Marketing Specialist -> [Y3] Marketing Specialist,2,192,0.1152,0.4465,true
+MKTG,title,[Y0] Digital Marketing Associate -> [Y3] Digital Marketing Associate,2,169,0.1014,0.4194,true
+MKTG,title,[Y0] Market Research Associate -> [Y3] Market Research Associate,2,155,0.093,0.3837,true
+MKTG,title,[Intern] Retail & E-Commerce -> [Y3] Senior Marketing Specialist,2,94,0.0564,0.3275,true
+MKTG,title,[Intern] Retail & E-Commerce -> [Y0] Marketing Specialist,2,88,0.0528,0.3066,true
+OSCM,role_state,[Y0] Individual Contributor -> [Y3] Functional Lead,2,961,0.5768,0.5768,true
+OSCM,role_state,[Y0] Individual Contributor -> [Y3] Individual Contributor,2,705,0.4232,0.4232,true
+OSCM,role_state,[Intern] Retail & E-Commerce -> [Y0] Individual Contributor,2,264,0.1585,1.0,true
+OSCM,role_state,[Intern] Manufacturing -> [Y0] Individual Contributor,2,254,0.1525,1.0,true
+OSCM,role_state,[Intern] Consulting & Advisory -> [Y0] Individual Contributor,2,181,0.1086,1.0,true
+OSCM,role_state,[Intern] Retail & E-Commerce -> [Y3] Functional Lead,2,168,0.1008,0.6364,false
+OSCM,role_state,[Intern] Retail & E-Commerce -> [Y0] Individual Contributor -> [Y3] Functional Lead,3,168,0.1008,0.6364,true
+OSCM,role_state,[Intern] Manufacturing -> [Y3] Functional Lead,2,152,0.0912,0.5984,false
+OSCM,role_state,[Intern] Manufacturing -> [Y0] Individual Contributor -> [Y3] Functional Lead,3,152,0.0912,0.5984,true
+OSCM,role_state,[Intern] Transportation & Logistics -> [Y0] Individual Contributor,2,134,0.0804,1.0,true
+OSCM,role_state,[Intern] Financial Services -> [Y0] Individual Contributor,2,130,0.078,1.0,true
+OSCM,role_state,[Intern] Consulting & Advisory -> [Y3] Functional Lead,2,108,0.0648,0.5967,false
+OSCM,role_state,[Intern] Consulting & Advisory -> [Y0] Individual Contributor -> [Y3] Functional Lead,3,108,0.0648,0.5967,true
+OSCM,role_state,[Intern] Manufacturing -> [Y0] Individual Contributor -> [Y3] Individual Contributor,3,102,0.0612,0.4016,true
+OSCM,role_state,[Intern] Manufacturing -> [Y3] Individual Contributor,2,102,0.0612,0.4016,false
+OSCM,role_state,[Intern] Technology -> [Y0] Individual Contributor,2,96,0.0576,1.0,true
+OSCM,role_state,[Intern] Retail & E-Commerce -> [Y0] Individual Contributor -> [Y3] Individual Contributor,3,96,0.0576,0.3636,true
+OSCM,role_state,[Intern] Retail & E-Commerce -> [Y3] Individual Contributor,2,96,0.0576,0.3636,false
+OSCM,title,[Y0] Procurement Analyst -> [Y3] Senior Logistics Analyst,2,251,0.1507,0.5851,true
+OSCM,title,[Y0] Logistics Coordinator -> [Y3] Senior Supply Chain Analyst,2,243,0.1459,0.5573,true
+OSCM,title,[Y0] Supply Chain Analyst -> [Y3] Senior Supply Chain Analyst,2,237,0.1423,0.567,true
+OSCM,title,[Y0] Logistics Analyst -> [Y3] Senior Logistics Analyst,2,230,0.1381,0.6005,true
+OSCM,title,[Y0] Logistics Coordinator -> [Y3] Logistics Coordinator,2,193,0.1158,0.4427,true
+OSCM,title,[Y0] Supply Chain Analyst -> [Y3] Supply Chain Analyst,2,181,0.1086,0.433,true
+OSCM,title,[Y0] Procurement Analyst -> [Y3] Procurement Analyst,2,178,0.1068,0.4149,true
+OSCM,title,[Y0] Logistics Analyst -> [Y3] Logistics Analyst,2,153,0.0918,0.3995,true
+OSCM,title,[Intern] Retail & E-Commerce -> [Y3] Senior Supply Chain Analyst,2,86,0.0516,0.3258,true

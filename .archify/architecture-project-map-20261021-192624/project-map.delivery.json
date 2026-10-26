@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "receiptId": "f4984394-2c1f-496a-8cc7-a09ef0306d14",
+  "status": "current",
+  "command": "deliver",
+  "type": "architecture",
+  "input": "/Users/athirumalai/Desktop/midterm-464/.archify/architecture-project-map-20261021-192624/candidate.json",
+  "output": "/Users/athirumalai/Desktop/midterm-464/.archify/architecture-project-map-20261021-192624/project-map.html",
+  "specification": {
+    "sha256": "af10b50d706811aebf8e338a2ee04aeb295a00c5e345c66eb8498046dd9e8cea",
+    "bytes": 12863
+  },
+  "artifact": {
+    "sha256": "49f46c4b5ab3e37033df29703f1d4449dceb2e95abee1fb663969e9aeaba43a5",
+    "bytes": 845054
+  }
+}

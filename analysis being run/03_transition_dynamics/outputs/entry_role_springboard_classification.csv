@@ -1,0 +1,36 @@
+major,first_title,entry_state,n,promo_rate,stay_prob,p_to_lead,median_months_to_promo,major_promo_rate,z_vs_rest_of_major,p_value,classification
+ACCT,Accountant,Individual Contributor,401,0.5736,0.4264,0.5736,21.95,0.5597,0.642,0.5206212451345673,Typical
+ACCT,Tax Associate,Client-Facing Operator,394,0.5635,0.4365,0.5635,22.15,0.5597,0.172,0.8632703369639354,Typical
+ACCT,Audit Associate,Client-Facing Operator,433,0.552,0.448,0.552,21.7,0.5597,-0.376,0.7066513884532433,Typical
+ACCT,Staff Accountant,Individual Contributor,439,0.5513,0.4487,0.5513,22.3,0.5597,-0.415,0.6782847996738597,Typical
+BMGT,Human Resources Associate,Client-Facing Operator,420,0.5595,0.4405,0.5595,21.6,0.5315,1.331,0.18318985797370368,Typical
+BMGT,Operations Analyst,Individual Contributor,413,0.5424,0.4576,0.5424,21.85,0.5315,0.511,0.6094642923918493,Typical
+BMGT,Management Consulting Associate,Client-Facing Operator,422,0.5284,0.4716,0.5284,20.9,0.5315,-0.146,0.8841938706742486,Typical
+BMGT,Human Resources Specialist,Client-Facing Operator,412,0.4951,0.5049,0.4951,21.1,0.5315,-1.704,0.08838142839736864,Typical
+BNAD,Management Analyst,Individual Contributor,417,0.6019,0.3981,0.6019,22.0,0.5594,2.019,0.04351538456834743,Springboard
+BNAD,Business Associate,Individual Contributor,424,0.5542,0.4458,0.5542,20.7,0.5594,-0.249,0.8035460178190996,Typical
+BNAD,Business Analyst,Individual Contributor,397,0.5416,0.4584,0.5416,21.3,0.5594,-0.821,0.4114209233761178,Typical
+BNAD,Business Operations Analyst,Individual Contributor,428,0.5397,0.4603,0.5397,21.2,0.5594,-0.953,0.34083163070323075,Typical
+ECON,Economic Consulting Analyst,Client-Facing Operator,392,0.5587,0.4413,0.5587,21.6,0.5375,0.962,0.33618214950591563,Typical
+ECON,Economic Research Analyst,Individual Contributor,421,0.5439,0.4561,0.5439,21.5,0.5375,0.307,0.7588118100258687,Typical
+ECON,Research Analyst,Individual Contributor,414,0.5266,0.4734,0.5266,22.0,0.5375,-0.514,0.6071659978406734,Typical
+ECON,Business Analyst,Individual Contributor,440,0.5227,0.4773,0.5227,21.85,0.5375,-0.724,0.4690372037614966,Typical
+ENTR,Growth Marketing Associate,Client-Facing Operator,395,0.5772,0.4228,0.5772,21.4,0.5522,1.144,0.25274389534817265,Typical
+ENTR,Startup Operations Analyst,Individual Contributor,429,0.5664,0.4336,0.5664,21.0,0.5522,0.687,0.49207062005935986,Typical
+ENTR,Business Operations Associate,Individual Contributor,398,0.5427,0.4573,0.5427,21.6,0.5522,-0.437,0.6619596961365504,Typical
+ENTR,Market Development Analyst,Client-Facing Operator,444,0.5248,0.4752,0.5248,22.0,0.5522,-1.358,0.17447743963420959,Typical
+FIN,Risk Analyst,Individual Contributor,402,0.592,0.408,0.592,22.0,0.5759,0.752,0.4518278119979897,Typical
+FIN,Financial Risk Analyst,Individual Contributor,441,0.5737,0.4263,0.5737,21.5,0.5759,-0.108,0.9136418238280566,Typical
+FIN,Financial Analyst,Individual Contributor,404,0.5718,0.4282,0.5718,20.8,0.5759,-0.192,0.8479810472963291,Typical
+FIN,Investment Analyst,Individual Contributor,420,0.5667,0.4333,0.5667,21.4,0.5759,-0.442,0.6585103448063241,Typical
+MIS,Systems Analyst,Individual Contributor,838,0.5632,0.4368,0.5632,20.799999999999997,0.5453,1.48,0.1388255686013154,Typical
+MIS,IT Business Analyst,Individual Contributor,419,0.5537,0.4463,0.5537,21.75,0.5453,0.399,0.6895382625957802,Typical
+MIS,Tech Consultant,Client-Facing Operator,410,0.5,0.5,0.5,21.5,0.5453,-2.121,0.03392927139359209,Absorbing / dead-end
+MKTG,Market Research Associate,Individual Contributor,404,0.6163,0.3837,0.6163,22.2,0.5735,2.001,0.045419264555354354,Springboard
+MKTG,Digital Marketing Associate,Client-Facing Operator,403,0.5806,0.4194,0.5806,22.6,0.5735,0.334,0.738567174965203,Typical
+MKTG,Marketing Specialist,Client-Facing Operator,430,0.5535,0.4465,0.5535,21.7,0.5735,-0.973,0.3303979282404307,Typical
+MKTG,Marketing Analyst,Individual Contributor,430,0.5465,0.4535,0.5465,21.4,0.5735,-1.313,0.18921918994321962,Typical
+OSCM,Logistics Analyst,Individual Contributor,383,0.6005,0.3995,0.6005,21.7,0.5768,1.069,0.2848961613596108,Typical
+OSCM,Procurement Analyst,Individual Contributor,429,0.5851,0.4149,0.5851,21.4,0.5768,0.401,0.6881110143554587,Typical
+OSCM,Supply Chain Analyst,Individual Contributor,418,0.567,0.433,0.567,21.5,0.5768,-0.471,0.6378453676388789,Typical
+OSCM,Logistics Coordinator,Individual Contributor,436,0.5573,0.4427,0.5573,20.8,0.5768,-0.959,0.3377047520276417,Typical

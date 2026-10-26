@@ -1,0 +1,142 @@
+major,from_state,to_state,n,n_from,p,p_ci_low,p_ci_high,from_role_state,to_role_state,path_rank
+ACCT,Accountant,Senior Accountant,230,401,0.5736,0.5247,0.621,Individual Contributor,Functional Lead,1
+ACCT,Accountant,Accountant,171,401,0.4264,0.379,0.4753,Individual Contributor,Individual Contributor,2
+ACCT,Audit Associate,Senior Audit/Tax Associate,239,433,0.552,0.5049,0.5981,Client-Facing Operator,Functional Lead,1
+ACCT,Audit Associate,Audit Associate,194,433,0.448,0.4019,0.4951,Client-Facing Operator,Client-Facing Operator,2
+ACCT,Staff Accountant,Senior Accountant,242,439,0.5513,0.5045,0.5971,Individual Contributor,Functional Lead,1
+ACCT,Staff Accountant,Staff Accountant,197,439,0.4487,0.4029,0.4955,Individual Contributor,Individual Contributor,2
+ACCT,Tax Associate,Senior Audit/Tax Associate,222,394,0.5635,0.5141,0.6116,Client-Facing Operator,Functional Lead,1
+ACCT,Tax Associate,Tax Associate,172,394,0.4365,0.3884,0.4859,Client-Facing Operator,Client-Facing Operator,2
+ALL,Accountant,Senior Accountant,230,401,0.5736,0.5247,0.621,Individual Contributor,Functional Lead,1
+ALL,Accountant,Accountant,171,401,0.4264,0.379,0.4753,Individual Contributor,Individual Contributor,2
+ALL,Audit Associate,Senior Audit/Tax Associate,239,433,0.552,0.5049,0.5981,Client-Facing Operator,Functional Lead,1
+ALL,Audit Associate,Audit Associate,194,433,0.448,0.4019,0.4951,Client-Facing Operator,Client-Facing Operator,2
+ALL,Business Analyst,Business Analyst,392,837,0.4683,0.4348,0.5022,Individual Contributor,Individual Contributor,1
+ALL,Business Analyst,Senior Business Analyst,230,837,0.2748,0.2456,0.306,Individual Contributor,Functional Lead,2
+ALL,Business Analyst,Senior Management Analyst,215,837,0.2569,0.2284,0.2875,Individual Contributor,Functional Lead,3
+ALL,Business Associate,Senior Business Operations Analyst,235,424,0.5542,0.5067,0.6009,Individual Contributor,Functional Lead,1
+ALL,Business Associate,Business Associate,189,424,0.4458,0.3991,0.4933,Individual Contributor,Individual Contributor,2
+ALL,Business Operations Analyst,Senior Business Operations Analyst,231,428,0.5397,0.4924,0.5864,Individual Contributor,Functional Lead,1
+ALL,Business Operations Analyst,Business Operations Analyst,197,428,0.4603,0.4136,0.5076,Individual Contributor,Individual Contributor,2
+ALL,Business Operations Associate,Senior Business Operations Specialist,216,398,0.5427,0.4936,0.591,Individual Contributor,Functional Lead,1
+ALL,Business Operations Associate,Business Operations Associate,182,398,0.4573,0.409,0.5064,Individual Contributor,Individual Contributor,2
+ALL,Digital Marketing Associate,Senior Marketing Analyst,234,403,0.5806,0.5319,0.6278,Client-Facing Operator,Functional Lead,1
+ALL,Digital Marketing Associate,Digital Marketing Associate,169,403,0.4194,0.3722,0.4681,Client-Facing Operator,Client-Facing Operator,2
+ALL,Economic Consulting Analyst,Senior Business Analyst,219,392,0.5587,0.5092,0.607,Client-Facing Operator,Functional Lead,1
+ALL,Economic Consulting Analyst,Economic Consulting Analyst,173,392,0.4413,0.393,0.4908,Client-Facing Operator,Client-Facing Operator,2
+ALL,Economic Research Analyst,Senior Research Analyst,229,421,0.5439,0.4962,0.5909,Individual Contributor,Functional Lead,1
+ALL,Economic Research Analyst,Economic Research Analyst,192,421,0.4561,0.4091,0.5038,Individual Contributor,Individual Contributor,2
+ALL,Financial Analyst,Senior Financial Analyst,231,404,0.5718,0.5231,0.6191,Individual Contributor,Functional Lead,1
+ALL,Financial Analyst,Financial Analyst,173,404,0.4282,0.3809,0.4769,Individual Contributor,Individual Contributor,2
+ALL,Financial Risk Analyst,Senior Risk Analyst,253,441,0.5737,0.5271,0.619,Individual Contributor,Functional Lead,1
+ALL,Financial Risk Analyst,Financial Risk Analyst,188,441,0.4263,0.381,0.4729,Individual Contributor,Individual Contributor,2
+ALL,Growth Marketing Associate,Senior Growth Marketing Specialist,228,395,0.5772,0.528,0.625,Client-Facing Operator,Functional Lead,1
+ALL,Growth Marketing Associate,Growth Marketing Associate,167,395,0.4228,0.375,0.472,Client-Facing Operator,Client-Facing Operator,2
+ALL,Human Resources Associate,Senior Human Resources Specialist,235,420,0.5595,0.5117,0.6063,Client-Facing Operator,Functional Lead,1
+ALL,Human Resources Associate,Human Resources Associate,185,420,0.4405,0.3937,0.4883,Client-Facing Operator,Client-Facing Operator,2
+ALL,Human Resources Specialist,Human Resources Specialist,208,412,0.5049,0.4568,0.5529,Client-Facing Operator,Client-Facing Operator,1
+ALL,Human Resources Specialist,Senior Human Resources Specialist,204,412,0.4951,0.4471,0.5432,Client-Facing Operator,Functional Lead,2
+ALL,IT Business Analyst,Senior Systems Analyst,232,419,0.5537,0.5058,0.6006,Individual Contributor,Functional Lead,1
+ALL,IT Business Analyst,IT Business Analyst,187,419,0.4463,0.3994,0.4942,Individual Contributor,Individual Contributor,2
+ALL,Investment Analyst,Senior Financial Analyst,238,420,0.5667,0.5189,0.6132,Individual Contributor,Functional Lead,1
+ALL,Investment Analyst,Investment Analyst,182,420,0.4333,0.3868,0.4811,Individual Contributor,Individual Contributor,2
+ALL,Logistics Analyst,Senior Logistics Analyst,230,383,0.6005,0.5507,0.6483,Individual Contributor,Functional Lead,1
+ALL,Logistics Analyst,Logistics Analyst,153,383,0.3995,0.3517,0.4493,Individual Contributor,Individual Contributor,2
+ALL,Logistics Coordinator,Senior Supply Chain Analyst,243,436,0.5573,0.5104,0.6033,Individual Contributor,Functional Lead,1
+ALL,Logistics Coordinator,Logistics Coordinator,193,436,0.4427,0.3967,0.4896,Individual Contributor,Individual Contributor,2
+ALL,Management Analyst,Senior Management Analyst,251,417,0.6019,0.5542,0.6478,Individual Contributor,Functional Lead,1
+ALL,Management Analyst,Management Analyst,166,417,0.3981,0.3522,0.4458,Individual Contributor,Individual Contributor,2
+ALL,Management Consulting Associate,Senior Operations Analyst,223,422,0.5284,0.4808,0.5756,Client-Facing Operator,Functional Lead,1
+ALL,Management Consulting Associate,Management Consulting Associate,199,422,0.4716,0.4244,0.5192,Client-Facing Operator,Client-Facing Operator,2
+ALL,Market Development Analyst,Senior Growth Marketing Specialist,233,444,0.5248,0.4783,0.5708,Client-Facing Operator,Functional Lead,1
+ALL,Market Development Analyst,Market Development Analyst,211,444,0.4752,0.4292,0.5217,Client-Facing Operator,Client-Facing Operator,2
+ALL,Market Research Associate,Senior Marketing Specialist,249,404,0.6163,0.568,0.6624,Individual Contributor,Functional Lead,1
+ALL,Market Research Associate,Market Research Associate,155,404,0.3837,0.3376,0.432,Individual Contributor,Individual Contributor,2
+ALL,Marketing Analyst,Senior Marketing Analyst,235,430,0.5465,0.4993,0.5929,Individual Contributor,Functional Lead,1
+ALL,Marketing Analyst,Marketing Analyst,195,430,0.4535,0.4071,0.5007,Individual Contributor,Individual Contributor,2
+ALL,Marketing Specialist,Senior Marketing Specialist,238,430,0.5535,0.5062,0.5998,Client-Facing Operator,Functional Lead,1
+ALL,Marketing Specialist,Marketing Specialist,192,430,0.4465,0.4002,0.4938,Client-Facing Operator,Client-Facing Operator,2
+ALL,Operations Analyst,Senior Operations Analyst,224,413,0.5424,0.4942,0.5898,Individual Contributor,Functional Lead,1
+ALL,Operations Analyst,Operations Analyst,189,413,0.4576,0.4102,0.5058,Individual Contributor,Individual Contributor,2
+ALL,Procurement Analyst,Senior Logistics Analyst,251,429,0.5851,0.5379,0.6308,Individual Contributor,Functional Lead,1
+ALL,Procurement Analyst,Procurement Analyst,178,429,0.4149,0.3692,0.4621,Individual Contributor,Individual Contributor,2
+ALL,Research Analyst,Senior Research Analyst,218,414,0.5266,0.4785,0.5742,Individual Contributor,Functional Lead,1
+ALL,Research Analyst,Research Analyst,196,414,0.4734,0.4258,0.5215,Individual Contributor,Individual Contributor,2
+ALL,Risk Analyst,Senior Risk Analyst,238,402,0.592,0.5433,0.639,Individual Contributor,Functional Lead,1
+ALL,Risk Analyst,Risk Analyst,164,402,0.408,0.361,0.4567,Individual Contributor,Individual Contributor,2
+ALL,Staff Accountant,Senior Accountant,242,439,0.5513,0.5045,0.5971,Individual Contributor,Functional Lead,1
+ALL,Staff Accountant,Staff Accountant,197,439,0.4487,0.4029,0.4955,Individual Contributor,Individual Contributor,2
+ALL,Startup Operations Analyst,Senior Business Operations Specialist,243,429,0.5664,0.5192,0.6125,Individual Contributor,Functional Lead,1
+ALL,Startup Operations Analyst,Startup Operations Analyst,186,429,0.4336,0.3875,0.4808,Individual Contributor,Individual Contributor,2
+ALL,Supply Chain Analyst,Senior Supply Chain Analyst,237,418,0.567,0.5191,0.6137,Individual Contributor,Functional Lead,1
+ALL,Supply Chain Analyst,Supply Chain Analyst,181,418,0.433,0.3863,0.4809,Individual Contributor,Individual Contributor,2
+ALL,Systems Analyst,Systems Analyst,366,838,0.4368,0.4035,0.4705,Individual Contributor,Individual Contributor,1
+ALL,Systems Analyst,Senior Systems Analyst,248,838,0.2959,0.266,0.3277,Individual Contributor,Functional Lead,2
+ALL,Systems Analyst,Senior Consultant,224,838,0.2673,0.2385,0.2983,Individual Contributor,Functional Lead,3
+ALL,Tax Associate,Senior Audit/Tax Associate,222,394,0.5635,0.5141,0.6116,Client-Facing Operator,Functional Lead,1
+ALL,Tax Associate,Tax Associate,172,394,0.4365,0.3884,0.4859,Client-Facing Operator,Client-Facing Operator,2
+ALL,Tech Consultant,Senior Consultant,205,410,0.5,0.4518,0.5482,Client-Facing Operator,Functional Lead,1
+ALL,Tech Consultant,Tech Consultant,205,410,0.5,0.4518,0.5482,Client-Facing Operator,Client-Facing Operator,2
+BMGT,Human Resources Associate,Senior Human Resources Specialist,235,420,0.5595,0.5117,0.6063,Client-Facing Operator,Functional Lead,1
+BMGT,Human Resources Associate,Human Resources Associate,185,420,0.4405,0.3937,0.4883,Client-Facing Operator,Client-Facing Operator,2
+BMGT,Human Resources Specialist,Human Resources Specialist,208,412,0.5049,0.4568,0.5529,Client-Facing Operator,Client-Facing Operator,1
+BMGT,Human Resources Specialist,Senior Human Resources Specialist,204,412,0.4951,0.4471,0.5432,Client-Facing Operator,Functional Lead,2
+BMGT,Management Consulting Associate,Senior Operations Analyst,223,422,0.5284,0.4808,0.5756,Client-Facing Operator,Functional Lead,1
+BMGT,Management Consulting Associate,Management Consulting Associate,199,422,0.4716,0.4244,0.5192,Client-Facing Operator,Client-Facing Operator,2
+BMGT,Operations Analyst,Senior Operations Analyst,224,413,0.5424,0.4942,0.5898,Individual Contributor,Functional Lead,1
+BMGT,Operations Analyst,Operations Analyst,189,413,0.4576,0.4102,0.5058,Individual Contributor,Individual Contributor,2
+BNAD,Business Analyst,Senior Management Analyst,215,397,0.5416,0.4924,0.5899,Individual Contributor,Functional Lead,1
+BNAD,Business Analyst,Business Analyst,182,397,0.4584,0.4101,0.5076,Individual Contributor,Individual Contributor,2
+BNAD,Business Associate,Senior Business Operations Analyst,235,424,0.5542,0.5067,0.6009,Individual Contributor,Functional Lead,1
+BNAD,Business Associate,Business Associate,189,424,0.4458,0.3991,0.4933,Individual Contributor,Individual Contributor,2
+BNAD,Business Operations Analyst,Senior Business Operations Analyst,231,428,0.5397,0.4924,0.5864,Individual Contributor,Functional Lead,1
+BNAD,Business Operations Analyst,Business Operations Analyst,197,428,0.4603,0.4136,0.5076,Individual Contributor,Individual Contributor,2
+BNAD,Management Analyst,Senior Management Analyst,251,417,0.6019,0.5542,0.6478,Individual Contributor,Functional Lead,1
+BNAD,Management Analyst,Management Analyst,166,417,0.3981,0.3522,0.4458,Individual Contributor,Individual Contributor,2
+ECON,Business Analyst,Senior Business Analyst,230,440,0.5227,0.4761,0.569,Individual Contributor,Functional Lead,1
+ECON,Business Analyst,Business Analyst,210,440,0.4773,0.431,0.5239,Individual Contributor,Individual Contributor,2
+ECON,Economic Consulting Analyst,Senior Business Analyst,219,392,0.5587,0.5092,0.607,Client-Facing Operator,Functional Lead,1
+ECON,Economic Consulting Analyst,Economic Consulting Analyst,173,392,0.4413,0.393,0.4908,Client-Facing Operator,Client-Facing Operator,2
+ECON,Economic Research Analyst,Senior Research Analyst,229,421,0.5439,0.4962,0.5909,Individual Contributor,Functional Lead,1
+ECON,Economic Research Analyst,Economic Research Analyst,192,421,0.4561,0.4091,0.5038,Individual Contributor,Individual Contributor,2
+ECON,Research Analyst,Senior Research Analyst,218,414,0.5266,0.4785,0.5742,Individual Contributor,Functional Lead,1
+ECON,Research Analyst,Research Analyst,196,414,0.4734,0.4258,0.5215,Individual Contributor,Individual Contributor,2
+ENTR,Business Operations Associate,Senior Business Operations Specialist,216,398,0.5427,0.4936,0.591,Individual Contributor,Functional Lead,1
+ENTR,Business Operations Associate,Business Operations Associate,182,398,0.4573,0.409,0.5064,Individual Contributor,Individual Contributor,2
+ENTR,Growth Marketing Associate,Senior Growth Marketing Specialist,228,395,0.5772,0.528,0.625,Client-Facing Operator,Functional Lead,1
+ENTR,Growth Marketing Associate,Growth Marketing Associate,167,395,0.4228,0.375,0.472,Client-Facing Operator,Client-Facing Operator,2
+ENTR,Market Development Analyst,Senior Growth Marketing Specialist,233,444,0.5248,0.4783,0.5708,Client-Facing Operator,Functional Lead,1
+ENTR,Market Development Analyst,Market Development Analyst,211,444,0.4752,0.4292,0.5217,Client-Facing Operator,Client-Facing Operator,2
+ENTR,Startup Operations Analyst,Senior Business Operations Specialist,243,429,0.5664,0.5192,0.6125,Individual Contributor,Functional Lead,1
+ENTR,Startup Operations Analyst,Startup Operations Analyst,186,429,0.4336,0.3875,0.4808,Individual Contributor,Individual Contributor,2
+FIN,Financial Analyst,Senior Financial Analyst,231,404,0.5718,0.5231,0.6191,Individual Contributor,Functional Lead,1
+FIN,Financial Analyst,Financial Analyst,173,404,0.4282,0.3809,0.4769,Individual Contributor,Individual Contributor,2
+FIN,Financial Risk Analyst,Senior Risk Analyst,253,441,0.5737,0.5271,0.619,Individual Contributor,Functional Lead,1
+FIN,Financial Risk Analyst,Financial Risk Analyst,188,441,0.4263,0.381,0.4729,Individual Contributor,Individual Contributor,2
+FIN,Investment Analyst,Senior Financial Analyst,238,420,0.5667,0.5189,0.6132,Individual Contributor,Functional Lead,1
+FIN,Investment Analyst,Investment Analyst,182,420,0.4333,0.3868,0.4811,Individual Contributor,Individual Contributor,2
+FIN,Risk Analyst,Senior Risk Analyst,238,402,0.592,0.5433,0.639,Individual Contributor,Functional Lead,1
+FIN,Risk Analyst,Risk Analyst,164,402,0.408,0.361,0.4567,Individual Contributor,Individual Contributor,2
+MIS,IT Business Analyst,Senior Systems Analyst,232,419,0.5537,0.5058,0.6006,Individual Contributor,Functional Lead,1
+MIS,IT Business Analyst,IT Business Analyst,187,419,0.4463,0.3994,0.4942,Individual Contributor,Individual Contributor,2
+MIS,Systems Analyst,Systems Analyst,366,838,0.4368,0.4035,0.4705,Individual Contributor,Individual Contributor,1
+MIS,Systems Analyst,Senior Systems Analyst,248,838,0.2959,0.266,0.3277,Individual Contributor,Functional Lead,2
+MIS,Systems Analyst,Senior Consultant,224,838,0.2673,0.2385,0.2983,Individual Contributor,Functional Lead,3
+MIS,Tech Consultant,Senior Consultant,205,410,0.5,0.4518,0.5482,Client-Facing Operator,Functional Lead,1
+MIS,Tech Consultant,Tech Consultant,205,410,0.5,0.4518,0.5482,Client-Facing Operator,Client-Facing Operator,2
+MKTG,Digital Marketing Associate,Senior Marketing Analyst,234,403,0.5806,0.5319,0.6278,Client-Facing Operator,Functional Lead,1
+MKTG,Digital Marketing Associate,Digital Marketing Associate,169,403,0.4194,0.3722,0.4681,Client-Facing Operator,Client-Facing Operator,2
+MKTG,Market Research Associate,Senior Marketing Specialist,249,404,0.6163,0.568,0.6624,Individual Contributor,Functional Lead,1
+MKTG,Market Research Associate,Market Research Associate,155,404,0.3837,0.3376,0.432,Individual Contributor,Individual Contributor,2
+MKTG,Marketing Analyst,Senior Marketing Analyst,235,430,0.5465,0.4993,0.5929,Individual Contributor,Functional Lead,1
+MKTG,Marketing Analyst,Marketing Analyst,195,430,0.4535,0.4071,0.5007,Individual Contributor,Individual Contributor,2
+MKTG,Marketing Specialist,Senior Marketing Specialist,238,430,0.5535,0.5062,0.5998,Client-Facing Operator,Functional Lead,1
+MKTG,Marketing Specialist,Marketing Specialist,192,430,0.4465,0.4002,0.4938,Client-Facing Operator,Client-Facing Operator,2
+OSCM,Logistics Analyst,Senior Logistics Analyst,230,383,0.6005,0.5507,0.6483,Individual Contributor,Functional Lead,1
+OSCM,Logistics Analyst,Logistics Analyst,153,383,0.3995,0.3517,0.4493,Individual Contributor,Individual Contributor,2
+OSCM,Logistics Coordinator,Senior Supply Chain Analyst,243,436,0.5573,0.5104,0.6033,Individual Contributor,Functional Lead,1
+OSCM,Logistics Coordinator,Logistics Coordinator,193,436,0.4427,0.3967,0.4896,Individual Contributor,Individual Contributor,2
+OSCM,Procurement Analyst,Senior Logistics Analyst,251,429,0.5851,0.5379,0.6308,Individual Contributor,Functional Lead,1
+OSCM,Procurement Analyst,Procurement Analyst,178,429,0.4149,0.3692,0.4621,Individual Contributor,Individual Contributor,2
+OSCM,Supply Chain Analyst,Senior Supply Chain Analyst,237,418,0.567,0.5191,0.6137,Individual Contributor,Functional Lead,1
+OSCM,Supply Chain Analyst,Supply Chain Analyst,181,418,0.433,0.3863,0.4809,Individual Contributor,Individual Contributor,2

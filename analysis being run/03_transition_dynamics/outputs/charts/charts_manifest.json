@@ -1,0 +1,68 @@
+{
+  "fonts": {
+    "sans": "Graphik",
+    "mono": "B612 Mono",
+    "sans_file": "/System/Library/AssetsV2/com_apple_MobileAsset_Font8/826aa3dd9709faf607b06657a17fba9e5547a0c9.asset/AssetData/Graphik.ttc",
+    "mono_file": "/Users/athirumalai/.agents/skills/matplotlib-research-charts/assets/fonts/B612Mono-Regular.ttf"
+  },
+  "formats": [
+    "PNG (300 dpi)",
+    "PDF (font subsets)",
+    "SVG (font paths)"
+  ],
+  "synthetic_alumni": true,
+  "charts": [
+    {
+      "section": "03_transition_dynamics",
+      "stem": "01_observed_role_transitions",
+      "title": "Observed role transition probabilities",
+      "sources_sha256": {
+        "role_state_transition_matrices.csv": "4307fb5cd83733782f7960c9a8069d0b5aa0f57e792388f62ee4bb75b859153a"
+      },
+      "plotting_rows": 4,
+      "notes": "Zero destinations are inferred only for observed origin rows. No unobserved Functional Lead origin row is manufactured."
+    },
+    {
+      "section": "03_transition_dynamics",
+      "stem": "02_common_title_paths",
+      "title": "Most common title paths",
+      "sources_sha256": {
+        "title_transition_edges.csv": "e64d1fed3ec88dd73b0d6e153addd0993b569b57667bda2895a26c2db90c7132"
+      },
+      "plotting_rows": 18,
+      "notes": "Two highest-count edges per major, not two highest conditional probabilities. Full denominators are in source/plotting data."
+    },
+    {
+      "section": "03_transition_dynamics",
+      "stem": "03_entry_role_promotion_comparison",
+      "title": "Entry-role promotion comparison",
+      "sources_sha256": {
+        "entry_role_springboard_classification.csv": "47600e4957f3d14029a77abf8800fba10aca0a39a164d104493212646b7d2c2f"
+      },
+      "plotting_rows": 35,
+      "notes": "Classification flags use existing unadjusted tests. No invented uncertainty on promotion-rate points."
+    },
+    {
+      "section": "03_transition_dynamics",
+      "stem": "04_frequent_title_sequences",
+      "title": "Frequent title sequences",
+      "sources_sha256": {
+        "top_title_sequences_by_major.csv": "e2bae710552ba61fab3b9ac5dc0b8269b4f71168adf7ae3bff8b12134bc19b88"
+      },
+      "plotting_rows": 9,
+      "notes": "One most-supported closed pattern per major; support_pct source values are fractions, formatted as percentages."
+    },
+    {
+      "section": "03_transition_dynamics",
+      "stem": "05_absorbing_chain_projection",
+      "title": "Absorbing-chain extrapolation",
+      "sources_sha256": {
+        "absorbing_chain_projection.csv": "61c85367314618055ba26a6ee93a9ec62936869647e14373e0e09cf7f63ce5e6",
+        "role_state_transition_matrices.csv": "4307fb5cd83733782f7960c9a8069d0b5aa0f57e792388f62ee4bb75b859153a",
+        "markov_property_tests.csv": "e530843bdcff973bc2f5de45a3b213b351698969755abb4dd7aa530956bba890"
+      },
+      "plotting_rows": 9,
+      "notes": "Dashed paths are scenario projections, not forecasts validated by additional observations. No uncertainty is supplied."
+    }
+  ]
+}

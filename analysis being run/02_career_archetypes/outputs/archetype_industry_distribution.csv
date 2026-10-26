@@ -1,0 +1,107 @@
+group,archetype_id,industry_sector,n_alumni,share
+ACCT,ACCT-A1,Consulting & Advisory,511,1.0
+ACCT,ACCT-A2,Consulting & Advisory,390,0.8263
+ACCT,ACCT-A2,Manufacturing,82,0.1737
+ACCT,ACCT-A3,Consulting & Advisory,165,0.8376
+ACCT,ACCT-A3,Manufacturing,32,0.1624
+ACCT,ACCT-A4,Consulting & Advisory,133,0.7778
+ACCT,ACCT-A4,Manufacturing,38,0.2222
+ACCT,ACCT-A5,Manufacturing,166,1.0
+ACCT,ACCT-A6,Consulting & Advisory,150,1.0
+ALL,ALL-A1,Retail & E-Commerce,896,0.3575
+ALL,ALL-A1,Technology,783,0.3125
+ALL,ALL-A1,Advertising & Marketing,496,0.1979
+ALL,ALL-A1,Market Research,331,0.1321
+ALL,ALL-A10,Financial Services,651,0.79
+ALL,ALL-A10,Manufacturing,173,0.21
+ALL,ALL-A2,Retail & E-Commerce,705,0.2842
+ALL,ALL-A2,Consulting & Advisory,611,0.2463
+ALL,ALL-A2,Financial Services,550,0.2217
+ALL,ALL-A2,Manufacturing,402,0.162
+ALL,ALL-A2,Market Research,213,0.0859
+ALL,ALL-A3,Retail & E-Commerce,516,0.3073
+ALL,ALL-A3,Technology,500,0.2978
+ALL,ALL-A3,Financial Services,181,0.1078
+ALL,ALL-A3,Consulting & Advisory,173,0.103
+ALL,ALL-A3,Advertising & Marketing,158,0.0941
+ALL,ALL-A3,Manufacturing,151,0.0899
+ALL,ALL-A4,Technology,865,0.5189
+ALL,ALL-A4,Consulting & Advisory,802,0.4811
+ALL,ALL-A5,Consulting & Advisory,1349,0.8092
+ALL,ALL-A5,Manufacturing,318,0.1908
+ALL,ALL-A6,Manufacturing,672,0.4034
+ALL,ALL-A6,Retail & E-Commerce,659,0.3956
+ALL,ALL-A6,Transportation & Logistics,335,0.2011
+ALL,ALL-A7,Financial Services,684,0.8114
+ALL,ALL-A7,Manufacturing,159,0.1886
+ALL,ALL-A8,Financial Services,389,0.4659
+ALL,ALL-A8,Market Research,232,0.2778
+ALL,ALL-A8,Consulting & Advisory,214,0.2563
+ALL,ALL-A9,Retail & E-Commerce,409,0.4916
+ALL,ALL-A9,Consulting & Advisory,215,0.2584
+ALL,ALL-A9,Manufacturing,208,0.25
+BMGT,BMGT-A1,Retail & E-Commerce,398,0.4766
+BMGT,BMGT-A1,Manufacturing,228,0.2731
+BMGT,BMGT-A1,Consulting & Advisory,209,0.2503
+BMGT,BMGT-A2,Retail & E-Commerce,409,0.4916
+BMGT,BMGT-A2,Consulting & Advisory,215,0.2584
+BMGT,BMGT-A2,Manufacturing,208,0.25
+BNAD,BNAD-A1,Retail & E-Commerce,347,0.4073
+BNAD,BNAD-A1,Financial Services,181,0.2124
+BNAD,BNAD-A1,Consulting & Advisory,173,0.2031
+BNAD,BNAD-A1,Manufacturing,151,0.1772
+BNAD,BNAD-A2,Retail & E-Commerce,307,0.3771
+BNAD,BNAD-A2,Manufacturing,174,0.2138
+BNAD,BNAD-A2,Consulting & Advisory,173,0.2125
+BNAD,BNAD-A2,Financial Services,160,0.1966
+ECON,ECON-A1,Financial Services,390,1.0
+ECON,ECON-A2,Financial Services,389,1.0
+ECON,ECON-A3,Market Research,232,1.0
+ECON,ECON-A4,Consulting & Advisory,229,1.0
+ECON,ECON-A5,Consulting & Advisory,214,1.0
+ECON,ECON-A6,Market Research,213,1.0
+ENTR,ENTR-A1,Technology,472,0.5626
+ENTR,ENTR-A1,Retail & E-Commerce,191,0.2277
+ENTR,ENTR-A1,Advertising & Marketing,176,0.2098
+ENTR,ENTR-A2,Technology,500,0.6046
+ENTR,ENTR-A2,Retail & E-Commerce,169,0.2044
+ENTR,ENTR-A2,Advertising & Marketing,158,0.1911
+FIN,FIN-A1,Financial Services,684,1.0
+FIN,FIN-A2,Financial Services,372,1.0
+FIN,FIN-A3,Financial Services,142,0.7802
+FIN,FIN-A3,Manufacturing,40,0.2198
+FIN,FIN-A4,Manufacturing,159,1.0
+FIN,FIN-A5,Financial Services,137,1.0
+FIN,FIN-A6,Manufacturing,133,1.0
+MIS,MIS-A1,Technology,447,1.0
+MIS,MIS-A2,Consulting & Advisory,210,0.6977
+MIS,MIS-A2,Technology,91,0.3023
+MIS,MIS-A3,Consulting & Advisory,285,1.0
+MIS,MIS-A4,Technology,223,1.0
+MIS,MIS-A5,Consulting & Advisory,206,1.0
+MIS,MIS-A6,Technology,104,0.5073
+MIS,MIS-A6,Consulting & Advisory,101,0.4927
+MKTG,MKTG-A1,Retail & E-Commerce,184,0.4279
+MKTG,MKTG-A1,Technology,87,0.2023
+MKTG,MKTG-A1,Market Research,81,0.1884
+MKTG,MKTG-A1,Advertising & Marketing,78,0.1814
+MKTG,MKTG-A2,Retail & E-Commerce,186,0.4326
+MKTG,MKTG-A2,Advertising & Marketing,89,0.207
+MKTG,MKTG-A2,Market Research,84,0.1953
+MKTG,MKTG-A2,Technology,71,0.1651
+MKTG,MKTG-A3,Retail & E-Commerce,169,0.4183
+MKTG,MKTG-A3,Advertising & Marketing,85,0.2104
+MKTG,MKTG-A3,Technology,76,0.1881
+MKTG,MKTG-A3,Market Research,74,0.1832
+MKTG,MKTG-A4,Retail & E-Commerce,166,0.4119
+MKTG,MKTG-A4,Market Research,92,0.2283
+MKTG,MKTG-A4,Technology,77,0.1911
+MKTG,MKTG-A4,Advertising & Marketing,68,0.1687
+OSCM,OSCM-A1,Manufacturing,322,1.0
+OSCM,OSCM-A2,Retail & E-Commerce,321,1.0
+OSCM,OSCM-A3,Transportation & Logistics,302,1.0
+OSCM,OSCM-A4,Manufacturing,268,1.0
+OSCM,OSCM-A5,Retail & E-Commerce,260,1.0
+OSCM,OSCM-A6,Manufacturing,82,0.4249
+OSCM,OSCM-A6,Retail & E-Commerce,78,0.4041
+OSCM,OSCM-A6,Transportation & Logistics,33,0.171

@@ -1,0 +1,238 @@
+feature,label,impurity_importance
+major_MIS,major_MIS,0.14503
+major_FIN,major_FIN,0.0779
+"location_metro_San Francisco-Oakland-Berkeley, CA","location_metro_San Francisco-Oakland-Berkeley, CA",0.07491
+"location_metro_New York-Newark-Jersey City, NY-NJ","location_metro_New York-Newark-Jersey City, NY-NJ",0.07144
+"location_metro_Seattle-Tacoma-Bellevue, WA","location_metro_Seattle-Tacoma-Bellevue, WA",0.06747
+B099,Information Systems Analysis and Design,0.03428
+gpa_final,gpa_final,0.02721
+industry_sector_Financial Services,industry_sector_Financial Services,0.02662
+B105,Information Security,0.02621
+major_ECON,major_ECON,0.02206
+B095,Computer Networking,0.02193
+B090,Programming,0.01877
+grad_year_2018,grad_year_2018,0.01435
+major_OSCM,major_OSCM,0.01409
+B109,Security Threat Analysis,0.01322
+grad_year_2022,grad_year_2022,0.0129
+major_MKTG,major_MKTG,0.01278
+had_internship,had_internship,0.01219
+B029,International Finance,0.00904
+major_BNAD,major_BNAD,0.00874
+B108,Information Security Risk Assessment,0.00807
+B096,E-Commerce,0.00805
+B106,Network Security (+1 co-taught),0.00776
+"location_metro_Phoenix-Mesa-Chandler, AZ","location_metro_Phoenix-Mesa-Chandler, AZ",0.00735
+major_BMGT,major_BMGT,0.00646
+grad_year_2021,grad_year_2021,0.00566
+major_ACCT,major_ACCT,0.00562
+B189,Negotiation,0.00556
+B188,Teamwork and Collaboration,0.00546
+B042,Financial Market Analysis,0.00524
+industry_sector_Retail & E-Commerce,industry_sector_Retail & E-Commerce,0.00515
+B018,Portfolio Management,0.00473
+B020,Fixed Income Analysis,0.00473
+B089,Spreadsheet Modeling,0.00442
+B164,Nonprofit Management,0.00435
+B158,Employee Motivation,0.00434
+B088,Decision Support Systems,0.00404
+grad_year_2019,grad_year_2019,0.00404
+B101,Business Process Design,0.00385
+B084,Forecasting,0.00378
+B010,Financial Management,0.00355
+B098,Relational Database Design,0.00323
+B103,Enterprise Resource Planning,0.0032
+company_tier_2,company_tier_2,0.00305
+B013,Company Valuation,0.003
+B192,Leadership,0.00295
+B021,Equity Analysis,0.00279
+company_tier_1,company_tier_1,0.00271
+B094,Information Systems Management,0.00266
+B146,Resource Allocation,0.00262
+B048,Microeconomic Analysis,0.0026
+B113,Marketing Strategy and Planning,0.00247
+B053,Economic Policy Analysis,0.00239
+B132,Product Innovation,0.00227
+B147,Project Management,0.00224
+B025,Real Estate Finance,0.00223
+B167,Entrepreneurship,0.00222
+B159,Strategic Management,0.00217
+grad_year_2020,grad_year_2020,0.00215
+B171,Sports Administration,0.00212
+"location_metro_Tucson, AZ","location_metro_Tucson, AZ",0.00204
+B085,Data Mining (+2 co-taught),0.00197
+B179,Research,0.00196
+B201,Business Opportunity Evaluation,0.00194
+B195,Critical Thinking,0.00193
+B092,Software Engineering (+3 co-taught),0.00171
+industry_sector_Manufacturing,industry_sector_Manufacturing,0.00171
+B083,Data Collection,0.00168
+B127,Marketing Research,0.00166
+B004,Cost Accounting (+4 co-taught),0.00163
+B007,Internal Controls,0.0016
+B017,Investment Analysis,0.00158
+B002,Financial Reporting,0.00148
+major_ENTR,major_ENTR,0.00147
+B145,Manufacturing Product Design (+2 co-taught),0.0014
+B186,Persuasion,0.0014
+B114,Consumer Behavior Analysis,0.00139
+B008,Accounting Information Systems,0.00137
+B037,Venture Capital,0.00137
+B180,Experimental Research,0.00137
+B093,Deception Detection Software,0.00136
+B150,Organizational Behavior,0.00135
+B121,Marketing Performance Measurement,0.00132
+industry_sector_Consulting & Advisory,industry_sector_Consulting & Advisory,0.00131
+B149,Risk Management,0.00128
+B185,Presentation Skills,0.00127
+B162,International Business,0.00125
+B112,Marketing Management,0.00124
+B193,People Management,0.00124
+B169,Healthcare Entrepreneurship,0.00123
+B097,Database Management (+5 co-taught),0.00121
+B056,Monetary Policy Analysis,0.00118
+B182,Information Literacy,0.00118
+B003,Accounting Transaction Recording,0.00117
+B087,Optimization Modeling (+13 co-taught),0.00116
+B135,Operations Management,0.00115
+B153,Compensation and Benefits,0.00115
+B151,Human Resource Management,0.00112
+industry_sector_Technology,industry_sector_Technology,0.00111
+B052,Industrial Organization,0.0011
+B051,Economic History Analysis,0.00109
+B028,Capital Budgeting (+1 co-taught),0.00108
+B012,Financial Forecasting,0.00106
+B126,Market Selection,0.00105
+B148,Project Scope Management (+3 co-taught),0.00105
+B125,Competitive Analysis,0.00104
+B038,Financial Risk Management,0.00102
+B115,Sports Marketing,0.00102
+B036,Private Equity,0.00101
+B129,Sales Operations Management,0.001
+B057,Fiscal Policy Analysis,0.00099
+B005,Federal Taxation (+2 co-taught),0.00095
+B191,Cross-Cultural Competence,0.00095
+B165,Organizational Governance (+2 co-taught),0.00094
+B133,Product Strategy (+2 co-taught),0.00092
+B168,Social Entrepreneurship,0.0009
+"location_metro_Los Angeles-Long Beach-Anaheim, CA","location_metro_Los Angeles-Long Beach-Anaheim, CA",0.0009
+B155,Employee Training and Development,0.00089
+"location_metro_Dallas-Fort Worth-Arlington, TX","location_metro_Dallas-Fort Worth-Arlington, TX",0.00088
+B144,Statistical Process Control,0.00081
+B091,Java (+3 co-taught),0.00079
+B199,Operations Strategy,0.00079
+B032,Capital Structure Analysis,0.00078
+B068,Econometrics,0.00078
+B110,Operations Security,0.00078
+B161,Organizational Change Management,0.00078
+B009,Governmental Accounting (+3 co-taught),0.00077
+B050,Economic Growth and Development,0.00077
+B102,Systems Integration,0.00077
+B175,Business Law,0.00077
+B183,Written Communication,0.00077
+B160,Organization Design,0.00076
+B011,Financial Analysis,0.00075
+B049,Macroeconomic Analysis,0.00075
+B120,Media Planning and Selection,0.00075
+B046,Deal Evaluation (+4 co-taught),0.00074
+B065,Labor Economics,0.00072
+B118,Advertising,0.00071
+B166,Social Innovation,0.00071
+B016,Profitability Analysis,0.00067
+B072,Decision Theory,0.00067
+B111,Risk Reporting and Monitoring (+1 co-taught),0.00067
+B142,Facility Layout and Location (+1 co-taught),0.00067
+B174,Sports Regulatory Compliance,0.00067
+B140,Inventory Management,0.00066
+B190,Conflict Management,0.00066
+B163,Management Consulting (+1 co-taught),0.00065
+B023,Working Capital Management,0.00064
+B178,Property Rights Law,0.00063
+B070,Health Economics,0.00062
+B143,Quality Management,0.00062
+B154,Recruiting and Staffing,0.00062
+B030,Financial Modeling,0.00061
+B138,Logistics (+1 co-taught),0.0006
+B006,Assurance Services,0.00058
+B100,Systems Development Life Cycle (+2 co-taught),0.00058
+B130,International Marketing,0.00058
+"location_metro_Denver-Aurora-Centennial, CO","location_metro_Denver-Aurora-Centennial, CO",0.00058
+B197,Economic Welfare Analysis,0.00057
+"location_metro_Chicago-Naperville-Elgin, IL-IN","location_metro_Chicago-Naperville-Elgin, IL-IN",0.00057
+B116,Marketing Analytics,0.00056
+B137,Supply Chain Management,0.00056
+B139,Procurement (+2 co-taught),0.00056
+B015,Credit Analysis,0.00055
+B040,Options (+1 co-taught),0.00055
+B062,Environmental Economics,0.00054
+B134,Marketing Operations Auditing,0.00053
+B022,Small Business Finance (+2 co-taught),0.00051
+B122,Pricing Strategy (+1 co-taught),0.00051
+B136,Service Operations Management,0.00049
+B128,Integrated Marketing Communications (+2 co-taught),0.00047
+B200,Workplace Diversity Analysis,0.00047
+B047,Cost of Capital Analysis (+6 co-taught),0.00046
+B035,Investment Banking (+1 co-taught),0.00045
+B080,Economic Modeling,0.00045
+company_tier_3,company_tier_3,0.00045
+B073,Behavioral Economics,0.00044
+B170,Healthcare Management,0.00044
+B123,Sales (+1 co-taught),0.00043
+B014,Discounted Cash Flow Valuation (+2 co-taught),0.00042
+B181,Research Problem Definition,0.00042
+B041,Hedging,0.00041
+B107,Systems Security Administration (+1 co-taught),0.00041
+B060,Exchange Rate Analysis,0.0004
+B119,Advertising Message Development,0.00039
+B157,Equal Employment Opportunity,0.00039
+B039,Derivatives (+2 co-taught),0.00037
+B131,Healthcare Marketing,0.00037
+B027,Time Value of Money,0.00036
+B031,Bloomberg,0.00036
+B024,Real Estate Valuation,0.00035
+B066,Labor Market Discrimination Analysis,0.00035
+B077,Information Economics,0.00035
+B124,Retail Marketing (+3 co-taught),0.00035
+B117,Digital Marketing (+3 co-taught),0.00034
+B156,Labor Relations,0.00034
+B033,Corporate Restructuring,0.00033
+B069,Mathematical Economics,0.00033
+B141,Aggregate Planning (+2 co-taught),0.00033
+B071,Public Finance,0.00031
+B026,Real Estate Investment Analysis,0.0003
+B044,Financial Regulation,0.0003
+B058,Law and Economics,0.00029
+B019,Portfolio Diversification (+4 co-taught),0.00028
+B034,Risk-Return Analysis,0.00028
+B079,Regulatory Economics,0.00028
+industry_sector_Market Research,industry_sector_Market Research,0.00028
+B043,Financial Technology (+1 co-taught),0.00027
+B059,International Trade Analysis,0.00027
+B086,Business Modeling and Simulation,0.00025
+B172,Event Management,0.00025
+industry_sector_Advertising & Marketing,industry_sector_Advertising & Marketing,0.00025
+B176,Contract Law,0.00024
+B045,Financial Institution Management,0.00021
+B104,Expert Systems (+5 co-taught),0.00021
+B152,Strategic Human Resource Management,0.00019
+B194,Team Management,0.00019
+industry_sector_Transportation & Logistics,industry_sector_Transportation & Logistics,0.00019
+B173,Sports Facility Operations,0.00018
+B184,Oral Communication,0.00016
+B054,Economics of Crime,0.00013
+B196,Career Planning and Management,0.00013
+B081,Statistical Model Estimation (+2 co-taught),0.0001
+B001,SQL (+9 co-taught),0.00009
+B061,Balance of Payments Analysis,0.00009
+B063,Natural Resource Economics (+1 co-taught),0.00009
+B064,Energy Market Analysis,0.00009
+B075,Economic Damages Estimation,0.00009
+B177,Agency Law (+3 co-taught),0.00009
+B187,Research and Academic Writing,0.00009
+B074,Behavioral Game Theory,0.00008
+B082,Nonparametric Statistics,0.00008
+B198,Tort Law (+1 co-taught),0.00008
+B055,Sports Economics,0.00007
+B067,Experimental Economics,0.00006
+B078,Antitrust Analysis,0.00004
+B076,General Equilibrium Analysis,0.00003

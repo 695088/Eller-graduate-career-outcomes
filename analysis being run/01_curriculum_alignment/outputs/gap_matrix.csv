@@ -1,0 +1,531 @@
+term_id,term,term_source,category,catalog_similarity,best_matching_course,core_similarity,alumni_exposure,matched_hot_technology,target_posting_share,national_job_postings,task_relevance,demand_score,supply_score,alignment_gap,quadrant
+HT_164,Google Docs,onet_hot_technology,Market / Technology,0.0,ECON 313,0.0,0.0,Google Docs,0.0,17733,0.777,0.9736,0.134,0.8396,Market Gap
+HT_080,Oracle PeopleSoft,onet_hot_technology,Market / Technology,0.0,ECON 313,0.0,0.0,Oracle PeopleSoft,0.0017,64274,0.647,0.9604,0.134,0.8264,Market Gap
+HT_157,Apache Hive,onet_hot_technology,Market / Technology,0.0,ECON 313,0.0,0.0,Apache Hive,0.0,21071,0.6336,0.9585,0.134,0.8245,Market Gap
+HT_074,The MathWorks MATLAB,onet_hot_technology,Market / Technology,0.0,ECON 313,0.0,0.0,The MathWorks MATLAB,0.0006,72087,0.6104,0.9528,0.134,0.8189,Market Gap
+HT_134,Adobe Acrobat,onet_hot_technology,Market / Technology,0.0,ECON 313,0.0,0.0,Adobe Acrobat,0.0,30431,0.6102,0.9509,0.134,0.817,Market Gap
+HT_004,Microsoft PowerPoint,onet_hot_technology,Market / Technology,0.0423,FIN 413,0.0,0.0,Microsoft PowerPoint,0.1043,1618650,0.8881,0.9943,0.191,0.8033,Market Gap
+HT_003,Microsoft Outlook,onet_hot_technology,Market / Technology,0.0418,FIN 413,0.0,0.0,Microsoft Outlook,0.0494,1712260,0.8881,0.9925,0.1896,0.8028,Market Gap
+HT_037,Microsoft Visio,onet_hot_technology,Market / Technology,0.0418,FIN 413,0.0,0.0,Microsoft Visio,0.0194,136648,0.8881,0.9868,0.1896,0.7972,Market Gap
+HT_077,Adobe InDesign,onet_hot_technology,Market / Technology,0.0,ECON 313,0.0,0.0,Adobe InDesign,0.005,69049,0.4503,0.9283,0.134,0.7943,Market Gap
+HT_020,Microsoft SharePoint,onet_hot_technology,Market / Technology,0.0428,FIN 413,0.0,0.0,Microsoft SharePoint,0.0176,270377,0.8881,0.9849,0.192,0.7929,Market Gap
+HT_012,R,onet_hot_technology,Market / Technology,0.0,ECON 313,0.0,0.0,R,0.0101,401957,0.445,0.9264,0.134,0.7925,Market Gap
+HT_090,Apple macOS,onet_hot_technology,Market / Technology,0.0,ECON 313,0.0,0.0,Apple macOS,0.0,57496,0.4471,0.9226,0.134,0.7887,Market Gap
+HT_010,SAP software,onet_hot_technology,Market / Technology,0.0577,ACCT 472A,0.0304,0.0,SAP software,0.0481,534138,0.8881,0.9906,0.2042,0.7863,Market Gap
+HT_066,Adobe Illustrator,onet_hot_technology,Market / Technology,0.0,ECON 313,0.0,0.0,Adobe Illustrator,0.005,85736,0.4122,0.9151,0.134,0.7811,Market Gap
+HT_008,Salesforce software,onet_hot_technology,Market / Technology,0.0546,ACCT 472A,0.0288,0.0,Salesforce software,0.0333,581755,0.7928,0.9792,0.2014,0.7778,Market Gap
+HT_047,Adobe Photoshop,onet_hot_technology,Market / Technology,0.0,ECON 313,0.0,0.0,Adobe Photoshop,0.0067,112439,0.3865,0.9075,0.134,0.7736,Market Gap
+HT_001,Microsoft Office software,onet_hot_technology,Market / Technology,0.0937,BNAD 293A,0.0233,0.0,Microsoft Office software,0.1421,3421542,0.8881,0.9962,0.2231,0.7731,Market Gap
+HT_048,Google Angular,onet_hot_technology,Market / Technology,0.0,ECON 313,0.0,0.0,Google Angular,0.0,107378,0.389,0.9057,0.134,0.7717,Market Gap
+HT_150,Swift,onet_hot_technology,Market / Technology,0.0,ECON 313,0.0,0.0,Swift,0.0,25424,0.3877,0.9038,0.134,0.7698,Market Gap
+HT_069,Microsoft SQL Server,onet_hot_technology,Market / Technology,0.0709,ECON 454,0.0,0.0,Microsoft SQL Server,0.0037,76500,0.7617,0.9717,0.209,0.7627,Market Gap
+HT_057,Apache Kafka,onet_hot_technology,Market / Technology,0.0,ECON 313,0.0,0.0,Apache Kafka,0.0,93897,0.373,0.8962,0.134,0.7623,Market Gap
+HT_070,Apache Spark,onet_hot_technology,Market / Technology,0.0,ECON 313,0.0,0.0,Apache Spark,0.0,74535,0.373,0.8962,0.134,0.7623,Market Gap
+HT_133,Apache Maven,onet_hot_technology,Market / Technology,0.0,ECON 313,0.0,0.0,Apache Maven,0.0,30459,0.373,0.8962,0.134,0.7623,Market Gap
+HT_093,ESRI ArcGIS software,onet_hot_technology,Market / Technology,0.0374,ACCT 472A,0.0197,0.0,ESRI ArcGIS software,0.0,53860,0.537,0.9415,0.1854,0.7561,Market Gap
+HT_142,Microsoft SQL Server Reporting Services SSRS,onet_hot_technology,Market / Technology,0.0782,MKTG 459,0.0,0.0,Microsoft SQL Server Reporting Services SSRS,0.001,28273,0.7402,0.9679,0.2156,0.7524,Market Gap
+HT_016,Atlassian JIRA,onet_hot_technology,Market / Technology,0.0,ECON 313,0.0,0.0,Atlassian JIRA,0.0243,294946,0.3327,0.8792,0.134,0.7453,Market Gap
+HT_145,Microsoft SQL Server Integration Services SSIS,onet_hot_technology,Market / Technology,0.0749,MKTG 459,0.0,0.0,Microsoft SQL Server Integration Services SSIS,0.0,26640,0.6304,0.9566,0.2127,0.7439,Market Gap
+HT_005,Microsoft Word,onet_hot_technology,Market / Technology,0.1561,OSCM 574,0.0,0.0,Microsoft Word,0.0291,956468,0.8881,0.9887,0.2476,0.741,Market Gap
+HT_162,IBM SPSS Statistics,onet_hot_technology,Market / Technology,0.1236,ECON 454,0.0861,0.0,IBM SPSS Statistics,0.0,19444,0.7915,0.9755,0.2354,0.7401,Market Gap
+HT_169,Apache Subversion SVN,onet_hot_technology,Market / Technology,0.0,ECON 313,0.0,0.0,Apache Subversion SVN,0.0,16233,0.3486,0.8736,0.134,0.7396,Market Gap
+HT_078,MySQL,onet_hot_technology,Market / Technology,0.0,ECON 313,0.0,0.0,MySQL,0.0,68439,0.3468,0.8717,0.134,0.7377,Market Gap
+HT_107,MEDITECH software,onet_hot_technology,Market / Technology,0.0513,ACCT 472A,0.027,0.0,MEDITECH software,0.0,42423,0.5027,0.9377,0.2005,0.7373,Market Gap
+HT_110,Alteryx software,onet_hot_technology,Market / Technology,0.0501,ACCT 472A,0.0264,0.0,Alteryx software,0.0029,39519,0.4651,0.9302,0.1986,0.7316,Market Gap
+HT_013,Microsoft Power BI,onet_hot_technology,Market / Technology,0.0773,ECON 460,0.0,0.0,Microsoft Power BI,0.0363,357898,0.5102,0.9434,0.2137,0.7297,Market Gap
+HT_089,Oracle Primavera Enterprise Project Portfolio Management,onet_hot_technology,Market / Technology,0.1392,MKTG 459,0.0236,0.0,Oracle Primavera Enterprise Project Portfolio Management,0.0,58120,0.7444,0.9698,0.2401,0.7297,Market Gap
+HT_152,Cisco Webex,onet_hot_technology,Market / Technology,0.0,ECON 313,0.0,0.0,Cisco Webex,0.0,23814,0.332,0.8623,0.134,0.7283,Market Gap
+HT_143,Red Hat Enterprise Linux,onet_hot_technology,Market / Technology,0.0659,FIN 311,0.0,0.0,Red Hat Enterprise Linux,0.0,27488,0.4992,0.9358,0.208,0.7278,Market Gap
+HT_042,GitHub,onet_hot_technology,Market / Technology,0.0,ECON 313,0.0,0.0,GitHub,0.0,120145,0.332,0.8604,0.134,0.7264,Market Gap
+HT_126,SAP Concur,onet_hot_technology,Market / Technology,0.0,ECON 313,0.0,0.0,SAP Concur,0.0,32323,0.3302,0.8585,0.134,0.7245,Market Gap
+HT_036,Microsoft Project,onet_hot_technology,Market / Technology,0.1399,MIS 441,0.0,0.0,Microsoft Project,0.0028,138421,0.6601,0.9642,0.241,0.7231,Market Gap
+HT_097,Slack,onet_hot_technology,Market / Technology,0.0,ECON 313,0.0,0.0,Slack,0.0,52537,0.3194,0.8566,0.134,0.7226,Market Gap
+HT_041,Atlassian Confluence,onet_hot_technology,Market / Technology,0.0,ECON 313,0.0,0.0,Atlassian Confluence,0.0091,120230,0.2925,0.8547,0.134,0.7208,Market Gap
+HT_144,Microsoft Visual Basic,onet_hot_technology,Market / Technology,0.1082,MIS 464,0.0893,0.0,Microsoft Visual Basic,0.0,27205,0.5831,0.9491,0.2307,0.7184,Market Gap
+HT_114,Microsoft Visual Basic for Applications VBA,onet_hot_technology,Market / Technology,0.0997,ECON 300,0.0618,0.0,Microsoft Visual Basic for Applications VBA,0.0035,37133,0.5576,0.9453,0.2278,0.7175,Market Gap
+HT_171,Apache Tomcat,onet_hot_technology,Market / Technology,0.0,ECON 313,0.0,0.0,Apache Tomcat,0.0,14763,0.2944,0.8453,0.134,0.7113,Market Gap
+HT_081,Microsoft Windows Server,onet_hot_technology,Market / Technology,0.0293,FIN 413,0.0,0.0,Microsoft Windows Server,0.001,63245,0.3678,0.8906,0.1797,0.7108,Market Gap
+HT_165,Marketo Marketing Automation,onet_hot_technology,Market / Technology,0.1703,MIS 441,0.0,0.0,Marketo Marketing Automation,0.0017,17298,0.6659,0.966,0.2552,0.7108,Market Gap
+HT_099,Apache Hadoop,onet_hot_technology,Market / Technology,0.0,ECON 313,0.0,0.0,Apache Hadoop,0.0,46504,0.2845,0.8415,0.134,0.7075,Market Gap
+HT_082,Google Analytics,onet_hot_technology,Market / Technology,0.1419,MKTG 376,0.0803,0.0,Google Analytics,0.0117,62279,0.569,0.9472,0.242,0.7052,Market Gap
+HT_025,Git,onet_hot_technology,Market / Technology,0.0,ECON 313,0.0,0.0,Git,0.001,194791,0.2765,0.833,0.134,0.6991,Market Gap
+HT_034,C#,onet_hot_technology,Market / Technology,0.0,ECON 313,0.0,0.0,C#,0.001,150113,0.2765,0.833,0.134,0.6991,Market Gap
+HT_073,Extensible markup language XML,onet_hot_technology,Market / Technology,0.0815,BNAD 100,0.0,0.0,Extensible markup language XML,0.0019,72716,0.4421,0.9189,0.2203,0.6986,Market Gap
+HT_174,Microsoft Team Foundation Server,onet_hot_technology,Market / Technology,0.0773,ECON 426,0.066,0.0,Microsoft Team Foundation Server,0.0,14136,0.41,0.9132,0.2146,0.6986,Market Gap
+HT_166,Hibernate ORM,onet_hot_technology,Market / Technology,0.0,ECON 313,0.0,0.0,Hibernate ORM,0.0,17185,0.2765,0.8302,0.134,0.6962,Market Gap
+HT_116,Oracle PL/SQL,onet_hot_technology,Market / Technology,0.0583,ECON 454,0.0,0.0,Oracle PL/SQL,0.0,36694,0.3759,0.9,0.2052,0.6948,Market Gap
+HT_050,Adobe Creative Cloud software,onet_hot_technology,Market / Technology,0.0313,ACCT 472A,0.0165,0.0,Adobe Creative Cloud software,0.0084,102109,0.3379,0.8698,0.1807,0.6892,Market Gap
+HT_015,Epic Systems,onet_hot_technology,Market / Technology,0.1054,MIS 331,0.0552,0.0,Epic Systems,0.0,311250,0.4257,0.917,0.2288,0.6882,Market Gap
+HT_043,Workday software,onet_hot_technology,Market / Technology,0.0501,ACCT 472A,0.0264,0.0,Workday software,0.0044,119353,0.3571,0.8868,0.1986,0.6882,Market Gap
+HT_163,Teradata Database,onet_hot_technology,Market / Technology,0.1673,MIS 331,0.0,0.0,Teradata Database,0.0,18450,0.5267,0.9396,0.2524,0.6873,Market Gap
+HT_049,PostgreSQL,onet_hot_technology,Market / Technology,0.0,ECON 313,0.0,0.0,PostgreSQL,0.0,102234,0.2765,0.8208,0.134,0.6868,Market Gap
+HT_061,Bash,onet_hot_technology,Market / Technology,0.0,ECON 313,0.0,0.0,Bash,0.0,90317,0.2765,0.8208,0.134,0.6868,Market Gap
+HT_108,Scala,onet_hot_technology,Market / Technology,0.0,ECON 313,0.0,0.0,Scala,0.0,42375,0.2765,0.8208,0.134,0.6868,Market Gap
+HT_117,jQuery,onet_hot_technology,Market / Technology,0.0,ECON 313,0.0,0.0,jQuery,0.0,36266,0.2765,0.8208,0.134,0.6868,Market Gap
+HT_118,Selenium,onet_hot_technology,Market / Technology,0.0,ECON 313,0.0,0.0,Selenium,0.0,35962,0.2765,0.8208,0.134,0.6868,Market Gap
+HT_147,JUnit,onet_hot_technology,Market / Technology,0.0,ECON 313,0.0,0.0,JUnit,0.0,26006,0.2765,0.8208,0.134,0.6868,Market Gap
+HT_160,Puppet,onet_hot_technology,Market / Technology,0.0,ECON 313,0.0,0.0,Puppet,0.0,19845,0.2765,0.8208,0.134,0.6868,Market Gap
+HT_176,Chef,onet_hot_technology,Market / Technology,0.0,ECON 313,0.0,0.0,Chef,0.0,12822,0.2765,0.8208,0.134,0.6868,Market Gap
+HT_068,Yardi software,onet_hot_technology,Market / Technology,0.0501,ACCT 472A,0.0264,0.0,Yardi software,0.0011,80783,0.3578,0.883,0.1986,0.6844,Market Gap
+HT_028,Intuit QuickBooks,onet_hot_technology,Market / Technology,0.1447,OSCM 471,0.0,0.0,Intuit QuickBooks,0.0089,174071,0.4445,0.9245,0.2439,0.6807,Market Gap
+HT_051,Microsoft Windows,onet_hot_technology,Market / Technology,0.0392,FIN 413,0.0,0.0,Microsoft Windows,0.001,101127,0.3332,0.866,0.1873,0.6788,Market Gap
+HT_060,Ansible software,onet_hot_technology,Market / Technology,0.0488,ACCT 472A,0.0257,0.0,Ansible software,0.0,91099,0.3545,0.8755,0.1967,0.6788,Market Gap
+HT_007,Structured query language SQL,onet_hot_technology,Market / Technology,0.1908,MIS 331,0.0,0.0,Structured query language SQL,0.0748,758250,0.4145,0.934,0.259,0.675,Market Gap
+HT_149,Oracle Database,onet_hot_technology,Market / Technology,0.183,MIS 331,0.0,0.0,Oracle Database,0.0,25508,0.4868,0.9321,0.2571,0.675,Market Gap
+HT_146,Red Hat OpenShift,onet_hot_technology,Market / Technology,0.0,ECON 313,0.0,0.0,Red Hat OpenShift,0.0,26420,0.2711,0.8075,0.134,0.6736,Market Gap
+HT_031,Hypertext markup language HTML,onet_hot_technology,Market / Technology,0.0795,BNAD 100,0.0,0.0,Hypertext markup language HTML,0.006,165587,0.3611,0.8887,0.2184,0.6703,Market Gap
+HT_154,Transact-SQL,onet_hot_technology,Market / Technology,0.144,ACCT 400C,0.1073,0.0,Transact-SQL,0.0,23235,0.4078,0.9113,0.2429,0.6684,Market Gap
+HT_029,Microsoft Teams,onet_hot_technology,Market / Technology,0.124,MKTG 355,0.0,0.0,Microsoft Teams,0.0028,172827,0.3766,0.9019,0.2363,0.6656,Market Gap
+HT_119,Oracle Cloud software,onet_hot_technology,Market / Technology,0.0396,ACCT 472A,0.0209,0.0,Oracle Cloud software,0.0,35498,0.2944,0.8472,0.1882,0.659,Market Gap
+HT_045,Microsoft PowerShell,onet_hot_technology,Market / Technology,0.0362,FIN 413,0.0,0.0,Microsoft PowerShell,0.0019,117634,0.2781,0.8377,0.1835,0.6542,Market Gap
+HT_167,UNIX Shell,onet_hot_technology,Market / Technology,0.0,ECON 313,0.0,0.0,UNIX Shell,0.0,16981,0.246,0.7849,0.134,0.6509,Market Gap
+HT_072,Splunk Enterprise,onet_hot_technology,Market / Technology,0.0996,FIN 311,0.0,0.0,Splunk Enterprise,0.0,73191,0.3568,0.8774,0.2269,0.6505,Market Gap
+HT_138,IBM WebSphere MQ,onet_hot_technology,Market / Technology,0.0472,MIS 464,0.0,0.0,IBM WebSphere MQ,0.0,28942,0.2816,0.8396,0.1948,0.6448,Market Gap
+HT_121,Google Looker Analytics,onet_hot_technology,Market / Technology,0.0953,MKTG 376,0.0539,0.0,Google Looker Analytics,0.0017,35309,0.3328,0.8679,0.2241,0.6439,Market Gap
+HT_023,Linux,onet_hot_technology,Market / Technology,0.0,ECON 313,0.0,0.0,Linux,0.0029,253247,0.228,0.7755,0.134,0.6415,Market Gap
+HT_175,Facebook,onet_hot_technology,Market / Technology,0.0,ECON 313,0.0,0.0,Facebook,0.0017,13302,0.2225,0.7679,0.134,0.634,Market Gap
+HT_136,Microsoft Visual Studio,onet_hot_technology,Market / Technology,0.0837,ECON 454,0.0751,0.0,Microsoft Visual Studio,0.0,29974,0.3007,0.8528,0.2212,0.6316,Market Gap
+HT_030,Zoom,onet_hot_technology,Market / Technology,0.0,ECON 313,0.0,0.0,Zoom,0.0,170979,0.2225,0.7642,0.134,0.6302,Market Gap
+HT_109,SAP ERP,onet_hot_technology,Market / Technology,0.1233,MIS 427,0.0,0.0,SAP ERP,0.0019,40120,0.3308,0.8642,0.2344,0.6297,Market Gap
+HT_059,UNIX,onet_hot_technology,Market / Technology,0.0,ECON 313,0.0,0.0,UNIX,0.001,92155,0.221,0.7623,0.134,0.6283,Market Gap
+HT_112,Shell script,onet_hot_technology,Market / Technology,0.0,ECON 313,0.0,0.0,Shell script,0.0,38645,0.2101,0.7509,0.134,0.617,Market Gap
+HT_156,Microsoft ASP.NET,onet_hot_technology,Market / Technology,0.0269,FIN 413,0.0,0.0,Microsoft ASP.NET,0.0,22338,0.253,0.7925,0.1788,0.6137,Market Gap
+HT_122,Amazon Redshift,onet_hot_technology,Market / Technology,0.0,ECON 313,0.0,0.0,Amazon Redshift,0.0,33944,0.2015,0.7434,0.134,0.6094,Market Gap
+HT_079,HubSpot software,onet_hot_technology,Market / Technology,0.0472,ACCT 472A,0.0249,0.0,HubSpot software,0.0067,64515,0.256,0.8038,0.1958,0.608,Market Gap
+HT_120,Microsoft Power Automate,onet_hot_technology,Market / Technology,0.1658,MIS 441,0.0,0.0,Microsoft Power Automate,0.0,35345,0.2971,0.8509,0.2495,0.6014,Market Gap
+HT_151,Adobe After Effects,onet_hot_technology,Market / Technology,0.1608,MGMT 336,0.0,0.0,Adobe After Effects,0.0,24227,0.2776,0.8358,0.2486,0.5873,Market Gap
+HT_009,Amazon Web Services AWS software,onet_hot_technology,Market / Technology,0.0783,MKTG 459,0.0146,0.0,Amazon Web Services AWS software,0.0068,537989,0.2524,0.7981,0.2165,0.5816,Market Gap
+HT_094,Spring Framework,onet_hot_technology,Market / Technology,0.1372,MGMT 486,0.0,0.0,Spring Framework,0.0,53701,0.2765,0.8208,0.2392,0.5816,Market Gap
+HT_139,Oracle Java 2 Platform Enterprise Edition J2EE,onet_hot_technology,Market / Technology,0.0803,MIS 406,0.0,0.0,Oracle Java 2 Platform Enterprise Edition J2EE,0.0,28832,0.2592,0.8,0.2193,0.5807,Market Gap
+HT_137,IBM DB2,onet_hot_technology,Market / Technology,0.0642,MIS 464,0.0,0.0,IBM DB2,0.0,29004,0.2473,0.7868,0.2071,0.5797,Market Gap
+HT_087,MongoDB,onet_hot_technology,Market / Technology,0.0,ECON 313,0.0,0.0,MongoDB,0.0,58942,0.1797,0.7104,0.134,0.5764,Market Gap
+HT_158,Elasticsearch,onet_hot_technology,Market / Technology,0.0,ECON 313,0.0,0.0,Elasticsearch,0.0,20418,0.1797,0.7104,0.134,0.5764,Market Gap
+HT_063,SAS,onet_hot_technology,Market / Technology,0.2557,ECON 454,0.0,0.0301,SAS,0.004,89247,0.6099,0.9547,0.3844,0.5703,Market Gap
+HT_071,Canva,onet_hot_technology,Market / Technology,0.0,ECON 313,0.0,0.0,Canva,0.01,74016,0.1671,0.7038,0.134,0.5698,Market Gap
+HT_127,Microsoft Power Platform software,onet_hot_technology,Market / Technology,0.1096,OSCM 471,0.0169,0.0,Microsoft Power Platform software,0.0,32184,0.2573,0.7943,0.2316,0.5627,Market Gap
+HT_153,Oracle SQL Developer,onet_hot_technology,Market / Technology,0.099,MGMT 483,0.051,0.0,Oracle SQL Developer,0.0,23366,0.25,0.7887,0.2259,0.5627,Market Gap
+HT_084,TikTok,onet_hot_technology,Market / Technology,0.0,ECON 313,0.0,0.0,TikTok,0.0084,60617,0.1671,0.6962,0.134,0.5623,Market Gap
+HT_018,Microsoft Access,onet_hot_technology,Market / Technology,0.1302,ECON 454,0.0,0.0,Microsoft Access,0.0172,285321,0.2417,0.7962,0.2373,0.559,Market Gap
+HT_095,Google Sheets,onet_hot_technology,Market / Technology,0.1495,ACCT 451,0.0,0.0,Google Sheets,0.0,53396,0.2637,0.8057,0.2467,0.559,Market Gap
+HT_113,Kronos Workforce Timekeeper,onet_hot_technology,Market / Technology,0.0,ECON 313,0.0,0.0,Kronos Workforce Timekeeper,0.0006,37976,0.1736,0.6925,0.134,0.5585,Market Gap
+HT_105,Amazon Web Services AWS CloudFormation,onet_hot_technology,Market / Technology,0.0739,MKTG 459,0.0,0.0,Amazon Web Services AWS CloudFormation,0.0,43162,0.2239,0.766,0.2118,0.5542,Market Gap
+HT_011,Microsoft Azure software,onet_hot_technology,Market / Technology,0.0378,ACCT 472A,0.0199,0.0,Microsoft Azure software,0.0086,454236,0.1877,0.7377,0.1863,0.5514,Market Gap
+HT_111,WordPress,onet_hot_technology,Market / Technology,0.0,ECON 313,0.0,0.0,WordPress,0.005,38706,0.1671,0.683,0.134,0.5491,Market Gap
+HT_017,JavaScript,onet_hot_technology,Market / Technology,0.0,ECON 313,0.0,0.0,JavaScript,0.0036,289509,0.1671,0.6755,0.134,0.5415,Market Gap
+HT_103,Asana,onet_hot_technology,Market / Technology,0.0,ECON 313,0.0,0.0,Asana,0.0017,44167,0.1671,0.6698,0.134,0.5358,Market Gap
+HT_135,PHP,onet_hot_technology,Market / Technology,0.0,ECON 313,0.0,0.0,PHP,0.0,30118,0.1671,0.666,0.134,0.5321,Market Gap
+HT_054,Microsoft Edge,onet_hot_technology,Market / Technology,0.037,FIN 413,0.0,0.0,Microsoft Edge,0.0,95077,0.1814,0.7151,0.1844,0.5307,Market Gap
+HT_098,Google Android,onet_hot_technology,Market / Technology,0.0,ECON 313,0.0,0.0,Google Android,0.0,49587,0.1642,0.6642,0.134,0.5302,Market Gap
+HT_032,ServiceNow,onet_hot_technology,Market / Technology,0.0,ECON 313,0.0,0.0,ServiceNow,0.0069,165178,0.153,0.6585,0.134,0.5245,Market Gap
+SK_001,SQL,course_skill,Technical / Database,0.2857,MIS 331,0.0809,0.0793,Structured query language SQL,0.0748,758250,0.7645,0.983,0.4642,0.5189,Market Gap
+HT_148,Trimble SketchUp Pro,onet_hot_technology,Market / Technology,0.0726,ACCT 451,0.0,0.0,Trimble SketchUp Pro,0.0,25887,0.1872,0.7245,0.2108,0.5137,Market Gap
+HT_092,Spring Boot,onet_hot_technology,Market / Technology,0.0,ECON 313,0.0,0.0,Spring Boot,0.0,54607,0.1537,0.6472,0.134,0.5132,Market Gap
+HT_125,Intuit TurboTax,onet_hot_technology,Market / Technology,0.1333,OSCM 471,0.0,0.0,Intuit TurboTax,0.0,32408,0.2047,0.7472,0.2382,0.509,Market Gap
+HT_035,Cascading style sheets CSS,onet_hot_technology,Market / Technology,0.0872,ACCT 451,0.0,0.0,Cascading style sheets CSS,0.0026,147083,0.1905,0.7302,0.2222,0.508,Market Gap
+HT_140,Amazon DynamoDB,onet_hot_technology,Market / Technology,0.0,ECON 313,0.0,0.0,Amazon DynamoDB,0.0,28602,0.1494,0.6396,0.134,0.5057,Market Gap
+HT_102,Apache Airflow,onet_hot_technology,Market / Technology,0.0,ECON 313,0.0,0.0,Apache Airflow,0.0,45007,0.1475,0.633,0.134,0.4991,Market Gap
+HT_161,Apache Cassandra,onet_hot_technology,Market / Technology,0.0,ECON 313,0.0,0.0,Apache Cassandra,0.0,19573,0.1475,0.633,0.134,0.4991,Market Gap
+HT_014,Oracle Java,onet_hot_technology,Market / Technology,0.1466,MIS 301,0.0,0.0,Oracle Java,0.0037,333511,0.1901,0.7321,0.2448,0.4873,Market Gap
+HT_053,Apple Safari,onet_hot_technology,Market / Technology,0.0,ECON 313,0.0,0.0,Apple Safari,0.0,95948,0.1423,0.6123,0.134,0.4783,Market Gap
+HT_065,Apple iOS,onet_hot_technology,Market / Technology,0.0,ECON 313,0.0,0.0,Apple iOS,0.0,88449,0.1423,0.6123,0.134,0.4783,Market Gap
+HT_002,Microsoft Excel,onet_hot_technology,Market / Technology,0.291,FIN 397,0.1119,0.1161,Microsoft Excel,0.1923,3211598,0.8881,0.9991,0.5358,0.4632,High Alignment
+HT_038,IBM Terraform,onet_hot_technology,Market / Technology,0.0616,MIS 464,0.0,0.0,IBM Terraform,0.0,134414,0.1626,0.6604,0.2061,0.4542,Market Gap
+HT_170,Microsoft Active Server Pages ASP,onet_hot_technology,Market / Technology,0.055,MGMT 473B,0.0273,0.0,Microsoft Active Server Pages ASP,0.0,15327,0.1563,0.6509,0.2024,0.4486,Market Gap
+SK_266,Project Scope Management,course_skill,Technical / Management,0.1843,MIS 478,0.0432,0.0,,0.0,0,0.1758,0.7019,0.258,0.4439,Market Gap
+HT_022,Google Workspace software,onet_hot_technology,Market / Technology,0.0352,ACCT 472A,0.0185,0.0,Google Workspace software,0.0,260433,0.1444,0.6226,0.1825,0.4401,Market Gap
+SK_150,Business Intelligence,course_skill,Technical / Analytics,0.2932,MIS 464,0.0929,0.0776,,0.0,0,0.3613,0.8849,0.4557,0.4292,Market Gap
+HT_040,Microsoft Active Directory,onet_hot_technology,Market / Technology,0.0791,MGMT 473B,0.0392,0.0,Microsoft Active Directory,0.0,120463,0.1493,0.6377,0.2175,0.4203,Market Gap
+SK_320,Visual Communication,course_skill,Professional / Communication,0.148,BCOM 312,0.0999,0.0,,0.0,0,0.1447,0.6245,0.2458,0.3788,Market Gap
+SK_164,Excel Macros,course_skill,Technical / Analytics,0.2438,ECON 482,0.0868,0.0567,,0.0,0,0.2424,0.783,0.4075,0.3755,Market Gap
+HT_021,Autodesk AutoCAD,onet_hot_technology,Market / Technology,0.0,ECON 313,0.0,0.0,Autodesk AutoCAD,0.0,265898,0.1111,0.5094,0.134,0.3755,Market Gap
+SK_025,Fund Accounting,course_skill,Technical / Accounting,0.3006,ACCT 472A,0.0809,0.1061,,0.0,0,0.3701,0.8925,0.5184,0.3741,High Alignment
+HT_100,Microsoft .NET Framework,onet_hot_technology,Market / Technology,0.107,MGMT 486,0.0,0.0,Microsoft .NET Framework,0.0,45993,0.1345,0.5887,0.2297,0.359,Market Gap
+HT_130,Informatica software,onet_hot_technology,Market / Technology,0.0461,ACCT 472A,0.0243,0.0,Informatica software,0.0,31034,0.124,0.5528,0.1939,0.359,Market Gap
+SK_145,Tableau,course_skill,Technical / Analytics,0.2233,BNAN 277,0.2233,1.0,Tableau,0.0369,278034,0.7914,0.9811,0.6547,0.3264,High Alignment
+HT_019,Tableau,onet_hot_technology,Market / Technology,0.2233,BNAN 277,0.2233,1.0,Tableau,0.0369,278034,0.777,0.9774,0.6547,0.3226,High Alignment
+SK_144,Microsoft Excel,course_skill,Technical / Analytics,0.3672,OSCM 471,0.1886,0.2241,Microsoft Excel,0.1923,3211598,0.8881,0.9991,0.6887,0.3104,High Alignment
+HT_027,Docker,onet_hot_technology,Market / Technology,0.0,ECON 313,0.0,0.0,Docker,0.0,183266,0.0968,0.4226,0.134,0.2887,Low Priority
+HT_033,React,onet_hot_technology,Market / Technology,0.0,ECON 313,0.0,0.0,React,0.0,152183,0.0968,0.4226,0.134,0.2887,Low Priority
+HT_172,Django,onet_hot_technology,Market / Technology,0.0,ECON 313,0.0,0.0,Django,0.0,14417,0.0968,0.4226,0.134,0.2887,Low Priority
+HT_075,Procore software,onet_hot_technology,Market / Technology,0.0451,ACCT 472A,0.0238,0.0,Procore software,0.0,71562,0.1046,0.4698,0.1929,0.2769,Low Priority
+HT_067,Dassault Systemes SolidWorks,onet_hot_technology,Market / Technology,0.0713,MIS 331,0.0373,0.0,Dassault Systemes SolidWorks,0.0,82937,0.106,0.4774,0.2099,0.2675,Low Priority
+SK_053,Financial Planning,course_skill,Technical / Finance,0.3213,FIN 413,0.081,0.086,,0.0,0,0.2244,0.7698,0.5038,0.266,High Alignment
+SK_268,Project Schedule Management,course_skill,Technical / Management,0.2663,MIS 478,0.0331,0.0812,,0.0,0,0.1835,0.7189,0.4613,0.2575,Market Gap
+SK_071,Financial Technology,course_skill,Technical / Finance,0.3637,FIN 430,0.0719,0.0496,,0.0,0,0.198,0.7396,0.4892,0.2505,Market Gap
+SK_135,SAS,course_skill,Technical / Statistics,0.3345,BNAN 277,0.3345,1.0,SAS,0.004,89247,0.6502,0.9623,0.7222,0.2401,High Alignment
+HT_124,Atlassian Bitbucket,onet_hot_technology,Market / Technology,0.0,ECON 313,0.0,0.0,Atlassian Bitbucket,0.0,32813,0.0889,0.3736,0.134,0.2396,Low Priority
+SK_140,Data Integration,course_skill,Technical / Analytics,0.2172,ECON 454,0.1154,0.0301,,0.0,0,0.1374,0.5981,0.3637,0.2344,Market Gap
+HT_129,eClinicalWorks EHR software,onet_hot_technology,Market / Technology,0.0331,ACCT 472A,0.0174,0.0,eClinicalWorks EHR software,0.0,31529,0.0961,0.4151,0.1816,0.2335,Low Priority
+SK_177,Digital Literacy,course_skill,Technical / Information Systems,0.3622,MIS 304,0.1256,0.0788,,0.0,0,0.212,0.7528,0.5203,0.2325,High Alignment
+SK_341,Professional Networking,course_skill,Professional / Career,0.2421,BNAD 201,0.1363,0.0831,,0.0,0,0.1707,0.6774,0.4538,0.2236,Market Gap
+SK_184,Database Concurrency Control,course_skill,Technical / Database,0.3347,MIS 331,0.0,0.0793,,0.0,0,0.1838,0.7208,0.4991,0.2217,Market Gap
+SK_160,Excel Functions,course_skill,Technical / Analytics,0.3512,OSCM 471,0.0895,0.1135,,0.0,0,0.2502,0.7906,0.575,0.2156,High Alignment
+SK_100,Exchange Rate Analysis,course_skill,Technical / Economics,0.3923,ECON 442,0.0425,0.0299,,0.0,0,0.1758,0.7,0.4953,0.2047,Market Gap
+SK_275,Strategic Human Resource Management,course_skill,Technical / HR,0.394,MGMT 433,0.1592,0.15,,0.0,0,0.3575,0.8811,0.6764,0.2047,High Alignment
+SK_281,Human Resource Planning,course_skill,Technical / HR,0.3202,MGMT 460,0.0,0.2268,,0.0,0,0.2941,0.8434,0.6443,0.1991,High Alignment
+HT_104,Amazon Elastic Compute Cloud EC2,onet_hot_technology,Market / Technology,0.0551,MIS 464,0.0,0.0,Amazon Elastic Compute Cloud EC2,0.0,43300,0.0928,0.3981,0.2033,0.1948,Low Priority
+SK_267,Project Cost Management,course_skill,Technical / Management,0.2567,MIS 441,0.0853,0.1253,,0.0,0,0.1903,0.7283,0.534,0.1943,High Alignment
+SK_196,Enterprise Resource Planning,course_skill,Technical / Information Systems,0.3987,MIS 427,0.0,0.0818,SAP ERP,0.0019,40120,0.2254,0.7736,0.5811,0.1925,High Alignment
+SK_274,Human Resource Management,course_skill,Technical / HR,0.4573,MGMT 330,0.0425,0.15,,0.0,0,0.4446,0.9208,0.7297,0.191,High Alignment
+SK_333,Team Management,course_skill,Professional / Leadership,0.3033,MGMT 444,0.0434,0.0423,,0.0,0,0.1398,0.6075,0.4165,0.191,Market Gap
+SK_317,Written Communication,course_skill,Professional / Communication,0.3225,MGMT 493L,0.0893,0.0848,,0.0,0,0.1732,0.6868,0.5028,0.184,High Alignment
+SK_149,Web Mining,course_skill,Technical / Analytics,0.3406,MIS 464,0.0709,0.0776,,0.0,0,0.1701,0.6717,0.4934,0.1783,Market Gap
+SK_294,Fundraising,course_skill,Technical / Management,0.1681,MGMT 381,0.0,0.0,,0.0,0,0.0975,0.4302,0.2542,0.1759,Low Priority
+SK_197,Expert Systems,course_skill,Technical / Information Systems,0.3075,MGMT 460,0.0546,0.1045,,0.0,0,0.1737,0.6887,0.516,0.1726,High Alignment
+HT_006,Python,onet_hot_technology,Market / Technology,0.0,ECON 313,0.0,0.0,Python,0.0204,814960,0.0562,0.3019,0.134,0.1679,Low Priority
+SK_174,Financial Application Automation,course_skill,Technical / AI,0.3035,FIN 435,0.0541,0.0489,,0.0,0,0.1372,0.5962,0.433,0.1632,Market Gap
+SK_190,Technology Acceptance Evaluation,course_skill,Technical / Information Systems,0.3786,MIS 406,0.0575,0.077,,0.0,0,0.1739,0.6906,0.5302,0.1604,High Alignment
+SK_269,Project Quality Management,course_skill,Technical / Management,0.3022,MGMT 465,0.034,0.149,,0.0,0,0.1823,0.717,0.5778,0.1392,High Alignment
+SK_130,Panel Data Modeling,course_skill,Technical / Statistics,0.3553,ECON 454,0.1058,0.0301,,0.0,0,0.1352,0.5906,0.4524,0.1382,Market Gap
+SK_043,Mutual Fund Analysis,course_skill,Technical / Finance,0.2643,FIN 302,0.042,0.0485,,0.0,0,0.118,0.5377,0.4047,0.133,Market Gap
+SK_163,Conditional Formatting,course_skill,Technical / Analytics,0.3337,OSCM 471,0.0676,0.1428,,0.0,0,0.1888,0.7264,0.5934,0.133,High Alignment
+SK_161,Excel Named Ranges,course_skill,Technical / Analytics,0.3584,OSCM 471,0.0648,0.1135,,0.0,0,0.181,0.7132,0.5807,0.1325,High Alignment
+SK_170,Software Engineering,course_skill,Technical / Programming,0.2786,MIS 406,0.0425,0.077,,0.0,0,0.1301,0.5755,0.4434,0.1321,Market Gap
+HT_083,Autodesk AutoCAD Civil 3D,onet_hot_technology,Market / Technology,0.0,ECON 313,0.0,0.0,Autodesk AutoCAD Civil 3D,0.0,61510,0.0686,0.2528,0.134,0.1189,Low Priority
+SK_019,Tax Planning,course_skill,Technical / Accounting,0.4448,ACCT 420,0.0,0.1039,,0.0,0,0.2218,0.7604,0.6443,0.116,High Alignment
+SK_018,Tax Compliance,course_skill,Technical / Accounting,0.4587,ACCT 420,0.0,0.1039,,0.0,0,0.2246,0.7717,0.6594,0.1123,High Alignment
+SK_327,Teamwork and Collaboration,course_skill,Professional / Collaboration,0.3611,FIN 303,0.1118,0.2717,,0.0,0,0.262,0.8019,0.7028,0.0991,High Alignment
+SK_078,Investment Fund Structuring,course_skill,Technical / Finance,0.2764,FIN 434,0.0,0.1293,,0.0,0,0.1457,0.6264,0.5448,0.0816,High Alignment
+SK_249,Warehousing,course_skill,Technical / Operations,0.2586,OSCM 477,0.0413,0.1743,,0.0,0,0.1595,0.6566,0.5774,0.0792,High Alignment
+HT_026,C++,onet_hot_technology,Market / Technology,0.0,ECON 313,0.0,0.0,C++,0.0,183961,0.0562,0.2075,0.134,0.0736,Low Priority
+HT_085,PyTorch,onet_hot_technology,Market / Technology,0.0,ECON 313,0.0,0.0,PyTorch,0.0,59773,0.0562,0.2075,0.134,0.0736,Low Priority
+HT_091,TensorFlow,onet_hot_technology,Market / Technology,0.0,ECON 313,0.0,0.0,TensorFlow,0.0,55903,0.0562,0.2075,0.134,0.0736,Low Priority
+HT_106,Perl,onet_hot_technology,Market / Technology,0.0,ECON 313,0.0,0.0,Perl,0.0,42533,0.0562,0.2075,0.134,0.0736,Low Priority
+HT_132,Ruby,onet_hot_technology,Market / Technology,0.0,ECON 313,0.0,0.0,Ruby,0.0,30495,0.0562,0.2075,0.134,0.0736,Low Priority
+SK_185,Database Integrity,course_skill,Technical / Database,0.5707,MIS 331,0.1154,0.0793,,0.0,0,0.22,0.7585,0.6858,0.0726,High Alignment
+SK_279,Performance Management,course_skill,Technical / HR,0.2305,MGMT 336,0.0621,0.0423,,0.0,0,0.0998,0.4491,0.3778,0.0712,Low Priority
+SK_055,Financial Modeling,course_skill,Technical / Finance,0.3888,FIN 397,0.0786,0.1629,,0.0,0,0.2016,0.7453,0.6774,0.0679,High Alignment
+SK_159,Spreadsheet Modeling,course_skill,Technical / Analytics,0.4085,OSCM 471,0.1095,0.1593,,0.0,0,0.2067,0.7491,0.6981,0.0509,High Alignment
+HT_076,JavaScript Object Notation JSON,onet_hot_technology,Market / Technology,0.1722,BNAN 276,0.1722,0.0,JavaScript Object Notation JSON,0.001,71007,0.0761,0.3057,0.2561,0.0495,Low Priority
+SK_175,Automated Report Generation,course_skill,Technical / AI,0.3867,FIN 435,0.0,0.2653,,0.0,0,0.2353,0.7792,0.7335,0.0458,High Alignment
+SK_206,Data Privacy,course_skill,Technical / Cybersecurity,0.1975,MGMT 460,0.0987,0.0,,0.0,0,0.0767,0.3038,0.2599,0.0439,Low Priority
+SK_134,Statistical Programming,course_skill,Technical / Statistics,0.4749,ECON 454,0.1112,0.0301,,0.0,0,0.1385,0.6057,0.5693,0.0363,High Alignment
+SK_211,Sports Marketing,course_skill,Technical / Marketing,0.3903,MKTG 355,0.0581,0.1093,,0.0,0,0.1557,0.6491,0.6189,0.0302,High Alignment
+SK_195,Systems Integration,course_skill,Technical / Information Systems,0.3157,MIS 304,0.0575,0.3405,,0.0,0,0.1777,0.7075,0.6792,0.0283,High Alignment
+SK_017,Federal Taxation,course_skill,Technical / Accounting,0.4875,ACCT 420,0.0,0.1039,,0.0,0,0.1775,0.7057,0.6802,0.0255,High Alignment
+SK_081,Portfolio Optimization,course_skill,Technical / Finance,0.3089,FIN 435,0.0,0.0489,,0.0,0,0.1039,0.4604,0.4377,0.0226,Low Priority
+SK_181,Database Management,course_skill,Technical / Database,0.7906,MIS 331,0.0472,0.0793,,0.0,0,0.2142,0.7566,0.734,0.0226,High Alignment
+SK_225,Retail Marketing,course_skill,Technical / Marketing,0.4488,MKTG 430,0.126,0.0641,,0.0,0,0.1417,0.6094,0.5873,0.0222,High Alignment
+SK_278,Employee Training and Development,course_skill,Technical / HR,0.3712,MGMT 450,0.0807,0.0862,,0.0,0,0.1301,0.5774,0.5575,0.0198,High Alignment
+SK_037,Portfolio Management,course_skill,Technical / Finance,0.6342,FIN 421,0.1208,0.2881,,0.0,0,0.3944,0.9094,0.8953,0.0142,High Alignment
+SK_038,Portfolio Diversification,course_skill,Technical / Finance,0.3129,FIN 302,0.0,0.0485,,0.0,0,0.0995,0.4472,0.4349,0.0123,Low Priority
+SK_076,Deal Structuring,course_skill,Technical / Finance,0.3486,FIN 434,0.1039,0.1293,,0.0,0,0.1375,0.6038,0.5976,0.0061,High Alignment
+SK_136,Data Analysis,course_skill,Technical / Analytics,0.3645,BNAN 276,0.3645,1.0,,0.0,0,0.2123,0.7547,0.7524,0.0024,High Alignment
+SK_153,Linear Programming,course_skill,Technical / Analytics,0.1661,MGMT 483,0.128,0.0,,0.0,0,0.0681,0.2509,0.2505,0.0005,Low Priority
+SK_342,Self-Directed Learning,course_skill,Professional / Career,0.5435,BCOM 314L,0.059,0.0,,0.0,0,0.1094,0.5,0.5052,-0.0052,High Alignment
+SK_167,C Programming,course_skill,Technical / Programming,0.4432,MIS 301,0.0,0.0787,C,0.0,118455,0.136,0.5943,0.6,-0.0057,High Alignment
+SK_137,Business Analytics,course_skill,Technical / Analytics,0.4219,MIS 464,0.3452,1.0,,0.0,0,0.2729,0.8094,0.8156,-0.0061,High Alignment
+SK_040,Investment Performance Evaluation,course_skill,Technical / Finance,0.234,MKTG 459,0.0587,0.1893,,0.0,0,0.1249,0.5566,0.5736,-0.017,High Alignment
+SK_154,Integer Programming,course_skill,Technical / Analytics,0.1675,OSCM 471,0.0,0.0,,0.0,0,0.0653,0.234,0.2533,-0.0193,Low Priority
+HT_115,Grafana Labs Grafana Cloud,onet_hot_technology,Market / Technology,0.1194,ECON 406,0.0,0.0,Grafana Labs Grafana Cloud,0.0,37042,0.0584,0.2132,0.2335,-0.0203,Low Priority
+SK_207,Risk Reporting and Monitoring,course_skill,Technical / Cybersecurity,0.3594,MIS 416,0.0,0.2057,,0.0,0,0.1504,0.6434,0.6651,-0.0217,High Alignment
+SK_241,Product Portfolio Management,course_skill,Technical / Marketing,0.8364,MKTG 459,0.0353,0.1431,,0.0,0,0.2733,0.8113,0.8363,-0.025,High Alignment
+SK_183,Database Security,course_skill,Technical / Database,0.5611,MIS 331,0.0,0.0793,,0.0,0,0.157,0.6528,0.6792,-0.0264,High Alignment
+HT_046,Autodesk Revit,onet_hot_technology,Market / Technology,0.0,ECON 313,0.0,0.0,Autodesk Revit,0.0,112891,0.0335,0.1057,0.134,-0.0283,Low Priority
+SK_335,Analytical Thinking,course_skill,Professional / Thinking,0.5212,MKTG 376,0.295,1.0,Google Analytics,0.0117,62279,0.2833,0.8491,0.8835,-0.0344,High Alignment
+SK_280,Human Resource Information Systems,course_skill,Technical / HR,0.4851,MGMT 460,0.0479,0.2617,,0.0,0,0.2391,0.7811,0.816,-0.0349,High Alignment
+SK_179,Computer Networking,course_skill,Technical / Information Systems,0.3961,MIS 307,0.116,0.1234,,0.0,0,0.1425,0.6151,0.6509,-0.0358,High Alignment
+SK_067,Futures,course_skill,Technical / Finance,0.338,ECON 313,0.1489,0.0707,,0.0,0,0.0992,0.4434,0.4802,-0.0368,Low Priority
+SK_168,Data Structures,course_skill,Technical / Programming,0.3823,MIS 301,0.1147,0.0787,,0.0,0,0.1103,0.5019,0.5453,-0.0434,High Alignment
+SK_265,Project Management,course_skill,Technical / Management,0.4919,MIS 441,0.0557,0.2636,,0.0,0,0.2346,0.7774,0.8236,-0.0462,High Alignment
+SK_258,Reliability and Maintainability,course_skill,Technical / Operations,0.3267,MGMT 473B,0.0,0.1475,,0.0,0,0.122,0.5491,0.5967,-0.0476,High Alignment
+SK_343,Security Asset Valuation,course_skill,Technical / Cybersecurity,0.2451,MIS 416,0.1105,0.0804,,0.0,0,0.0925,0.3943,0.45,-0.0557,Low Priority
+SK_129,Nonparametric Statistics,course_skill,Technical / Statistics,0.5186,ECON 436,0.0949,0.0311,,0.0,0,0.1181,0.5396,0.5991,-0.0594,High Alignment
+SK_186,Database Recovery,course_skill,Technical / Database,0.5666,MIS 331,0.0,0.0793,,0.0,0,0.144,0.6208,0.6811,-0.0604,High Alignment
+SK_277,Recruiting and Staffing,course_skill,Technical / HR,0.4519,MGMT 430,0.0798,0.0852,,0.0,0,0.13,0.5717,0.634,-0.0623,High Alignment
+SK_143,Data Visualization,course_skill,Technical / Analytics,0.4029,BNAN 277,0.4029,1.0,,0.0,0,0.1959,0.7358,0.7986,-0.0627,High Alignment
+SK_187,Database Querying,course_skill,Technical / Database,1.0,MIS 331,0.0809,0.0793,,0.0,0,0.1726,0.6849,0.7505,-0.0656,High Alignment
+SK_007,Accounting Transaction Recording,course_skill,Technical / Accounting,0.5291,ACCT 400C,0.1127,0.1044,,0.0,0,0.1491,0.6358,0.7019,-0.066,High Alignment
+SK_228,Retail Location Planning,course_skill,Technical / Marketing,0.2969,MKTG 430,0.1147,0.0641,,0.0,0,0.0886,0.3717,0.4401,-0.0684,Low Priority
+SK_166,Java,course_skill,Technical / Programming,0.2389,MIS 301,0.0,0.0787,Oracle Java,0.0037,333511,0.083,0.3566,0.4311,-0.0745,Low Priority
+SK_222,Channel and Distribution Management,course_skill,Technical / Marketing,0.4349,MKTG 426,0.1058,0.0926,,0.0,0,0.1217,0.5472,0.6217,-0.0745,High Alignment
+SK_290,Client Management,course_skill,Professional / Collaboration,0.3548,MGMT 382,0.086,0.1857,,0.0,0,0.13,0.5736,0.6491,-0.0755,High Alignment
+SK_056,Bloomberg,course_skill,Technical / Finance,0.0,ECON 313,0.0,0.0,,0.0,0,0.0075,0.0491,0.134,-0.0849,Low Priority
+SK_254,Production Scheduling,course_skill,Technical / Operations,0.2828,OSCM 574,0.0,0.2161,,0.0,0,0.1155,0.5264,0.6118,-0.0854,High Alignment
+SK_172,AI-Assisted Programming,course_skill,Technical / AI,0.378,FIN 435,0.0,0.0489,,0.0,0,0.0963,0.417,0.5028,-0.0858,Over-Supply
+SK_165,Programming,course_skill,Technical / Programming,0.408,MIS 429,0.0713,0.4247,,0.0,0,0.1753,0.6943,0.7849,-0.0906,High Alignment
+SK_218,Advertising Message Development,course_skill,Technical / Marketing,0.5704,MKTG 425,0.0942,0.0633,,0.0,0,0.124,0.5547,0.6524,-0.0976,High Alignment
+SK_314,Research Problem Definition,course_skill,Technical / Research,0.4751,MKTG 440,0.1059,0.0646,,0.0,0,0.111,0.5075,0.6085,-0.1009,High Alignment
+SK_178,Information Systems Management,course_skill,Technical / Information Systems,0.4667,MIS 304,0.074,0.4092,,0.0,0,0.1851,0.7226,0.8283,-0.1057,High Alignment
+SK_283,Equal Employment Opportunity,course_skill,Technical / HR,0.2811,MGMT 460,0.063,0.0829,,0.0,0,0.0882,0.366,0.4717,-0.1057,Low Priority
+HT_024,Kubernetes,onet_hot_technology,Market / Technology,0.0,ECON 313,0.0,0.0,Kubernetes,0.0,220241,0.0,0.0245,0.134,-0.1094,Low Priority
+HT_039,Jenkins CI,onet_hot_technology,Market / Technology,0.0,ECON 313,0.0,0.0,Jenkins CI,0.0,125583,0.0,0.0245,0.134,-0.1094,Low Priority
+HT_052,Snowflake,onet_hot_technology,Market / Technology,0.0,ECON 313,0.0,0.0,Snowflake,0.0,98410,0.0,0.0245,0.134,-0.1094,Low Priority
+HT_055,NoSQL,onet_hot_technology,Market / Technology,0.0,ECON 313,0.0,0.0,NoSQL,0.0,94740,0.0,0.0245,0.134,-0.1094,Low Priority
+HT_056,Mozilla Firefox,onet_hot_technology,Market / Technology,0.0,ECON 313,0.0,0.0,Mozilla Firefox,0.0,94300,0.0,0.0245,0.134,-0.1094,Low Priority
+HT_058,TypeScript,onet_hot_technology,Market / Technology,0.0,ECON 313,0.0,0.0,TypeScript,0.0,92934,0.0,0.0245,0.134,-0.1094,Low Priority
+HT_062,Node.js,onet_hot_technology,Market / Technology,0.0,ECON 313,0.0,0.0,Node.js,0.0,90146,0.0,0.0245,0.134,-0.1094,Low Priority
+HT_064,Go,onet_hot_technology,Market / Technology,0.0,ECON 313,0.0,0.0,Go,0.0,88790,0.0,0.0245,0.134,-0.1094,Low Priority
+HT_086,Figma,onet_hot_technology,Market / Technology,0.0,ECON 313,0.0,0.0,Figma,0.0,59256,0.0,0.0245,0.134,-0.1094,Low Priority
+HT_088,GitLab,onet_hot_technology,Market / Technology,0.0,ECON 313,0.0,0.0,GitLab,0.0,58466,0.0,0.0245,0.134,-0.1094,Low Priority
+HT_096,Bentley MicroStation,onet_hot_technology,Market / Technology,0.0,ECON 313,0.0,0.0,Bentley MicroStation,0.0,53377,0.0,0.0245,0.134,-0.1094,Low Priority
+HT_101,Henry Schein Dentrix,onet_hot_technology,Market / Technology,0.0,ECON 313,0.0,0.0,Henry Schein Dentrix,0.0,45698,0.0,0.0245,0.134,-0.1094,Low Priority
+HT_123,GraphQL,onet_hot_technology,Market / Technology,0.0,ECON 313,0.0,0.0,GraphQL,0.0,33078,0.0,0.0245,0.134,-0.1094,Low Priority
+HT_131,Prometheus,onet_hot_technology,Market / Technology,0.0,ECON 313,0.0,0.0,Prometheus,0.0,30776,0.0,0.0245,0.134,-0.1094,Low Priority
+HT_141,Vue.js,onet_hot_technology,Market / Technology,0.0,ECON 313,0.0,0.0,Vue.js,0.0,28602,0.0,0.0245,0.134,-0.1094,Low Priority
+HT_155,Redis,onet_hot_technology,Market / Technology,0.0,ECON 313,0.0,0.0,Redis,0.0,23069,0.0,0.0245,0.134,-0.1094,Low Priority
+HT_159,Eclipse IDE,onet_hot_technology,Market / Technology,0.0,ECON 313,0.0,0.0,Eclipse IDE,0.0,20118,0.0,0.0245,0.134,-0.1094,Low Priority
+HT_168,Bootstrap,onet_hot_technology,Market / Technology,0.0,ECON 313,0.0,0.0,Bootstrap,0.0,16957,0.0,0.0245,0.134,-0.1094,Low Priority
+HT_173,AJAX,onet_hot_technology,Market / Technology,0.0,ECON 313,0.0,0.0,AJAX,0.0,14300,0.0,0.0245,0.134,-0.1094,Low Priority
+SK_345,Hypothesis Testing for Economic Models,course_skill,Technical / Statistics,0.6093,ECON 418,0.0753,0.0285,,0.0,0,0.112,0.5132,0.6245,-0.1113,High Alignment
+SK_141,Data Preparation,course_skill,Technical / Analytics,0.4458,ECON 454,0.114,0.1068,,0.0,0,0.1208,0.5453,0.6632,-0.1179,High Alignment
+SK_057,Capital Structure Analysis,course_skill,Technical / Finance,0.3236,FIN 412,0.0638,0.2423,,0.0,0,0.1173,0.534,0.6538,-0.1198,High Alignment
+SK_262,Resource Allocation,course_skill,Technical / Operations,0.3228,ECON 435,0.106,0.1405,,0.0,0,0.104,0.4623,0.584,-0.1217,Over-Supply
+SK_318,Oral Communication,course_skill,Professional / Communication,0.2838,BCOM 314R,0.091,0.0455,,0.0,0,0.0747,0.2887,0.4104,-0.1217,Low Priority
+SK_344,Market Efficiency Analysis,course_skill,Technical / Finance,0.3597,FIN 302,0.0448,0.0762,,0.0,0,0.089,0.3792,0.5028,-0.1236,Over-Supply
+SK_010,Cost Accounting,course_skill,Technical / Accounting,0.4328,ACCT 310,0.1974,0.2551,,0.0,0,0.1495,0.6415,0.766,-0.1245,High Alignment
+SK_287,Organizational Change Management,course_skill,Technical / Management,0.4444,MGMT 442,0.0662,0.1223,,0.0,0,0.1254,0.5585,0.6849,-0.1264,High Alignment
+SK_212,Marketing Analytics,course_skill,Technical / Marketing,0.504,MKTG 376,0.0791,0.1828,,0.0,0,0.1589,0.6547,0.7825,-0.1278,High Alignment
+SK_260,Capacity Management,course_skill,Technical / Operations,0.2273,OSCM 574,0.0429,0.1138,,0.0,0,0.0881,0.3642,0.5,-0.1358,Over-Supply
+SK_215,Social Media Marketing,course_skill,Technical / Marketing,0.2699,MKTG 426,0.054,0.1075,,0.0,0,0.0884,0.3698,0.5075,-0.1377,Over-Supply
+SK_251,Inventory Management,course_skill,Technical / Operations,0.407,MGMT 473A,0.0636,0.2161,,0.0,0,0.1352,0.5925,0.7302,-0.1377,High Alignment
+SK_027,Financial Management,course_skill,Technical / Finance,0.4264,FIN 414,0.2323,1.0,,0.0,0,0.1708,0.6792,0.8175,-0.1382,High Alignment
+SK_103,Natural Resource Economics,course_skill,Technical / Economics,0.3675,ECON 478,0.0312,0.0943,,0.0,0,0.0965,0.4189,0.5594,-0.1406,Over-Supply
+SK_148,Data Mining,course_skill,Technical / Analytics,0.3342,MIS 464,0.1037,0.0776,,0.0,0,0.0837,0.3434,0.4858,-0.1425,Low Priority
+SK_182,Relational Database Design,course_skill,Technical / Database,1.0,MIS 331,0.088,0.1839,,0.0,0,0.1948,0.734,0.8816,-0.1476,High Alignment
+SK_199,Network Security,course_skill,Technical / Cybersecurity,0.3849,MIS 417,0.0686,0.1208,,0.0,0,0.1075,0.483,0.6307,-0.1476,Over-Supply
+SK_253,Materials Requirements Planning,course_skill,Technical / Operations,0.3096,OSCM 574,0.0779,0.2486,,0.0,0,0.1086,0.4962,0.6453,-0.1491,Over-Supply
+SK_077,Due Diligence,course_skill,Technical / Finance,0.1672,FIN 434,0.0,0.0,,0.0,0,0.0314,0.1,0.2514,-0.1514,Low Priority
+SK_189,Human-Computer Interaction,course_skill,Technical / Information Systems,0.3671,MIS 406,0.0487,0.077,,0.0,0,0.0874,0.3604,0.5151,-0.1547,Over-Supply
+SK_326,Research and Academic Writing,course_skill,Professional / Communication,0.6127,ECON 498H,0.0,0.109,,0.0,0,0.1374,0.6,0.7547,-0.1547,High Alignment
+SK_214,Search Marketing,course_skill,Technical / Marketing,0.2325,MKTG 423,0.0,0.0661,,0.0,0,0.0693,0.2547,0.4118,-0.1571,Low Priority
+SK_006,Financial Reporting,course_skill,Technical / Accounting,0.5376,ACCT 400B,0.179,0.2961,,0.0,0,0.1754,0.6981,0.8557,-0.1575,High Alignment
+SK_142,Data Collection,course_skill,Technical / Research,1.0,ECON 453,0.1088,0.2515,,0.0,0,0.1982,0.7415,0.9094,-0.1679,High Alignment
+SK_247,Procurement,course_skill,Technical / Operations,0.4345,FIN 460,0.1399,0.3475,,0.0,0,0.1461,0.6283,0.7962,-0.1679,High Alignment
+SK_090,Economic Growth and Development,course_skill,Technical / Economics,0.4528,ECON 342,0.0767,0.1024,,0.0,0,0.1064,0.4811,0.65,-0.1689,Over-Supply
+SK_028,Financial Analysis,course_skill,Technical / Finance,0.4475,BNAD 301,0.2116,1.0,,0.0,0,0.1672,0.6679,0.8373,-0.1693,High Alignment
+SK_015,Standard Costing,course_skill,Technical / Accounting,0.344,ACCT 310,0.1062,0.1047,,0.0,0,0.089,0.3774,0.5491,-0.1717,Over-Supply
+SK_227,Market Selection,course_skill,Technical / Marketing,0.3933,MKTG 425,0.0,0.1041,,0.0,0,0.0979,0.4321,0.6038,-0.1717,Over-Supply
+HT_128,Border Gateway Protocol BGP,onet_hot_technology,Market / Technology,0.0979,MIS 307,0.0,0.0,Border Gateway Protocol BGP,0.0,31822,0.0107,0.0528,0.225,-0.1722,Low Priority
+SK_329,Conflict Management,course_skill,Professional / Collaboration,0.3468,MGMT 310D,0.1758,0.0461,,0.0,0,0.0747,0.2868,0.4599,-0.1731,Low Priority
+SK_138,Data Management,course_skill,Technical / Analytics,0.3694,BNAN 277,0.3694,1.0,,0.0,0,0.1341,0.5868,0.7608,-0.1741,High Alignment
+SK_193,Requirements Analysis,course_skill,Technical / Information Systems,0.5985,MIS 441,0.092,0.1206,,0.0,0,0.1333,0.5849,0.7679,-0.183,High Alignment
+SK_180,E-Commerce,course_skill,Technical / Information Systems,0.4944,MIS 307,0.0,0.1507,,0.0,0,0.1294,0.5698,0.7585,-0.1887,High Alignment
+SK_171,AI Literacy,course_skill,Technical / AI,0.4833,FIN 435,0.0788,0.0489,,0.0,0,0.0948,0.4094,0.5991,-0.1896,Over-Supply
+SK_039,Asset Allocation,course_skill,Technical / Finance,0.3227,FIN 302,0.1066,0.0485,,0.0,0,0.068,0.2491,0.4415,-0.1925,Low Priority
+SK_124,Statistical Analysis,course_skill,Technical / Statistics,0.5001,ECON 339,0.3345,1.0,,0.0,0,0.1714,0.6811,0.875,-0.1939,High Alignment
+SK_023,Governmental Accounting,course_skill,Technical / Accounting,0.3675,ACCT 472A,0.0743,0.1061,,0.0,0,0.0899,0.383,0.5797,-0.1967,Over-Supply
+SK_113,Behavioral Economics,course_skill,Technical / Economics,0.6363,MGMT 486,0.0898,0.1003,,0.0,0,0.1189,0.5415,0.7396,-0.1981,High Alignment
+SK_022,Accounting Information Systems,course_skill,Technical / Accounting,0.4374,ACCT 461,0.11,0.2903,,0.0,0,0.1325,0.583,0.7896,-0.2066,High Alignment
+SK_083,Microfinance,course_skill,Technical / Finance,0.1165,FIN 150C1,0.0,0.0,,0.0,0,0.0,0.0245,0.2325,-0.208,Low Priority
+SK_270,Cost-Benefit Analysis,course_skill,Technical / Management,0.749,MIS 441,0.0895,0.0806,,0.0,0,0.1131,0.5208,0.7302,-0.2094,High Alignment
+SK_311,Legislative Analysis,course_skill,Technical / Law & Policy,0.4294,MGMT 493L,0.0552,0.0,,0.0,0,0.0595,0.2189,0.4297,-0.2108,Low Priority
+SK_224,Customer Relationship Management,course_skill,Technical / Marketing,0.5338,MKTG 428,0.0868,0.0655,,0.0,0,0.0973,0.4283,0.6396,-0.2113,Over-Supply
+SK_213,Digital Marketing,course_skill,Technical / Marketing,0.3686,MKTG 423,0.0431,0.1105,,0.0,0,0.0898,0.3811,0.5934,-0.2123,Over-Supply
+SK_098,Law and Economics,course_skill,Technical / Economics,0.6277,ECON 338,0.0815,0.0709,,0.0,0,0.1048,0.4736,0.6877,-0.2142,Over-Supply
+SK_173,AI Agent Development,course_skill,Technical / AI,0.3847,FIN 435,0.0466,0.0489,,0.0,0,0.0762,0.2962,0.5132,-0.217,Over-Supply
+SK_013,Job Costing,course_skill,Technical / Accounting,0.3449,ACCT 310,0.0729,0.1047,,0.0,0,0.0812,0.3302,0.55,-0.2198,Over-Supply
+SK_282,Labor Relations,course_skill,Technical / HR,0.2454,ECON 382,0.0853,0.1468,,0.0,0,0.0795,0.3208,0.5462,-0.2255,Over-Supply
+SK_086,Opportunity Cost Analysis,course_skill,Technical / Economics,0.3105,ECON 200,0.3105,1.0,,0.0,0,0.1061,0.4792,0.7052,-0.2259,Over-Supply
+SK_201,Information Security Risk Assessment,course_skill,Technical / Cybersecurity,0.5983,FIN 303,0.0477,0.2671,,0.0,0,0.151,0.6453,0.8717,-0.2264,High Alignment
+SK_229,Merchandise Planning and Control,course_skill,Technical / Marketing,0.3803,MKTG 430,0.08,0.1666,,0.0,0,0.0987,0.4396,0.6708,-0.2311,Over-Supply
+SK_263,Revenue Management,course_skill,Technical / Operations,0.2183,OSCM 471,0.045,0.1135,,0.0,0,0.0702,0.2585,0.491,-0.2325,Low Priority
+SK_286,Organization Design,course_skill,Technical / Management,0.394,MGMT 433,0.0809,0.2984,,0.0,0,0.1136,0.5226,0.758,-0.2354,High Alignment
+SK_216,Customer-Friendly Website Design,course_skill,Technical / Marketing,0.3234,MKTG 423,0.0,0.0661,,0.0,0,0.0642,0.2302,0.4665,-0.2363,Low Priority
+SK_243,Operations Management,course_skill,Technical / Operations,0.4758,MGMT 473B,0.0615,0.2507,,0.0,0,0.1278,0.5642,0.8019,-0.2377,High Alignment
+SK_151,Business Modeling and Simulation,course_skill,Technical / Analytics,0.3885,MGMT 455,0.0871,0.0449,,0.0,0,0.0717,0.266,0.5075,-0.2415,Over-Supply
+SK_042,Equity Analysis,course_skill,Technical / Finance,0.3252,FIN 417,0.233,1.0,,0.0,0,0.1059,0.4755,0.7175,-0.242,Over-Supply
+SK_340,Self-Assessment,course_skill,Professional / Career,0.7932,BNAD 200,0.0412,0.0,,0.0,0,0.0811,0.3264,0.5684,-0.242,Over-Supply
+SK_322,Audience Analysis,course_skill,Professional / Communication,0.6314,ECON 454,0.1023,0.0301,,0.0,0,0.093,0.4,0.6439,-0.2439,Over-Supply
+SK_073,Financial Regulation,course_skill,Technical / Finance,0.3761,ECON 426,0.0668,0.0788,,0.0,0,0.0754,0.2925,0.5392,-0.2467,Over-Supply
+SK_121,Climate Modeling,course_skill,Technical / Economics,0.3811,ECON 150C2,0.0662,0.0,,0.0,0,0.0426,0.1377,0.3854,-0.2476,Low Priority
+SK_271,Risk Management,course_skill,Technical / Management,1.0,FIN 303,0.0523,0.2786,,0.0,0,0.1704,0.6736,0.9255,-0.2519,High Alignment
+SK_334,Critical Thinking,course_skill,Professional / Thinking,0.4041,BCOM 314R,0.0441,0.1721,,0.0,0,0.0993,0.4453,0.7,-0.2547,Over-Supply
+SK_276,Compensation and Benefits,course_skill,Technical / HR,0.5054,MGMT 408,0.0,0.0841,,0.0,0,0.0953,0.4132,0.6689,-0.2557,Over-Supply
+SK_109,Mathematical Economics,course_skill,Technical / Economics,0.445,ECON 420,0.0621,0.0567,,0.0,0,0.0795,0.3189,0.5755,-0.2566,Over-Supply
+SK_024,Nonprofit Accounting,course_skill,Technical / Accounting,0.4362,ACCT 472A,0.1365,0.1061,,0.0,0,0.09,0.3868,0.6486,-0.2618,Over-Supply
+SK_146,Big Data Analytics,course_skill,Technical / Analytics,0.4392,ECON 454,0.3298,1.0,,0.0,0,0.1279,0.566,0.8297,-0.2637,High Alignment
+SK_176,Deception Detection Software,course_skill,Technical / Programming,0.4355,MIS 429,0.0186,0.0795,,0.0,0,0.0824,0.3377,0.6052,-0.2675,Over-Supply
+SK_221,Pricing Strategy,course_skill,Technical / Marketing,0.3328,MKTG 426,0.0717,0.0643,,0.0,0,0.0559,0.2,0.4679,-0.2679,Low Priority
+SK_257,Statistical Process Control,course_skill,Technical / Operations,0.5722,MGMT 465,0.0833,0.149,,0.0,0,0.1143,0.5245,0.7929,-0.2684,High Alignment
+SK_044,Small Business Finance,course_skill,Technical / Finance,0.5679,FIN 303,0.0761,0.169,,0.0,0,0.1174,0.5358,0.8047,-0.2689,High Alignment
+SK_219,Media Planning and Selection,course_skill,Technical / Marketing,0.3795,MKTG 425,0.0504,0.1745,,0.0,0,0.0947,0.4057,0.6745,-0.2689,Over-Supply
+SK_123,Statistical Inference,course_skill,Technical / Statistics,0.5254,BNAN 276,0.5254,1.0,,0.0,0,0.1432,0.617,0.8863,-0.2693,High Alignment
+SK_155,Nonlinear Programming,course_skill,Technical / Analytics,0.2693,OSCM 471,0.0,0.1135,,0.0,0,0.0678,0.2453,0.5156,-0.2703,Over-Supply
+SK_117,Information Economics,course_skill,Technical / Economics,0.5683,ECON 407,0.0698,0.0309,,0.0,0,0.0858,0.3509,0.6236,-0.2726,Over-Supply
+SK_030,Company Valuation,course_skill,Technical / Finance,0.5594,FIN 360,0.0983,0.3665,,0.0,0,0.1375,0.6019,0.8755,-0.2736,High Alignment
+SK_252,Aggregate Planning,course_skill,Technical / Operations,0.4581,MGMT 454,0.0,0.2676,,0.0,0,0.1159,0.5283,0.8019,-0.2736,High Alignment
+SK_060,Investment Banking,course_skill,Technical / Finance,0.2829,FIN 417,0.0,0.0488,,0.0,0,0.0432,0.1396,0.417,-0.2774,Low Priority
+SK_217,Advertising,course_skill,Technical / Marketing,0.5704,MKTG 425,0.0942,0.1052,,0.0,0,0.1002,0.4509,0.7288,-0.2778,Over-Supply
+SK_003,Managerial Accounting,course_skill,Technical / Accounting,0.42,ACCT 250,0.2642,1.0,,0.0,0,0.1168,0.5302,0.8146,-0.2844,High Alignment
+SK_319,Presentation Skills,course_skill,Professional / Communication,0.7897,MKTG 440,0.1911,0.1841,,0.0,0,0.1307,0.5792,0.8646,-0.2854,High Alignment
+SK_156,Network Optimization Models,course_skill,Technical / Analytics,0.244,OSCM 471,0.0674,0.1135,,0.0,0,0.0585,0.2151,0.5042,-0.2892,Over-Supply
+SK_293,Volunteer Management,course_skill,Technical / Management,0.3367,MGMT 381,0.0398,0.1259,,0.0,0,0.0759,0.2943,0.5863,-0.292,Over-Supply
+SK_316,Business Communication,course_skill,Professional / Communication,0.3874,MGMT 356,0.3803,1.0,,0.0,0,0.1076,0.4868,0.7816,-0.2948,Over-Supply
+SK_242,Marketing Operations Auditing,course_skill,Technical / Marketing,0.6524,MKTG 471,0.0407,0.1096,,0.0,0,0.1048,0.4717,0.7698,-0.2981,Over-Supply
+SK_041,Fixed Income Analysis,course_skill,Technical / Finance,0.4616,FIN 305,0.0775,0.1909,,0.0,0,0.1041,0.466,0.7651,-0.2991,Over-Supply
+SK_002,Financial Accounting,course_skill,Technical / Accounting,0.4824,ACCT 400E,0.2917,1.0,,0.0,0,0.1263,0.5623,0.8627,-0.3005,High Alignment
+SK_324,English Grammar and Vocabulary,course_skill,Professional / Communication,0.5042,BCOM 314L,0.0632,0.0,,0.0,0,0.0535,0.1868,0.4873,-0.3005,Low Priority
+SK_047,Working Capital Management,course_skill,Technical / Finance,1.0,FIN 303,0.0423,0.1661,,0.0,0,0.1258,0.5604,0.8623,-0.3019,High Alignment
+SK_095,Sports Economics,course_skill,Technical / Economics,0.216,ECON 323,0.0309,0.0285,,0.0,0,0.0104,0.0509,0.3528,-0.3019,Low Priority
+SK_204,Operations Security,course_skill,Technical / Cybersecurity,0.2416,MIS 415,0.0,0.0773,,0.0,0,0.0389,0.1245,0.4264,-0.3019,Low Priority
+SK_104,Energy Market Analysis,course_skill,Technical / Economics,0.5918,ECON 473,0.0445,0.0277,,0.0,0,0.078,0.3094,0.6132,-0.3038,Over-Supply
+SK_106,Labor Market Discrimination Analysis,course_skill,Technical / Economics,0.3531,ECON 481,0.0514,0.0821,,0.0,0,0.061,0.2208,0.5245,-0.3038,Over-Supply
+SK_233,Public Relations,course_skill,Technical / Marketing,0.3804,MKTG 452,0.086,0.1437,,0.0,0,0.0848,0.3472,0.6509,-0.3038,Over-Supply
+SK_312,Research,course_skill,Technical / Research,0.4286,MIS 496A,0.0633,0.2061,,0.0,0,0.0984,0.4377,0.7415,-0.3038,Over-Supply
+SK_209,Marketing Strategy and Planning,course_skill,Technical / Marketing,1.0,MGMT 483,0.0612,0.2727,,0.0,0,0.1439,0.6189,0.9245,-0.3057,High Alignment
+SK_205,Information Assurance,course_skill,Technical / Cybersecurity,0.34,MIS 417,0.0638,0.1208,,0.0,0,0.0727,0.2717,0.5788,-0.3071,Over-Supply
+SK_288,International Business,course_skill,Technical / Management,0.4963,BNAD 100,0.0954,0.1575,,0.0,0,0.102,0.4547,0.7632,-0.3085,Over-Supply
+SK_307,Business Entity Law,course_skill,Technical / Law & Policy,1.0,MGMT 420,0.2255,1.0,,0.0,0,0.1629,0.6623,0.9745,-0.3123,High Alignment
+SK_112,Decision Theory,course_skill,Technical / Economics,0.3509,ECON 431,0.1295,0.0277,,0.0,0,0.0387,0.1208,0.4349,-0.3142,Low Priority
+SK_325,English Pronunciation,course_skill,Professional / Communication,0.3422,BCOM 314L,0.0,0.0,,0.0,0,0.0,0.0245,0.3401,-0.3156,Low Priority
+SK_063,Financial Risk Management,course_skill,Technical / Finance,0.7218,FIN 303,0.0754,0.2653,,0.0,0,0.1323,0.5811,0.8976,-0.3165,High Alignment
+SK_244,Service Operations Management,course_skill,Technical / Operations,0.6843,MGMT 473B,0.0616,0.2161,,0.0,0,0.1229,0.5509,0.8675,-0.3165,High Alignment
+SK_192,Systems Development Life Cycle,course_skill,Technical / Information Systems,0.5588,MIS 441,0.1013,0.1224,,0.0,0,0.0979,0.434,0.7547,-0.3208,Over-Supply
+SK_127,Statistical Model Estimation,course_skill,Technical / Statistics,0.7664,ECON 418,0.2387,1.0,,0.0,0,0.1464,0.6302,0.9519,-0.3217,High Alignment
+SK_094,Economics of Crime,course_skill,Technical / Economics,0.553,ECON 303,0.0714,0.0309,,0.0,0,0.0751,0.2906,0.6142,-0.3236,Over-Supply
+SK_152,Optimization Modeling,course_skill,Technical / Analytics,0.2965,MIS 406,0.0772,0.1885,,0.0,0,0.074,0.2792,0.6042,-0.325,Over-Supply
+SK_118,Antitrust Analysis,course_skill,Technical / Economics,0.3885,ECON 460,0.0544,0.0289,,0.0,0,0.0485,0.1604,0.4868,-0.3264,Low Priority
+SK_099,International Trade Analysis,course_skill,Technical / Economics,0.3498,ECON 340,0.0886,0.1318,,0.0,0,0.0731,0.2736,0.6019,-0.3283,Over-Supply
+SK_008,Asset and Revenue Accounting,course_skill,Technical / Accounting,0.4011,ACCT 200,0.4011,1.0,,0.0,0,0.1046,0.4679,0.7967,-0.3288,Over-Supply
+SK_016,Budgeting,course_skill,Technical / Accounting,0.3001,MKTG 430,0.1956,0.0641,,0.0,0,0.0338,0.1094,0.441,-0.3316,Low Priority
+SK_133,Analysis of Variance,course_skill,Technical / Statistics,0.2956,ECON 454,0.0536,0.0301,,0.0,0,0.0219,0.0717,0.4033,-0.3316,Low Priority
+SK_033,Comparable Valuation Analysis,course_skill,Technical / Finance,0.3081,ACCT 451,0.0448,0.1066,,0.0,0,0.0553,0.1962,0.5288,-0.3325,Over-Supply
+SK_021,Internal Controls,course_skill,Technical / Accounting,0.4838,ACCT 430,0.0455,0.1377,,0.0,0,0.093,0.4019,0.7349,-0.333,Over-Supply
+SK_246,Logistics,course_skill,Technical / Operations,0.6902,OSCM 477,0.0745,0.1743,,0.0,0,0.1115,0.5113,0.8443,-0.333,High Alignment
+SK_315,Information Literacy,course_skill,Professional / Thinking,0.8182,FIN 302,0.069,0.1519,,0.0,0,0.1125,0.5151,0.8481,-0.333,High Alignment
+SK_119,Regulatory Economics,course_skill,Technical / Economics,0.4713,ECON 462,0.0279,0.0579,,0.0,0,0.0707,0.2642,0.5981,-0.334,Over-Supply
+SK_169,Algorithm Design and Analysis,course_skill,Technical / Programming,0.4663,MIS 301,0.0434,0.0787,,0.0,0,0.0746,0.283,0.6198,-0.3368,Over-Supply
+SK_082,Impact Investing,course_skill,Technical / Finance,0.2736,MGMT 380,0.0427,0.1232,,0.0,0,0.0554,0.1981,0.5363,-0.3382,Over-Supply
+SK_255,Facility Layout and Location,course_skill,Technical / Operations,0.4079,MGMT 473B,0.0,0.1475,,0.0,0,0.0845,0.3453,0.6844,-0.3392,Over-Supply
+SK_054,International Finance,course_skill,Technical / Finance,0.7746,FIN 414,0.0577,0.1157,,0.0,0,0.1028,0.4566,0.7981,-0.3415,Over-Supply
+SK_264,Outsourcing Analysis,course_skill,Technical / Operations,0.226,OSCM 471,0.0544,0.1135,,0.0,0,0.046,0.1509,0.4939,-0.3429,Low Priority
+SK_210,Consumer Behavior Analysis,course_skill,Technical / Marketing,0.4117,MKTG 450,0.0723,0.1338,,0.0,0,0.0816,0.3321,0.6774,-0.3453,Over-Supply
+SK_300,Sports Administration,course_skill,Technical / Management,0.5252,MGMT 359,0.0456,0.1223,,0.0,0,0.0921,0.3925,0.7387,-0.3462,Over-Supply
+SK_332,People Management,course_skill,Professional / Leadership,0.463,MGMT 433,0.2184,1.0,,0.0,0,0.1106,0.5038,0.8505,-0.3467,High Alignment
+SK_220,Marketing Performance Measurement,course_skill,Technical / Marketing,0.504,MKTG 376,0.0712,0.2337,,0.0,0,0.104,0.4642,0.8137,-0.3495,Over-Supply
+SK_075,Deal Evaluation,course_skill,Technical / Finance,0.3076,FIN 434,0.0927,0.2189,,0.0,0,0.0745,0.2811,0.6311,-0.35,Over-Supply
+SK_250,Transportation Management,course_skill,Technical / Operations,0.2443,OSCM 477,0.0419,0.2134,,0.0,0,0.0672,0.2415,0.5915,-0.35,Over-Supply
+SK_045,Business Planning,course_skill,Technical / Finance,0.6624,FIN 303,0.0968,0.1297,,0.0,0,0.1012,0.4528,0.8033,-0.3505,Over-Supply
+SK_191,Information Systems Analysis and Design,course_skill,Technical / Information Systems,0.6188,MIS 406,0.058,0.2455,,0.0,0,0.1131,0.517,0.8679,-0.3509,High Alignment
+SK_194,Business Process Design,course_skill,Technical / Information Systems,0.4171,MIS 441,0.0871,0.1911,,0.0,0,0.089,0.3755,0.7283,-0.3528,Over-Supply
+SK_301,Event Management,course_skill,Technical / Management,0.488,MGMT 352,0.0418,0.0461,,0.0,0,0.0674,0.2434,0.5967,-0.3533,Over-Supply
+SK_208,Marketing Management,course_skill,Technical / Marketing,0.5423,MKTG 361,0.1037,0.2708,,0.0,0,0.1085,0.4943,0.85,-0.3557,Over-Supply
+SK_014,Process Costing,course_skill,Technical / Accounting,0.371,ACCT 310,0.3233,1.0,,0.0,0,0.0945,0.4038,0.7618,-0.358,Over-Supply
+SK_304,Business Law,course_skill,Technical / Law & Policy,0.438,BNAD 302,0.0913,0.1089,,0.0,0,0.0766,0.3,0.6585,-0.3585,Over-Supply
+SK_026,GAAP,course_skill,Technical / Accounting,0.4891,ACCT 472A,0.0468,0.1061,,0.0,0,0.0821,0.334,0.6939,-0.3599,Over-Supply
+SK_036,Investment Analysis,course_skill,Technical / Finance,0.6005,FIN 460,0.0748,0.2171,,0.0,0,0.1077,0.4887,0.8491,-0.3604,Over-Supply
+SK_198,Information Security,course_skill,Technical / Cybersecurity,0.5079,MIS 415,0.0743,0.1625,,0.0,0,0.0949,0.4113,0.7717,-0.3604,Over-Supply
+SK_230,Store Layout and Design,course_skill,Technical / Marketing,0.389,MKTG 430,0.0864,0.0641,,0.0,0,0.0508,0.1717,0.5325,-0.3608,Over-Supply
+SK_074,Financial Institution Management,course_skill,Technical / Finance,0.617,FIN 431,0.0729,0.0861,,0.0,0,0.087,0.3585,0.7208,-0.3623,Over-Supply
+SK_147,Forecasting,course_skill,Technical / Analytics,0.5366,ECON 453,0.0,0.2971,,0.0,0,0.1079,0.4906,0.8557,-0.3651,Over-Supply
+SK_259,Manufacturing Product Design,course_skill,Technical / Operations,0.3629,OSCM 574,0.0,0.1138,,0.0,0,0.0621,0.2264,0.5925,-0.366,Over-Supply
+SK_354,Economic Analysis,course_skill,Technical / Economics,0.2862,ECON 473,0.0724,0.1021,,0.0,0,0.0391,0.1283,0.4953,-0.367,Low Priority
+SK_101,Balance of Payments Analysis,course_skill,Technical / Economics,0.4114,ECON 442,0.0412,0.0299,,0.0,0,0.0436,0.1434,0.5151,-0.3717,Over-Supply
+SK_348,Tort Law,course_skill,Technical / Law & Policy,0.2474,ECON 338,0.0,0.0709,,0.0,0,0.0138,0.0547,0.4264,-0.3717,Low Priority
+SK_285,Strategic Management,course_skill,Technical / Management,0.5305,MGMT 420,0.1196,0.4317,,0.0,0,0.1075,0.4849,0.867,-0.3821,Over-Supply
+SK_035,Profitability Analysis,course_skill,Technical / Finance,0.4127,ACCT 451,0.0898,0.2245,,0.0,0,0.088,0.3623,0.7453,-0.383,Over-Supply
+SK_188,Healthcare Information Systems,course_skill,Technical / Information Systems,0.5422,MIS 406,0.0546,0.2222,,0.0,0,0.099,0.4415,0.8255,-0.384,Over-Supply
+SK_080,Cost of Capital Analysis,course_skill,Technical / Finance,0.3735,FIN 435,0.0894,0.2195,,0.0,0,0.0782,0.3113,0.6962,-0.3849,Over-Supply
+SK_238,Product Innovation,course_skill,Technical / Marketing,1.0,MGMT 483,0.0532,0.2551,,0.0,0,0.1171,0.5321,0.9198,-0.3877,High Alignment
+SK_321,Data Communication,course_skill,Professional / Communication,0.7897,MKTG 440,0.257,1.0,,0.0,0,0.1291,0.5679,0.9566,-0.3887,High Alignment
+SK_115,Economic Damages Estimation,course_skill,Technical / Economics,0.7133,ECON 439,0.0911,0.0299,,0.0,0,0.0703,0.2604,0.65,-0.3896,Over-Supply
+SK_351,HR Systems Selection and Evaluation,course_skill,Technical / HR,0.4485,MGMT 460,0.0416,0.1819,,0.0,0,0.0864,0.3547,0.7453,-0.3906,Over-Supply
+SK_070,Financial Market Analysis,course_skill,Technical / Finance,0.6043,ECON 325,0.0843,0.3099,,0.0,0,0.1083,0.4925,0.8887,-0.3962,Over-Supply
+SK_102,Environmental Economics,course_skill,Technical / Economics,0.3672,ECON 478,0.0527,0.1427,,0.0,0,0.0648,0.2321,0.6283,-0.3962,Over-Supply
+SK_346,Economic Welfare Analysis,course_skill,Technical / Economics,0.4367,ECON 462,0.0518,0.1007,,0.0,0,0.0655,0.2358,0.6321,-0.3962,Over-Supply
+SK_237,Healthcare Marketing,course_skill,Technical / Marketing,0.5719,MKTG 458,0.0,0.1485,,0.0,0,0.0907,0.3906,0.7906,-0.4,Over-Supply
+SK_202,Security Threat Analysis,course_skill,Technical / Cybersecurity,0.3977,MIS 429,0.0562,0.0795,,0.0,0,0.0509,0.1736,0.575,-0.4014,Over-Supply
+SK_347,Climate Science Fundamentals,course_skill,Technical / Economics,0.6171,ECON 150C2,0.0722,0.0,,0.0,0,0.0409,0.1358,0.5373,-0.4014,Over-Supply
+HT_044,C,onet_hot_technology,Market / Technology,0.2304,MIS 301,0.0,0.0787,C,0.0,118455,0.0,0.0245,0.4264,-0.4019,Low Priority
+SK_029,Financial Forecasting,course_skill,Technical / Finance,1.0,FIN 303,0.1474,0.2597,,0.0,0,0.1131,0.5189,0.9231,-0.4042,High Alignment
+SK_064,Derivatives,course_skill,Technical / Finance,0.3063,FIN 422,0.0,0.0939,,0.0,0,0.0301,0.0943,0.4991,-0.4047,Low Priority
+SK_093,Economic Policy Analysis,course_skill,Technical / Economics,0.4804,ECON 461,0.0753,0.2213,,0.0,0,0.0903,0.3887,0.7934,-0.4047,Over-Supply
+SK_200,Systems Security Administration,course_skill,Technical / Cybersecurity,0.4186,MIS 417,0.0454,0.2815,,0.0,0,0.0883,0.3679,0.7726,-0.4047,Over-Supply
+SK_223,Sales,course_skill,Technical / Marketing,0.6042,MKTG 428,0.0919,0.2041,,0.0,0,0.0983,0.4358,0.8415,-0.4057,Over-Supply
+SK_065,Options,course_skill,Technical / Finance,0.3573,ECON 313,0.0773,0.1181,,0.0,0,0.0525,0.1811,0.5896,-0.4085,Over-Supply
+SK_239,Product Strategy,course_skill,Technical / Marketing,0.5997,MKTG 459,0.0531,0.1431,,0.0,0,0.0899,0.3849,0.7939,-0.409,Over-Supply
+SK_068,Forward Contracts,course_skill,Technical / Finance,0.3349,FIN 422,0.0,0.0939,,0.0,0,0.0355,0.1132,0.5236,-0.4104,Over-Supply
+SK_306,Agency Law,course_skill,Technical / Law & Policy,0.5927,MGMT 420,0.0,0.0439,,0.0,0,0.0619,0.2245,0.6358,-0.4113,Over-Supply
+SK_005,Financial Statement Analysis,course_skill,Technical / Accounting,0.7791,FIN 303,0.3502,1.0,,0.0,0,0.1201,0.5434,0.9552,-0.4118,High Alignment
+SK_289,Management Consulting,course_skill,Technical / Management,0.7621,MGMT 496Z,0.1397,0.1238,,0.0,0,0.0927,0.3962,0.8085,-0.4123,Over-Supply
+SK_352,Workplace Diversity Analysis,course_skill,Technical / HR,0.5605,MGMT 480,0.0874,0.0764,,0.0,0,0.068,0.2472,0.6613,-0.4142,Over-Supply
+SK_139,Data Cleaning,course_skill,Technical / Analytics,0.2547,BNAN 277,0.2547,1.0,,0.0,0,0.0696,0.2566,0.6722,-0.4156,Over-Supply
+SK_131,Logistic Regression,course_skill,Technical / Statistics,0.3803,ECON 454,0.1143,0.0301,,0.0,0,0.0179,0.0679,0.4844,-0.4165,Low Priority
+SK_303,Sports Regulatory Compliance,course_skill,Technical / Law & Policy,0.551,MGMT 353,0.0482,0.1249,,0.0,0,0.0823,0.3358,0.7566,-0.4208,Over-Supply
+SK_084,Microeconomic Analysis,course_skill,Technical / Economics,0.5493,ECON 407,0.0938,0.1063,,0.0,0,0.0763,0.2981,0.7217,-0.4236,Over-Supply
+SK_020,Assurance Services,course_skill,Technical / Accounting,0.4043,ACCT 430,0.0485,0.2466,,0.0,0,0.0792,0.317,0.7415,-0.4245,Over-Supply
+SK_108,Econometrics,course_skill,Technical / Economics,0.7664,ECON 418,0.0762,0.1043,,0.0,0,0.0831,0.3396,0.7656,-0.4259,Over-Supply
+SK_158,Decision Support Systems,course_skill,Technical / Information Systems,0.6851,MIS 406,0.1089,0.1885,,0.0,0,0.097,0.4264,0.8524,-0.4259,Over-Supply
+SK_339,Career Planning and Management,course_skill,Professional / Career,0.6148,BNAD 200,0.2097,1.0,,0.0,0,0.1093,0.4981,0.925,-0.4269,Over-Supply
+SK_273,Organizational Behavior,course_skill,Technical / Management,0.3668,MGMT 310A,0.0652,0.2915,,0.0,0,0.0746,0.2849,0.716,-0.4311,Over-Supply
+SK_248,Materials Handling,course_skill,Technical / Operations,0.2343,OSCM 477,0.1617,0.1743,,0.0,0,0.0399,0.1321,0.5642,-0.4321,Over-Supply
+SK_051,Time Value of Money,course_skill,Technical / Finance,0.4855,FIN 305,0.0,0.0487,,0.0,0,0.049,0.1623,0.5981,-0.4358,Over-Supply
+SK_058,Corporate Restructuring,course_skill,Technical / Finance,0.4668,MGMT 420,0.1053,0.0949,,0.0,0,0.0589,0.217,0.6557,-0.4387,Over-Supply
+SK_128,Regression Diagnostics,course_skill,Technical / Statistics,0.4428,ECON 418,0.1013,0.0285,,0.0,0,0.0294,0.0925,0.5321,-0.4396,Over-Supply
+SK_302,Sports Facility Operations,course_skill,Technical / Management,0.4584,MGMT 351,0.0,0.0459,,0.0,0,0.0397,0.1302,0.5726,-0.4425,Over-Supply
+SK_234,Sales Promotion,course_skill,Technical / Marketing,0.4055,MKTG 452,0.0,0.0664,,0.0,0,0.0345,0.1113,0.5566,-0.4453,Over-Supply
+SK_031,Discounted Cash Flow Valuation,course_skill,Technical / Finance,0.4322,ACCT 451,0.0,0.1066,,0.0,0,0.0561,0.2019,0.6476,-0.4458,Over-Supply
+SK_261,Lean Operations,course_skill,Technical / Operations,0.3154,OSCM 574,0.0,0.1138,,0.0,0,0.0329,0.1038,0.55,-0.4462,Over-Supply
+SK_350,Operations Strategy,course_skill,Technical / Operations,0.284,MGMT 473B,0.056,0.2013,,0.0,0,0.0482,0.1585,0.6057,-0.4472,Over-Supply
+SK_337,Decision Making,course_skill,Professional / Thinking,0.4744,MGMT 483,0.3356,1.0,,0.0,0,0.0948,0.4075,0.8571,-0.4495,Over-Supply
+SK_292,Organizational Governance,course_skill,Technical / Management,0.2518,MGMT 381,0.0682,0.1259,,0.0,0,0.0259,0.0811,0.5325,-0.4514,Over-Supply
+SK_284,Employee Motivation,course_skill,Professional / Leadership,0.634,MGMT 336,0.0731,0.1185,,0.0,0,0.0812,0.3283,0.7821,-0.4538,Over-Supply
+SK_066,Swaps,course_skill,Technical / Finance,0.2731,MGMT 420,0.0,0.0939,,0.0,0,0.0,0.0245,0.4792,-0.4547,Low Priority
+SK_092,Industrial Organization,course_skill,Technical / Economics,0.738,ECON 300,0.0561,0.3244,,0.0,0,0.1033,0.4585,0.9142,-0.4557,Over-Supply
+SK_298,Healthcare Entrepreneurship,course_skill,Technical / Management,0.3797,MKTG 458,0.0,0.2577,,0.0,0,0.0703,0.2623,0.7179,-0.4557,Over-Supply
+SK_052,Capital Budgeting,course_skill,Technical / Finance,0.3205,FIN 305,0.1077,0.1935,,0.0,0,0.0504,0.166,0.6274,-0.4613,Over-Supply
+SK_203,Security Countermeasures,course_skill,Technical / Cybersecurity,0.3923,MIS 417,0.0,0.0807,,0.0,0,0.0336,0.1075,0.5736,-0.466,Over-Supply
+SK_004,Financial Statement Preparation,course_skill,Technical / Accounting,1.0,FIN 480,0.2379,1.0,,0.0,0,0.111,0.5057,0.9745,-0.4689,High Alignment
+SK_061,Private Equity,course_skill,Technical / Finance,0.4539,FIN 434,0.1215,0.1652,,0.0,0,0.0727,0.2698,0.7387,-0.4689,Over-Supply
+SK_111,Public Finance,course_skill,Technical / Economics,0.4669,ECON 435,0.0223,0.0565,,0.0,0,0.0388,0.1226,0.5939,-0.4712,Over-Supply
+SK_059,Risk-Return Analysis,course_skill,Technical / Finance,0.362,FIN 413,0.0441,0.1649,,0.0,0,0.0505,0.1679,0.6406,-0.4726,Over-Supply
+SK_331,Leadership,course_skill,Professional / Leadership,0.5188,MGMT 336,0.0,0.0825,,0.0,0,0.0553,0.1943,0.6698,-0.4755,Over-Supply
+SK_349,Criminal Law,course_skill,Technical / Law & Policy,0.3844,ECON 338,0.0412,0.0982,,0.0,0,0.0328,0.1019,0.5811,-0.4792,Over-Supply
+SK_048,Real Estate Valuation,course_skill,Technical / Finance,0.5744,FIN 304,0.0944,0.0869,,0.0,0,0.063,0.2283,0.709,-0.4807,Over-Supply
+SK_105,Labor Economics,course_skill,Technical / Economics,0.4034,ECON 482,0.2538,1.0,,0.0,0,0.0786,0.3132,0.7995,-0.4863,Over-Supply
+SK_072,ESG Investing,course_skill,Technical / Finance,0.5342,FIN 430,0.0535,0.0496,,0.0,0,0.0399,0.134,0.6278,-0.4939,Over-Supply
+SK_236,International Marketing,course_skill,Technical / Marketing,1.0,MKTG 456,0.0,0.1165,,0.0,0,0.081,0.3245,0.8212,-0.4967,Over-Supply
+SK_226,Competitive Analysis,course_skill,Technical / Marketing,0.3419,MKTG 430,0.0594,0.2082,,0.0,0,0.0453,0.1491,0.6528,-0.5038,Over-Supply
+SK_085,Macroeconomic Analysis,course_skill,Technical / Economics,0.5245,ECON 331,0.1072,0.1032,,0.0,0,0.0539,0.1887,0.6934,-0.5047,Over-Supply
+SK_132,Decision Trees,course_skill,Technical / Statistics,0.4758,ECON 454,0.0808,0.0301,,0.0,0,0.0166,0.0604,0.5722,-0.5118,Over-Supply
+SK_012,Cost-Volume-Profit Analysis,course_skill,Technical / Accounting,0.4541,ACCT 310,0.0717,0.1047,,0.0,0,0.0439,0.1453,0.6623,-0.517,Over-Supply
+SK_120,Climate Economics,course_skill,Technical / Economics,0.8626,ECON 150C2,0.056,0.0565,,0.0,0,0.0535,0.1849,0.7033,-0.5184,Over-Supply
+SK_116,General Equilibrium Analysis,course_skill,Technical / Economics,0.405,ECON 443,0.0419,0.1683,,0.0,0,0.0513,0.1774,0.7,-0.5226,Over-Supply
+SK_091,Economic History Analysis,course_skill,Technical / Economics,0.6249,ECON 309,0.0878,0.105,,0.0,0,0.0614,0.2226,0.7491,-0.5264,Over-Supply
+SK_122,Economic Modeling,course_skill,Technical / Economics,0.42,ECON 418,0.079,0.1559,,0.0,0,0.0511,0.1755,0.7019,-0.5264,Over-Supply
+SK_157,Monte Carlo Simulation,course_skill,Technical / Analytics,0.3725,OSCM 471,0.0535,0.1135,,0.0,0,0.0221,0.0736,0.6014,-0.5278,Over-Supply
+SK_231,Marketing Research,course_skill,Technical / Marketing,0.7101,MKTG 440,0.057,0.1847,,0.0,0,0.0802,0.3226,0.8519,-0.5292,Over-Supply
+SK_245,Supply Chain Management,course_skill,Technical / Operations,0.426,OSCM 471,0.0968,0.1722,,0.0,0,0.0527,0.183,0.717,-0.534,Over-Supply
+SK_232,Integrated Marketing Communications,course_skill,Technical / Marketing,0.5074,MKTG 452,0.2005,1.0,,0.0,0,0.0832,0.3415,0.8797,-0.5382,Over-Supply
+SK_162,Pivot Tables,course_skill,Technical / Analytics,0.3734,OSCM 471,0.0,0.1135,,0.0,0,0.0171,0.0623,0.6024,-0.5401,Over-Supply
+SK_079,Value Creation Strategy,course_skill,Technical / Finance,0.3248,FIN 434,0.0392,0.1905,,0.0,0,0.0279,0.0906,0.6311,-0.5406,Over-Supply
+SK_089,Game Theory,course_skill,Technical / Economics,0.4265,ECON 337,0.3031,1.0,,0.0,0,0.074,0.2774,0.8184,-0.541,Over-Supply
+SK_309,Negotiable Instruments,course_skill,Technical / Law & Policy,0.5548,MGMT 420,0.0,0.0439,,0.0,0,0.0245,0.0792,0.6208,-0.5415,Over-Supply
+SK_049,Real Estate Finance,course_skill,Technical / Finance,0.5961,FIN 304,0.0942,0.0869,,0.0,0,0.0507,0.1698,0.7127,-0.5429,Over-Supply
+SK_330,Cross-Cultural Competence,course_skill,Professional / Cross-Cultural,0.3552,BCOM 314L,0.0626,0.151,,0.0,0,0.0259,0.083,0.6264,-0.5434,Over-Supply
+SK_032,Residual Income Valuation,course_skill,Technical / Finance,0.3634,ACCT 451,0.0,0.1343,,0.0,0,0.021,0.0698,0.6189,-0.5491,Over-Supply
+SK_256,Quality Management,course_skill,Technical / Operations,0.6273,MGMT 465,0.0762,0.3413,,0.0,0,0.0863,0.3528,0.9028,-0.55,Over-Supply
+SK_323,Persuasion,course_skill,Professional / Communication,0.3616,MGMT 468,0.0872,0.1902,,0.0,0,0.0308,0.0962,0.6604,-0.5642,Over-Supply
+SK_034,Credit Analysis,course_skill,Technical / Finance,0.3799,ACCT 451,0.0589,0.2587,,0.0,0,0.0472,0.1547,0.7198,-0.5651,Over-Supply
+SK_235,Sales Operations Management,course_skill,Technical / Marketing,0.7323,MGMT 454,0.0553,0.3346,,0.0,0,0.0849,0.3491,0.9151,-0.566,Over-Supply
+SK_097,Fiscal Policy Analysis,course_skill,Technical / Economics,0.7532,ECON 332,0.0447,0.1027,,0.0,0,0.0519,0.1792,0.7571,-0.5778,Over-Supply
+SK_107,Experimental Economics,course_skill,Technical / Economics,0.8472,ECON 406,0.0294,0.0291,,0.0,0,0.0269,0.0849,0.667,-0.5821,Over-Supply
+SK_069,Hedging,course_skill,Technical / Finance,0.3755,FIN 431,0.0,0.1651,,0.0,0,0.0243,0.0774,0.6604,-0.583,Over-Supply
+SK_291,Nonprofit Management,course_skill,Technical / Management,0.483,MKTG 361,0.1035,0.3373,,0.0,0,0.0661,0.2396,0.834,-0.5943,Over-Supply
+SK_110,Health Economics,course_skill,Technical / Economics,0.3881,MKTG 458,0.0313,0.2017,,0.0,0,0.0311,0.0981,0.7019,-0.6038,Over-Supply
+SK_240,Product Launch,course_skill,Technical / Marketing,1.0,MKTG 459,0.0557,0.2551,,0.0,0,0.0789,0.3151,0.9198,-0.6047,Over-Supply
+SK_295,Social Innovation,course_skill,Technical / Management,0.4862,MGMT 380,0.1001,0.1232,,0.0,0,0.0379,0.1189,0.7241,-0.6052,Over-Supply
+SK_011,Cost Allocation,course_skill,Technical / Accounting,0.4072,ACCT 310,0.3435,1.0,,0.0,0,0.054,0.1906,0.8052,-0.6146,Over-Supply
+SK_088,Supply and Demand Analysis,course_skill,Technical / Economics,0.3679,ECON 481,0.3338,1.0,,0.0,0,0.0435,0.1415,0.759,-0.6175,Over-Supply
+SK_009,Liability and Equity Accounting,course_skill,Technical / Accounting,0.4714,ACCT 200,0.4714,1.0,,0.0,0,0.0661,0.2377,0.8561,-0.6184,Over-Supply
+SK_299,Healthcare Management,course_skill,Technical / Management,0.6162,MGMT 434,0.0526,0.3295,,0.0,0,0.0738,0.2755,0.8943,-0.6189,Over-Supply
+SK_296,Entrepreneurship,course_skill,Technical / Management,0.4479,MKTG 480,0.0657,0.3965,,0.0,0,0.055,0.1925,0.8142,-0.6217,Over-Supply
+SK_310,Estate and Probate Law,course_skill,Technical / Law & Policy,0.8008,MGMT 420,0.0,0.0439,,0.0,0,0.0148,0.0566,0.6811,-0.6245,Over-Supply
+SK_336,Problem Solving,course_skill,Professional / Thinking,0.6477,FIN 413,0.4827,1.0,,0.0,0,0.0777,0.3075,0.9363,-0.6288,Over-Supply
+SK_353,Business Opportunity Evaluation,course_skill,Technical / Management,1.0,MKTG 459,0.0891,0.2138,,0.0,0,0.072,0.2679,0.8995,-0.6316,Over-Supply
+SK_087,Marginal Analysis,course_skill,Technical / Economics,0.3381,ECON 200,0.3381,1.0,,0.0,0,0.0277,0.0868,0.7269,-0.6401,Over-Supply
+SK_096,Monetary Policy Analysis,course_skill,Technical / Economics,0.7532,ECON 332,0.0456,0.1498,,0.0,0,0.0491,0.1642,0.8316,-0.6675,Over-Supply
+SK_305,Contract Law,course_skill,Technical / Law & Policy,1.0,MGMT 420,0.0,0.0709,,0.0,0,0.0149,0.0585,0.7307,-0.6722,Over-Supply
+SK_272,Decision Making Under Uncertainty,course_skill,Technical / Analytics,0.3905,OSCM 471,0.2099,1.0,,0.0,0,0.0363,0.1151,0.7882,-0.6731,Over-Supply
+SK_308,Property Rights Law,course_skill,Technical / Law & Policy,0.5434,MGMT 420,0.0892,0.1409,,0.0,0,0.0277,0.0887,0.766,-0.6774,Over-Supply
+SK_114,Behavioral Game Theory,course_skill,Technical / Economics,0.4013,ECON 440,0.2222,1.0,,0.0,0,0.0379,0.117,0.7976,-0.6807,Over-Supply
+SK_313,Experimental Research,course_skill,Technical / Research,0.5617,ECON 406,0.0,0.4115,,0.0,0,0.0472,0.1566,0.8811,-0.7245,Over-Supply
+SK_046,Break-Even Analysis,course_skill,Technical / Finance,1.0,FIN 303,0.0554,0.1297,,0.0,0,0.0226,0.0755,0.8396,-0.7642,Over-Supply
+SK_062,Venture Capital,course_skill,Technical / Finance,0.7786,FIN 480,0.0,0.2326,,0.0,0,0.0391,0.1264,0.8906,-0.7642,Over-Supply
+SK_125,Linear Regression,course_skill,Technical / Statistics,0.4475,BNAN 277,0.4475,1.0,,0.0,0,0.0178,0.066,0.8382,-0.7722,Over-Supply
+SK_297,Social Entrepreneurship,course_skill,Technical / Management,0.6629,MGMT 488,0.2889,1.0,,0.0,0,0.0472,0.1528,0.9392,-0.7863,Over-Supply
+SK_328,Negotiation,course_skill,Professional / Collaboration,0.5957,MGMT 483,0.0,0.2635,,0.0,0,0.0178,0.0642,0.866,-0.8019,Over-Supply
+SK_126,Multiple Linear Regression,course_skill,Technical / Statistics,0.4461,BNAN 277,0.4461,1.0,,0.0,0,0.0,0.0245,0.8363,-0.8118,Over-Supply
+SK_050,Real Estate Investment Analysis,course_skill,Technical / Finance,1.0,FIN 460,0.2443,1.0,,0.0,0,0.045,0.1472,0.9745,-0.8274,Over-Supply
+SK_338,Ethical Reasoning,course_skill,Professional / Ethics,1.0,ECON 205,0.4641,1.0,,0.0,0,0.0,0.0245,0.9665,-0.942,Over-Supply

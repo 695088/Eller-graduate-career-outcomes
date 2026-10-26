@@ -1,0 +1,110 @@
+{
+  "major": "Economics",
+  "major_code": "ECON",
+  "source_file": "ECON_Major-Industry-Guide.pdf",
+  "document_title": "ECONOMICS CAREERS OVERVIEW",
+  "sections": {
+    "common_industries": {
+      "type": "list",
+      "data": [
+        "Asset Management",
+        "Aerospace/Defense",
+        "Commercial Banking",
+        "Corporate Finance",
+        "Consulting",
+        "Government",
+        "Investment Banking",
+        "Insurance",
+        "Law",
+        "Media",
+        "Retail",
+        "Real Estate",
+        "Technology",
+        "Utilities",
+        "Wealth Management"
+      ],
+      "original_header": "COMMON INDUSTRIES"
+    },
+    "typical_economics_business_economics_career_options": {
+      "type": "table",
+      "columns": [
+        "position_title",
+        "sample_of_companies",
+        "primary_responsibilities"
+      ],
+      "column_headers": {
+        "position_title": "POSITION/TITLE",
+        "sample_of_companies": "SAMPLE OF COMPANIES",
+        "primary_responsibilities": "PRIMARY RESPONSIBILITIES"
+      },
+      "data": [
+        {
+          "position_title": "Commercial Banking",
+          "sample_of_companies": "BMO Harris, Chase, Vantage West, Wells Fargo",
+          "primary_responsibilities": "Assist individuals and small businesses with borrowing/lending activities in local offices. Tech Skills: Excel, PowerPoint"
+        },
+        {
+          "position_title": "Commercial Real Estate",
+          "sample_of_companies": "CBRE, Cushman Wakefield, EY, HFF, JLL",
+          "primary_responsibilities": "Opportunities including brokerage, appraisal, property management, development, and financing. Tech Skills: Advanced Excel & PowerPoint, data visualization, ARGUS Software"
+        },
+        {
+          "position_title": "Corporate Finance",
+          "sample_of_companies": "Comcast/NBC Universal, Honeywell, Intel, Macy’s Siemens, Texas Instruments",
+          "primary_responsibilities": "Analyze financial data by collecting, monitoring and creating financial models for decision support. Assist with financial forecasting, monitor variances, identify trends, recommend actions to management. Tech Skills: Excel (formatting, analysis), PowerPoint"
+        },
+        {
+          "position_title": "Financial Advisor/Wealth Management",
+          "sample_of_companies": "AXA Advisors, Charles Schwab, Fisher Investments, Edward Jones, Vanguard",
+          "primary_responsibilities": "Work with individuals to accomplish investment goals including college savings, retirement, estate planning, etc. Tech Skills: CRM Software, Excel, PowerPoint"
+        },
+        {
+          "position_title": "Graduate & Law School",
+          "sample_of_companies": "Sample programs: Economics, Juris Doctorate, Marketing, Finance, Analytics",
+          "primary_responsibilities": "For students pursuing a career in law or graduate school to gain more technical skills in a particular field."
+        },
+        {
+          "position_title": "Government/Public Service roles",
+          "sample_of_companies": "Sample programs: Thinktanks, government economists, research, criminal justice, labor, energy, health",
+          "primary_responsibilities": "For students pursuing a career in government and public service"
+        },
+        {
+          "position_title": "Investment Banking",
+          "sample_of_companies": "Goldman Sachs, Merrill Lynch, Citi, Morgan Stanley, Bank of America",
+          "primary_responsibilities": "Advise clients (companies, governments or other institutions) on a variety of capital market transactions Tech Skills: Excel (formulas, formatting, macros), Database Management, PowerPoint"
+        },
+        {
+          "position_title": "Operations (Client Service, Data, Acct, Investments)",
+          "sample_of_companies": "Goldman Sachs, Edward Jones, Wells Fargo, JP Morgan, Macy’s, Target",
+          "primary_responsibilities": "Support day-today operation for various business lines. Tech Skills: Excel (modeling, analysis), PowerPoint, Data Analysis, Programming (Python, SQL, VBA)"
+        },
+        {
+          "position_title": "Research, Sales and Trading",
+          "sample_of_companies": "Goldman Sachs, Merrill Lynch, Citi, Morgan Stanley, Bank of America",
+          "primary_responsibilities": "Focus on the research of investments including the buying and selling of financial assets and/or derivative instruments to provide liquidity to clients and/or portfolio managers. Tech Skills: Excel (macros, formulas, formatting), Programming (Python, SQL, VBA)"
+        }
+      ],
+      "original_header": "TYPICAL ECONOMICS/BUSINESS ECONOMICS CAREER OPTIONS"
+    },
+    "sample_of_engagement_opportunities": {
+      "type": "list",
+      "data": [
+        "Commercial Real Estate Club",
+        "Eller Economics Society",
+        "Eller Financial Literacy Club",
+        "Financial Modeling Club",
+        "Investments Club",
+        "Microsoft Excel Collegiate Challenge",
+        "Wall Street Scholars Program",
+        "Women in Economics club",
+        "Women in Finance Brunch"
+      ],
+      "original_header": "SAMPLE OF ENGAGEMENT OPPORTUNITIES"
+    }
+  },
+  "section_order": [
+    "common_industries",
+    "typical_economics_business_economics_career_options",
+    "sample_of_engagement_opportunities"
+  ]
+}

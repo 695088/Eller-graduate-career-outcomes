@@ -1,0 +1,19 @@
+major,from_state,to_state,n,n_from,p,p_ci_low,p_ci_high,from_role_state,to_role_state,path_rank
+ACCT,Staff Accountant,Senior Accountant,242,439,0.5513,0.5045,0.5971,Individual Contributor,Functional Lead,1
+ACCT,Audit Associate,Senior Audit/Tax Associate,239,433,0.552,0.5049,0.5981,Client-Facing Operator,Functional Lead,1
+BMGT,Human Resources Associate,Senior Human Resources Specialist,235,420,0.5595,0.5117,0.6063,Client-Facing Operator,Functional Lead,1
+BMGT,Operations Analyst,Senior Operations Analyst,224,413,0.5424,0.4942,0.5898,Individual Contributor,Functional Lead,1
+BNAD,Management Analyst,Senior Management Analyst,251,417,0.6019,0.5542,0.6478,Individual Contributor,Functional Lead,1
+BNAD,Business Associate,Senior Business Operations Analyst,235,424,0.5542,0.5067,0.6009,Individual Contributor,Functional Lead,1
+ECON,Business Analyst,Senior Business Analyst,230,440,0.5227,0.4761,0.569,Individual Contributor,Functional Lead,1
+ECON,Economic Research Analyst,Senior Research Analyst,229,421,0.5439,0.4962,0.5909,Individual Contributor,Functional Lead,1
+ENTR,Startup Operations Analyst,Senior Business Operations Specialist,243,429,0.5664,0.5192,0.6125,Individual Contributor,Functional Lead,1
+ENTR,Market Development Analyst,Senior Growth Marketing Specialist,233,444,0.5248,0.4783,0.5708,Client-Facing Operator,Functional Lead,1
+FIN,Financial Risk Analyst,Senior Risk Analyst,253,441,0.5737,0.5271,0.619,Individual Contributor,Functional Lead,1
+FIN,Investment Analyst,Senior Financial Analyst,238,420,0.5667,0.5189,0.6132,Individual Contributor,Functional Lead,1
+MIS,Systems Analyst,Systems Analyst,366,838,0.4368,0.4035,0.4705,Individual Contributor,Individual Contributor,1
+MIS,Systems Analyst,Senior Systems Analyst,248,838,0.2959,0.266,0.3277,Individual Contributor,Functional Lead,2
+MKTG,Market Research Associate,Senior Marketing Specialist,249,404,0.6163,0.568,0.6624,Individual Contributor,Functional Lead,1
+MKTG,Marketing Specialist,Senior Marketing Specialist,238,430,0.5535,0.5062,0.5998,Client-Facing Operator,Functional Lead,1
+OSCM,Procurement Analyst,Senior Logistics Analyst,251,429,0.5851,0.5379,0.6308,Individual Contributor,Functional Lead,1
+OSCM,Logistics Coordinator,Senior Supply Chain Analyst,243,436,0.5573,0.5104,0.6033,Individual Contributor,Functional Lead,1

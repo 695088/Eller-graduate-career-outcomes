@@ -1,0 +1,98 @@
+{
+  "major": "Entrepreneurship",
+  "major_code": "ENTREPRENUERSHIP",
+  "source_file": "Entreprenuership_Major-Industry-Guide.pdf",
+  "document_title": "ENTREPRENEURSHIP CAREER OVERVIEW",
+  "sections": {
+    "academic_programs": {
+      "type": "grouped_list",
+      "data": [
+        {
+          "header": "Undergraduate Entrepreneurship Programs for Eller Students",
+          "items": [
+            "Entrepreneurship Major (New Venture Development Program)",
+            "Social Innovation Certificate",
+            "Entrepreneurship and Innovation Capstone"
+          ]
+        },
+        {
+          "header": "Undergraduate Entrepreneurship Programs for Non-Eller Students",
+          "items": [
+            "Entrepreneurship and Innovation Minor",
+            "Certificate in Entrepreneurship and New Venture Development"
+          ]
+        }
+      ],
+      "original_header": "ACADEMIC PROGRAMS"
+    },
+    "common_industries": {
+      "type": "list",
+      "data": [
+        "Finance",
+        "Healthcare",
+        "Hardware",
+        "Information Technology",
+        "Energy",
+        "Marketing",
+        "Operations",
+        "Real Estate",
+        "Consulting",
+        "Retail",
+        "Security",
+        "Logistics & Transportation"
+      ],
+      "original_header": "COMMON INDUSTIRES"
+    },
+    "typical_entrepreneurship_career_options": {
+      "type": "table",
+      "columns": [
+        "segment",
+        "sample_of_companies",
+        "description"
+      ],
+      "column_headers": {
+        "segment": "SEGMENT",
+        "sample_of_companies": "SAMPLE OF COMPANIES",
+        "description": "DESCRIPTION"
+      },
+      "data": [
+        {
+          "segment": "Launch new venture",
+          "sample_of_companies": "June, MistoBox, Notehall, ParkX, Smart Things, UGallery, Astranis Space Tech",
+          "description": "A company initiated by entrepreneurs who focus on capitalizing on a specific market demand by developing a viable product, service, or platform"
+        },
+        {
+          "segment": "Corporate Entrepreneurship",
+          "sample_of_companies": "Microsoft, Wells Fargo, General Motors, Macy’s, Liberty Mutual, Deloitte, Intel, EY",
+          "description": "Identify opportunities and develop ideas which lead to innovative new products, services or new lines of business."
+        },
+        {
+          "segment": "Work at a Venture Capital Firm",
+          "sample_of_companies": "UAVentureCapital, BlueStone Venture Partners, Sequoia Capital, NEA, Deerfield",
+          "description": "Firms that invest in early-stage companies in exchange for equity, or an ownership stake, in the companies they invest in"
+        },
+        {
+          "segment": "Work at a Startup",
+          "sample_of_companies": "Kobe Digital, ROVR, Amazon, Google, OpenAI, Canva",
+          "description": "Common entry level Startup roles include: sales, marketing, business development, engineering, customer service, and operations."
+        }
+      ],
+      "original_header": "TYPICAL ENTREPRENURSHIP CAREER OPTIONS"
+    },
+    "engagement_opportunities_on_campus": {
+      "type": "list",
+      "data": [
+        "Student Entrepreneurship Association",
+        "New Venture Development Program",
+        "McGuire Innovation Expo"
+      ],
+      "original_header": "ENGAGEMENT OPPORTUNITES ON CAMPUS"
+    }
+  },
+  "section_order": [
+    "academic_programs",
+    "common_industries",
+    "typical_entrepreneurship_career_options",
+    "engagement_opportunities_on_campus"
+  ]
+}

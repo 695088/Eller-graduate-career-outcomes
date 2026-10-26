@@ -1,0 +1,12 @@
+{
+  "source": "processed data/eller_courses_combined.csv",
+  "source_sha256": "21c85dcabc2a956268a4b5283c3cc976b722684df34e0bb447fd37dea799a302",
+  "course_rows_reviewed": 244,
+  "unique_skills": 354,
+  "category_counts": {
+    "Technical": 324,
+    "Professional": 30
+  },
+  "supporting_excerpts": 780,
+  "source_rows_with_representative_evidence": 217
+}

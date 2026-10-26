@@ -1,0 +1,41 @@
+{
+  "synthetic": true,
+  "rows": 15000,
+  "seed": 42,
+  "cohort_years": [
+    2018,
+    2022
+  ],
+  "follow_up_months": 36,
+  "major_counts": {
+    "ACCT": 1667,
+    "BMGT": 1667,
+    "BNAD": 1666,
+    "ECON": 1667,
+    "ENTR": 1666,
+    "FIN": 1667,
+    "MIS": 1667,
+    "MKTG": 1667,
+    "OSCM": 1666
+  },
+  "promoted_count": 8353,
+  "internship_count": 10486,
+  "reference_sha256": {
+    "courses": "21c85dcabc2a956268a4b5283c3cc976b722684df34e0bb447fd37dea799a302",
+    "skills": "effb0508a2aa1d60fda05997adad2c030c140a496581807ba2317e33407f7ba3",
+    "evidence": "3bc72f3fc3d0f02864cc3d59b5f634f9b0fb57184c6eea1ccc75c687cd570a5a",
+    "occupations": "fadfaa7f856423efee47f1a9c7c49b5740d64e8d2752f5e07e7d1d1d248b9548",
+    "companies": "4ea7c02f9093df7373750f139a3196363e38e1a42187f27e75dcfaa3f036847b"
+  },
+  "assumptions": [
+    "All identities, demographics, course histories, salaries and employment outcomes are invented.",
+    "Every record assumes a complete 36-month follow-up, regardless of cohort year.",
+    "Major groups are evenly represented; distributions do not estimate real alumni outcomes.",
+    "All recorded skills are the union of representative local course-skill evidence for selected courses.",
+    "Selected courses are a partial synthetic transcript; degree, prerequisite and historical catalog requirements are not enforced.",
+    "Promotion probability uses internship status, GPA and secondary major; gender has no programmed effect.",
+    "Metros are fixture labels; industry buckets are hand-selected NAICS-style labels without official code verification.",
+    "A promotion can retain the same O*NET occupation code.",
+    "CSV nulls are empty cells; booleans are true/false; arrays are JSON strings."
+  ]
+}

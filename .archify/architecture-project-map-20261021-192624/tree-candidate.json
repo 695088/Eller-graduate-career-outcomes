@@ -1,0 +1,475 @@
+{
+  "schema_version": 1,
+  "diagram_type": "tree",
+  "meta": {
+    "title": "midterm-464 \u00b7 Project file map",
+    "locale": "en",
+    "output": ".archify/architecture-project-map-20261021-192624/project-files.html",
+    "quality_profile": "showcase",
+    "repository": {
+      "url": "ssh://git@localhost/midterm-464-documentation-snapshot.git",
+      "revision": "d44e2808d092cf39886d46acf4b7e8978a619e8d",
+      "link_mode": "local-only"
+    }
+  },
+  "layout": {
+    "direction": "right",
+    "nodeW": 210,
+    "nodeMaxW": 320,
+    "gapX": 44,
+    "gapY": 26
+  },
+  "nodes": [
+    {
+      "id": "project",
+      "label": "midterm-464",
+      "sublabel": "Local Python research project",
+      "sources": [
+        {
+          "path": "analysis being run/README.md",
+          "line": 1,
+          "end_line": 20
+        }
+      ]
+    },
+    {
+      "id": "data",
+      "label": "data/",
+      "parent": "project",
+      "sublabel": "Input references and synthetic fixtures",
+      "sources": [
+        {
+          "path": "analysis being run/README.md",
+          "line": 24,
+          "end_line": 43
+        }
+      ]
+    },
+    {
+      "id": "courses",
+      "label": "eller courses/",
+      "parent": "data",
+      "sublabel": "raw data/ + processed data/; combined course CSV",
+      "sources": [
+        {
+          "path": "data/skills from courses/README.md",
+          "line": 3,
+          "end_line": 13
+        }
+      ]
+    },
+    {
+      "id": "skills",
+      "label": "skills from courses/",
+      "parent": "data",
+      "sublabel": "354 skill definitions + representative course evidence",
+      "sources": [
+        {
+          "path": "data/skills from courses/README.md",
+          "line": 3,
+          "end_line": 13
+        }
+      ]
+    },
+    {
+      "id": "extract",
+      "label": "extract_course_skills.py",
+      "parent": "skills",
+      "sublabel": "Curated definitions \u2192 skills, evidence, schema, summary",
+      "sources": [
+        {
+          "path": "data/skills from courses/extract_course_skills.py",
+          "line": 407,
+          "end_line": 444
+        }
+      ]
+    },
+    {
+      "id": "alumnidir",
+      "label": "alumni/",
+      "parent": "data",
+      "sublabel": "synthetic_alumni CSV/JSON \u00b7 salary bands \u00b7 metadata",
+      "sources": [
+        {
+          "path": "data/alumni/README.md",
+          "line": 19,
+          "end_line": 24
+        }
+      ]
+    },
+    {
+      "id": "generate",
+      "label": "generate_synthetic_alumni.py",
+      "parent": "alumnidir",
+      "sublabel": "Seeded fixtures with validated reference keys",
+      "sources": [
+        {
+          "path": "data/alumni/generate_synthetic_alumni.py",
+          "line": 303,
+          "end_line": 341
+        }
+      ]
+    },
+    {
+      "id": "tests",
+      "label": "test_generate_synthetic_alumni.py",
+      "parent": "alumnidir",
+      "sublabel": "Reproducibility, references and CSV round trips",
+      "sources": [
+        {
+          "path": "data/alumni/test_generate_synthetic_alumni.py",
+          "line": 12,
+          "end_line": 45
+        }
+      ]
+    },
+    {
+      "id": "companydir",
+      "label": "companies/",
+      "parent": "data",
+      "sublabel": "companies.json: roster used by the generator",
+      "sources": [
+        {
+          "path": "data/alumni/generate_synthetic_alumni.py",
+          "line": 128,
+          "end_line": 145
+        }
+      ]
+    },
+    {
+      "id": "pdf",
+      "label": "eller career outcomes pdf/",
+      "parent": "data",
+      "sublabel": "Eight PDF guides + parsed json/; separate branch",
+      "sources": [
+        {
+          "path": "data/eller career outcomes pdf/parsing_json_pdf.py",
+          "line": 580,
+          "end_line": 638
+        }
+      ]
+    },
+    {
+      "id": "pdfparser",
+      "label": "parsing_json_pdf.py",
+      "parent": "pdf",
+      "sublabel": "Per-major documents + all_career_outcomes.json",
+      "sources": [
+        {
+          "path": "data/eller career outcomes pdf/parsing_json_pdf.py",
+          "line": 610,
+          "end_line": 638
+        }
+      ]
+    },
+    {
+      "id": "onetdir",
+      "label": "onet and jobs/",
+      "parent": "project",
+      "sublabel": "Occupation enrichment, skill bridge and API response cache",
+      "sources": [
+        {
+          "path": "onet and jobs/onet_skills.py",
+          "line": 1,
+          "end_line": 8
+        },
+        {
+          "path": "onet and jobs/onet_skills.py",
+          "line": 232,
+          "end_line": 233
+        }
+      ]
+    },
+    {
+      "id": "onetpy",
+      "label": "onet_skills.py",
+      "parent": "onetdir",
+      "sublabel": "Skill keyword search + enrichment; cached HTTP client",
+      "sources": [
+        {
+          "path": "onet and jobs/onet_skills.py",
+          "line": 70,
+          "end_line": 93
+        },
+        {
+          "path": "onet and jobs/onet_skills.py",
+          "line": 180,
+          "end_line": 208
+        },
+        {
+          "path": "onet and jobs/onet_skills.py",
+          "line": 212,
+          "end_line": 233
+        }
+      ]
+    },
+    {
+      "id": "onetfiles",
+      "label": "CSV tables + cache/",
+      "parent": "onetdir",
+      "sublabel": "onet_occupations \u00b7 skill_occupation_bridge \u00b7 schema",
+      "sources": [
+        {
+          "path": "onet and jobs/onet_skills.py",
+          "line": 70,
+          "end_line": 93
+        },
+        {
+          "path": "onet and jobs/onet_skills.py",
+          "line": 232,
+          "end_line": 233
+        }
+      ]
+    },
+    {
+      "id": "analysis",
+      "label": "analysis being run/",
+      "parent": "project",
+      "sublabel": "Four analysis sections; each owns outputs/",
+      "sources": [
+        {
+          "path": "analysis being run/README.md",
+          "line": 1,
+          "end_line": 10
+        }
+      ]
+    },
+    {
+      "id": "run",
+      "label": "run_all.py",
+      "parent": "analysis",
+      "sublabel": "Seven sequential subprocesses; chart generation is separate",
+      "sources": [
+        {
+          "path": "analysis being run/run_all.py",
+          "line": 7,
+          "end_line": 22
+        }
+      ]
+    },
+    {
+      "id": "common",
+      "label": "common/",
+      "parent": "analysis",
+      "sublabel": "data.py \u00b7 company_tiers.csv \u00b7 metro_cost_of_living.csv",
+      "sources": [
+        {
+          "path": "analysis being run/common/data.py",
+          "line": 13,
+          "end_line": 20
+        },
+        {
+          "path": "analysis being run/common/data.py",
+          "line": 31,
+          "end_line": 72
+        },
+        {
+          "path": "analysis being run/common/data.py",
+          "line": 88,
+          "end_line": 110
+        }
+      ]
+    },
+    {
+      "id": "sec1",
+      "label": "01_curriculum_alignment/",
+      "parent": "analysis",
+      "sublabel": "build_market_demand.py \u2192 gap_matrix.py",
+      "sources": [
+        {
+          "path": "analysis being run/01_curriculum_alignment/README.md",
+          "line": 46,
+          "end_line": 67
+        }
+      ]
+    },
+    {
+      "id": "sec1out",
+      "label": "outputs/ + charts/",
+      "parent": "sec1",
+      "sublabel": "Gap matrices, market tables and 4 figures",
+      "sources": [
+        {
+          "path": "analysis being run/01_curriculum_alignment/README.md",
+          "line": 57,
+          "end_line": 67
+        },
+        {
+          "path": "analysis being run/CHARTS.md",
+          "line": 5,
+          "end_line": 10
+        }
+      ]
+    },
+    {
+      "id": "sec2",
+      "label": "02_career_archetypes/",
+      "parent": "analysis",
+      "sublabel": "archetype_clusters.py: weighted features + K-means",
+      "sources": [
+        {
+          "path": "analysis being run/02_career_archetypes/README.md",
+          "line": 46,
+          "end_line": 66
+        }
+      ]
+    },
+    {
+      "id": "sec2out",
+      "label": "outputs/ + charts/",
+      "parent": "sec2",
+      "sublabel": "Assignments, profiles, hubs, tests and 5 figures",
+      "sources": [
+        {
+          "path": "analysis being run/02_career_archetypes/README.md",
+          "line": 56,
+          "end_line": 66
+        },
+        {
+          "path": "analysis being run/CHARTS.md",
+          "line": 5,
+          "end_line": 10
+        }
+      ]
+    },
+    {
+      "id": "sec3",
+      "label": "03_transition_dynamics/",
+      "parent": "analysis",
+      "sublabel": "markov_transitions.py + sequence_mining.py",
+      "sources": [
+        {
+          "path": "analysis being run/03_transition_dynamics/README.md",
+          "line": 57,
+          "end_line": 79
+        }
+      ]
+    },
+    {
+      "id": "sec3out",
+      "label": "outputs/ + charts/",
+      "parent": "sec3",
+      "sublabel": "Transition edges, scenarios, sequences and 5 figures",
+      "sources": [
+        {
+          "path": "analysis being run/03_transition_dynamics/README.md",
+          "line": 68,
+          "end_line": 79
+        },
+        {
+          "path": "analysis being run/CHARTS.md",
+          "line": 5,
+          "end_line": 10
+        }
+      ]
+    },
+    {
+      "id": "sec4",
+      "label": "04_hedonic_salary/",
+      "parent": "analysis",
+      "sublabel": "features.py \u2192 hedonic_ols.py / xgb_shap.py",
+      "sources": [
+        {
+          "path": "analysis being run/04_hedonic_salary/README.md",
+          "line": 22,
+          "end_line": 30
+        },
+        {
+          "path": "analysis being run/04_hedonic_salary/README.md",
+          "line": 45,
+          "end_line": 60
+        }
+      ]
+    },
+    {
+      "id": "sec4out",
+      "label": "outputs/ + charts/",
+      "parent": "sec4",
+      "sublabel": "Bundles, premiums, CV, SHAP, interactions and 6 figures",
+      "sources": [
+        {
+          "path": "analysis being run/04_hedonic_salary/README.md",
+          "line": 62,
+          "end_line": 77
+        },
+        {
+          "path": "analysis being run/CHARTS.md",
+          "line": 5,
+          "end_line": 10
+        }
+      ]
+    },
+    {
+      "id": "charts",
+      "label": "create_charts.py",
+      "parent": "analysis",
+      "sublabel": "Saved tables \u2192 PNG / PDF / SVG / data CSV",
+      "sources": [
+        {
+          "path": "analysis being run/create_charts.py",
+          "line": 111,
+          "end_line": 129
+        },
+        {
+          "path": "analysis being run/create_charts.py",
+          "line": 517,
+          "end_line": 525
+        }
+      ]
+    },
+    {
+      "id": "docs",
+      "label": "README.md \u00b7 CHARTS.md",
+      "parent": "analysis",
+      "sublabel": "Run instructions, interpretation, manifests and validation JSON",
+      "sources": [
+        {
+          "path": "analysis being run/README.md",
+          "line": 12,
+          "end_line": 22
+        },
+        {
+          "path": "analysis being run/CHARTS.md",
+          "line": 48,
+          "end_line": 50
+        }
+      ]
+    },
+    {
+      "id": "env",
+      "label": "requirements.txt + .venv",
+      "parent": "project",
+      "sublabel": "Pinned packages; local .venv symlink supplies Python",
+      "sources": [
+        {
+          "path": "requirements.txt",
+          "line": 1,
+          "end_line": 79
+        },
+        {
+          "path": "analysis being run/README.md",
+          "line": 12,
+          "end_line": 22
+        }
+      ]
+    }
+  ],
+  "cards": [
+    {
+      "dot": "cyan",
+      "title": "How to read the map",
+      "items": [
+        "Links mean folder containment. Sublabels list files and responsibilities; the companion pipeline diagram shows execution and data dependencies.",
+        "Generated CSVs, charts and cache entries are grouped by purpose. Editor settings, OS metadata and bytecode are omitted."
+      ]
+    },
+    {
+      "dot": "amber",
+      "title": "Local source evidence",
+      "items": [
+        "Source ranges are pinned to source-snapshot/, a local documentation snapshot containing only cited files. The original project has no project-specific Git revision.",
+        "The alumni generator has regression tests. This task inspected code and artifacts without rerunning the research analyses."
+      ]
+    }
+  ]
+}
